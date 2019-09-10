@@ -1,0 +1,450 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300');
+*{
+	margin: 0;
+	padding: 0;
+}
+html{
+	background: #f3f3f3;
+}
+body {
+	width: 100%;
+	max-width: 1280px;
+	margin: auto;
+	height: 100%;
+	font-family: "Lato";
+	font-weight: 300;
+	font-size: 18px;
+	color: #777777;
+	line-height: 1.42857143;
+	background-color: #f6f6f6;
+}
+
+/* Navigation Bar */
+.navigation-container {
+    background: transparent;
+    padding: 10px 40px;
+    border-radius: 0;
+    color: #fff;
+    border-color: transparent;
+    border-width: 0px;
+    max-width: 1280px;
+    margin: auto;
+}
+a.navbar-brand.logo {
+    padding: 8px 15px;
+}
+.navbar-brand>img{
+	height: 60px;
+    margin-top: -14px;
+}
+.navigation-container .navbar-nav li a {
+    color: #eaeaea;
+}
+.navigation-container .navbar-nav li a:hover{
+    color: #fff;
+}
+.signup-btn{
+	background-color: #f92f6c;
+	border: 1px solid #f92f6c;
+	border-radius: 3px;
+	font-size: 14px;
+	padding: 3px 3px;
+	margin-top: 5px;
+	margin-left: 20px;
+	display: inline-block !important;
+	color: #fff !important;
+}
+.signup-btn:hover, .signup-btn:focus{
+	text-decoration: none !important;
+}
+
+/* Main container */
+.main-container {
+	width: 100%;
+	height: 100%;
+	padding-top: 50px;
+	text-align: center;
+	display: block;
+	overflow: visible;
+}
+.gradient-container{
+	background: -moz-linear-gradient(41deg, rgba(83,78,172,1) 0%, rgba(83,78,172,1) 1%, rgba(168,73,171,1) 81%, rgba(168,73,171,1) 100%); background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(83,78,172,1)), color-stop(1%, rgba(83,78,172,1)), color-stop(81%, rgba(168,73,171,1)), color-stop(100%, rgba(168,73,171,1))); background: -webkit-linear-gradient(41deg, rgba(83,78,172,1) 0%, rgba(83,78,172,1) 1%, rgba(168,73,171,1) 81%, rgba(168,73,171,1) 100%); background: -o-linear-gradient(41deg, rgba(83,78,172,1) 0%, rgba(83,78,172,1) 1%, rgba(168,73,171,1) 81%, rgba(168,73,171,1) 100%); background: -ms-linear-gradient(41deg, rgba(83,78,172,1) 0%, rgba(83,78,172,1) 1%, rgba(168,73,171,1) 81%, rgba(168,73,171,1) 100%); background: linear-gradient(49deg, rgba(83,78,172,1) 0%, rgba(83,78,172,1) 1%, rgba(168,73,171,1) 81%, rgba(168,73,171,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#534eac', endColorstr='#a849ab',GradientType=1 );
+}
+.main-container-img {
+    background: url('/webassets/img/website_banner_picktime_v3.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 100% bottom;
+    height: 100%;
+    z-index: 0;
+    position: relative;
+}
+.main-container-title {
+    padding: 30px 30px 188px 30px;
+    color: #faffff;
+}
+.main-container-title h1 {
+    font-size: 44px;
+    font-weight: 100;
+    margin: 0px;
+}
+.main-container-subtitle {
+    font-size: 30px;
+    color: #eee;
+}
+.main-container-text{
+	font-size: 18px;
+	padding: 15px 100px;
+	color: #eee;
+}
+@media (max-width: 991px){
+	.main-container-img{
+		background: none;
+	}
+	.main-container-title{
+	    padding: 30px;
+	}
+}
+@media (max-width:767px){
+	.main-container-title h1 {
+	    font-size: 32px;
+	    font-weight: 100;
+	    line-height: 46px;
+	}
+	.main-container-subtitle {
+	    font-size: 23px;
+	}
+	.main-container-text{
+		padding: 25px 0px;
+	}
+	.navbar-default .navbar-toggle{		
+		border-color: #fff;
+	}
+	.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+		background: #894aab;
+	}
+	.navbar-default .navbar-toggle .icon-bar{
+		background-color: #fff;
+	}
+	.container-fluid>.navbar-collapse{		
+		background: #444344;
+	}
+	.navigation-container{
+		padding-left: 0px !important;
+		padding-right: 0px !important;
+	}
+	.signup-btn{		
+		margin-left: 15px;
+	}
+}
+/* features */
+.feature-container .col-md-6 img {
+    margin: 0 auto;
+}
+.feature-info {
+    padding: 75px 0px;
+}
+.feature-info h2{
+	color: #494949;
+    margin-bottom: 20px;
+}
+.feature-container p {
+    font-size: 23px;
+    color: #999;
+}
+@media (max-width:768px){
+	.feature-info {
+	    padding: 0px;
+	}
+	.feature-container {
+	    padding-bottom: 100px;
+	}
+}
+/* uses */
+.uses-container {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+     display: block;
+    overflow: visible;
+    color: #fff;
+}  
+.uses-container-img {
+    background: #b987c2 url(/webassets/img/gradientbg.png);
+    background-size: cover;
+    height: 100%;
+    z-index: 0;
+    position: relative;
+}
+.uses-block h3 {
+    font-size: 28px;
+    padding: 0px 44px;
+    text-align: center;
+}
+@media (max-width:768px){
+	.uses-block, .aboutus-block {
+	    margin-bottom: 100px;
+	}
+	.uses-block h3 {
+	    padding: 0px;
+	}
+}
+
+/* integrations */
+.integrations-container, .demo-container{
+	 text-align: center;
+	 background: #efedee;
+}
+.integrations-container h2,
+.demo-container h2{
+	font-size: 40px;
+	color: #333;
+	margin-bottom: 25px;
+}
+@media (max-width: 768px){
+	.integrations-container h2{
+	    font-size: 30px;
+	}	
+}
+.integrations-block {
+    background: #fff;
+    padding: 50px 0;
+    margin: 20px;
+    font-size: 37px;
+    min-height: 164px;
+    text-align: center;
+}
+.integrations-block img{
+	margin: 0 auto;
+}
+.demo-path {
+    margin: 25px 0px 50px;
+}
+.aboutus-block {
+    padding: 0 45px;
+}
+.aboutus-block a {
+    color: #fff;
+}
+.aboutus-block a: hover,
+.aboutus-block a: focus{
+    color: #eee;
+    text-decoration: none;
+}
+
+/* services */
+.services-container h2 {
+    font-size: 40px;
+    color: #333;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.service-block {
+    background: #fff;
+    margin-bottom: 35px;
+}
+.service-img {
+    width: 100%;
+    display: block;
+    overflow: hidden;
+    height: 200px;
+}
+.service-desc {
+    text-align: left;
+    padding: 30px 22px;
+    height: 215px;
+    color: #777;
+}
+.service-desc h1{
+	margin: 0 0 10px;
+    font-size: 23px;
+    font-weight: 400;
+    color: #2a343a;
+}
+.service-img img {
+    width: 100%;
+}
+.contact-container{
+    text-align: left;
+    font-size: 24px;
+}
+
+/* careers */
+.careers-container {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+.careers-container h2 {
+    font-size: 40px;
+    color: #333;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.careers-container-text {
+    font-size: 22px;
+}
+.careers-links {
+    margin: 25px 0px;
+}
+ul.careers-links li {
+    margin-bottom: 5px;
+}
+.careers-links a {
+    color: #777777;
+    font-size: 25px;
+    text-decoration: none;
+}
+.careers-links li a:hover{
+    color: #674CAB;
+}
+.careers-links>.active>a, 
+.careers-links>.active>a:focus,
+.careers-links>.active>a:hover{
+    color: #674CAB;
+}
+
+/*** Footer ***/
+.footer {
+    background-color: #202020;
+    padding-top: 50px;
+    color: #999;
+}
+.footerservices-title {
+    color: #eaeaea;
+    margin-bottom: 5px;
+}
+.footer-text {
+    line-height: 190%;
+    margin-bottom: 50px;
+}
+@media screen and (min-width:768px){
+	.footer-text {
+	    padding-right: 62px;
+	}
+}
+.footer-top {
+    border-bottom: 1px solid #443f3f;
+    color: #fff;
+    text-align: center;
+}
+.footer-top h1 {
+    margin-bottom: 50px;
+}
+.footer-top h1 a {
+    color: #fff;
+}
+.footer-top h1 a:focus,
+.footer-top h1 a:hover{
+    text-decoration: none !important;
+}
+.footer-lists {
+    margin-bottom: 50px;
+    text-align: left;
+    font-size: 18px;
+    color: #b5aeae;
+}
+.footer h2 {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.footer ul{
+    list-style: none;
+}
+.footer-lists ul li {
+    margin-bottom: 5px;
+}
+.footer ul li a {
+    color: #b5aeae;
+}
+.footer-lists ul li a:hover {
+    color: #ded8d8;
+    text-decoration: none;
+}
+.footer-bottom {
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+/* Copy Right */
+.legal{
+	color: #999;
+}
+.legal:hover{
+	color: #674CAB;
+}
+
+.section{
+	padding-bottom: 75px;
+    padding-top: 75px;
+}
+h2.section-title {
+    font-size: 40px;
+    color: #fff;
+    margin-bottom: 75px;
+    text-align: center;
+}
+@media (min-width: 992px){
+	.feature-container-right{
+		float: right;
+	}
+}
+@media (max-width: 768px){
+	h2.section-title {
+	    font-size: 30px;
+	}
+}
+/* Scrolling */
+.navigation-container.scrolling{
+	background: background: -moz-linear-gradient(41deg, rgba(83,78,172,1) 0%, rgba(83,78,172,1) 1%, rgba(168,73,171,1) 81%, rgba(168,73,171,1) 100%); background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(83,78,172,1)), color-stop(1%, rgba(83,78,172,1)), color-stop(81%, rgba(168,73,171,1)), color-stop(100%, rgba(168,73,171,1))); background: -webkit-linear-gradient(41deg, rgba(83,78,172,1) 0%, rgba(83,78,172,1) 1%, rgba(168,73,171,1) 81%, rgba(168,73,171,1) 100%); background: -o-linear-gradient(41deg, rgba(83,78,172,1) 0%, rgba(83,78,172,1) 1%, rgba(168,73,171,1) 81%, rgba(168,73,171,1) 100%); background: -ms-linear-gradient(41deg, rgba(83,78,172,1) 0%, rgba(83,78,172,1) 1%, rgba(168,73,171,1) 81%, rgba(168,73,171,1) 100%); background: linear-gradient(49deg, rgba(83,78,172,1) 0%, rgba(83,78,172,1) 1%, rgba(168,73,171,1) 81%, rgba(168,73,171,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#534eac', endColorstr='#a849ab',GradientType=1 );
+}
+.scrolling .reg-btn{
+	background-color: #e55050;
+}
+.ma img{
+	margin: auto;
+}
+span.fa.fa-facebook {
+    background: #3b5998;
+    text-align: center;
+    line-height: 45px;
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+}
+span.fa.fa-twitter {
+    background: #33ccff;
+    text-align: center;
+    line-height: 45px;
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+span.fa.fa-instagram {
+    background: #fb3958;
+    text-align: center;
+    line-height: 45px;
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+.free-container{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+a.industires-section {
+    text-decoration: none;
+}
+
+.text-center{
+	text-align: center;
+}
+.coming-soon{
+	background-image: url(/website/images/coming-soon-ribbon.png) !important;
+    background-repeat: no-repeat !important;
+    background-size: 50px 50px !important;
+    background-position: right 0px top 0px !important;
+}

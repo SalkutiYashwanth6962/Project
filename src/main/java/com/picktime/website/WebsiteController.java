@@ -1,6 +1,7 @@
 package com.picktime.website;
 
 import java.io.IOException;
+import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import javax.servlet.http.HttpServletRequest;
@@ -21,6 +22,7 @@ public class WebsiteController {
 	@RequestMapping(value="/")
 	public String root(HttpServletRequest request,HttpServletResponse response) throws IOException
 	{
+		log.log(Level.INFO, "Entered into homepage");
 		return "index";
 	}
 }
