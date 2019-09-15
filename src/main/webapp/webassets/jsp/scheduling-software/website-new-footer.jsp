@@ -39,9 +39,10 @@
 					<h3>Contact us:</h3>
 					<p><a href="javascript:void(0);">hello@picktime.com</a></p>
 					<p>
-						<a href="http://www.facebook.com/picktimeIn/"><span class="fa fa-facebook"></span></a>
-						<a href="http://twitter.com/picktimeIn"><span class="fa fa-twitter"></span></a>
-						<a href="http://www.instagram.com/picktimein/"><span class="fa fa-instagram"></span></a>
+						<a href="http://www.facebook.com/picktimeIn/" target="_blank"><span class="fa fa-facebook"></span></a>
+						<a href="http://twitter.com/picktimeIn" target="_blank"><span class="fa fa-twitter"></span></a>
+						<a href="http://www.instagram.com/picktimein/" target="_blank"><span class="fa fa-instagram"></span></a>
+						<a href="https://www.linkedin.com/company/picktime" target="_blank"><span class="fa fa-linkedin-square"></span></a>
 					</p>
 				</div>
 			</div>
@@ -50,7 +51,7 @@
 	
 	<div class="footer">
 		<div class="container-fluid footer-top">
-			<h1><a href="/industries">Business we serve</a></h1>
+			<h1><a href="/industries">Businesses we serve</a></h1>
 			<div class="col-md-2 col-sm-6 footer-lists">
 				<div class="footerservices-title">Beauty</div>
 				<ul>
@@ -150,7 +151,20 @@
 		</div>	
 	
 		<div class="footer-bottom">
-			&copy; Copyright Picktime 2018. All rights reserved. |
+			
+			<div class="footer-bottom clearfix">
+				<h2> Follow Us </h2>
+				<div class="col-md-12">
+			        <ul class="social-network social-circle ">
+			            <li><a href="http://www.facebook.com/picktimeIn/" class="icoFacebook" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+			            <li><a href="http://twitter.com/picktimeIn" class="icoTwitter" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+			            <li><a href="http://www.instagram.com/picktimein/" class="icoInstagram" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+			            <li><a href="https://www.linkedin.com/company/picktime" class="icoLinkedin" target="_blank" title="Linkedin"><i class="fa fa-linkedin-square"></i></a></li>
+			        </ul>				
+				</div>
+			</div>
+		
+			&copy; Copyright Picktime 2019. All rights reserved. |
 			 <a href="/privacy.html" class="legal" target="_blank" title="Privacy Policy ">Privacy Policy</a> |
 			 <a href="/terms.html" class="legal" target="_blank" title="Terms of Use">Terms of Use</a> |
 			 <a href="/enduser-license.html" class="legal" target="_blank" title="End User License Agreement">End User License Agreement</a>

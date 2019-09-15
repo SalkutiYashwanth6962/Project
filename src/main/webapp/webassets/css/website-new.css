@@ -367,6 +367,13 @@ ul.careers-links li {
     padding: 10px;
     font-size: 14px;
 }
+
+/* raju */
+ul.social-network.social-circle li {
+    display: inline-block;
+    padding: 10px 16px;
+}
+
 /* Copy Right */
 .legal{
 	color: #999;
@@ -424,6 +431,15 @@ span.fa.fa-twitter {
 }
 span.fa.fa-instagram {
     background: #fb3958;
+    text-align: center;
+    line-height: 45px;
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+span.fa.fa-linkedin-square {
+    background: #0077B5;
     text-align: center;
     line-height: 45px;
     width: 45px;

@@ -8,6 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.google.gson.Gson;
@@ -24,5 +25,41 @@ public class WebsiteController {
 	{
 		log.log(Level.INFO, "Entered into homepage");
 		return "index";
+	}
+	
+	@RequestMapping(value="/features")
+	public String features(HttpServletRequest request,HttpServletResponse response) throws IOException
+	{
+		log.log(Level.INFO, "Entered into features");
+		return "features";
+	}
+	@RequestMapping(value="/integrations")
+	public String integrations(HttpServletRequest request,HttpServletResponse response) throws IOException
+	{
+		log.log(Level.INFO, "Entered into integrations");
+		return "integrations";
+	}
+	@RequestMapping(value="/faqs")
+	public void faqs(HttpServletRequest request,HttpServletResponse response) throws IOException
+	{
+		response.sendRedirect("https://support.picktime.com/container/show/14452");
+	}
+	
+	@RequestMapping(value="/careers")
+	public String careers(HttpServletRequest request,HttpServletResponse response) throws IOException
+	{
+		return "careers";
+	}
+	
+	@RequestMapping(value="/industries")
+	public String roots(HttpServletRequest request,HttpServletResponse response) throws IOException
+	{
+		return "industries";
+	}
+	
+	@RequestMapping(value="/scheduling-software/{pageName}")
+	public String individualPages(HttpServletRequest request,HttpServletResponse response,@PathVariable("pageName") String pageName) throws IOException
+	{
+		return "scheduling-software/"+pageName;
 	}
 }
