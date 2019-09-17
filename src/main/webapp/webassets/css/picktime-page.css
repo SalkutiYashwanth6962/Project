@@ -1,0 +1,815 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+    font-family: "Lato";
+    font-size: 18px;
+    color: #8c8c8c;
+    line-height: 1.42857143;
+    background-color: #fff;
+}
+
+/* Navigation Bar */
+.menu-main-navigation-container {
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    z-index: 2;
+    width: 100%;
+}
+.menu-right {
+    margin-right: 15px;
+}
+a.navbar-brand.logo {
+    margin-left: 15px !important;
+    padding: 8px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+.menu-main-navigation-container .navbar-nav>li>a {
+    color: #dadada;
+    font-size: 16px;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+.home-page {
+    background: url(/website/images/consultant-slider-large-02.jpg);
+}
+.mainslider {
+    width: 100%;
+    height: 710px;
+    background-position: center top;
+    background-size: cover;
+ }
+
+/* Login-Page */
+.login-page {
+    z-index: 1;
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 8%;
+    margin-left: 47%;
+    letter-spacing: 2px;
+}
+.login-page form {
+    background: rgba(255,255,255,0.3);
+    padding: 20px 20px;
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+}
+.login-page .form-control {
+    border-radius: 0;
+    padding: 25px 11px;
+    font-size: 12px;
+}
+.login-page .form-control:focus {
+    border-color: #674CAB;
+}
+.login-page h1 {
+    font-size: 37px;
+    line-height: 38px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+@media screen and (max-width:768px){
+	.navbar-default{
+		 background-color: #674CAB;
+	}
+	.navbar-brand {
+   		 padding: 5px 0px;
+	}
+   .login-page h1 {
+    	font-size: 30px;
+ 	}
+    .login-page {
+	    margin-top: 25% !important;
+	    margin-left: 5% !important;
+    }   
+    .login-page form{
+    	width: 100%;
+    } 
+}
+
+/* Features-Section */    
+.features {
+    background:url(http://spawordpresstheme.net/wellnesscenter1/wp-content/uploads/sites/2/2015/12/product-info-pbg.jpg) no-repeat center top fixed;
+    background-size: cover;
+    position: relative;
+}
+.feature-text {
+    color: #8c8c8c;
+    padding: 0px 40px;
+}
+@media screen and (max-width:768px){
+	.feature-text {
+	    padding: 0px;
+	}
+}
+.feature-list-group {
+    margin-top: 30px;
+}
+.feature-list1 {
+    margin-bottom: 100px;
+}
+.circle-icon {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 4px solid #674CAB;
+    margin: 0 auto;
+}
+.circle-icon:hover, .circle-icon i:focus {
+	background: #674CAB;
+    color: #1e8190;
+    border: 4px solid #fff;
+}
+.circle-icon:hover .service-icon{
+    color: #fff;
+}
+.service-icon {
+    font-size: 35px;
+    color: #674CAB;
+    padding: 30px;
+}
+
+/* Services */
+.section {
+    padding-bottom: 75px;
+    padding-top: 75px;
+    text-align: center;
+}
+.section-title {
+	color: #9e9a9a;	
+	padding: 10px 150px;
+	margin-bottom: 60px;
+}
+@media (max-width: 768px){
+	.section-title {
+	    color: #9e9a9a;
+	    padding: 0;
+	}
+}
+.sevice-img {
+    height: 200px;
+}
+.services-title {
+    margin-bottom: 50px;
+    color: #555;
+}
+@media screen and (max-width:768px){
+	.services-title h2 {
+	    font-size: 30px !important;
+	    margin-bottom: 20px;
+	}
+}
+.services-title h2 {
+    font-size: 40px;
+}
+.service-desc {
+    color: #71736f;
+    padding: 23px 12px;
+}
+
+/* Service Animation */
+ .hovereffect {
+    height: auto;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    cursor: default;
+    margin-bottom: 30px;
+}
+.hovereffect .overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    background-color: rgba(26,188,156,0.5);
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+.hovereffect img {
+	display:block;
+	position:relative;
+	-webkit-transition:all .4s linear;
+	transition:all .4s linear;
+}
+.hovereffect h2 {
+	text-transform:uppercase;
+	color:#fff;
+	text-align:center;
+	position:relative;
+	font-size:17px;
+	background:rgba(0,0,0,0.6);
+	-webkit-transform:translatey(-100px);
+	-ms-transform:translatey(-100px);
+	transform:translatey(-100px);
+	-webkit-transition:all .2s ease-in-out;
+	transition:all .2s ease-in-out;
+	padding:10px;
+}
+.hovereffect a.info {
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+    color: #fff;
+    border: 1px solid #fff;
+    background-color: transparent;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    margin: 85px 0 0;
+    padding: 7px 14px;
+}
+.hovereffect a.info:hover {
+	box-shadow:0 0 5px #fff;
+}
+.hovereffect:hover img {
+	-ms-transform:scale(1.2);
+	-webkit-transform:scale(1.2);
+	transform:scale(1.2);
+}
+.hovereffect:hover .overlay {
+	opacity:1;
+	filter:alpha(opacity=100);
+}
+.hovereffect:hover h2,.hovereffect:hover a.info {
+	opacity:1;
+	filter:alpha(opacity=100);
+	-ms-transform:translatey(0);
+	-webkit-transform:translatey(0);
+	transform:translatey(0);
+}
+.hovereffect:hover a.info {
+	-webkit-transition-delay:.2s;
+	transition-delay:.2s;
+}
+
+/* Online Booking */
+.onlineBooking {
+    margin-bottom: 50px;
+    min-height: 500px;
+}
+.onlineBooking-block {
+    min-height: 500px;
+}
+@media screen and (max-width:768px){
+	.onlineBooking-block {
+  	  margin-bottom: 30px;
+	}
+	.freeLink-text {
+	    margin-bottom: 75px;
+	}
+}
+.onlineBookingText {
+    border: 3px solid #d6d6d6;
+    padding: 50px 50px;
+}
+.onlineBookingText h3{
+	color: #6c6c6c;
+}
+.onlineBookingText p {
+    margin: 35px 0px;
+}
+.onlineBooking-icon {
+    color: #674CAB;
+    font-size: 45px;
+    margin: 30px 0px;
+}
+.onlineBooking-btn {
+    border: 2px solid #674CAB;
+    border-radius: 0;
+    color: #674CAB;
+    margin: 5px 0px;
+    padding: 7px 14px;
+}
+.onlineBooking-btn:hover{
+	background: #674CAB;
+	color: #fff;
+}
+.onlineBooking-img {
+    min-height: 500px;
+}
+.img1{
+	background: url(/website/images/OnlineBooking1.png) center;
+	 background-size: cover;
+}
+.img2{
+	background: url(/website/images/OnlineBooking1.png) center;
+	background-size: cover;
+}
+.img3{
+	background: url(/website/images/OnlineBooking1.png) center;
+	background-size: cover;
+}
+.img4{
+	background: url('https://9a812d2609e610ab07eb-b463fa4ca2c8095be4f297e4d7f6781b.ssl.cf2.rackcdn.com/secure-online-scheduling.png') center;
+	background-size: cover;
+}
+.onlineBooking-tag{
+    left: 0;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 330px;
+    padding: 5px;
+    z-index: 1;
+    background: rgba(90,90,90,0.8);
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+.onlineBooking-tag h2 {
+    color: #fdd947;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+@media screen and (max-width:768px){
+	.freeTrail h2{
+		font-size: 40px;
+	}	
+	.onlineBooking-tag h2 {
+	    font-size: 20px;
+	}
+	.onlineBooking-tag p{
+	    font-size: 10px;
+	}
+	.onlineBookingText {
+	    padding: 30px 20px;
+	}
+	.picktime-text {
+	    margin-bottom: 75px;
+	}
+}
+@media screen and (max-width:1024px){
+	.onlineBooking-icon {
+    	margin: 0px; 
+	}
+}
+a.freeLink {
+    color: #e55050;
+    border-bottom: 1px dotted #e55050;
+}
+a.freeLink:hover {
+    color: #d83d3d;
+    text-decoration: none;
+}
+
+/* Whyus */
+.container.whyus {
+    text-align: center;
+}
+.row.whyus-row {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.col-md-4.whyus-block {
+    padding-left: 0;
+    padding-right: 0;
+}
+.whyus-img img {
+    -webkit-transition: width 2s, height 4s; 
+    transition: width 2s, height 4s;
+	-webkit-transition-timing-function: linear;
+    -webkit-transition: width 3s; /* Safari */
+    -webkit-transition-delay: 5s; /* Safari */
+    transition: width 3s;
+    transition-delay: 5s;
+}
+.whyus-text-block {
+    padding-top: 135px;
+    color: #eaeaea;
+    z-index: 1;
+}
+@media (max-width: 370px){
+	.whyus-text-block {
+	    padding-top: 65px;
+	    font-size: 13px;
+	}
+    .whyus-text h3{
+    	font-size: 20px;
+    }
+   .whyus-text-block i {
+    	font-size: 20px !important;
+	}
+}
+.whyus-text-block .overlay {
+    position: absolute;
+    top: 150px;
+    left: 0;
+    color: #eaeaea;
+    width: 100%;
+    z-index: 1;
+}
+.whyus-text {
+    margin-top: -15px;
+}
+.whyus-text-block i {
+    font-size: 30px;
+}
+
+/* whyus Animation */
+.hovereffect1 {
+    height: auto;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    cursor: default;
+    margin-bottom: 50px;
+}
+.hovereffect1 .overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    background-color: #674CAB;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+.hovereffect1 img {
+	display:block;
+	position:relative;
+	-webkit-transition:all .4s linear;
+	transition:all .4s linear;
+}
+.hovereffect1 h2 {
+	text-transform:uppercase;
+	color:#fff;
+	text-align:center;
+	position:relative;
+	font-size:17px;
+	background:rgba(0,0,0,0.6);
+	-webkit-transform:translatey(-100px);
+	-ms-transform:translatey(-100px);
+	transform:translatey(-100px);
+	-webkit-transition:all .2s ease-in-out;
+	transition:all .2s ease-in-out;
+	padding:10px;
+}
+.hovereffect1 a.info {
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+    color: #fff;
+    border: 1px solid #fff;
+    background-color: transparent;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    margin: 85px 0 0;
+    padding: 7px 14px;
+}
+.hovereffect1 a.info:hover {
+	box-shadow:0 0 5px #fff;
+}
+.hovereffect1:hover img {
+	-ms-transform:scale(1.2);
+	-webkit-transform:scale(1.2);
+	transform:scale(1.2);
+}
+.hovereffect1:hover .overlay {
+	opacity:1;
+	filter:alpha(opacity=100);
+}
+.hovereffect1:hover h2,.hovereffect1:hover a.info {
+	opacity:1;
+	filter:alpha(opacity=100);
+	-ms-transform:translatey(0);
+	-webkit-transform:translatey(0);
+	transform:translatey(0);
+}
+.hovereffect1:hover a.info {
+	-webkit-transition-delay:.2s;
+	transition-delay:.2s;
+}
+
+/* Free Trail */
+.freeTrail{
+	background-color: #674CAB;
+    background-image: url(/website/images/freeTrail-background.png);
+    color: #fff;
+}
+.freeTrail h2{
+	font-size: 60px;
+}
+@media screen and (max-width:768px){
+	.freeTrail h2{
+		font-size: 40px;
+	}	
+	.onlineBooking-tag-title h2 {
+	    font-size: 20px;
+	}
+	.onlineBooking-tag-title p{
+	    font-size: 10px;
+	}
+}
+.freeTrail-btn {
+    color: #fff !important;
+    background: #e55050;
+    padding: 15px 30px;
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+/*** Footer ***/
+.footer {
+    background-color: #202020;
+    padding: 50px 0 50px 0;
+    color: #999;
+    font-size: 15px;
+}
+.footerservices-title {
+    color: #eaeaea;
+    font-size: 15px;
+}
+.footer-text {
+    line-height: 190%;
+    margin-bottom: 50px;
+}
+@media screen and (min-width:768px){
+	.footer-text {
+	    padding-right: 62px;
+	}
+}
+.footer-top {
+    border-bottom: 1px solid #443f3f;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.footer-lists {
+    margin-bottom: 50px;
+}
+.footer h2 {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.footer ul{
+    margin: 0.75em 0;
+    padding: 0 1em;
+    list-style: none;
+}
+.footer-lists ul li:before {
+    content: "";
+    border-color: transparent #a79f9f;
+    border-style: solid;
+    border-width: 0.35em 0 0.30em 0.35em;
+    display: block;
+    height: 0;
+    width: 0;
+    left: -1em;
+    top: 0.9em;
+    position: relative;
+    color: #eaeaea;
+}
+.footer ul li a {
+    color: #969090;
+    font-size: 15px;
+    padding: 2px 4px;
+}
+.footer-lists ul li a:hover {
+    color: #d6cece;
+    text-decoration: none;
+}
+.footer-bottom {
+    text-align: center;
+    padding-bottom: 45px;
+    padding-top: 23px;
+}
+/* footer social icons */
+ul.social-network {
+	list-style: none;
+	display: inline;
+	margin-left:0 !important;
+	padding: 0;
+}
+ul.social-network li {
+	display: inline;
+	margin: 0 0;
+	margin-right: 5px;
+}
+/* footer social icons */
+.social-network a.icoRss:hover {
+	background-color: #F56505;
+}
+.social-network a.icoFacebook:hover {
+	background-color:#3B5998;
+}
+.social-network a.icoTwitter:hover {
+	background-color:#33ccff;
+}
+.social-network a.icoGoogle:hover {
+	background-color:#BD3518;
+}
+.social-network a.icoInstagram:hover{
+	background-color:#fb3958;
+}
+.social-network a.icoVimeo:hover {
+	background-color:#0590B8;
+}
+.social-network a.icoLinkedin:hover {
+	background-color:#007bb7;
+}
+.social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
+.social-network a.icoGoogle:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
+	color:#fff;
+}
+a.socialIcon:hover, .socialHoverClass {
+	color:#44BCDD;
+}
+.social-circle li a {
+    display: inline-block;
+    position: relative;
+    margin: 0 auto 0 auto;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+}
+.social-circle li i {
+    margin: 0;
+    line-height: 34px;
+    text-align: center;
+}
+.social-circle li a:hover i, .triggeredHover {
+	-moz-transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-ms--transform: rotate(360deg);
+	transform: rotate(360deg);
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	transition: all 0.2s;
+}
+.social-circle i {
+	color: #fff;
+	-webkit-transition: all 0.8s;
+	-moz-transition: all 0.8s;
+	-o-transition: all 0.8s;
+	-ms-transition: all 0.8s;
+	transition: all 0.8s;
+}
+.social-circle li a {
+ background-color: #202020;   
+ border: 1px solid #443f3f
+}
+
+/* Copy Right */
+.legal{
+	color: #5c5c5c;
+}
+.legal:hover{
+	color: #674CAB;
+}
+
+
+/* Buttons */
+.login-btn {
+    border: 1px solid #e5e5e5;
+    background: transparent;
+    border-radius: 3px;
+    height: 35px;
+    margin-top: 8px;
+    margin-left: 8px;
+    color: #e5e5e5;
+    display: inline-block !important;
+}
+.login-btn a{
+	padding-bottom: 6px !important;
+    padding-top: 6px !important;
+}
+.login-page .btn-block:focus,
+.login-page .btn-block:hover{
+	background: #d83d3d;
+}
+.login-page .btn-block {
+    border-radius: 0;
+    border: none;
+    color: white;
+    background: #e55050;
+}
+.form-btn{
+    padding: 16px 31px;
+    font-size: 14px;
+}
+.signup-btn {
+    border: 1px solid #e55050;
+    background: #e55050;
+}
+
+/*** Fade left right Animations ***/
+@media (min-width: 1280px){
+	.animated {
+	      background-repeat: no-repeat;
+	      background-position: left top;
+	      -webkit-animation-duration: 3s;
+	      animation-duration: 3s;
+	      -webkit-animation-fill-mode: both;
+	      animation-fill-mode: both;
+	 }     
+	 @-webkit-keyframes fadeInLeft {
+		 0% {
+		 	opacity: 0;
+		    -webkit-transform: translateX(-20px);
+		 }
+	     100% {
+	     	opacity: 1;
+	        -webkit-transform: translateX(0);
+	     }
+	         }
+         
+         @keyframes fadeInLeft {
+            0% {
+               opacity: 0;
+               transform: translateX(-20px);
+            }
+            100% {
+               opacity: 1;
+               transform: translateX(0);
+            }
+         }
+         
+         .fadeInLeft {
+         -webkit-animation-name: fadeInLeft;
+         animation-name: fadeInLeft;
+         } 
+        
+         @-webkit-keyframes fadeInRight {
+            0% {
+               opacity: 0;
+               -webkit-transform: translateX(30px);
+            }
+            100% {
+               opacity: 1;
+               -webkit-transform: translateX(0);
+            }
+         }
+         
+         @keyframes fadeInRight {
+            0% {
+               opacity: 0;
+               transform: translateX(30px);
+            }
+            100% {
+               opacity: 1;
+               transform: translateX(0);
+            }
+         }
+         
+         .fadeInRight {
+            -webkit-animation-name: fadeInRight;
+            animation-name: fadeInRight;
+         }
+         
+         @-webkit-keyframes fadeInDown {
+            0% {
+               opacity: 0;
+               -webkit-transform: translateY(-20px);
+            }
+            100% {
+               opacity: 1;
+               -webkit-transform: translateY(0);
+            }
+         }
+         
+         @keyframes fadeInDown {
+            0% {
+               opacity: 0;
+               transform: translateY(-20px);
+            }
+            100% {
+               opacity: 1;
+               transform: translateY(0);
+            }
+         }
+         
+         .fadeInDown {
+            -webkit-animation-name: fadeInDown;
+            animation-name: fadeInDown;
+         }
+}  
+       
