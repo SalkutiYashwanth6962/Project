@@ -44,5 +44,6 @@ $(document).ready(function(){
    });
    checkTopNav();
 //   $('#reg_firstname').focus();
+   
 });
 
