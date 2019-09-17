@@ -33,12 +33,20 @@ public class WebsiteController {
 		log.log(Level.INFO, "Entered into features");
 		return "features";
 	}
+	
+	@RequestMapping(value="/features/{pageName}")
+	public String featurePages(HttpServletRequest request,HttpServletResponse response,@PathVariable("pageName") String pageName) throws IOException
+	{
+		return "features/"+pageName;
+	}
+	
 	@RequestMapping(value="/integrations")
 	public String integrations(HttpServletRequest request,HttpServletResponse response) throws IOException
 	{
 		log.log(Level.INFO, "Entered into integrations");
 		return "integrations";
 	}
+	
 	@RequestMapping(value="/faqs")
 	public void faqs(HttpServletRequest request,HttpServletResponse response) throws IOException
 	{

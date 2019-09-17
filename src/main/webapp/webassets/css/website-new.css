@@ -459,7 +459,7 @@ a.industires-section {
 	text-align: center;
 }
 .coming-soon{
-	background-image: url(/website/images/coming-soon-ribbon.png) !important;
+	background-image: url(/webassets/img/coming-soon-ribbon.png) !important;
     background-repeat: no-repeat !important;
     background-size: 50px 50px !important;
     background-position: right 0px top 0px !important;
