@@ -1,0 +1,110 @@
+body {
+    font-family: lato;
+    margin: 0 10px;
+}
+.error-header {
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+.error-main-container {
+    text-align: center;
+    padding: 30px 0;
+}
+.error-main-container h1 {
+    color: #674CAB;
+    font-size: 65px;
+}
+.error-main-container h2 {
+    font-size: 38px;
+    color: #666;
+    line-height: 45px;
+    font-weight: bold;
+    padding: 0 22px;
+}
+.back-btn {
+    padding: 5px 50px;
+    background: #674CAB;
+    color: #fff;
+    font-size: 26px;
+    font-weight: 900;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
+    color: white;
+    background-color: #482683;
+    border-color: #482683;
+}
+.error-footer-container{
+	width: 33.33%;
+	float: left;
+	padding: 15px;
+	border-right: 1px solid #ddd;
+	border-top: 1px solid #ddd;
+	min-height: 135px;
+}
+.error-footer-container:last-child {
+    border-right: 1px solid #fff;
+}
+a.error-footer-container-link {
+    text-decoration: none;
+    color: #777;
+}
+.desc-img {
+    width: 100px;
+    padding-right: 10px;
+}
+.desc-img.pull-left img {
+    width: 80px;
+    height: 80px;
+}
+.img-desc-block {
+    padding-left: 100px;
+    padding-top: 5px;
+}
+.img-desc-block h3 {
+    margin-top: 0;
+    font-weight: bold;
+    font-size: 25px;
+    color: #666;
+}
+.img-desc-block span {
+    font-size: 18px;
+    color: #674CAB;
+}
+@media only screen and (max-width: 1199px) and (min-width: 768px){
+	.img-desc-block h3 {
+	    font-size: 18px;
+	}
+	.img-desc-block span {
+	    font-size: 16px;
+	}
+	.error-main-container h2 {
+    	font-size: 30px;
+	}
+	.error-footer-container{
+		min-height: 190px;
+	}
+	img.error-image {
+	    width: 290px;
+	}
+}
+@media only screen and (max-width: 767px){
+	.error-footer-container{
+		width: 100%;
+		min-height: 100%;
+		border-right: 1px solid #fff;
+		border-top: 1px solid #ddd;
+	}
+	.error-image{
+		width: 200px;
+		margin-top: 50px;
+	}
+	.error-main-container h1 {
+    	font-size: 45px;
+	}
+	.error-main-container h2 {
+    	font-size: 24px;
+    	margin-top: 0;
+ 	}
+}

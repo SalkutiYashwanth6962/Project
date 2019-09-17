@@ -9,6 +9,14 @@
     <servlet-name>picktime_website</servlet-name>
     <url-pattern>/</url-pattern>
   </servlet-mapping>
+	<error-page>
+		<error-code>404</error-code>
+		<location>/jsp/404.jsp</location>
+	</error-page>
+	<error-page>
+		<error-code>500</error-code>
+		<location>/jsp/500.jsp</location>
+	</error-page>
   <security-constraint>
     <web-resource-collection>
       <web-resource-name>Protected Area</web-resource-name>
