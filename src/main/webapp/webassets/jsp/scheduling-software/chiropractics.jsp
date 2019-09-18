@@ -146,7 +146,7 @@
        		<a href="/register" class="freeLink">Get started its FREE!</a>
          </div>
          <div class="col-md-6">	
-         	<img src="/website/img/macbook_picktime_login_v2.png" class="img-responsive" alt="Picktime - Online Appointment Scheduling Software and Booking System">
+         	<img src="/webassets/img/macbook_picktime_login_v2.png" class="img-responsive" alt="Picktime - Online Appointment Scheduling Software and Booking System">
          </div>
 	</div>
 	

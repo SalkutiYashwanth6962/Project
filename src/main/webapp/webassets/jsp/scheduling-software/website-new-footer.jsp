@@ -160,6 +160,8 @@
 			            <li><a href="http://twitter.com/picktimeIn" class="icoTwitter" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 			            <li><a href="http://www.instagram.com/picktimein/" class="icoInstagram" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
 			            <li><a href="https://www.linkedin.com/company/picktime" class="icoLinkedin" target="_blank" title="Linkedin"><i class="fa fa-linkedin-square"></i></a></li>
+			            <li><a href="https://www.youtube.com/channel/UCpKYjRX3FpcNJvzbgnl4B6w" class="icoYoutube" target="_blank" title="Youtube"><i class="fa fa-youtube-play"></i></a></li>
+			            <li><a href="https://www.pinterest.com/picktime/" class="icoPinterest" target="_blank" title="Pinterest"><i class="fa fa-pinterest-p"></i></a></li>
 			        </ul>				
 				</div>
 			</div>
