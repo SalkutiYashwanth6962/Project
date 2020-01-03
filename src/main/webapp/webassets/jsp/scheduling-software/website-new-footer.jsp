@@ -166,7 +166,7 @@
 				</div>
 			</div>
 		
-			&copy; Copyright Picktime 2019. All rights reserved. |
+			&copy; Copyright Picktime 2020. All rights reserved. |
 			 <a href="/privacy.html" class="legal" target="_blank" title="Privacy Policy ">Privacy Policy</a> |
 			 <a href="/terms.html" class="legal" target="_blank" title="Terms of Use">Terms of Use</a> |
 			 <a href="/enduser-license.html" class="legal" target="_blank" title="End User License Agreement">End User License Agreement</a>
