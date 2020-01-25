@@ -2,17 +2,17 @@
 <dispatch-entries>
 
 	<!-- Live Test Environment  -->
-	<dispatch>
-	    <url>*beta3.picktime.com/*</url>
-	    <module>beta3</module>
-	</dispatch>
+<!-- 	<dispatch> -->
+<!-- 	    <url>*beta3.picktime.com/*</url> -->
+<!-- 	    <module>beta3</module> -->
+<!-- 	</dispatch> -->
 	<!-- Live Test Environment  -->
 	
 	<!-- Realtime connections -->
-	<dispatch>
-	    <url>*io.picktime.com/*</url>
-	    <module>realtime</module>
-	</dispatch>
+<!-- 	<dispatch> -->
+<!-- 	    <url>*io.picktime.com/*</url> -->
+<!-- 	    <module>realtime</module> -->
+<!-- 	</dispatch> -->
 	<!-- Realtime connections -->
 	
 	<!-- Website -->
@@ -26,6 +26,10 @@
 	</dispatch>
 	<dispatch>
 	    <url>*/features/*</url>
+	    <module>website</module>
+	</dispatch>
+	<dispatch>
+	    <url>*/apps</url>
 	    <module>website</module>
 	</dispatch>
 	<dispatch>

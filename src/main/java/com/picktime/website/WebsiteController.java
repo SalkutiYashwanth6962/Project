@@ -47,6 +47,12 @@ public class WebsiteController {
 		return "integrations";
 	}
 	
+	@RequestMapping(value="/apps")
+	public String apps(HttpServletRequest request,HttpServletResponse response) throws IOException
+	{
+		return "mobile-apps";
+	}
+	
 	@RequestMapping(value="/faqs")
 	public void faqs(HttpServletRequest request,HttpServletResponse response) throws IOException
 	{
