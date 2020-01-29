@@ -13,7 +13,6 @@
 <head>
   	<!-- Basic Page Needs
     ================================================== -->
-    <meta name="yandex-verification" content="caffdccecdbd301f" />
     <meta charset="utf-8">
     <meta http-equiv="cache-control" content="max-age=0">
 	<meta http-equiv="cache-control" content="no-cache">
