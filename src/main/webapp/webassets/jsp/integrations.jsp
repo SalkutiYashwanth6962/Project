@@ -137,11 +137,11 @@
 	<script type="text/javascript" src="/webassets/js/typed.js?_=<%=cache%>"></script>
 	<script>
 		var logo_theme = new Image();
-		logo_theme.src = '/website/images/picktime-theme.png';
+		logo_theme.src = '/webassets/img/picktime-theme.png';
 		var logo_trans = new Image();
-		logo_trans.src = '/website/images/picktime-trans.png';
+		logo_trans.src = '/webassets/img/picktime-trans.png';
 		var logo_mini = new Image();
-		logo_mini.src = '/website/images/picktime-logo-128.png';
+		logo_mini.src = '/webassets/img/picktime-logo-128.png';
 		
 		
 		document.addEventListener("DOMContentLoaded", function(){

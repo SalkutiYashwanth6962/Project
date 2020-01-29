@@ -47,7 +47,7 @@
 	
 	<meta property="og:title" content="Free Online Appointment Scheduling Software"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="//webassets/PTicons/picktime-cover.jpg" />
+	<meta property="og:image" content="/webassets/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
 	

@@ -13,6 +13,7 @@
 <head>
   	<!-- Basic Page Needs
     ================================================== -->
+    <meta name="yandex-verification" content="caffdccecdbd301f" />
     <meta charset="utf-8">
     <meta http-equiv="cache-control" content="max-age=0">
 	<meta http-equiv="cache-control" content="no-cache">
@@ -48,7 +49,7 @@
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="https://www.picktime.com/webassets/PTicons/picktime-cover.jpg" />
+	<meta property="og:image" content="/webassets/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
 	
@@ -56,7 +57,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
-	<meta name="twitter:image" content="https://www.picktime.com/webassets/PTicons/picktime-cover.jpg" />
+	<meta name="twitter:image" content="/webassets/PTicons/picktime-cover.jpg" />
 	
 	<link href='https://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
   	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Josefin+Sans">
