@@ -1,6 +1,34 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"   pageEncoding="ISO-8859-1"%>
 <nav class="navbar navbar-default navbar-fixed-top navigation-container">
-		<div class="container-fluid">
+	<div style="background: #f7346e; height: 30px; margin: -10px -40px 10px; text-align: center; line-height: 30px; font-size: 16px; font-weight: 400; overflow: hidden;">
+		<span class="hidden-xs">Our 
+			<a href="https://www.picktime.com/app?install=googlemeet" title="Our Google Meet/Hangouts Integration is Live Now!" style="color: #fff;text-decoration: underline;">GOOGLE MEET</a>
+			,&nbsp; 
+			<a href="https://www.picktime.com/app?install=skypeteams" title="Our Microsoft Skype/Teams Integration is Live Now!" style="color: #fff;text-decoration: underline;">MICROSOFT SKYPE/TEAMS</a>
+			,&nbsp; 
+			<a href="https://marketplace.zoom.us/apps/0MBlW8ruQtqH0VQ1bV9hsw" title="Our ZOOM Integration is Live Now!" style="color: #fff;text-decoration: underline;">ZOOM</a>
+			,&nbsp; 
+			<a href="https://www.picktime.com/app?install=gotomeeting" title="Our GoToMeeting Integration is Live Now!" style="color: #fff;text-decoration: underline;">GOTOMEETING</a>
+			,&nbsp; 
+			<a href="https://www.picktime.com/app?install=jitsi" title="Our Jitsi Meet Integration is Live Now!" style="color: #fff;text-decoration: underline;">JITSI MEET</a>
+			 integrations are Live Now! Check it out
+		 </span>
+		<span class="visible-xs" style="font-size: 14px;">
+			<marquee>
+			<a href="https://www.picktime.com/app?install=googlemeet" title="Our Google Meet/Hangouts Integration is Live Now!" style="color: #fff;text-decoration: underline;">GOOGLE MEET</a>
+			,&nbsp; 
+			<a href="https://www.picktime.com/app?install=skypeteams" title="Our Google Meet/Hangouts Integration is Live Now!" style="color: #fff;text-decoration: underline;">MICROSOFT SKYPE/TEAMS</a>
+			,&nbsp; 
+			<a href="https://marketplace.zoom.us/apps/0MBlW8ruQtqH0VQ1bV9hsw" title="Our ZOOM Integration is Live Now!" style="color: #fff;text-decoration: underline;">ZOOM</a>
+			,&nbsp; 
+			<a href="https://www.picktime.com/app?install=gotomeeting" title="Our GoToMeeting Integration is Live Now!" style="color: #fff;text-decoration: underline;">GOTOMEETING</a>
+			,&nbsp; 
+			<a href="https://www.picktime.com/app?install=jitsi" title="Our Google Meet/Hangouts Integration is Live Now!" style="color: #fff;text-decoration: underline;">JITSI MEET</a>
+		 	integrations are Live Now!
+		 	</marquee>
+		</span>
+	</div>
+	<div class="container-fluid">
 		    <!-- Brand and toggle get grouped for better mobile display -->
 		    <div class="navbar-header">
 		      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">

@@ -68,7 +68,7 @@
 <body>
 	<jsp:include page="scheduling-software/website-new-navbar.jsp" />
 	
-	<div class="main-container gradient-container">
+	<div class="main-container gradient-container" style="padding-top: 70px;">
 		<div class="container-fluid main-container-img">
 			<div class="col-md-6">
 				<div class="main-container-title">

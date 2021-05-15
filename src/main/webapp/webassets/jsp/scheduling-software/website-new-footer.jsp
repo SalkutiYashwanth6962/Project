@@ -1,3 +1,4 @@
+<%@page import="java.util.Calendar"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"   pageEncoding="ISO-8859-1"%>
 	<div class="uses-container gradient-container">
 		<div class="container-fluid section uses-container-img free-container">
@@ -166,7 +167,7 @@
 				</div>
 			</div>
 		
-			&copy; Copyright Picktime 2020. All rights reserved. |
+			&copy; Copyright Picktime <%=Calendar.getInstance().get(Calendar.YEAR)%>. All rights reserved. |
 			 <a href="/privacy.html" class="legal" target="_blank" title="Privacy Policy ">Privacy Policy</a> |
 			 <a href="/terms.html" class="legal" target="_blank" title="Terms of Use">Terms of Use</a> |
 			 <a href="/enduser-license.html" class="legal" target="_blank" title="End User License Agreement">End User License Agreement</a>
@@ -183,14 +184,6 @@
 	  ga('send', 'pageview');
 	</script>
 	<script type="text/javascript">
-	    window.smartlook||(function(d) {
-	    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
-	    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
-	    c.charset='utf-8';c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
-	    })(document);
-	    smartlook('init', '246947e9fb09801268e78732904ee4c0e5eec1d3');
-	</script>
-	<script type="text/javascript">
 		(function(a,l,b,c,r,s){_nQc=c,r=a.createElement(l),s=a.getElementsByTagName(l)[0];r.async=1;
 		r.src=l.src=("https:"==a.location.protocol?"https://":"http://")+b;s.parentNode.insertBefore(r,s);
 		})(document,"script","serve.albacross.com/track.js","89976480");
@@ -200,3 +193,18 @@
 		window.CRISP_WEBSITE_ID = "cffc37e4-7649-45d6-b044-074c60b9dbdc";
 		(function(){d=document;s=d.createElement('script');s.src='//client.crisp.chat/l.js';s.async=1;d.getElementsByTagName('head')[0].appendChild(s);})();
 	</script>
+	<!-- Facebook Pixel Code -->
+	<script>
+	  !function(f,b,e,v,n,t,s)
+	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	  n.queue=[];t=b.createElement(e);t.async=!0;
+	  t.src=v;s=b.getElementsByTagName(e)[0];
+	  s.parentNode.insertBefore(t,s)}(window, document,'script',
+	  'https://connect.facebook.net/en_US/fbevents.js');
+	  fbq('init', '3146370852096019');
+	  fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=3146370852096019&ev=PageView&noscript=1"/></noscript>
+	<!-- End Facebook Pixel Code -->
