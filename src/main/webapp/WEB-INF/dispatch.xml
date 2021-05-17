@@ -53,15 +53,15 @@
 	    <module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/privacy.html</url>
+	    <url>*/business/*</url>
 	    <module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/terms.html</url>
+	    <url>*/legal/*</url>
 	    <module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/enduser-license.html</url>
+	    <url>*/webassets/*</url>
 	    <module>website</module>
 	</dispatch>
 	<dispatch>
@@ -74,14 +74,6 @@
 	</dispatch>
 	<dispatch>
 	    <url>*/favicon.ico</url>
-	    <module>website</module>
-	</dispatch>
-	<dispatch>
-	    <url>*/business/*</url>
-	    <module>website</module>
-	</dispatch>
-	<dispatch>
-	    <url>*/webassets/*</url>
 	    <module>website</module>
 	</dispatch>
 	<!-- Website -->
