@@ -1,20 +1,15 @@
-
-
-
 <%@page import="java.util.Calendar"%>
 
 <section id="pricinng-box">
-		<center>
-			<div class="box">
-				<div id="box-title">Pricing?</div>
-				<P id="box-text">Picktime is a completely free solution. It is
-					simple and extremely easy to use. It is the only scheduling
-					platform where you can manage both your personal and business
-					calendars all in one place. Signup now!</P>
-				<div class="btn-lg"><a href="/register">SIGNUP FOR FREE</a></div>
-			</div>
-		</center>
-	</section>
+	<div class="box">
+		<div id="box-title">Pricing?</div>
+		<P id="box-text">Picktime is a completely free solution. It is
+			simple and extremely easy to use. It is the only scheduling
+			platform where you can manage both your personal and business
+			calendars all in one place. Signup now!</P>
+		<div class="btn-lg"><a href="/register">SIGNUP FOR FREE</a></div>
+	</div>
+</section>
 
 <!-- -------------------------------Footer---------start------------------------------>
  <section id="picktime">
@@ -24,26 +19,26 @@
 	        <a href="/"><img src="/webassets/2021/img/pick-time-logo-footer.svg" alt="picktime-white-logo" style=""></a> 
 	        <ul class="icons clearfix">
 	        	<li>
-	        		<a style="color: #fbfbfb;" href="https://www.facebook.com/picktimeIn/" target="_blank" role="button" rel="noreferrer"><i class="icon-web-facebook" id="social-media-icons"></i></a>
+	        		<a style="color: #fbfbfb;" href="https://www.facebook.com/picktimeIn/" target="_blank" role="button" rel="noreferrer"><i class="icon-web-facebook social-media-icons"></i></a>
 	        	</li>
 	        	<li>
-	        		<a style="color: #fbfbfb;" href="https://www.instagram.com/accounts/login/" target="_blank" role="button" rel="noreferrer"><i class="icon-instagram" id="social-media-icons"></i></a>
+	        		<a style="color: #fbfbfb;" href="https://www.instagram.com/accounts/login/" target="_blank" role="button" rel="noreferrer"><i class="icon-instagram social-media-icons"></i></a>
 	        	</li>
 	        	<li>
-	        		<a style="color: #fbfbfb;" href="https://twitter.com/picktimeIn" target="_blank" role="button" rel="noreferrer"><i class="icon-twitter" id="social-media-icons"></i></a>
+	        		<a style="color: #fbfbfb;" href="https://twitter.com/picktimeIn" target="_blank" role="button" rel="noreferrer"><i class="icon-twitter social-media-icons"></i></a>
 	        	</li>
 	        	<li>
-	        		<a style="color: #fbfbfb;" href="https://www.youtube.com/channel/UCpKYjRX3FpcNJvzbgnl4B6w" target="_blank" role="button" rel="noreferrer"><i class="icon-web-youtube" id="social-media-icons"></i></a>
+	        		<a style="color: #fbfbfb;" href="https://www.youtube.com/channel/UCpKYjRX3FpcNJvzbgnl4B6w" target="_blank" role="button" rel="noreferrer"><i class="icon-web-youtube social-media-icons" style="position: absolute;margin-top: 4px;"></i></a>
 	        	</li>
 	        </ul>
 	       <ul class="terms-holder">
 	         <li><a target="_blank" href="legal/privacy">Privacy Policy</a></li>
 	         <li><a target="_blank" href="/legal/cookie">Cookie Policy</a></li>
-	         <li><a target="_blank" href="/legal/enduser">End User Licence Agreement</a></li>
+	         <li><a target="_blank" href="legal/terms">Terms</a></li>
 	       </ul>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-6">
-        <div class="row" id="f-6">
+        <div class="row internal-links-holder" id="f-6">
           <div class="col-lg-4 col-md-4 col-sm-4">
               <ul>
                 <li><a href="/integrations">Integrations</a></li>
@@ -62,9 +57,9 @@
           </div>
           <div class="col-lg-4 col-md-4 col-sm-4">
              <ul>
-                <li><a target="_blank" href="/legal/gdpr">GDPR</a></li>
-                <li><a target="_blank" href="legal/terms">Terms</a></li>
+                <li>&nbsp;</li>
                 <li><a target="_blank" href="/careers">Careers</a></li>
+                <li><a target="_blank" href="/legal/gdpr">GDPR</a></li>
              </ul>
           </div>
         </div>

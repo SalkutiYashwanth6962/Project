@@ -182,21 +182,21 @@
          <div class="f-b-o-h-with-i">
       <img src="/webassets/2021/img/icons/features/Booking-Froms_icon.svg" class="icons" alt="Booking-Forms">
            <div class="f-b-o-h"><h3><a href="/features/booking-forms">Booking Forms</a></h3></div>
-           <p>Turn your Website into a Booking Engine.</p>
+           <p>Get to know your customers with customized forms.</p>
          </div>
        </div>
        <div class="col-lg-4 col-md-4 col-sm-4">
          <div class="f-b-o-h-with-i">
        <img src="/webassets/2021/img/icons/features/Vouchers-and-Discounts_icon.svg" class="icons" alt="Vouchers-and-Discounts">
            <div class="f-b-o-h"><h3><a href="/features/vouchers-discounts">Vouchers & Discounts</a></h3></div>
-           <p>Avoid No-shows & missed appointments. Save time</p>
+           <p>Notify customers about latest offers and discounts.</p>
          </div>
        </div>
        <div class="col-lg-4 col-md-4 col-sm-4">
          <div class="f-b-o-h-with-i">
        <img src="/webassets/2021/img/icons/features/Reviews_icon.svg" class="icons" alt="Reviews">
            <div class="f-b-o-h"><h3><a href="/features/reviews">Reviews</a></h3></div>
-           <p>View end to end detailed reports of all your business activities</p>
+           <p>Get the right feedback from your customers.</p>
          </div>
        </div>
      </div>
@@ -219,18 +219,18 @@
 			<div class="f-c-s-x"><h2>FOR TRAINERS</h2></div>
 			<div class="f-c-b-x"><h2>Don’t get suffocated with over crowded classes</h2></div>
 			 <div class="row">
-			       <div class="col-md-6"><img alt="Class-Bookings" src="/webassets/2021/img/What-is-picktime-group-booking.svg" id="dammy"><h3>Class Bookings</h3></div>
-			       <div class="col-md-6"><img alt="Class-Packs" src="/webassets/2021/img/icons/features/Class-Packs_icon.svg" id="dammy"><h3>Class Packs</h3></div>
+			       <div class="col-xs-6"><img alt="Class-Bookings" src="/webassets/2021/img/What-is-picktime-group-booking.svg" id="dammy"><h3>Class Bookings</h3></div>
+			       <div class="col-xs-6"><img alt="Class-Packs" src="/webassets/2021/img/icons/features/Class-Packs_icon.svg" id="dammy"><h3>Class Packs</h3></div>
 			 </div>
 			 
 			 <div class="row">
-			       <div class="col-md-6"><img alt="Attendance" src="/webassets/2021/img/icons/features/Attendance_icon.svg" id="dammy"><h3>Attendance</h3></div>
-			       <div class="col-md-6"><img alt="Waitlist" src="/webassets/2021/img/icons/features/Waitlist_icon.svg" id="dammy"><h3>Waitlist</h3></div>
+			       <div class="col-xs-6"><img alt="Attendance" src="/webassets/2021/img/icons/features/Attendance_icon.svg" id="dammy"><h3>Attendance</h3></div>
+			       <div class="col-xs-6"><img alt="Waitlist" src="/webassets/2021/img/icons/features/Waitlist_icon.svg" id="dammy"><h3>Waitlist</h3></div>
 			 </div>
 			 
 			 <div class="row">
-			       <div class="col-md-6"><img alt="Print-Agenda" src="/webassets/2021/img/icons/features/Print-Agenda_icon.svg" id="dammy"><h3>Print Agenda</h3></div>
-			       <div class="col-md-6"><img alt="Show-open-slots" src="/webassets/2021/img/icons/features/Show-open-slots_icon.svg" id="dammy"><h3>Show open slots</h3></div>
+			       <div class="col-xs-6"><img alt="Print-Agenda" src="/webassets/2021/img/icons/features/Print-Agenda_icon.svg" id="dammy"><h3>Print Agenda</h3></div>
+			       <div class="col-xs-6"><img alt="Show-open-slots" src="/webassets/2021/img/icons/features/Show-open-slots_icon.svg" id="dammy"><h3>Show open slots</h3></div>
 			 </div>
 			 
 			 

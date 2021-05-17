@@ -1,98 +1,100 @@
-@charset "ISO-8859-1";
+#features-body-section h2 {
+	font: normal normal bold 20px/24px Samsung Sharp Sans;
+	letter-spacing: 0px;
+	color: #8A2BE2;
+	margin: 10px 0px;
+}
 
+#features-body-section p {
+	color: #000000;
+	opacity: 1;
+	font-size: 20px;
+	font-weight: 400;
+	padding: 15px 0px;
+	line-height: 35px;
+}
 
-    #features-body-section h2{
-	 font: normal normal bold 20px/24px Samsung Sharp Sans;
-    letter-spacing: 0px;
-    color: #8A2BE2;
-    margin: 10px 0px;
-	 
-	}
-	#features-body-section p{
-	font: 15px/23px;
-    font-weight: bold;
-    color: #000000;
-    opacity: 1;
-    line-height: 22px;
-    letter-spacing: 0.22p
-	
-	}
-	
-	#features-body-section #feature_sec{
+#features-body-section #feature_sec {
 	margin: 40px 0px;
-	}
-	
-	/* wave start */
+}
+
+/* wave start */
 #industries_services {
-margin-top: -27px;
-height: 450px;
-background: #F0F2F8 0% 0% no-repeat padding-box;
+	margin-top: -27px;
+	height: 450px;
+	background: #F0F2F8 0% 0% no-repeat padding-box;
 }
 
 #industries_services .main_title  h1 {
-text-align: center;
-font: normal normal bold 40px/50px Samsung Sharp Sans;
-margin: 170px 0px 20px 0px;
+	text-align: center;
+	font: normal normal bold 40px/50px Samsung Sharp Sans;
+	margin: 220px 0px 20px 0px;
 }
-#industries_wave_banner{
-	    margin-top: -144px;
+
+#industries_wave_banner {
+	margin-top: -144px;
 }
-@media only screen and (max-width:2560px){
-#industries_wave_banner{
-	    margin-top: -210px;
+
+@media only screen and (max-width:2560px) {
+	#industries_wave_banner {
+		margin-top: -210px;
+	}
+	#industries_services {
+		height: 600px;
+	}
 }
-#industries_services {
-	  height: 600px;
+
+@media only screen and (max-width:1880px) {
+	#industries_wave_banner {
+		margin-top: -168px;
+	}
 }
+
+@media only screen and (max-width:1440px) {
+	#industries_wave_banner {
+		margin-top: -144px;
+	}
 }
-@media only screen and (max-width:1880px){
-	#industries_wave_banner{
-	    margin-top: -168px;
+
+@media only screen and (max-width:1199px) {
+	#industries_wave_banner {
+		margin-top: -114px;
+	}
 }
-}
-@media only screen and (max-width:1440px){
-	#industries_wave_banner{
-	    margin-top: -144px;
-}
-}
-@media only screen and (max-width:1199px){
-	#industries_wave_banner{
-	    margin-top: -114px;
-}
-}
-@media only screen and (max-width:991px){
-#industries_services .main_title h1{
+
+@media only screen and (max-width:991px) {
+	#industries_services .main_title h1 {
 		font: normal normal bold 24px/30px Samsung Sharp Sans;
 		text-align: center;
 		margin: 120px 0px 20px 0px;
 	}
 	#industries_services .i-s-m {
-	margin: 0px 0px 0px 0px;
-   }
+		margin: 0px 0px 0px 0px;
+	}
 	#industries_services {
 		height: 300px;
 	}
-	#industries_wave_banner{
-	    margin-top: -82px;
+	#industries_wave_banner {
+		margin-top: -82px;
+	}
+	.main-subtitle {
+		font-size: 15px;
+		padding: 10px 50px;
+	}
 }
 
-
-.main-subtitle{
-	font-size: 15px;
-    padding: 10px 50px;
-}
-}	
-@media only screen and (max-width:591px){
-#industries_servicesyy-body .i-t-s {
+@media only screen and (max-width:591px) {
+	#industries_servicesyy-body .i-t-s {
 		margin: 30px 0px 20px 50px;
 	}
-	#industries_wave_banner{
-	    margin-top: -60px;
+	#industries_wave_banner {
+		margin-top: -60px;
+	}
 }
-}	
+
 @media only screen and (max-width:425px) {
-	#industries_wave_banner{
-	  margin-top: -52px;
-}
+	#industries_wave_banner {
+		margin-top: -52px;
+	}
 }
 /* wave end */

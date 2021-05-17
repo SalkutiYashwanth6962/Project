@@ -40,6 +40,8 @@ a:hover {
 }
 .navbar-default .navbar-toggle {
   border-color: #8b22e2;
+  padding: 15px;
+  margin: 0px 20px 0px 0px;
 }
 .navbar-toggle:hover {
   background-color: #fff !important;
@@ -60,14 +62,22 @@ a:hover {
 
 .navbar-nav .signup-btn-banner {
   color: #fff !important;
-  border: solid 2px #8b23e2;
+  border: 2px solid #8b22e2;
 }
 
 .navbar-nav .signup-btn-banner:hover {
-  background: F0F2F8 !important;
-  border: 2px solid #8b22e2;
+  background: #9c48e2 !important;
   border-radius: 27px;
-  color: #8b22e2 !important;
+}
+
+.signup-btn-banner {
+  color: #fff !important;
+  border: 2px solid #8b22e2;
+}
+
+.signup-btn-banner:hover {
+  background: #9c48e2 !important;
+  border-radius: 27px;
 }
 
 .navbar-nav li a:hover {
@@ -77,10 +87,9 @@ a:hover {
 }
 
 .navbar-brand img {
-  margin: 20px 0px 0px 0px;
-  width: 170px;
+  margin: 10px 0px 0px 0px;
+  width: 220px;
   padding: 0px;
-  /* margin-top: -14px; */
 }
 
 .navbar-brand img1 {
@@ -110,10 +119,11 @@ a:hover {
   background-color: #f0f2f8;
   /* margin-top: -27px;  */
   margin-top: 100px;
+  padding-bottom: 50px;
 }
 
 #banners .col-md-6 .b-t-y h1 {
-  font: normal normal bold 40px/50px Samsung Sharp Sans;
+  font: normal normal bold 50px/60px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #312b2b;
   padding-top: 15px;
@@ -125,17 +135,15 @@ a:hover {
 }
 
 #banners .col-md-6 .b-p-y {
-  font: 15px/18px;
-  font-weight: bold;
+  font-size: 20px;
+  font-weight: 400;
   padding: 15px 0px;
-  line-height: 22px;
-  letter-spacing: 0.22px;
+  line-height: 35px;
 }
 
 #banners .col-md-6 .btn-lg {
-  width: 47%;
-  padding-top: 12px;
-  padding-bottom: 12px;
+  width: 250px;
+  padding: 16px 0px;
   color: #fff;
   font-size: 15px;
   font-weight: bold;
@@ -192,28 +200,27 @@ a:hover {
   background: #ffffff;
 }
 
-#what-is-picktime .col-md-5 .w-s-y h2 {
+#what-is-picktime .col-md-6 .w-s-y h2 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
-  margin-top: 79px;
+  margin-top: 120px;
 }
 
-#what-is-picktime .col-md-5 .w-b-y h3 {
+#what-is-picktime .col-md-6 .w-b-y h3 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
 }
 
-#what-is-picktime .col-md-5 .w-p-y {
-  font: 15px/23px;
+#what-is-picktime .col-md-6 .w-p-y {
   color: #000000;
   opacity: 1;
-  font-weight: bold;
-  padding: 15px 25px 10px 0px;
-  line-height: 22px;
-  letter-spacing: 0.22px;
+  /* padding: 15px 25px 10px 0px; */
+  line-height: 35px;
+  font-size: 20px;
+  font-weight: 400;
 }
 
-#what-is-picktime .col-md-5 .btn-lg {
+#what-is-picktime .signup-btn-banner{
   width: 60%;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -229,11 +236,15 @@ a:hover {
   transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
-#what-is-picktime .col-md-7 p {
-  margin-left: 5px;
-  margin-top: 10px;
+#what-is-picktime .col-md-6 p {
+  /* margin-left: 5px; */
+  /* margin-top: 15px; */
+  padding-top: 10px;
 }
 
+img.what-is-picktime-img{
+	height: 140px;
+}
 /*==========what is picktime***end==========*/
 
 /*==========Calender***start==========*/
@@ -242,32 +253,31 @@ a:hover {
   background-image: url(/webassets/2021/img/mountains.svg);
   background-repeat: repeat-x;
   background-position: center;
-  padding-top: 255px;
+  padding-top: 200px;
 }
 
 #calenders .col-md-6 .c-s-x h2 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   color: #8a2be2;
   margin-left: 70px;
-  padding-top: 150px;
+  padding-top: 100px;
 }
 
 #calenders .col-md-6 .c-b-x h3 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   margin-left: 70px;
-  padding: 10px 0px;
+  margin-bottom: 10px;
 }
 
 #calenders .col-md-6 .c-p-x {
-  font: 15px/23px;
   color: #000000;
   opacity: 1;
-  font-weight: bold;
   margin-left: 70px;
-  padding: 10px 10px 0px 0px;
-  line-height: 22px;
   letter-spacing: 0.22px;
   margin-bottom: 130px;
+  line-height: 30px;
+  font-size: 20px;
+  font-weight: 400;
 }
 
 #calenders .col-md-6 #bg-cal {
@@ -279,8 +289,8 @@ a:hover {
 #calenders .col-md-6 #img-cal {
   position: absolute;
   margin-left: -400px;
-  /* left: 248px; */
   top: 67px;
+  width: 100%;
 }
 
 /*==========Calender***end==========*/
@@ -288,7 +298,7 @@ a:hover {
 /*==========online booking***start==========*/
 
 #onlinebooking {
-  margin: 150px 0px;
+  margin: 100px 0px;
 }
 
 #onlinebooking .col-md-6 .o-s-y h2 {
@@ -296,7 +306,7 @@ a:hover {
   letter-spacing: 0px;
   color: #8a2be2;
   opacity: 1;
-  padding-top: 150px;
+  padding-top: 100px;
 }
 
 #onlinebooking .col-md-6 .o-b-y h3 {
@@ -304,17 +314,18 @@ a:hover {
   letter-spacing: 0px;
   color: #000000;
   opacity: 1;
-  /* padding: 20px 120px 0px 0px; */
+  margin-bottom: 20px;
 }
 
 #onlinebooking .col-md-6 .o-p-y {
-  font: 15px/23px;
-  font-weight: bold;
   color: #000000;
   opacity: 1;
-  padding: 10px 150px 0px 0px;
-  line-height: 22px;
+  /* padding: 10px 150px 0px 0px; */
   letter-spacing: 0.22px;
+  line-height: 30px;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 20px;
 }
 
 #onlinebooking .col-md-6 .btn-lg {
@@ -363,7 +374,7 @@ a:hover {
   letter-spacing: 0px;
   color: #8a2be2;
   margin-left: 50px;
-  padding-top: 90px;
+  padding-top: 70px;
 }
 
 #payment .col-md-6 .p-b-x h3 {
@@ -371,18 +382,17 @@ a:hover {
   color: #000000;
   opacity: 1;
   margin-left: 50px;
-  /* 	padding: 20px 50px 10px 0px; */
+  margin-bottom: 20px;
 }
 
 #payment .col-md-6 .p-p-x {
-  font: 15px/23px;
-  font-weight: bold;
   color: #000000;
   opacity: 1;
   margin-left: 50px;
-  padding: 10px 70px 0px 0px;
-  line-height: 22px;
   letter-spacing: 0.22px;
+  line-height: 30px;
+  font-size: 20px;
+  font-weight: 400;
 }
 
 #payment .col-md-6 .btn-lg-p-x {
@@ -444,17 +454,18 @@ a:hover {
   letter-spacing: 0px;
   color: #000000;
   opacity: 1;
-  /* padding: 0px 60px 0px 0px; */
+  margin-bottom: 20px;
 }
 
 #vedio .col-md-6 .v-p-y {
-  font: 15px/23px;
-  font-weight: bold;
   color: #000000;
   opacity: 1;
-  padding: 10px 140px 10px 0px;
-  line-height: 22px;
+  /* padding: 10px 140px 10px 0px; */
   letter-spacing: 0.22px;
+  line-height: 30px;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 20px;
 }
 
 #vedio .col-md-6 .btn-lg {
@@ -490,7 +501,7 @@ a:hover {
 #multiple {
   height: 800px;
   background: #f0f2f8 0% 0% no-repeat;
-  padding-top: 230px;
+  padding-top: 150px;
   margin-top: -10px;
 }
 
@@ -499,7 +510,7 @@ a:hover {
   letter-spacing: 0px;
   color: #8a2be2;
   opacity: 1;
-  padding-top: 150px;
+  padding-top: 120px;
 }
 
 #multiple .col-md-6 .m-b-x h3 {
@@ -507,17 +518,17 @@ a:hover {
   letter-spacing: 0px;
   color: #000000;
   opacity: 1;
-  /* padding: 10px 50px 10px 0px; */
+  margin-bottom: 20px;
 }
 
 #multiple .col-md-6 .m-p-x {
-  font: 15px/23px;
-  font-weight: bold;
   color: #000000;
   opacity: 1;
-  padding: 10px 125px 10px 0px;
-  line-height: 22px;
+  /* padding: 10px 125px 10px 0px; */
   letter-spacing: 0.22px;
+  line-height: 30px;
+  font-size: 20px;
+  font-weight: 400;
 }
 
 #multiple .col-md-6 .btn-lg {
@@ -560,7 +571,7 @@ a:hover {
 /*==========REMINDERS***start==========*/
 
 #reminders {
-  margin: 150px 0px;
+  margin: 100px 0px;
 }
 
 #reminders .col-md-6 .r-s-y h2 {
@@ -576,17 +587,17 @@ a:hover {
   letter-spacing: 0px;
   color: #000000;
   opacity: 1;
-  /* padding: 10px 110px 0px 0px; */
+  margin-bottom: 20px;
 }
 
 #reminders .col-md-6 .r-p-y {
-  font: 15px/23px;
-  font-weight: bold;
   color: #000000;
   opacity: 1;
-  padding: 10px 145px 10px 0px;
-  line-height: 22px;
+  /* padding: 10px 145px 10px 0px; */
   letter-spacing: 0.22px;
+  line-height: 30px;
+  font-size: 20px;
+  font-weight: 400;
 }
 
 #reminders .col-md-6 .btn-lg {
@@ -646,24 +657,25 @@ a:hover {
   color: #000000;
   opacity: 1;
   margin-left: 50px;
-  /* padding: 20px 0px 10px 0px; */
+  margin-bottom: 20px;
 }
 
 #class-booking .col-md-6 .c-p-x {
-  font: 15px/23px;
-  font-weight: bold;
   color: #000000;
   opacity: 1;
   margin-left: 50px;
-  padding: 10px 70px 0px 0px;
-  line-height: 22px;
+  /* padding: 10px 70px 0px 0px; */
   letter-spacing: 0.22px;
+  line-height: 30px;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 20px;
 }
 
 #class-booking .col-md-6 .btn-lg-c-x {
   width: 40%;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   color: #fff;
   font-weight: bold;
   letter-spacing: 0.12px;
@@ -698,7 +710,7 @@ a:hover {
   background: #f7f8fc 0% 0% no-repeat padding-box;
   opacity: 1;
   margin-bottom: 45px;
-  margin-top: 300px;
+  margin-top: 100px;
 }
 
 #feature .col-lg-6 .f-b-y h2 {
@@ -708,11 +720,15 @@ a:hover {
 }
 
 #feature .col-lg-6 .f-p-y {
-  font-weight: bold;
   opacity: 1;
   position: relative;
   z-index: 1;
-  padding: 10px 190px 10px 0px;
+  padding: 0;
+  line-height: 30px;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  text-align: left;
 }
 
 #feature .col-lg-6 p {
@@ -727,8 +743,8 @@ a:hover {
 
 #feature .col-lg-6 .btn8 {
   width: 40%;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   color: #fff;
   font-weight: bold;
   letter-spacing: 0.12px;
@@ -782,7 +798,7 @@ a:hover {
 
 #feature .col-lg-6 #box-con {
   text-align: center;
-  font-weight: bold;
+  font-weight: 500;
 }
 
 #feature .col-lg-6 .box2 {
@@ -940,22 +956,24 @@ a:hover {
   color: #000000;
   opacity: 1;
   padding: 200px 150px 0px 0px;
+  margin-bottom: 20px;
 }
 
 #book-from-any-where .col-md-6 .b-p-y {
-  font: 15px/23px;
-  font-weight: bold;
   color: #000000;
   opacity: 1;
   padding: 10px 145px 10px 0px;
-  line-height: 22px;
   letter-spacing: 0.22px;
+  line-height: 30px;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 20px;
 }
 
 #book-from-any-where .col-md-6 .btn-lg {
   width: 40%;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   color: #fff;
   font-weight: bold;
   letter-spacing: 0.12px;
@@ -1167,6 +1185,12 @@ a:hover {
 }
 
 /*==========boook from anywhere at anytime***end==========*/
+
+
+#carousel2{
+  margin-bottom: 100px;
+}
+
 
 /*==========connecting app***start==========*/
 
@@ -1631,7 +1655,7 @@ a:hover {
   margin-bottom: 10px;
   color: #8c16e2;
   margin-left: 3px;
-  margin-bottom: 33px;
+  margin-bottom: 15px;
 }
 
 #love-by-evryine #right-icon {
@@ -1650,11 +1674,9 @@ a:hover {
 }
 
 #love-by-evryine .carousel-inner p {
-  /* margin: 0px 100px 0px 70px;	 */
-  font: 15px/23px;
-  font-weight: bold;
-  line-height: 22px;
-  letter-spacing: 0.22px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 25px;
 }
 
 /* Control buttons  */
@@ -1786,7 +1808,7 @@ a:hover {
   margin-bottom: -170px;
 }
 
-#picktime #social-media-icons {
+#picktime .social-media-icons {
   padding: 0px;
   font-size: 30px;
 }
@@ -1838,6 +1860,10 @@ a:hover {
   list-style: none;
   padding: 8px;
 }
+.internal-links-holder li {
+  list-style: none;
+  padding: 8px;
+}
 #picktime ul li a {
   color: white;
 }
@@ -1854,13 +1880,6 @@ a:hover {
 /* Home page-Responsive web site */
 
 @media only screen and (max-width: 1199px) {
-  /* #what-is-picktime .col-md-8 ul .text,
-	#what-is-picktime .col-md-8 ul .pic {
-		padding: 30px;
-	} */
-  /* #featured-on .grey-images ul li {
-		padding: 25px;
-	} */
   #pricing .btn9 {
     margin-left: 360px;
   }
@@ -1924,12 +1943,15 @@ a:hover {
 
   #multiple .col-md-6 #img-m {
     margin-top: 60px;
-  }
+  }  
 }
 
 @media only screen and (max-width: 991px) {
+  .container>.navbar-header{    
+    padding: 25px 0px;
+  }
   /*===== big titles========= */
-  #what-is-picktime .col-md-5 .w-b-y h3,
+  #what-is-picktime .col-md-6 .w-b-y h3,
   #calenders .col-md-6 .c-b-x h3,
   #onlinebooking .col-md-6 .o-b-y h3,
   #payment .col-md-6 .p-b-x h3,
@@ -1949,7 +1971,7 @@ a:hover {
     text-align: center;
   }
   /*========= small titles========= */
-  #what-is-picktime .col-md-5 .w-s-y h2,
+  #what-is-picktime .col-md-6 .w-s-y h2,
   #calenders .col-md-6 .c-s-x h2,
   #onlinebooking .col-md-6 .o-s-y h2,
   #payment .col-md-6 .p-s-x h2,
@@ -1963,7 +1985,7 @@ a:hover {
     text-align: center;
   }
   /*========Button============ */
-  #what-is-picktime .col-md-5 .btn-lg,
+  #what-is-picktime .col-md-6 .btn-lg,
   #onlinebooking .col-md-6 .btn-lg,
   #payment .col-md-6 .btn-lg-p-x,
   #vedio .col-md-6 .btn-lg,
@@ -1974,25 +1996,29 @@ a:hover {
   #book-from-any-where .col-md-6 .btn-lg,
   #pricing .btn9 {
     font-size: 15px;
-    margin-left: 200px;
+    margin-left: auto;
+    margin-right: auto;
     padding: 10px 0px;
     width: 40%;
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
   }
   /*navbar  */
   .navbar-brand img {
-    margin: 10px 0px 0px 0px;
-    width: 100px;
+    margin: 0px 0px 0px 0px;
+    margin-top: -20px;
   }
   .navbar .btn {
     /* margin-top: 15px;  */
     padding: 10px 0px;
     width: 100px;
     height: 40px;
-    margin-top: 20px;
-    margin-left: 0px;
+    margin-top: 35px;
+    /* margin-left: 0px; */
   }
   .navbar-nav li a {
-    margin: 10px 0px 0px 0px;
+    margin: 30px 30px 0px 0px;
   }
   /* banners */
 
@@ -2001,7 +2027,7 @@ a:hover {
 	} */
 
   #banners {
-    margin-top: 20px;
+    margin-top: 50px;
   }
 
   #banners .col-md-6 .img-banner {
@@ -2009,13 +2035,12 @@ a:hover {
     padding-top: 15px;
   }
   #banners .col-md-6 .b-t-y h1 {
-    font: normal normal bold 25px/30px Samsung Sharp Sans;
+    font: normal normal bold 30px/40px Samsung Sharp Sans;
     text-align: center;
   }
   #banners .col-md-6 .btn-lg {
     width: 100%;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    /* padding: 18px 0px; */
   }
   #banners .col-md-6 .b-p-y {
     line-height: 25px;
@@ -2026,22 +2051,18 @@ a:hover {
     margin-top: 30px;
   }
   /* what is pick time */
-  #what-is-picktime .col-md-5 .w-p-y {
+  #what-is-picktime .col-md-6 .w-p-y {
     /* margin-left: 0px;
 		padding: 10px 0px 0px 0px; */
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
-  }
-  #what-is-picktime .col-md-7 {
-    display: none;
+    font-size: 18px;
   }
   #what-is-picktime {
     margin: -2px 0px;
   }
-  /* #what-is-picktime .col-md-4 .w-b-y h3 {
-    padding: 15px 0px 10px 0px;
-     } */
+
   /*calenders */
   #calenders {
     background-image: none;
@@ -2073,6 +2094,7 @@ a:hover {
     letter-spacing: 0.22px;
     text-align: center;
     margin-bottom: 10px;
+    font-size: 18px;
   }
   /*onlinebooking  */
   #onlinebooking {
@@ -2089,6 +2111,7 @@ a:hover {
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
+    font-size: 18px;
   }
   #onlinebooking .col-md-6 #bg-o {
     display: none;
@@ -2118,6 +2141,7 @@ a:hover {
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
+    font-size: 18px;
   }
   #payment .col-md-6 #img-p,
   #payment .col-md-6 #bg-p {
@@ -2142,6 +2166,7 @@ a:hover {
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
+    font-size: 18px;
   }
   #vedio .col-md-6 #img-v {
     margin-top: 50px;
@@ -2172,6 +2197,7 @@ a:hover {
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
+    font-size: 18px;
   }
   /* reminders */
   #reminders {
@@ -2194,6 +2220,7 @@ a:hover {
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
+    font-size: 18px;
   }
   /* payment */
   #class-booking {
@@ -2213,6 +2240,7 @@ a:hover {
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
+    font-size: 18px;
   }
   #class-booking .col-md-6 #img-c,
   #class-booking .col-md-6 #bg-c {
@@ -2233,6 +2261,8 @@ a:hover {
   }
   #feature .col-lg-6 .f-p-y {
     padding: 10px 0px 0px 0px;
+    font-size: 18px;
+    text-align: center;
   }
   #feature .col-lg-6 .btn8 {
     display: none;
@@ -2305,6 +2335,7 @@ a:hover {
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
+    font-size: 18px;
   }
 
   .shape-ani {
@@ -2392,7 +2423,7 @@ a:hover {
     width: 150px;
     margin: 100px 0px 0px 0px;
   }
-  #picktime #social-media-icons {
+  #picktime .social-media-icons {
     font-size: 25px;
   }
   #picktime #f-6 {
@@ -2410,7 +2441,15 @@ a:hover {
 @media only screen and (max-width: 767px) {
   .navbar-brand img {
     margin: 0px 0px 0px 0px;
-    width: 100px;
+    /* width: 130px; */
+    margin-top: -20px;
+  }
+  .navbar-nav li a{
+    
+margin: 20px 0px 0px 0px;
+  }
+  .navbar .btn {
+    margin-top: 20px;
   }
   /* #banners{
 	margin-top: 40px;
@@ -2426,13 +2465,17 @@ a:hover {
   #featured-on .imageColumn {
     padding: 10px;
   }
+  img.what-is-picktime-img{
+    
+height: 80px;
+  }
 }
 
 /*=============Mobile Responsive=================*/
 
 @media only screen and (max-width: 540px) {
   /*====Button====universal-selectors========*/
-  #what-is-picktime .col-md-5 .btn-lg,
+  #what-is-picktime .col-md-6 .btn-lg,
   #onlinebooking .col-md-6 .btn-lg,
   #payment .col-md-6 .btn-lg-p-x,
   #vedio .col-md-6 .btn-lg,
@@ -2466,7 +2509,7 @@ a:hover {
 
 @media only screen and (max-width: 480px) {
   /*====Button==universal-selectors====*/
-  #what-is-picktime .col-md-5 .btn-lg,
+  #what-is-picktime .col-md-6 .btn-lg,
   #onlinebooking .col-md-6 .btn-lg,
   #payment .col-md-6 .btn-lg-p-x,
   #vedio .col-md-6 .btn-lg,
@@ -2605,10 +2648,10 @@ a:hover {
 }
 
 #features .f-s-m h2 {
-  font: normal normal bold 20px/62px Samsung Sharp Sans;
+  font: normal normal bold 20px/25px Samsung Sharp Sans;
   color: #8b22e2;
   text-align: center;
-  margin: 0px 0px 10px 0px;
+  margin: 0px;
 }
 
 #features .f-b-m h2 {
@@ -2617,17 +2660,17 @@ a:hover {
   color: #000000;
   opacity: 1;
   text-align: center;
+  margin-top: 20px;
 }
 
 #features .f-p-m {
   text-align: center;
-  font: 15px/23px;
-  font-weight: 600;
   color: #000000;
   opacity: 1;
-  padding: 29px 169px 30px 182px;
-  line-height: 22px;
-  letter-spacing: 0.22px;
+  padding: 20px 90px;
+  line-height: 35px;
+  font-size: 20px;
+  font-weight: 400;
 }
 
 #features .btn-lg {
@@ -2702,25 +2745,24 @@ a:hover {
 }
 
 #for-buiness-owners p {
-  font: 15px/23px;
-  font-weight: 500;
+  font-size: 16px;
+  font-weight: 400;
   color: #000000;
   opacity: 1;
-  padding: 10px 105px 20px 0px;
+  padding: 10px 10px;
   line-height: 22px;
   letter-spacing: 0.22px;
 }
 
 #for-buiness-owners .icons {
-  /* width: 20%; */
+  width: 50px;
   height: 50px;
- /*  padding: 5px; */
   margin-bottom: 5px;
 }
 
 #spacing {
-  margin-bottom: 50px;
-  margin-left: 130px;
+  margin-bottom: 40px;
+  margin-left: 100px;
 }
 
 /*===For Buinesss owners====End=====*/
@@ -2748,27 +2790,30 @@ a:hover {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
-  padding: 120px 0px 10px 0px;
+  padding: 120px 0px 0px 0px;
 }
 
 #for-class .col-md-6 .f-c-b-x h2 {
   font: normal normal bold 40px/44px Samsung Sharp Sans;
-  color: #CE7D7D;
+  color: #000000;
   opacity: 1;
-  padding: 20px 0px 10px 0px;
+  padding: 00px 0px 10px 0px;
 }
 
 #for-class h3 {
-  font: normal normal 500 15px/24px Raleway;
+  font: normal normal 400 14px/24px Raleway;
   width: 80%;
   float: right;
-  margin-top: 5px;
+  margin-top: 16px;
+  padding-left: 5px;
+  font-size: 16px;
   font-weight: 600;
+  line-height: 20px;
 }
 
 #for-class #dammy {
   width: 20%;
-  height: 40px;
+  /* height: 50px; */
   padding: 5px;
 }
 
@@ -2819,7 +2864,7 @@ a:hover {
 #for-team .manage-team img {
   width: 70px;
   height: 70px;
-  padding: 10px;
+  /* padding: 10px; */
 }
 
 #for-team .manage-team .title h3 {
@@ -2827,8 +2872,8 @@ a:hover {
 }
 
 #for-team .manage-team p {
-  font: 15px/23px;
-  font-weight: 500;
+  font-size: 16px;
+  font-weight: 400;
   color: #000000;
   opacity: 1;
   padding: 0px 130px 0px 0px;
@@ -2843,14 +2888,13 @@ a:hover {
 #pricinng-box .box {
   background-color: white;
   opacity: 0.9;
-  transform: scale();
   position: relative;
-  margin: -120px 27px -220px;
+  margin: -120px auto -220px;
   box-shadow: 0px 2px 20px #0000002b;
-  /*  box-shadow: 0px 0px 15px; */
   border-radius: 10px;
   padding: 46px;
-  width: 850px;
+  width: 1000px;
+  text-align: center;
 }
 
 #pricinng-box .box .btn-lg {
@@ -2865,9 +2909,13 @@ a:hover {
   text-align: center;
   box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
   transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  margin: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 #pricinng-box .box .btn-lg a {
   color: white;
+  font-weight: bold;
 }
 
 #pricinng-box #box-title {
@@ -2879,14 +2927,21 @@ a:hover {
 }
 
 #pricinng-box #box-text {
-  font: 15px/23px;
-  font-weight: bold;
   color: #000000;
   opacity: 1;
-  padding: 10px 80px 10px 90px;
-  line-height: 22px;
+  padding: 15px 80px;
+  /* line-height: 22px; */
   letter-spacing: 0.22px;
   text-align: center;
+  line-height: 30px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+@media only screen and (max-width: 1024px) {
+  #pricinng-box .box{    
+    width: 800px;
+  }  
 }
 
 /*===Pricing====End=====*/
@@ -2923,8 +2978,8 @@ a:hover {
   #features .f-p-m {
     margin-left: 0px;
     padding: 10px 0px 0px 0px;
-    line-height: 25px;
-    letter-spacing: 0.22px;
+    line-height: 30px;
+    font-size: 18px;
     text-align: center;
   }
   /*=====button======  */
@@ -2975,7 +3030,10 @@ a:hover {
     display: none;
   }
   #for-class .col-md-6 #img-p {
-    display: none;
+    /* display: none; */
+    width: 100%;
+    margin-top: 0px;
+    margin-left: 0px;
   }
   #for-team .f-t-b-i img {
     width: 100%;
@@ -2983,6 +3041,9 @@ a:hover {
   }
   #for-class .manage-team {
     margin: 50px 0px;
+  }
+  #for-class h3{
+    /* margin-top: 27px; */
   }
   #pricinng-box .box {
     margin: -38px 20px -170px;
@@ -3068,7 +3129,7 @@ a:hover {
 /*===integration====start=====*/
 
 #integration {
-  margin-top: -27px;
+  /* margin-top: -27px; */
   height: 450px;
   background: #f0f2f8 0% 0% no-repeat padding-box;
 }
@@ -3076,15 +3137,16 @@ a:hover {
 #integration .i-b-m h1 {
   text-align: center;
   font: normal normal bold 40px/50px Samsung Sharp Sans;
-  margin: 170px 0px 20px 0px;
+  margin: 180px 0px 20px 0px;
 }
 
 #integration .i-s-m {
-  font-weight: 600;
-  line-height: 22px;
   letter-spacing: 0.22px;
   text-align: center;
-  margin: 0px 300px 0px 300px;
+  margin: 0px 240px;
+  line-height: 35px;
+  font-size: 20px;
+  font-weight: 400;
 }
 #wave1 {
   margin-top: -144px;
@@ -3095,7 +3157,7 @@ a:hover {
 /*===INTEGRATION BODY====START=====*/
 
 #integration-body {
-  margin: 20px 0px 120px 0px;
+  margin: 20px 0px 200px 0px;
 }
 
 #integration-body .integration-title {
@@ -3134,14 +3196,14 @@ a:hover {
 }
 
 #integration-body p {
-  font: 15px/23px;
-  font-weight: 500;
   /*  padding: 10px 35px 20px 100px; */
   /* padding: 10px 70px; */
   line-height: 28px;
   letter-spacing: 0.22px;
   text-align: left;
   max-width: 220px;
+  font-size: 16px;
+  font-weight: 400;
 }
 
 /*===INTEGRATION body====END=====*/
@@ -3188,10 +3250,12 @@ a:hover {
 
   #integration .i-s-m {
     margin: 0px 0px 0px 0px;
+    font-size: 18px;
+    line-height: 30px;
   }
 
   #integration {
-    height: 300px;
+    height: 400px;
   }
   #integration-body .i-t-s {
     /* margin: 10px 0px 10px 0px; */
@@ -3206,7 +3270,7 @@ a:hover {
   }
 
   #pricinng-box .box {
-    margin: -38px 20px -170px;
+    margin: -38px auto -170px;
     width: 550px;
   }
   #pricinng-box #box-title {
@@ -3222,7 +3286,8 @@ a:hover {
 
 @media only screen and (max-width: 591px) {
   #pricinng-box .box .btn-lg {
-    font-size: 10px;
+    font-size: 14px;
+    font-weight: bold;
   }
   /* #integration-body .i-t-s {
 		margin: 30px 0px 20px 50px;
@@ -3518,10 +3583,11 @@ a:hover {
 }
 
 #industries_services .main-subtitle {
-  font-size: 25px;
-  padding: 20px 250px;
+  padding: 20px 220px;
   text-align: center;
-  font-weight: bold;
+  line-height: 35px;
+  font-size: 20px;
+  font-weight: 400;
 }
 
 #industries .align-items-stretch {
@@ -3641,24 +3707,32 @@ a:hover {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
-  padding-top: 120px;
+  padding-top: 80px;
 }
 #apps-body p {
-  font-weight: bold;
   color: #000000;
   opacity: 1;
-  padding: 10px 150px 0px 0px;
-  line-height: 22px;
-  letter-spacing: 0.22px;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 15px 0px;
+  line-height: 30px;
 }
 #apps-body .col-md-6.mobile-app-image img {
   margin: 0 auto;
   width: auto;
+  padding: 0px 70px;
+}
+#apps-body{
+	margin: 0px 0px 250px;
 }
 
 #apps-body #mobile-main {
   margin: 0 auto;
   /* padding: 20px;   */
+}
+.appsPage-body > div{
+  
+margin-top: 100px;
 }
 
 @media only screen and (max-width: 991px) {

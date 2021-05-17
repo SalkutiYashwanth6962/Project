@@ -37,8 +37,8 @@
 <!--every page  wave-->
 <section id="industries_services">
 		<div class="container">
-			<div class="main_title" style="color:#8B22E2;"><h1>Who use Picktime?</h1></div>
-			<div class="main-subtitle">Picktime helps you stay stress free by organising appointments for you.</div>
+			<div class="main_title" style="color:#8B22E2;"><h1>Who can use Picktime?</h1></div>
+<!-- 			<div class="main-subtitle">Picktime helps you stay stress free by organising appointments for you.</div> -->
 		</div>
 </section>
 <img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">

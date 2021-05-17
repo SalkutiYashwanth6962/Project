@@ -37,34 +37,53 @@
 	<!-- ------------------------------------banner------------------------------------->
 	<section id="banners">
 		<div class="container">
-			<div
-				class="col-md-6">
-				<div class="b-t-y">
-					<h1>Your search for <span>the perfect scheduling tool</span> ends here</h1>
+			<div class="row">
+				<div class="col-md-6">
+					<div class="b-t-y">
+						<h1><span>Simplified Scheduling</span> <br>for everyone</h1>
+					</div>
+					<p class="b-p-y">Free online Appointment scheduling software with Payments, Invoicing, Sales, Reporting, Customer & Team management.</p>
+					<a  href="/login"><button class="btn-lg text-center signup-btn-banner">GET STARTED FOR FREE</button></a>
 				</div>
-				<p class="b-p-y">Stay Organised and manage your business from a single place. Payments, Invoicing, Sales, Reporting, Customer data- we got you.</p>
-				<a  href="/login"><div class="btn-lg text-center">GET STARTED FOR FREE</div></a>
-			</div>
-			<div class="col-md-6">
-				<img src="\webassets\2021\img\picktime-hero-new.svg" class="img-banner"  alt="Picktime-free-online-appointment-scheduling-app">
+				<div class="col-md-6">
+					<img src="\webassets\2021\img\picktime-hero-new.svg" class="img-banner"  alt="Picktime-free-online-appointment-scheduling-app">
+				</div>
 			</div>
 		</div>
-		<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="wave">
+<!-- 		<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="wave"> -->
 	</section>
 <!-- ------------------------------------what is picktime--------------------------------------------->
 	<section id="what-is-picktime">
 		<div class="container">
-			<div class="col-md-5">
+			<div class="col-md-6">
 				<div class="w-s-y"><h2>WHAT IS PICKTIME</h2></div>
 				<div class="w-b-y"><h3>One Platform. For any Business</h3></div>
 				<p class="w-p-y">Schedule your Appointments, Classes, and Interviews with Picktime. Easily manage your Rooms and Equipment with a few clicks.</p>
-				<a href="/industries"><div class="btn-lg text-center">LEARN MORE</div></a>
+				<a class="hidden-sm hidden-xs" href="/features"><button class="btn-lg signup-btn-banner text-center">LEARN MORE</button></a>
 			</div>
-			<div class="col-md-7" style="margin-top: 120px;">
-			
-			   <div class="col-sm-4  text-center"><img alt="Picktime-features-Group-booking" src="/webassets/2021/img/What-is-picktime-group-booking.svg" id="img-sm"><p><b>Class Bookings</b></p></div>
-			   <div class="col-sm-4 text-center"><img alt="Picktime-features-room-equipment" src="/webassets/2021/img/What-is-picktime-rooms-euipment.svg" id="img-sm"><p><b>Rooms &amp; Equipment</b></p></div>
-			   <div class="col-sm-4 text-center"><img alt="Picktime-appointments" src="/webassets/2021/img/What-is-picktime-appointment.svg" style="margin-bottom: 30px;" id="img-sm"><p><b>Appointments</b></div>
+			<div class="col-md-6 clearfix">
+			   <div class="col-sm-12 hidden-xs hidden-sm" style="margin-top: 120px;"></div>
+			   <div class="col-sm-4 text-center">
+				   	<div>
+				   		<img class="what-is-picktime-img" alt="Picktime-appointments" src="/webassets/2021/img/What-is-picktime-appointment.svg">
+				   	</div>
+				   	<p><b>Appointments</b>
+			   	</div>
+			   <div class="col-sm-4 text-center">
+			   		<div>
+				   		<img class="what-is-picktime-img" alt="Picktime-features-Group-booking" src="/webassets/2021/img/What-is-picktime-group-booking.svg">
+				   	</div>
+			   		<p><b>Class Bookings</b></p>
+			   	</div>
+			   <div class="col-sm-4 text-center">
+			   		<div>
+				   		<img class="what-is-picktime-img" alt="Picktime-features-room-equipment" src="/webassets/2021/img/What-is-picktime-rooms-euipment.svg">
+				   	</div>
+			   		<p><b>Rooms &amp; Equipment</b></p>
+		   		</div>
+			</div>
+			<div class="col-md-12 text-center" style="margin: 20px 0px">
+				<a class="hidden-md hidden-lg" href="/industries"><button class="btn-lg signup-btn-banner text-center">LEARN MORE</button></a>
 			</div>
 		</div>
 	</section>
@@ -72,7 +91,7 @@
 	<section id="calenders">
 		<div class="container-fluid">
 			<div class="container">
-				<div class="col-md-6">
+				<div class="col-md-6 hidden-xs hidden-sm">
 				   <!-- 	<img src="/webassets/2021/img/testsvgg.svg" id="img-c"> -->
 				    <img src="/webassets/2021/img/Calendars-Sync-section-bg.svg" alt="" id="bg-cal" alt="Sync-with-Google-Calendar-Outlook-Calendar-and-Apple-Calendar-background">
 					<img src="/webassets/2021/img/Calendars-Sync-section.svg" alt="Sync-with-Google-Calendar-Outlook-Calendar-and-Apple-Calendar" id="img-cal" alt="picktime">
@@ -81,10 +100,14 @@
 				<div class="col-md-6">
 					<div class="c-s-x"><h2>CALENDAR SYNC</h2></div>
 					<div class="c-b-x"><h3>Sync with all your favorite Calendars</h3></div>
-					<p class="c-p-x">Manage your business and personal calendar seamlessly. 
-Have the perfect work-life balance with Picktime. Sync 
-with Google, Outlook, Office 365, Microsoft Exchange &
-Apple Calendars (iCloud).</p>
+					<p class="c-p-x">Avoid clashes between your work and personal schedules. Sync with Google, 
+						Outlook, Office 365, Exchange & iCloud Calendars and 
+						show your availability real time. 
+						No more double bookings or missed meetings.
+					</p>
+				</div>
+				<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
+					<img src="/webassets/2021/img/Calendars-Sync-section.svg" alt="Sync-with-Google-Calendar-Outlook-Calendar-and-Apple-Calendar" id="img-cal" alt="picktime">
 				</div>
 			</div>
 		</div>
@@ -97,7 +120,7 @@ Apple Calendars (iCloud).</p>
 					<div class="o-s-y"><h2>ONLINE BOOKING</h2></div>
 					<div class="o-b-y"><h3>Take bookings 24x7</h3></div>
 					<p class="o-p-y">With our Online Booking feature, your clients can make bookings 24x7. All you have to do is signup, create your online booking page, set your booking Rules and share it with your clients.</p>
-					<a href="/register"><div class="btn-lg text-center">SIGNUP FOR FREE</div></a>
+					<a href="/register"><button class="btn-lg text-center signup-btn-banner">SIGNUP FOR FREE</button></a>
 				</div>
 				<div class="col-md-6">
 					<div class="bg1">
@@ -136,7 +159,7 @@ Apple Calendars (iCloud).</p>
 				<div class="v-s-y"><h2>VIDEO MEETING INTEGRATION</h2></div>
 				<div class="v-b-y"><h3>Connect with your clients all around the world</h3></div>
 				<p class="v-p-y">Integrate with Google Meet, Microsoft Teams, Zoom, GoToMeeting and Jitsi Meet. Manage your Virtual Meetings and Classes right from Picktime.</p>
-				<a href="/integrations"><div class="btn-lg text-center">LEARN MORE</div></a>
+				<a href="/integrations"><button class="btn-lg text-center signup-btn-banner">LEARN MORE</button></a>
 			</div>
 			<div class="col-md-6">
 				<div class="bg2">
@@ -163,7 +186,6 @@ Apple Calendars (iCloud).</p>
 					<div class="m-s-x"><h2>MULTIPLE LOCATION MANAGMENT</h2></div>
 					<div class="m-b-x"><h3>Manage all your Business Locations in one place</h3></div>
 					<p class="m-p-x">Keep track of what is happening at your other business location even if it is miles away. Manage all your business activities from a single dashboard.</p>
-					<!-- <div class="btn-lg text-center">SIGNUP FOR FREE</div> -->
 				</div>
 			</div>
 		</div>
@@ -203,7 +225,7 @@ Apple Calendars (iCloud).</p>
 				<div class="c-s-x"><h2>CLASS BOOKINGS</h2></div>
 				<div class="c-b-x"><h3>Manage your classes with Ease</h3></div>
 				<p class="c-p-x">Manage your Classes, Attendance, Memberships, Class-packs all From your Picktime calendar.</p>
-				<a href="/register"><button class="btn-lg-c-x">SIGNUP FOR FREE</button></a>
+				<a href="/register"><button class="btn-lg-c-x signup-btn-banner">SIGNUP FOR FREE</button></a>
 			</div>
 		</div>
 	</div>
@@ -218,7 +240,7 @@ Apple Calendars (iCloud).</p>
 			<div class="f-b-y"><h2>Features</h2></div>
 			<p class="f-p-y">Everything you need for your business in one
 				place.</p>
-				<a href="/features"><button class="btn8">VIEW MORE</button></a>
+				<a href="/features"><button class="btn8 signup-btn-banner">VIEW MORE</button></a>
 		</div>
 		<div class="col-lg-6" id="box-section">
 			<div class="box1" data-aos="flip-left" data-aos-delay="100">
@@ -283,7 +305,7 @@ Apple Calendars (iCloud).</p>
 				<div class="b-b-y"><h2>Book from anywhere. At anytime</h2></div>
 				<p class="b-p-y">All you need is an internet connection and
 					Mobile, Laptop or a Tablet.</p>
-				<a href="/apps"><div class="btn-lg text-center">LEARN MORE</div></a>
+				<a href="/apps"><button class="btn-lg text-center signup-btn-banner">LEARN MORE</button></a>
 			</div>
 			<div class="col-md-6">
 				<div class="bg1">
@@ -513,8 +535,6 @@ margin-left: 26px;
 			<div id="carousel" class="carousel slide" data-ride="carousel" data-type="multi" data-interval="2500">
 				<div class="carousel-inner">
 				
-				
-				
 					<div class="item active">
 					    <div class="carousel-col">
 							<div class="items">
@@ -558,108 +578,92 @@ margin-left: 26px;
 				            </div>
 					    </div>
 					</div>
-	<div class="item">
-		<div class="carousel-col">
-			<div class="items">
-		        <div class="silder-box">
-				     <div class="s-b-img">
-					<center><img src="/webassets/2021/img/icons/Event-management_icon.svg" alt="Event-Management-Scheduling-Software"></center>
-				    </div>
-				    <div class="s-b-title"><h1><a href="/scheduling-software/events">Event Management</a></h1></div>
-				     <div class="s-b-par">Picktime event management software gives you the right tools to manage your staff, resources and and clients for free.</div>
-		        </div>
-            </div>
-		</div>
-	</div>				
-			
-	<div class="item">
-		<div class="carousel-col">
-			<div class="items">
-		        <div class="silder-box">
-				     <div class="s-b-img">
-					<center><img src="/webassets/2021/img/icons/Financial-services_icon.svg" alt="Financial-Services-Scheduling-Software"></center>
-				    </div>
-				    <div class="s-b-title"><h1><a href="/scheduling-software/financial-services">Financial Services</a></h1></div>
-				     <div class="s-b-par">With the huge responsibilites like managing hard earned finances, it is important to worry less about the clerical work of your business. Enjoy free services with Picktime.</div>
-		        </div>
-            </div>
-		</div>
-	</div>		
-			
-	<div class="item">
-		<div class="carousel-col">
-			<div class="items">
-		        <div class="silder-box">
-				     <div class="s-b-img">
-					<center><img src="/webassets/2021/img/icons/legal-services_icon.svg" alt="Legal-Services-Scheduling-Software"></center>
-				    </div>
-				    <div class="s-b-title"><h1><a href="/scheduling-software/legal">Legal Services</a></h1></div>
-				     <div class="s-b-par">Maintaining a steady client base is just as important as maintaining Law. Let your clients know your when you are free through our appointment booking service.</div>
-		        </div>
-            </div>
-		</div>
-	</div>				
+					<div class="item">
+						<div class="carousel-col">
+							<div class="items">
+						        <div class="silder-box">
+								     <div class="s-b-img">
+									<center><img src="/webassets/2021/img/icons/Event-management_icon.svg" alt="Event-Management-Scheduling-Software"></center>
+								    </div>
+								    <div class="s-b-title"><h1><a href="/scheduling-software/events">Event Management</a></h1></div>
+								     <div class="s-b-par">Picktime event management software gives you the right tools to manage your staff, resources and and clients for free.</div>
+						        </div>
+				            </div>
+						</div>
+					</div>				
+							
+					<div class="item">
+						<div class="carousel-col">
+							<div class="items">
+						        <div class="silder-box">
+								     <div class="s-b-img">
+									<center><img src="/webassets/2021/img/icons/Financial-services_icon.svg" alt="Financial-Services-Scheduling-Software"></center>
+								    </div>
+								    <div class="s-b-title"><h1><a href="/scheduling-software/financial-services">Financial Services</a></h1></div>
+								     <div class="s-b-par">With the huge responsibilites like managing hard earned finances, it is important to worry less about the clerical work of your business. Enjoy free services with Picktime.</div>
+						        </div>
+				            </div>
+						</div>
+					</div>		
+							
+					<div class="item">
+						<div class="carousel-col">
+							<div class="items">
+						        <div class="silder-box">
+								     <div class="s-b-img">
+									<center><img src="/webassets/2021/img/icons/legal-services_icon.svg" alt="Legal-Services-Scheduling-Software"></center>
+								    </div>
+								    <div class="s-b-title"><h1><a href="/scheduling-software/legal">Legal Services</a></h1></div>
+								     <div class="s-b-par">Maintaining a steady client base is just as important as maintaining Law. Let your clients know your when you are free through our appointment booking service.</div>
+						        </div>
+				            </div>
+						</div>
+					</div>				
+									
+				 <div class="item">
+						<div class="carousel-col">
+							<div class="items">
+						        <div class="silder-box">
+								     <div class="s-b-img">
+									<center><img src="/webassets/2021/img/icons/doctor-medical _icon.svg" alt="Doctors-and-Medical-Clinics-Scheduling-Software"></center>
+								    </div>
+								    <div class="s-b-title"><h1><a href="/scheduling-software/dentists">Doctors and Medical Clinics</a></h1></div>
+								     <div class="s-b-par">User friendly features and tools that let you have a hasslefree and stressfree day. Start your free account today for scheduling your patient appointments.</div>
+						        </div>
+				            </div>
+						</div>
+					</div>	
 					
- <div class="item">
-		<div class="carousel-col">
-			<div class="items">
-		        <div class="silder-box">
-				     <div class="s-b-img">
-					<center><img src="/webassets/2021/img/icons/doctor-medical _icon.svg" alt="Doctors-and-Medical-Clinics-Scheduling-Software"></center>
-				    </div>
-				    <div class="s-b-title"><h1><a href="/scheduling-software/dentists">Doctors and Medical Clinics</a></h1></div>
-				     <div class="s-b-par">User friendly features and tools that let you have a hasslefree and stressfree day. Start your free account today for scheduling your patient appointments.</div>
-		        </div>
-            </div>
-		</div>
-	</div>	
-	
-	
-	<div class="item">
-		<div class="carousel-col">
-			<div class="items">
-		        <div class="silder-box">
-				     <div class="s-b-img">
-					<center><img src="/webassets/2021/img/icons/Education_icon.svg" alt="Education-Scheduling-Software"></center>
-				    </div>
-				    <div class="s-b-title"><h1><a href="/scheduling-software/universities">Education</a></h1></div>
-				     <div class="s-b-par">Do you want to know how many of your students will be attending your class today? Use Picktime for all your class bookings and appoinments. No credit cards required - It's totally free.</div>
-		        </div>
-            </div>
-		</div>
-	</div>		
-	
-	<div class="item">
-		<div class="carousel-col">
-			<div class="items">
-		        <div class="silder-box">
-				     <div class="s-b-img">
-					<center><img src="/webassets/2021/img/icons/Interview_icon.svg" alt="Interview-Scheduling-Software"></center>
-				    </div>
-				    <div class="s-b-title"><h1><a href="/scheduling-software/interview">Interview Scheduling</a></h1></div>
-				     <div class="s-b-par">Everybody wants to put their free time for better use and we understand that. Use our free and smart scheduling software that makes your managing your business faster and smoother.</div>
-		        </div>
-            </div>
-		</div>
-	</div>		
+					
+					<div class="item">
+						<div class="carousel-col">
+							<div class="items">
+						        <div class="silder-box">
+								     <div class="s-b-img">
+									<center><img src="/webassets/2021/img/icons/Education_icon.svg" alt="Education-Scheduling-Software"></center>
+								    </div>
+								    <div class="s-b-title"><h1><a href="/scheduling-software/universities">Education</a></h1></div>
+								     <div class="s-b-par">Do you want to know how many of your students will be attending your class today? Use Picktime for all your class bookings and appoinments. No credit cards required - It's totally free.</div>
+						        </div>
+				            </div>
+						</div>
+					</div>		
+					
+					<div class="item">
+						<div class="carousel-col">
+							<div class="items">
+						        <div class="silder-box">
+								     <div class="s-b-img">
+									<center><img src="/webassets/2021/img/icons/Interview_icon.svg" alt="Interview-Scheduling-Software"></center>
+								    </div>
+								    <div class="s-b-title"><h1><a href="/scheduling-software/interview">Interview Scheduling</a></h1></div>
+								     <div class="s-b-par">Everybody wants to put their free time for better use and we understand that. Use our free and smart scheduling software that makes your managing your business faster and smoother.</div>
+						        </div>
+				            </div>
+						</div>
+					</div>		
 		
 				</div>
-
-			
-				<!--  <div class="left carousel-control">
-					<a href="#carousel" role="button" data-slide="prev">
-						<span class="icon-web-arrow-left" aria-hidden="true" id="leftarrow"></span>
-						<span class="sr-only">Previous</span>
-					</a>
-				</div>
-				<div class="right carousel-control">
-					<a href="#carousel" role="button" data-slide="next">
-						<span class="fa fa-chevron-circle-right" aria-hidden="true" id="rightarrow"></span>
-						<span class="sr-only">Next</span>
-					</a>
-				</div>  -->
-				
-				
 			</div>
 
 		</div>
@@ -800,8 +804,8 @@ margin-left: 26px;
 
 
                 </div>
-                <a class="left carousel-control" href="#myCarousel" data-slide="prev"><i class="icon-web-arrow-left" style="font-size: x-large;"></i></a>
-                <a class="right carousel-control" href="#myCarousel" data-slide="next"><i class="icon-web-arrow-right" style="font-size: x-large;"></i></a>
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev"><i class="icon-web-arrow-left"></i></a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next"><i class="icon-web-arrow-right"></i></a>
                 
                 <!-- <ol class="carousel-indicators">
                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -826,7 +830,8 @@ margin-left: 26px;
   margin-bottom: 0;
 }
 .carousel-control.left, .carousel-control.right {
-  background-image:none !important;
+    background: #fff;
+    font-size: 35px;
 }
 .carousel-control {
   color:#fff;
@@ -843,7 +848,8 @@ margin-left: 26px;
   color: #8B22E2;
 }
 .carousel-control.left, .carousel-control.right {
-  background-image:none !important;
+    background: #fff;
+    font-size: 35px;
 }
 .carousel-control.right {
   left:auto;
@@ -852,7 +858,7 @@ margin-left: 26px;
 }
 .carousel-control.left {
   right:auto;
-  left:-45px;
+  left:-70px;
   /* background: blue; */
 }
 
@@ -895,22 +901,23 @@ margin-left: 26px;
 }
   .silder-boxs .s-b-title h1 {
   color: #9a32e6;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: bold;
-  margin: 5px;
+  margin-top: 10px;
   text-align: center;
   
 }
-
 .silder-boxs .s-b-title h1 a{
-color: #9a32e6;
+	color: #9a32e6;
+	font: normal normal bold 18px/24px Samsung Sharp Sans;
 }
 .silder-boxs .s-b-par {
-  padding: 10px;
-  text-align: center;
-  font-weight: bold;
-  line-height: 22px;
-  letter-spacing: 0.22px;
+     padding: 10px;
+   text-align: center;
+   line-height: 24px;
+   letter-spacing: 0.22px;
+   font-size: 16px;
+   font-weight: 400;
 }
    .carousel-control > a > span {
     color: #8b22e2;
@@ -1078,47 +1085,16 @@ margin: 0px;
 					id="quote-carousel">
 					<!--  Bottom Carousel Indicators -->
 					<ol class="carousel-indicators">
-						<li data-target="#quote-carousel" data-slide-to="0"
-							class="active"></li>
+						<li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
 						<li data-target="#quote-carousel" data-slide-to="1"></li>
 						<li data-target="#quote-carousel" data-slide-to="2"></li>
 					</ol>
 					<!--  Carousel Slides / Quotes -->
 					<div class="carousel-inner">
-						<!-- Quote 1 -->
-						<div class="item active">
-							<blockquote>
-								<div class="row">
-
-									<div class="col-sm-6">
-										<p>
-											<i class="icon-quote-left" aria-hidden="true"
-												id="left-icon"></i>This program is very essential for us, because it helps us to schedule the appointments we have with colleagues from other companies, clients and new staff of the organization. Every time we schedule an appointment there is never a clash of schedules, because Picktime has everything under control.<i class="icon-quote-right"
-												aria-hidden="true" id="right-icon"></i>
-										</p>
-										<small>Ava Nataile W</small>
-									</div>
-
-
-									<div class="col-sm-6">
-										<p>
-											<i class="icon-quote-left" aria-hidden="true"
-												id="left-icon"></i>Great Free Software. I have had a great overall experience with Picktime. It has been great to have a link I can send to my customers for them to follow and schedule an appointment. I love that this is free! This is a great way to schedule appointments and allow an online option so customers can go directly and schedule.<i class="icon-quote-right"
-												aria-hidden="true" id="right-icon"></i>
-										</p>
-										<small>beth C</small>
-									</div>
-
-
-								</div>
-							</blockquote>
-						</div>
-						<!--   Quote 2 -->
-						
+						<!--   Quote 1 -->
 						<div class="item">
 							<blockquote>
 								<div class="row">
-
 									<div class="col-sm-6">
 										<p>
 											<i class="icon-quote-left" aria-hidden="true"
@@ -1127,8 +1103,6 @@ margin: 0px;
 										</p>
 										<small>Cassi E</small>
 									</div>
-
-
 									<div class="col-sm-6">
 										<p>
 											<i class="icon-quote-left" aria-hidden="true"
@@ -1137,26 +1111,21 @@ margin: 0px;
 										</p>
 										<small>Nick A</small>
 									</div>
-
-
 								</div>
 							</blockquote>
 						</div>
-						<!--   Quote 3 -->
+						<!--   Quote 2 -->
 						<div class="item">
 							<blockquote>
 								<div class="row">
-
 									<div class="col-sm-6">
 										<p>
 											<i class="icon-quote-left" aria-hidden="true"
 												id="left-icon"></i>Picktime is an excellent organization platform. i use in my day picktime helps to solve my problems and manage my commitments. Picktime The smarttest way to shedule appointments, meeting, classes,interviews and reservations. I love it.<i class="icon-quote-right"
 												aria-hidden="true" id="right-icon"></i>
 										</p>
-										<small>kezi T</small>
+										<small>Kezi T</small>
 									</div>
-
-
 									<div class="col-sm-6">
 										<p>
 											<i class="icon-quote-left" aria-hidden="true"
@@ -1165,12 +1134,32 @@ margin: 0px;
 										</p>
 										<small>Luca C</small>
 									</div>
-
-
 								</div>
 							</blockquote>
 						</div>
-						
+						<!-- Quote 3 -->
+						<div class="item active">
+							<blockquote>
+								<div class="row">
+									<div class="col-sm-6">
+										<p>
+											<i class="icon-quote-left" aria-hidden="true"
+												id="left-icon"></i>This program is very essential for us, because it helps us to schedule the appointments we have with colleagues from other companies, clients and new staff of the organization. Every time we schedule an appointment there is never a clash of schedules, because Picktime has everything under control.<i class="icon-quote-right"
+												aria-hidden="true" id="right-icon"></i>
+										</p>
+										<small>Ava Nataile W</small>
+									</div>
+									<div class="col-sm-6">
+										<p>
+											<i class="icon-quote-left" aria-hidden="true"
+												id="left-icon"></i>Great Free Software. I have had a great overall experience with Picktime. It has been great to have a link I can send to my customers for them to follow and schedule an appointment. I love that this is free! This is a great way to schedule appointments.<i class="icon-quote-right"
+												aria-hidden="true" id="right-icon"></i>
+										</p>
+										<small>Beth C</small>
+									</div>
+								</div>
+							</blockquote>
+						</div>
 					</div>
 
 					<!--   Carousel Buttons Next/Prev -->
@@ -1225,9 +1214,6 @@ margin: 0px;
 	</script>
   
 	<script type="text/javascript">
-	$('#myCarousel').carousel({
-	  interval: 4000
-	});
 	</script>
 
 

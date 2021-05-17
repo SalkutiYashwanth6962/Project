@@ -48,11 +48,11 @@
                          that the user can use it anytime and from anywhere.</p>
 				<a  href="/login"><div class="btn-lg text-center">GET STARTED FOR FREE</div></a>
 			</div>
-			<div class="col-md-6">
+			<div class="col-md-6 hidden-sm hidden-xs">
 			    <img src="/webassets/2021/img/mobile-screens/mobile-screen.svg" class="img-responsive" width="auto" alt="Picktime-Mobile-App" id="mobile-main">
 			</div>
 		</div>
-		<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="wave">
+<!-- 		<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="wave"> -->
 	</section>
 
 <!-- <section id="integration">
@@ -66,14 +66,17 @@
 <img alt="" src="\webassets\2021\img\wavesNegative.svg" id="wave1"> -->
 
 <!---------------------------------Apps--------------start------->
-<section id="apps-body" style="margin-bottom: 140px;">
-		<div class="container  appsPage-body">
+<section id="apps-body">
+		<div class="container appsPage-body">
 			<div class="row">
+				<div class="col-md-6 hidden-md hidden-lg mobile-app-image">
+					<img src="/webassets/2021/img/mobile-screens/picktime-haircut.svg" class="img-responsive" width="250" alt="Mobile Notifications">
+				</div>
 				<div class="col-md-6">
 					<h2>BE ON TRACK</h2>	
 					<p>Know what is happening in your business even when your miles away. Now you don't have to depend on your frontdesk for any information to catch up</p>
 				</div>
-				<div class="col-md-6 mobile-app-image">
+				<div class="col-md-6 visible-md visible-lg  mobile-app-image">
 					<img src="/webassets/2021/img/mobile-screens/picktime-haircut.svg" class="img-responsive" width="250" alt="Mobile Notifications">
 				</div>
 			</div>
@@ -87,17 +90,22 @@
 					<p>Are you a business owner who provide services at your customer place? Now you can check all your upcoming appointments through your mobile or Tablet.</p>
 				</div>
 			</div>
+			
 				
-			<div class="row">		
+			<div class="row">	
+				<div class="col-md-6 hidden-md hidden-lg mobile-app-image">
+					<img src="/webassets/2021/img/mobile-screens/picktime-overview.svg" class="img-responsive" width="250" alt="Picktime Revenue Dashboard">
+				</div>	
 				<div class="col-md-6">
 					<h2>DO WHAT YOU LOVE THE MOST</h2>
 					<p>Spend less time on taking phone calls and filling your appointment books. Create your Picktime account and you never have to worry about your administrative work. </p>
 				</div>
-				<div class="col-md-6 mobile-app-image">
+				<div class="col-md-6 visible-md visible-lg mobile-app-image">
 					<img src="/webassets/2021/img/mobile-screens/picktime-overview.svg" class="img-responsive" width="250" alt="Picktime Revenue Dashboard">
 				</div>
 			</div>
-				
+			
+
 			<div class="row">		
 				<div class="col-md-6 mobile-app-image">
 					<img src="/webassets/2021/img/mobile-screens/picktime-booking-confirmed.svg" class="img-responsive" width="250" alt="Online Booking Page 24/7 Accept Bookings">
