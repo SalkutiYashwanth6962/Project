@@ -19,16 +19,16 @@
 	        <a href="/"><img src="/webassets/2021/img/pick-time-logo-footer.svg" alt="picktime-white-logo" style=""></a> 
 	        <ul class="icons clearfix">
 	        	<li>
-	        		<a style="color: #fbfbfb;" href="https://www.facebook.com/picktimeIn/" target="_blank" role="button" rel="noreferrer"><i class="icon-web-facebook social-media-icons"></i></a>
+	        		<a style="color: #fbfbfb;" href="https://www.facebook.com/picktimeIn" target="_blank" role="button" rel="noreferrer"><i class="icon-web-facebook social-media-icons"></i></a>
 	        	</li>
 	        	<li>
-	        		<a style="color: #fbfbfb;" href="https://www.instagram.com/accounts/login/" target="_blank" role="button" rel="noreferrer"><i class="icon-instagram social-media-icons"></i></a>
+	        		<a style="color: #fbfbfb;" href="https://instagram.com/picktimein" target="_blank" role="button" rel="noreferrer"><i class="icon-instagram social-media-icons"></i></a>
 	        	</li>
 	        	<li>
 	        		<a style="color: #fbfbfb;" href="https://twitter.com/picktimeIn" target="_blank" role="button" rel="noreferrer"><i class="icon-twitter social-media-icons"></i></a>
 	        	</li>
 	        	<li>
-	        		<a style="color: #fbfbfb;" href="https://www.youtube.com/channel/UCpKYjRX3FpcNJvzbgnl4B6w" target="_blank" role="button" rel="noreferrer"><i class="icon-web-youtube social-media-icons" style="position: absolute;margin-top: 4px;"></i></a>
+	        		<a style="color: #fbfbfb;" href="https://www.youtube.com/c/picktimeIn" target="_blank" role="button" rel="noreferrer"><i class="icon-web-youtube social-media-icons" style="position: absolute;margin-top: 4px;"></i></a>
 	        	</li>
 	        </ul>
 	       <ul class="terms-holder">
