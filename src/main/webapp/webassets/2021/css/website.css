@@ -58,12 +58,12 @@ a:hover {
   border: 2px solid rgb(240 242 248 / 0%);
 }
 
-.navbar-nav #signup-btn-banner {
+.navbar-nav .signup-btn-banner {
   color: #fff !important;
   border: solid 2px #8b23e2;
 }
 
-.navbar-nav #signup-btn-banner:hover {
+.navbar-nav .signup-btn-banner:hover {
   background: F0F2F8 !important;
   border: 2px solid #8b22e2;
   border-radius: 27px;
@@ -1829,8 +1829,12 @@ a:hover {
 #footer ul li a {
   color: white;
 }
-
-#picktime ul li {
+.icons li {
+  list-style: none;
+  padding: 8px;
+  float: left;
+}
+.terms-holder li {
   list-style: none;
   padding: 8px;
 }

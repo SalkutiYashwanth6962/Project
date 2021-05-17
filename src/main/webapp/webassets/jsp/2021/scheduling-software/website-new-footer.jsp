@@ -21,17 +21,22 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-6">
-	         <a href="/"><img src="/webassets/2021/img/pick-time-logo-footer.svg" alt="picktime-white-logo" style=""></a> 
-	        <ul class="icons">
-	               <a style="color: #fbfbfb;" href="https://www.facebook.com/picktimeIn/" target="_blank" role="button" rel="noreferrer"><i class="icon-web-facebook" id="social-media-icons"></i></a>
-	               <a style="color: #fbfbfb;" href="https://www.instagram.com/accounts/login/" target="_blank" role="button" rel="noreferrer"><i class="icon-instagram" id="social-media-icons"></i></a>
-	               <a style="color: #fbfbfb;" href="https://twitter.com/picktimeIn" target="_blank" role="button" rel="noreferrer"><i class="icon-twitter" id="social-media-icons"></i></a>
-	               <a style="color: #fbfbfb;" href="https://www.youtube.com/channel/UCpKYjRX3FpcNJvzbgnl4B6w" target="_blank" role="button" rel="noreferrer"><i class="icon-web-youtube" id="social-media-icons"></i></a>
-	              <!--  <a style="color: #fbfbfb;" href="#!" role="button"><i class="fa fa-youtube fa-lg" id="social-media-icons"></i></a> -->
-	               <!-- <a style="color: #fbfbfb;" href="#!" role="button"><i class="fa fa-youtube-play fa-lg" id="social-media-icons"></i></a> -->
-	               
+	        <a href="/"><img src="/webassets/2021/img/pick-time-logo-footer.svg" alt="picktime-white-logo" style=""></a> 
+	        <ul class="icons clearfix">
+	        	<li>
+	        		<a style="color: #fbfbfb;" href="https://www.facebook.com/picktimeIn/" target="_blank" role="button" rel="noreferrer"><i class="icon-web-facebook" id="social-media-icons"></i></a>
+	        	</li>
+	        	<li>
+	        		<a style="color: #fbfbfb;" href="https://www.instagram.com/accounts/login/" target="_blank" role="button" rel="noreferrer"><i class="icon-instagram" id="social-media-icons"></i></a>
+	        	</li>
+	        	<li>
+	        		<a style="color: #fbfbfb;" href="https://twitter.com/picktimeIn" target="_blank" role="button" rel="noreferrer"><i class="icon-twitter" id="social-media-icons"></i></a>
+	        	</li>
+	        	<li>
+	        		<a style="color: #fbfbfb;" href="https://www.youtube.com/channel/UCpKYjRX3FpcNJvzbgnl4B6w" target="_blank" role="button" rel="noreferrer"><i class="icon-web-youtube" id="social-media-icons"></i></a>
+	        	</li>
 	        </ul>
-	       <ul>
+	       <ul class="terms-holder">
 	         <li><a target="_blank" href="legal/privacy">Privacy Policy</a></li>
 	         <li><a target="_blank" href="/legal/cookie">Cookie Policy</a></li>
 	         <li><a target="_blank" href="/legal/enduser">End User Licence Agreement</a></li>
