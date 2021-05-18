@@ -79,7 +79,7 @@
         <ul>
           <li><b style="color:#ffffff; opacity: 1;">Beauty & Wellness</b></li>
           <li><a href="/scheduling-software/beauty-salon">Beauty Salons</a></li>
-          <li><a href="/scheduling-software/hair_salon">Hair Salons</a></li>
+          <li><a href="/scheduling-software/hair-salon">Hair Salons</a></li>
           <li><a href="/scheduling-software/nail-salon">Nail Salons</a></li>
           <li><a href="/scheduling-software/spa">Spa</a></li>
           <li><a href="/scheduling-software/fitness">Fitness Classes</a></li>
