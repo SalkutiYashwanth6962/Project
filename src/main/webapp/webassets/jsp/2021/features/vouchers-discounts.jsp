@@ -37,7 +37,7 @@
 <!--every page  wave-->
 <section id="industries_services">
 		<div class="container">
-			<div class="main_title" style="color:#8B22E2;"><h1>vochers agenda</h1></div>
+			<div class="main_title" style="color:#8B22E2;"><h1>Vouchers & Discounts</h1></div>
 		</div>
 </section>
 <img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
