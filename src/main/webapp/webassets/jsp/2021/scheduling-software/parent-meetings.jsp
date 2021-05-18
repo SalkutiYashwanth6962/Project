@@ -56,7 +56,7 @@
 				<h2>Key Features</h2>
 				<ul>
 					<li>Easy-to-use online system</li>
-					<li>Google Calendar and Microsoft Outlook integration</li>
+					<li>Google, Outlook, Office 365, Exchange and iCloud calendars integration</li>
 					<li>Always-available online access</li>
 					<li>Add Unlimited teachers and class</li>
 					<li>Change schedules to block out certain time slots</li>

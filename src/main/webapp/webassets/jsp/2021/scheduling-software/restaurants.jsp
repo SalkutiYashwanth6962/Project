@@ -65,7 +65,7 @@
 					<li>Table Management</li>
 					<li>Add Unlimited Tables and Services</li>
 					<li>Add Unlimited Staffs</li>
-					<li>Calendar Sync with Google Calendar, Outlook Calendar and more</li>
+					<li>Calendar Sync with Google, Outlook, Office 365, Exchange and iCloud and more</li>
 					<li>Recurring Bookings</li>
 					<li>Access Anytime, Anywhere</li>
 					<li>Booking Widget</li>

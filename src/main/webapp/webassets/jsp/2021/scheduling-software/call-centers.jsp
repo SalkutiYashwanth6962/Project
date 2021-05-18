@@ -68,7 +68,7 @@
 				<h2>Benefits of Picktime for Call Center</h2>
 				<div id="services_sec">
 					<h3>free Appointment Calendar</h3>
-		        	<p>Allow your customers to book their appointments on their own. Sync your google and outlook calendar with picktime and take bookings around your personal meetings.</p>
+		        	<p>Allow your customers to book their appointments on their own. Sync your Google, Outlook, Office 365, Exchange and iCloud calendar with Picktime and take bookings around your personal meetings.</p>
 				</div>
 				<div id="services_sec">
 					<h3>Gather Leads Efficiently</h3>

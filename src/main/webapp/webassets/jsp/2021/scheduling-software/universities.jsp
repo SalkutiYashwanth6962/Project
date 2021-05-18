@@ -81,7 +81,7 @@
 				</div>
 				<div id="services_sec">
 					<h3>Student online booking</h3>
-			       <p>Students can access advisor or professor schedules anywhere, anytime, on any device and book the time that works best. Appointment bookings go straight into advisor's Google calendar or Outlook in real-time and also they get notified through Email and SMS alerts. Creates win-win situations with student empowerment.</p>
+			       <p>Students can access advisor or professor schedules anywhere, anytime, on any device and book the time that works best. Appointment bookings go straight into advisor's Google or Outlook or Office 365 or Exchange or iCloud calendar in real-time and also they get notified through Email and SMS alerts. Creates win-win situations with student empowerment.</p>
 				</div>
 				<div id="services_sec">
 					<h3>Group appointments</h3>

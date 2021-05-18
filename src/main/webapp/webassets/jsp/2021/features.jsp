@@ -39,7 +39,7 @@
 	<div class="container">
 		<div class="i-b-m"><h1>What we offer?</h1></div>
 		<p class="i-s-m">Picktime is packed with powerful features
-			that will help you schedule your appointment, classes, rooms,
+			that will help you schedule your appointments, classes, rooms,
 			equipment, etc. with ease.</p>
 	</div>
 </section>
@@ -113,7 +113,7 @@
        <div class="col-lg-4 col-md-4 col-sm-4">
          <div class="f-b-o-h-with-i">
            <img src="/webassets/2021/img/icons/features/Show-open-slots_icon.svg" class="icons" alt="Team-Management">
-           <div class="f-b-o-h"><h3><a href="/features/team-management">Team Management </a></h3></div>
+           <div class="f-b-o-h"><h3><a href="/features/manage-staff">Team Management </a></h3></div>
            <p>Manage your team`s schedule, bookings & day off’s.</p>
          </div>
        </div>
@@ -163,7 +163,7 @@
        <div class="col-lg-4 col-md-4 col-sm-4">
          <div class="f-b-o-h-with-i">
               <img src="/webassets/2021/img/icons/features/Reminder_icon.svg" class="icons" alt="Reminders">
-           <div class="f-b-o-h"><h3><a href="/features/email-alerts">Reminders</a></h3></div>
+           <div class="f-b-o-h"><h3><a href="/features/reminders">Reminders</a></h3></div>
            <p>Avoid no-shows & missed appointments. Save time</p>
          </div>
        </div>
@@ -189,14 +189,14 @@
          <div class="f-b-o-h-with-i">
        <img src="/webassets/2021/img/icons/features/Vouchers-and-Discounts_icon.svg" class="icons" alt="Vouchers-and-Discounts">
            <div class="f-b-o-h"><h3><a href="/features/vouchers-discounts">Vouchers & Discounts</a></h3></div>
-           <p>Notify customers about the latest offers and discounts.</p>
+           <p>Notify customers about the latest offers and discounts (Coming soon).</p>
          </div>
        </div>
        <div class="col-lg-4 col-md-4 col-sm-4">
          <div class="f-b-o-h-with-i">
        <img src="/webassets/2021/img/icons/features/Reviews_icon.svg" class="icons" alt="Reviews">
            <div class="f-b-o-h"><h3><a href="/features/reviews">Reviews</a></h3></div>
-           <p>Get the right feedback from your customers.</p>
+           <p>Get the right feedback from your customers (Coming soon).</p>
          </div>
        </div>
      </div>
@@ -219,18 +219,18 @@
 			<div class="f-c-s-x"><h2>FOR TRAINERS</h2></div>
 			<div class="f-c-b-x"><h2>Don’t get suffocated with overcrowded classes</h2></div>
 			 <div class="row">
-			       <div class="col-xs-6"><img alt="Class-Bookings" src="/webassets/2021/img/What-is-picktime-group-booking.svg" id="dammy"><h3>Class Bookings</h3></div>
-			       <div class="col-xs-6"><img alt="Class-Packs" src="/webassets/2021/img/icons/features/Class-Packs_icon.svg" id="dammy"><h3>Class Packs</h3></div>
+			       <div class="col-xs-6"><img alt="Class-Bookings" class="class-booking-features" src="/webassets/2021/img/What-is-picktime-group-booking.svg"><h3>Class Bookings</h3></div>
+			       <div class="col-xs-6"><img alt="Class-Packs" class="class-booking-features"  src="/webassets/2021/img/icons/features/Class-Packs_icon.svg"><h3>Class Packs <span style="font-weight: 100;font-size: 12px;">(Coming Soon)</span></h3></div>
 			 </div>
 			 
 			 <div class="row">
-			       <div class="col-xs-6"><img alt="Attendance" src="/webassets/2021/img/icons/features/Attendance_icon.svg" id="dammy"><h3>Attendance</h3></div>
-			       <div class="col-xs-6"><img alt="Waitlist" src="/webassets/2021/img/icons/features/Waitlist_icon.svg" id="dammy"><h3>Waitlist</h3></div>
+			       <div class="col-xs-6"><img alt="Attendance" class="class-booking-features"  src="/webassets/2021/img/icons/features/Attendance_icon.svg"><h3>Attendance</h3></div>
+			       <div class="col-xs-6"><img alt="Waitlist" class="class-booking-features"  src="/webassets/2021/img/icons/features/Waitlist_icon.svg"><h3>Waitlist <span style="font-weight: 100;font-size: 12px;">(Coming Soon)</span></h3></div>
 			 </div>
 			 
 			 <div class="row">
-			       <div class="col-xs-6"><img alt="Print-Agenda" src="/webassets/2021/img/icons/features/Print-Agenda_icon.svg" id="dammy"><h3>Print Agenda</h3></div>
-			       <div class="col-xs-6"><img alt="Show-open-slots" src="/webassets/2021/img/icons/features/Show-open-slots_icon.svg" id="dammy"><h3>Show open slots</h3></div>
+			       <div class="col-xs-6"><img alt="Print-Agenda" class="class-booking-features"  src="/webassets/2021/img/icons/features/Print-Agenda_icon.svg"><h3>Print Agenda</h3></div>
+			       <div class="col-xs-6"><img alt="Show-open-slots" class="class-booking-features"  src="/webassets/2021/img/icons/features/Show-open-slots_icon.svg"><h3>Show open slots</h3></div>
 			 </div>
 			 
 			 
@@ -262,7 +262,7 @@
               </div>
               <div class="media-body">
                <div class="title"><h3>Calendar Sync</h3></div>
-                <p>Sync your Google, Outlook, Office365, Exchange & iCloud calendars with Picktime.</p>
+                <p>Sync your Google, Outlook, Office 365, Exchange and iCloud calendars with Picktime.</p>
               </div>
             </div>
         </div>

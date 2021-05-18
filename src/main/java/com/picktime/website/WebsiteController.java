@@ -20,8 +20,6 @@ public class WebsiteController {
 	Logger log 								=	Logger.getLogger(this.getClass().getName());
 	Gson gson 								=	new GsonBuilder().serializeNulls().create(); 
 	
-	
-	
 	@RequestMapping(value="/")
 	public String root(HttpServletRequest request,HttpServletResponse response) throws IOException
 	{
@@ -37,6 +35,11 @@ public class WebsiteController {
 	@RequestMapping(value="/features/{pageName}")
 	public String featuresPages(HttpServletRequest request,HttpServletResponse response,@PathVariable("pageName") String pageName) throws IOException
 	{
+		if(pageName.equals("sms-remainders"))
+		{
+			response.sendRedirect("/features/reminders");
+			return null;
+		}
 		request.setAttribute("pageName", pageName);
 		return "2021/features/"+pageName;
 	}
@@ -78,8 +81,6 @@ public class WebsiteController {
 		return "2021/careers";
 	}
 	
-	
-	
 	@RequestMapping(value="/pricing")
 	public String pricing(HttpServletRequest request,HttpServletResponse response) throws IOException
 	{
@@ -87,52 +88,17 @@ public class WebsiteController {
 		return "2021/pricing";
 	}
 	
-	
-	
-	
-	
-	
-	/*
-	 * @RequestMapping(value="/features/{pageName}") public String
-	 * featurePages(HttpServletRequest request,HttpServletResponse
-	 * response,@PathVariable("pageName") String pageName) throws IOException {
-	 * return "2021/features/"+pageName; }
-	 */
-	
-	/*
-	 * @RequestMapping(value="/apps") public String apps(HttpServletRequest
-	 * request,HttpServletResponse response) throws IOException { return
-	 * "mobile-apps"; }
-	 */
-	
 	@RequestMapping(value="/faqs")
 	public void faqs(HttpServletRequest request,HttpServletResponse response) throws IOException
 	{
 		response.sendRedirect("https://support.picktime.com/container/show/14452");
 	}
 	
-	
-	
-
-	
-	/*
-	 * @RequestMapping(value="/scheduling-software/{pageName}") public String
-	 * individualPages(HttpServletRequest request,HttpServletResponse
-	 * response,@PathVariable("pageName") String pageName) throws IOException {
-	 * return "scheduling-software/"+pageName; }
-	 */
-	
 	@RequestMapping(value="/business/{pageName}")
 	public String landingPages(HttpServletRequest request,HttpServletResponse response,@PathVariable("pageName") String pageName) throws IOException
 	{
 		return "2021/business/"+pageName;
 	}
-	
-	
-	
-	
-	
-	
 	
 	@RequestMapping(value="/legal/privacy")
 	public String privacy(HttpServletRequest request,HttpServletResponse response) throws IOException

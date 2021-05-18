@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Psychologists Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Picktime is a free online psychologist appointment scheduling software that allows you to create a unique appointment page for your business so that your patients can book appointments with you directly. Picktime connects to your Google and Outlook calendar and assures that your patients never get double booked.">
+    <meta name="description" content="Picktime is a free online psychologist appointment scheduling software that allows you to create a unique appointment page for your business so that your patients can book appointments with you directly. Picktime connects to your Google, Outlook, Office 365, Exchange and iCloud calendar and assures that your patients never get double booked.">
     <meta name="keywords" content="Online Booking System for Psychologists, Psychologists Scheduling Software, Psychologists scheduling software, Therapy appointment scheduling software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
 	
@@ -20,12 +20,12 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a free online psychologist appointment scheduling software that allows you to create a unique appointment page for your business so that your patients can book appointments with you directly. Picktime connects to your Google and Outlook calendar and assures that your patients never get double booked." />
+	<meta property="og:description" content="Picktime is a free online psychologist appointment scheduling software that allows you to create a unique appointment page for your business so that your patients can book appointments with you directly. Picktime connects to your Google, Outlook, Office 365, Exchange and iCloud calendar and assures that your patients never get double booked." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a free online psychologist appointment scheduling software that allows you to create a unique appointment page for your business so that your patients can book appointments with you directly. Picktime connects to your Google and Outlook calendar and assures that your patients never get double booked." />
+	<meta name="twitter:description" content="Picktime is a free online psychologist appointment scheduling software that allows you to create a unique appointment page for your business so that your patients can book appointments with you directly. Picktime connects to your Google, Outlook, Office 365, Exchange and iCloud calendar and assures that your patients never get double booked." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
@@ -63,7 +63,7 @@
 				<p>Picktime is a free online psychologist appointment scheduling
 					software that allows you to create a unique appointment page for
 					your business so that your patients can book appointments with you
-					directly. Picktime connects to your Google and Outlook calendar and
+					directly. Picktime connects to your Google, Outlook, Office 365, Exchange and iCloud calendar and
 					assures that your patients never get double booked. Why is Picktime
 					such a good fit for psychologists? Because it is designed to fit
 					seamlessly around your personal meetings. As professional

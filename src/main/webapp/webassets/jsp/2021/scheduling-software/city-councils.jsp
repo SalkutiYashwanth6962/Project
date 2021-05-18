@@ -78,7 +78,7 @@
 				</div>
 				<div id="services_sec">
 					<h3>Sync other calendars</h3>
-	         		<p>Integrate appointments with Microsoft Exchange/Outlook or Google Calendar for convenient calendar management. Schedules update as appointments inevitably change to ensure staff makes the most of their time. Connect citizen data at the point of service delivery to save time and provide a great service.</p>
+	         		<p>Integrate appointments with Google, Outlook, Office 365, Exchange and iCloud calendar with Picktime for convenient calendar management. Schedules update as appointments inevitably change to ensure staff makes the most of their time. Connect citizen data at the point of service delivery to save time and provide a great service.</p>
 				</div>
 				<div id="services_sec">
 					<h3 class="service-desc-title">Efficient Use</h3>

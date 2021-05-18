@@ -49,10 +49,10 @@
 <div id="features-body-section" style="margin-bottom: 200px;">
 	<div class="container">
 		<div id="feature_sec">
-        <P>Do you get tired having to shuffle between your branches located at different locations? Our team at picktime understands the effort you put into shuffling between your business and trying to divide your time between each location.</P>		
+        <P>Do you get tired having to shuffle between your branches located at different locations? Our team at Picktime understands the effort you put into shuffling between your business and trying to divide your time between each location.</P>		
      	</div>
 		<div id="feature_sec">
-        <P>Picktime automatically detects your client’;s location and lets them book appointment in any of your branch location.</P>
+        <P>Picktime automatically detects your client's location and lets them book appointment in any of your branch location.</P>
 		</div>
 </div>
 </div>

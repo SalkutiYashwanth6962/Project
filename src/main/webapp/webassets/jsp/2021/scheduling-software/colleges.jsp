@@ -145,7 +145,7 @@
 					<h3 class="service-desc-title">Customized Emails and Calendar</h3>
 					<p>Send fully customizable booking confirmations and reminders
 						to reduce last minute cancellations and no-shows. Picktime can
-						sync with your Google or Outlook calendar. Then you are able to
+						Sync your Google, Outlook, Office 365, Exchange and iCloud calendars. Then you are able to
 						easily manage students, move or cancel bookings and contact
 						customers directly within the dashboard.</p>
 					<br>

@@ -86,7 +86,7 @@
 					<li>Easy to use, clean and clear interface</li>
 					<li>Access with any device - Windows, Mac, iPad, iPhone and Android</li>
 					<li>Automated Reminders</li>
-					<li>Outlook and Google Calendar Sync</li>
+					<li>Google, Outlook, Office 365, Exchange and iCloud Calendar Sync</li>
 					<li>No Software or Other Charges</li>
 					<li>Book Now Button on your Website</li>
 					<li>Add Unlimited Services</li>

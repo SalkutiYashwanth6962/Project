@@ -65,7 +65,7 @@
 					<li>Add Unlimited Equipment</li>
 					<li>Add Unlimited Staffs</li>
 					<li>Online Booking Calendar</li>
-					<li>Calendar Sync(Google and Outlook Calendars)</li>
+					<li>Calendar Sync(Google, Outlook, Office 365, Exchange and iCloud calendars)</li>
 					<li>Staff Scheduling</li>
 					<li>Access it from anywhere</li>
 				</ul>
