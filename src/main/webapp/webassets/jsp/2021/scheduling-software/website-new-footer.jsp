@@ -77,7 +77,7 @@
     <div class="row">
       <div class="col-lg-2 col-md-4 col-sm-6">
         <ul>
-          <li><b style="color:#ffffff; opacity: 1;">Beauty & Wellness</b></li>
+          <li><b style="color:#ffffff; opacity: 1;">Beauty &nbsp; Wellness</b></li>
           <li><a href="/scheduling-software/beauty-salon">Beauty Salons</a></li>
           <li><a href="/scheduling-software/hair-salon">Hair Salons</a></li>
           <li><a href="/scheduling-software/nail-salon">Nail Salons</a></li>
@@ -157,7 +157,7 @@
           <li><a href="/scheduling-software/schools">Schools</a></li>
           <li><a href="/scheduling-software/libraries">Libraries</a></li>
           <li><a href="/scheduling-software/teaching">Teaching</a></li>
-          <li><a href="/scheduling-software/tutoring-lessons">Tutoring Lessons</li>
+          <li><a href="/scheduling-software/tutoring-lessons">Tutoring Lessons</a></li>
           <li><a href="/scheduling-software/parent-meetings">Parent Meetings</a></li>
           <li><a href="/scheduling-software/child-care">Child Care</a></li>
         </ul>
@@ -170,3 +170,38 @@
    
 </section>
 <!-- -------------------------------Footer---------end------------------------------>
+
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-92294358-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
+	<script type="text/javascript">
+		(function(a,l,b,c,r,s){_nQc=c,r=a.createElement(l),s=a.getElementsByTagName(l)[0];r.async=1;
+		r.src=l.src=("https:"==a.location.protocol?"https://":"http://")+b;s.parentNode.insertBefore(r,s);
+		})(document,"script","serve.albacross.com/track.js","89976480");
+	</script>
+	<script type="text/javascript">
+		window.$crisp = [];
+		window.CRISP_WEBSITE_ID = "cffc37e4-7649-45d6-b044-074c60b9dbdc";
+		(function(){d=document;s=d.createElement('script');s.src='//client.crisp.chat/l.js';s.async=1;d.getElementsByTagName('head')[0].appendChild(s);})();
+	</script>
+	<!-- Facebook Pixel Code -->
+	<script>
+	  !function(f,b,e,v,n,t,s)
+	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	  n.queue=[];t=b.createElement(e);t.async=!0;
+	  t.src=v;s=b.getElementsByTagName(e)[0];
+	  s.parentNode.insertBefore(t,s)}(window, document,'script',
+	  'https://connect.facebook.net/en_US/fbevents.js');
+	  fbq('init', '3146370852096019');
+	  fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=3146370852096019&ev=PageView&noscript=1"/></noscript>
+	<!-- End Facebook Pixel Code -->
