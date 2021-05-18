@@ -20,12 +20,12 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta property="og:description" content="Picktime is a free online scheduling software for Universities which can be used as an internal system, allowing only your authorized staff members to access schedules, registrations and students record or it can be opened up for students, so that they can self-register for certain academic tasks, such as exams or seminars." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is a free online scheduling software for Universities which can be used as an internal system, allowing only your authorized staff members to access schedules, registrations and students record or it can be opened up for students, so that they can self-register for certain academic tasks, such as exams or seminars." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
@@ -44,12 +44,9 @@
 	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
 		id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
 			<div id="services_sec">
 				<p>University life is so busy both for staff and students and good online scheduling software like Picktime can become a great relief for everybody. Handling applicant interviews, meeting with students, event management and examination timetabling are hectic jobs for university management people. With so many university activities, it is important for students to know when they can discuss their academic paper, thesis or other things. As a staff, you may need to let your students obtain your calendar and book an appointment with you so as to avoid constant calls, emails and making notes.</p>
 			</div>
@@ -101,8 +98,8 @@
 			</div>
 		</div>
 	</div>
-	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-	<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+<jsp:include page="../scheduling-software/website-new-footer.jsp" />
+<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
+<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

@@ -50,12 +50,12 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta property="og:description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	
      <!--Google Fonts-->  
@@ -152,7 +152,7 @@
 	<br>
 	<p>The User must read this document carefully.</p>
 	
-	<p>Although the entire contractual relationship relating to these Products is entered into solely by the Owner and Users, Users acknowledge and agree that, where www.picktime.com has been provided to them via the Apple App Store, Apple may enforce these Terms as a third-party beneficiary.</p>
+	<p>Although the entire contractual relationship relating to these Products is entered into solely by the Owner and Users, Users acknowledge and agree that, where www.picktime.com has been provided to them via the Any Web Browser/Apple App Store/ Google Play Store/ Microsoft Store, Respective Store provider may enforce these Terms as a third-party beneficiary.</p>
 	<p>Nothing in these Terms creates any relationship of employment, agency, or partnership between the involved parties.</p>
 	<p>www.picktime.com is provided by:</p>   
 	  
@@ -200,7 +200,7 @@
 	<li>By using the tools provided for account termination on www.picktime.com.</li>
 	</ul>
 	<ul>
-	<li>By directly contacting the Owner at the contact details provided in this document.</li>
+	<li>By sending account termination request to the email: hello@picktime.com</li>
 	</ul>
 	<h4>Account suspension and deletion</h4>
 	<p>The Owner reserves the right to suspend or terminate the User's account at any time and without notice, at the Owner's sole discretion, in these cases:</p>
@@ -251,6 +251,8 @@
 	
 	<p>The removal, deletion, blocking or rectification of content shall not entitle Users that have provided such content or that are liable for it, to any claims for compensation, damages or reimbursement.<br>
 	Users agree to hold the Owner harmless from and against any claim asserted and/or damage suffered due to content they provided to or provided through www.picktime.com.</p>
+	<h4>Publicity</h4>
+	<p>Unless otherwise agreed to by Customer and the Company, during the Term, the Company may disclose Customer’s name as a customer of the Company and subscriber of the Service, and Customer hereby grants the Company the right to display Customer’s name, Company, and logo in the Company’s marketing materials and on the Company’s public website, in each case in accordance with any branding guidelines Customer may provide to the Company.</p>
 	<h4>Access to provided content</h4>
 	<p>Content that Users provide to www.picktime.com is made available according to the criteria outlined within this section.</p>
 	<h5>Content for determined audiences</h5>
@@ -355,19 +357,13 @@
 	<p>Information related to accepted payment methods are made available during the purchasing process.</p>
 	
 	<p>Some payment methods may only be available subject to additional conditions or fees. In such cases related information can be found in the dedicated section of www.picktime.com.</p>
-	<p>All payments are independently processed through third-party services. Therefore, www.picktime.com does not collect any payment information – such as credit card details – but only receives a notification once the payment has been successfully completed.</p>
+	<p>All payments are independently processed through third-party services. Therefore, www.picktime.com does not collect any payment information – such as credit card details – but only receives the last four digits of the credit card and a notification once the payment has been successfully completed.</p>
 	
 	<p>If payment through the available methods fail or is refused by the payment service provider, the Owner shall be under no obligation to fulfil the purchase order. Any possible costs or fees resulting from the failed or refused payment shall be borne by the User.</p>
 	<h3>Authorization for future PayPal payment</h3>
 	<p>If Users authorize the PayPal feature which allows future purchases, www.picktime.com will store an identification code linked to the Users’ PayPal account. This will authorize www.picktime.com to automatically process payments for future purchases or recurring installments of past purchases.</p>
 	
 	<p>This authorization can be revoked at any time, either by contacting the Owner or by changing the user settings offered by PayPal.</p>
-	<h3>Purchase via app store</h3>
-	<p>www.picktime.com or specific Products available for sale on www.picktime.com must be purchased via a third-party app store. To access such purchases, Users must follow the instructions provided on the relevant online store (such as "Apple App Store" or "Google Play"), which may vary depending on the particular device in use.</p>
-	
-	<p>Unless otherwise specified, purchases done via third-party online stores are also subject to such third-parties’ terms and conditions, which, in case of any inconsistency or conflict, shall always prevail upon these Terms.</p>
-	
-	<p>Users purchasing through such third-party online stores must therefore read such terms and conditions of sale carefully and accept them.</p>
 	<h3>Retention of usage rights</h3>
 	<p>Users do not acquire any rights to use the purchased Product until the total purchase price is received by the Owner.</p>
 	<h3>Delivery</h3><h4>Performance of services</h4>
@@ -384,26 +380,15 @@
 	<p>Once the subscription period expires, the Product shall no longer be accessible, unless the User renews the subscription by paying the relevant fee.</p>
 	
 	<p>Fixed-term subscriptions may not be terminated prematurely and shall run out upon expiration of the subscription term.</p>
-	<h4>Subscriptions handled via Apple ID</h4>
-	<p>Users may subscribe to a Product using the Apple ID associated with their Apple App Store account by using the relevant process on www.picktime.com. When doing so, Users acknowledge and accept that</p>
-	
-	<ul>
-	<li>any payment due shall be charged to their Apple ID account;</li>
-	<li>subscriptions are automatically renewed for the same duration unless the User cancels at least 24 hours before the current period expires;</li>
-	<li>any and all fees or payments due for renewal will be charged within 24-hours before the end of the current period;</li>
-	<li>subscriptions can be managed or cancelled in the Users’ Apple App Store account settings.</li>
-	</ul>
-	
-	
-	<p>The above shall prevail upon any conflicting or diverging provision of these Terms.</p>
-	<h4>Automatic renewal</h4>
+
+	<h4>a) Automatic renewal</h4>
 	<p><strong>Subscriptions are automatically renewed through the payment method that the User chose during purchase, unless the User cancels the subscription within the deadlines for termination specified in the relevant section of these Terms and/or www.picktime.com.</strong></p>
 	
 	<p><strong>The renewed subscription will last for a period equal to the original term.</strong></p>
 	<p><strong>The User shall receive a reminder of the upcoming renewal with reasonable advance, outlining the procedure to be followed in order to cancel the automatic renewal.</strong></p>
-	<h4>Termination</h4>
+	<h4>b) Termination</h4>
 	<p><strong>Recurring subscriptions may be terminated at any time by sending a clear and unambiguous termination notice to the Owner using the contact details provided in this document, or — if applicable — by using the corresponding controls inside www.picktime.com.</strong></p>
-	<h5>Termination notice</h5>
+	<h5>c) Termination notice</h5>
 	<p><strong>If the notice of termination is received by the Owner before the subscription renews, the termination shall take effect as soon as the current period is completed.</strong></p>
 	<h4>Terms and conditions applying to extra features</h4>
 	<p>Users that have an active subscription may purchase single extra add-ons or features, described in the relevant section of www.picktime.com.<br>
@@ -475,7 +460,7 @@
 	<h3>Service reselling</h3>
 	<p>Users may not reproduce, duplicate, copy, sell, resell or exploit any portion of www.picktime.com and of its Service without the Owner’s express prior written permission, granted either directly or through a legitimate reselling program.</p>
 	<h3>Privacy policy</h3>
-	<p>To learn more about the use of their Personal Data, Users may refer to the privacy policy of www.picktime.com.</p>
+	<p>To learn more about the use of their Personal Data, Users may refer to the <a href="/legal/privacy">privacy policy</a> of www.picktime.com.</p>
 	<h3>Intellectual property rights</h3>
 	<p>Without prejudice to any more specific provision of these Terms, any intellectual property rights, such as copyrights, trademark rights, patent rights and design rights related to www.picktime.com are the exclusive property of the Owner or its licensors and are subject to the protection granted by applicable laws or international treaties relating to intellectual property.</p>
 	
@@ -590,3 +575,4 @@
 	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
 	</body>
 </html>
+

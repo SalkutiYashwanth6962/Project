@@ -20,14 +20,13 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta property="og:description" content="Picktime is a free fitness training online appointment and class booking software which lets your customers book their sessions online. you can also customize your business page where your customers can book their appointments online. Your customers can make bookings just the way they want." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is a free fitness training online appointment and class booking software which lets your customers book their sessions online. you can also customize your business page where your customers can book their appointments online. Your customers can make bookings just the way they want." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
-     
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
@@ -44,12 +43,9 @@
 	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
 		id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
 			<div id="services_sec">
 				<p>As much as we'd like to believe that Ice creams and chocolate cakes are elixirs for a long and healthy life, we know that's not the case. We also know that a regular exercise routine is one of the inevitable paths to a healthier and longer life. A fitness center encourages trainees to follow a well-balanced program that includes both strength training and proper exercise. This supports weight loss and heart health, helps prevent osteoporosis and improves muscle strength, stability, and versatility.</p>
 			</div>
@@ -104,8 +100,8 @@
 			</div>
 		</div>
 	</div>
-	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-	<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+<jsp:include page="../scheduling-software/website-new-footer.jsp" />
+<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
+<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

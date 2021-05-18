@@ -20,47 +20,15 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta property="og:description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
      
     <jsp:include page="scheduling-software/website-new-headtag.jsp" />
-    <style type="text/css">
-	
-	#careers .title{
-	 font: normal normal bold 24px/24px Samsung Sharp Sans;
-    letter-spacing: 0px;
-     color: #000000;
-    margin: 10px 0px;
-    text-align: center;
-	 
-	}
-	#careers .mail{
-	font: 15px/23px;
-    text-align:center;
-    color: #000000;
-    opacity: 1;
-    line-height: 22px;
-    letter-spacing: 0.22p
-	
-	}
-
-	#careers ul li{
-	list-style: none;
-	font: 15px/23px;
-    font-weight: bold;
-    color: #000000;
-    opacity: 1;
-    line-height: 22px;
-    letter-spacing: 0.22p;
-	}
-	
-	
-	</style>
 </head>
 <body>
 

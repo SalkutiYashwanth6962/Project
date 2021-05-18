@@ -20,12 +20,12 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta property="og:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
      
     <jsp:include page="scheduling-software/website-new-headtag.jsp" />
@@ -102,7 +102,7 @@
 					<div class="c-b-x"><h3>Sync with all your favorite Calendars</h3></div>
 					<p class="c-p-x">Avoid clashes between your work and personal schedules. Sync with Google, 
 						Outlook, Office 365, Exchange & iCloud Calendars and 
-						show your availability real time. 
+						show your availability in real-time. 
 						No more double bookings or missed meetings.
 					</p>
 				</div>
@@ -145,7 +145,7 @@
 				<div class="col-md-6">
 					<div class="p-s-x"><h2>PAYMENTS AND INVOICING</h2></div>
 					<div class="p-b-x"><h3>Accept Payments & Deposits</h3></div>
-					<p class="p-p-x">Easily process your payments online in a secure manner. Choose to either take deposits or full payments in advance. Select from Payment Processors like PayPal, Stripe and Square. Generate Invoices easily. See a decline in no shows. Watch your revenue grow.</p>
+					<p class="p-p-x">Easily process your payments online in a secure manner. Choose to either take deposits or full payments in advance. Select from Payment Processors like PayPal, Stripe and Square. Generate Invoices easily. See a decline in no-shows. Watch your revenue grow.</p>
 					<!-- <button class="btn-lg-p-x">SIGNUP FOR FREE</button> -->
 				</div>
 			</div>
@@ -183,9 +183,9 @@
 					</div>
 				</div>
 				<div class="col-md-6">
-					<div class="m-s-x"><h2>MULTIPLE LOCATION MANAGMENT</h2></div>
+					<div class="m-s-x"><h2>MULTIPLE LOCATION MANAGEMENT</h2></div>
 					<div class="m-b-x"><h3>Manage all your Business Locations in one place</h3></div>
-					<p class="m-p-x">Keep track of what is happening at your other business location even if it is miles away. Manage all your business activities from a single dashboard.</p>
+					<p class="m-p-x">Keep track of what is happening at your other business locations even if it is miles away. Manage all your business activities from a single dashboard.</p>
 				</div>
 			</div>
 		</div>
@@ -196,8 +196,8 @@
 			<div class="container">
 				<div class="col-md-6">
 					<div class="r-s-y"><h2>REMINDERS</h2></div>
-					<div class="r-b-y"><h3>Notify your clients Automatically</h3></div>
-					<p class="r-p-y">Picktime automatically reminds your clients and team members of upcoming bookings. No more missed appointments and No Shows</p>
+					<div class="r-b-y"><h3>Notify your clients automatically</h3></div>
+					<p class="r-p-y">Picktime automatically reminds your clients and team members of upcoming bookings. No more missed appointments and no-Shows</p>
 					<!-- <div class="btn-lg text-center">LEARN MORE</div> -->
 				</div>
 				<div class="col-md-6">
@@ -224,7 +224,7 @@
 			<div class="col-md-6">
 				<div class="c-s-x"><h2>CLASS BOOKINGS</h2></div>
 				<div class="c-b-x"><h3>Manage your classes with Ease</h3></div>
-				<p class="c-p-x">Manage your Classes, Attendance, Memberships, Class-packs all From your Picktime calendar.</p>
+				<p class="c-p-x">Manage your Classes, Attendance, Memberships, Class-packs - all From your Picktime calendar.</p>
 				<a href="/register"><button class="btn-lg-c-x signup-btn-banner">SIGNUP FOR FREE</button></a>
 			</div>
 		</div>
@@ -245,7 +245,7 @@
 		<div class="col-lg-6" id="box-section">
 			<div class="box1" data-aos="flip-left" data-aos-delay="100">
 				<img src="/webassets/2021/img/Features-box1.svg" alt="Manage-Personal-Calendar" id="box1-img">
-				<div id="boxtitle"><h1>PERSONAL CALENDER</h1></div>
+				<div id="boxtitle"><h1>PERSONAL CALENDAR</h1></div>
 				<P id="box-con">Manage personal calendar along with your business schedule easily</P>
 			</div>
 			<div class="box2" data-aos="flip-right" data-aos-delay="100">
@@ -260,7 +260,7 @@
 			</div>
 			<div class="box4" data-aos="flip-up" data-aos-delay="100">
 				<img src="/webassets/2021/img/Features-box4.svg" alt="Customer-Timezone-Conversion" id="box1-img">
-				<div id="boxtitle"><h1>TIMEZONE CONVERTION</h1></div>
+				<div id="boxtitle"><h1>TIMEZONE CONVERSTION</h1></div>
 				<P id="box-con">No matter where you have your offices, manage them easily.</P>
 			</div>
 		</div>
@@ -302,9 +302,9 @@
 		<div class="container">
 			<div class="col-md-6">
 				<!-- <div class="r-s-y">REMINDERS</div> -->
-				<div class="b-b-y"><h2>Book from anywhere. At anytime</h2></div>
-				<p class="b-p-y">All you need is an internet connection and
-					Mobile, Laptop or a Tablet.</p>
+				<div class="b-b-y"><h2>Book from anywhere. At anytime.</h2></div>
+				<p class="b-p-y">All you need is an internet Connection and
+					a Mobile, Laptop or a Tablet.</p>
 				<a href="/apps"><button class="btn-lg text-center signup-btn-banner">LEARN MORE</button></a>
 			</div>
 			<div class="col-md-6">
@@ -329,200 +329,7 @@
 <!-- ------------------------Book from anywhere. At anytime------------------end------------------------>
 
 <!-- ------------------------picktime is for everyone-----------start---------------->
-
-<style>
-  
-   #carousel1{
-  display: none;
-  }
-  #carousel2{
-  display: block;
-  }
-  @media only screen and (max-width:768px){
-  #carousel1{
-  display: block;
-  }
-  #carousel2{
-  display: none;
-  }
-  
-  }  
-
-
-
-
-.col-centered {
-    float: none;
-    margin: 0 auto;
-}
-
-.carousel-control { 
-    width: 8%;
-    width: 0px;
-}
-.carousel-control.left,
-.carousel-control.right { 
-    margin-right: 40px;
-    margin-left: 32px; 
-    background-image: none;
-    opacity: 1;
-}
-.carousel-control > a > span {
-    color: white;
-	  font-size: 29px !important;
-}
-
-.carousel-col { 
-    position: relative; 
-    min-height: 1px; 
-    padding: 5px; 
-    float: left;
- }
- 
-/*  .carousel-inner .next{
- left: 25% !important;
- } */
- 
- 
-
- .active > div { display:none; }
- .active > div:first-child { display:block; }
- 
-/*  @media (max-width: 425px){
-  .carousel-inner .active.left { left: -50%; }
-  .carousel-inner .active.right { left: 50%; }
-	.carousel-inner .next        { left:  50%; }
-	.carousel-inner .prev		     { left: -50%; }
-  .carousel-col                { width: 50%; }
-	.active > div:first-child + div { display:block; }
-	 .carousel-control > a > span{display: none;}
-	
-	
-} */
- 
- 
-
-/*xs*/
-@media (min-width: 426px) and (max-width: 767px){
-  .carousel-inner .active.left { left: -50%; }
-  .carousel-inner .active.right { left: 50%; }
-	.carousel-inner .next        { left:  50%; }
-	.carousel-inner .prev		     { left: -50%; }
-  .carousel-col                { width: 50%; }
-	.active > div:first-child + div { display:block; }
-	 .carousel-control > a > span{display: none;}
-	
-	
-}
-
-/*sm*/
-@media (min-width: 768px) and (max-width: 991px) {
-  .carousel-inner .active.left { left: -50%; }
-  .carousel-inner .active.right { left: 50%; }
-	.carousel-inner .next        { left:  50%; }
-	.carousel-inner .prev		     { left: -50%; }
-  .carousel-col                { width: 50%; }
-	.active > div:first-child + div { display:block; }
-}
-
-/*md*/
-@media (min-width: 992px) and (max-width: 1199px) {
-  .carousel-inner .active.left { left: -33%; }
-  .carousel-inner .active.right { left: 33%; }
-	.carousel-inner .next        { left:  33%; }
-	.carousel-inner .prev		     { left: -33%; }
-  .carousel-col                { width: 33%; }
-	.active > div:first-child + div { display:block; }
-  .active > div:first-child + div + div { display:block; }
-  
-}
-
-/*lg*/
-@media (min-width: 1200px) {
-  .carousel-inner .active.left { left: -25%; }
-  .carousel-inner .active.right{ left:  25%; }
-	.carousel-inner .next        { left:  25%; }
-	.carousel-inner .prev		     { left: -25%; }
-  .carousel-col                { width: 33%; }
-	.active > div:first-child + div { display:block; }
-  .active > div:first-child + div + div { display:block; }
-}
-
-
-
-
-
-#pick-time-is-for-everyone .items {
-	border: 2px solid #bbbbbb;
-    border-radius: 27px;
-    margin-left: auto;
-    margin-right: auto;
-    margin: 20px;
-    height: 300px;
-    width: auto;
-}
-
- #pick-time-is-for-everyone .silder-box .s-b-img img {
-    width: 30%;
-    margin-top: 15px;
-    margin-right: auto;
-    margin-left: auto;
-}
- #pick-time-is-for-everyone .items .silder-box .s-b-title h1 {
-	color: #9a32e6;
-	font-size: 16px;
-	font-weight: bold;
-	margin: 5px;
-	text-align: center;
-}
-#pick-time-is-for-everyone .items .silder-box .s-b-title h1 a{
-color: #9a32e6;
-}
-#pick-time-is-for-everyone .items .silder-box .s-b-par {
-	padding: 10px;
-	text-align: center;
-	font-weight: bold;
-	line-height: 22px;
-	letter-spacing: 0.22px;
-}
-  #pick-time-is-for-everyone .carousel-control > a > span {
-    color: #8b22e2;
-    font-size: 29px !important;
-    margin-top: 170px;
-}
- #pick-time-is-for-everyone #leftarrow {
-margin-left: -55px;
-}
- #pick-time-is-for-everyone #rightarrow {
-margin-left: 26px;
-}
-
-
-
- @media only screen and (max-width:1200px) {
-#pick-time-is-for-everyone .items {
-       height: 320px;
-}
-}
- @media only screen and (max-width:575px) {
-#pick-time-is-for-everyone .items {
-       margin:0px;
-       height: 345px;
-}
-}
-@media only screen and (max-width:425px) {
-#pick-time-is-for-everyone .items {
-       height: 305px;
-}
-}
-
-@media only screen and (max-width:320px) {
-#pick-time-is-for-everyone .items {
-       height: 333px;
-}
-}
-</style>
-
+<!--carousel-mobile-->
 <section id="pick-time-is-for-everyone">
          <div class="p-t-i-f-e-s-m"><h2>PICKTIME IS FOR EVERYONE</h2></div>
 			<div class="p-t-i-f-e-b-m"><h3>Expand your business with Zero
@@ -543,7 +350,7 @@ margin-left: 26px;
 									<center><img src="/webassets/2021/img/icons/Beauty-and-Wellness_icon.svg" alt="Beauty-and-Wellness-Scheduling-Software"></center>
 								    </div>
 							     	<div class="s-b-title"><h1><a href="/scheduling-software/beauty-salon">Beauty and Wellness</a></h1></div>
-								    <div class="s-b-par">Spend more time on doing what you love the most. Picktime appointment scheduling software has the best features to help you run your business smoothly.</div>
+								    <div class="s-b-par">Spend more time doing what you love the most. Picktime appointment scheduling software has the best features to help you run your business smoothly.</div>
 						        </div>
 				             </div>
 					    </div>
@@ -558,7 +365,7 @@ margin-left: 26px;
 									 <center><img src="/webassets/2021/img/icons/Photographer_icon.svg" alt="Photographers-Scheduling-Software"></center>
 								     </div>
 								     <div class="s-b-title"><h1><a href="/scheduling-software/photographers">Photographers</a></h1></div>
-								     <div class="s-b-par">We believe that you should have a well managed business whether you are a freelancer or own a big studio. Schedule meetings, appointments and manage your team with Picktime.</div>
+								     <div class="s-b-par">We believe that you should have a well-managed business whether you are a freelancer or own a big studio. Schedule meetings, appointments and manage your team with Picktime.</div>
 						         </div>
 				             </div>
 					     </div>
@@ -573,7 +380,7 @@ margin-left: 26px;
 									<center><img src="/webassets/2021/img/icons/Health-and-Fitness_icon.svg" alt="Health-and-Fitness-Scheduling-Software"></center>
 								    </div>
 								    <div class="s-b-title"><h1><a href="/scheduling-software/medical">Health and Fitness</a></h1></div>
-							     	<div class="s-b-par">Be a gym trainer or a yoga trainer, manage your class bookings like a pro. Preset the number of places available in your class to avoid overbookings.</div>
+							     	<div class="s-b-par">Be a gym trainer or a yoga trainer and manage your class bookings like a pro. Preset the number of places available in your class to avoid overbooking.</div>
 							      </div>
 				            </div>
 					    </div>
@@ -586,7 +393,7 @@ margin-left: 26px;
 									<center><img src="/webassets/2021/img/icons/Event-management_icon.svg" alt="Event-Management-Scheduling-Software"></center>
 								    </div>
 								    <div class="s-b-title"><h1><a href="/scheduling-software/events">Event Management</a></h1></div>
-								     <div class="s-b-par">Picktime event management software gives you the right tools to manage your staff, resources and and clients for free.</div>
+								     <div class="s-b-par">Picktime event management software gives you the right tools to manage your staff, resources and clients for free.</div>
 						        </div>
 				            </div>
 						</div>
@@ -614,7 +421,7 @@ margin-left: 26px;
 									<center><img src="/webassets/2021/img/icons/legal-services_icon.svg" alt="Legal-Services-Scheduling-Software"></center>
 								    </div>
 								    <div class="s-b-title"><h1><a href="/scheduling-software/legal">Legal Services</a></h1></div>
-								     <div class="s-b-par">Maintaining a steady client base is just as important as maintaining Law. Let your clients know your when you are free through our appointment booking service.</div>
+								     <div class="s-b-par">Maintaining a steady client base is just as important as maintaining Law. Let your clients know when you are free through our appointment booking service.</div>
 						        </div>
 				            </div>
 						</div>
@@ -628,7 +435,7 @@ margin-left: 26px;
 									<center><img src="/webassets/2021/img/icons/doctor-medical _icon.svg" alt="Doctors-and-Medical-Clinics-Scheduling-Software"></center>
 								    </div>
 								    <div class="s-b-title"><h1><a href="/scheduling-software/dentists">Doctors and Medical Clinics</a></h1></div>
-								     <div class="s-b-par">User friendly features and tools that let you have a hasslefree and stressfree day. Start your free account today for scheduling your patient appointments.</div>
+								     <div class="s-b-par">User-friendly features and tools that let you have a hassle-free and stress-free day. Start your free account today for scheduling your patient appointments.</div>
 						        </div>
 				            </div>
 						</div>
@@ -657,7 +464,7 @@ margin-left: 26px;
 									<center><img src="/webassets/2021/img/icons/Interview_icon.svg" alt="Interview-Scheduling-Software"></center>
 								    </div>
 								    <div class="s-b-title"><h1><a href="/scheduling-software/interview">Interview Scheduling</a></h1></div>
-								     <div class="s-b-par">Everybody wants to put their free time for better use and we understand that. Use our free and smart scheduling software that makes your managing your business faster and smoother.</div>
+								     <div class="s-b-par">Everybody wants to put their free time to better use and we understand that. Use our free and smart scheduling software that makes your managing your business faster and smoother.</div>
 						        </div>
 				            </div>
 						</div>
@@ -671,19 +478,7 @@ margin-left: 26px;
 </div>
 
 </section> 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- carousel-big-screens 3X3 -->
 <div class="container" id ="carousel2">
   <div class="row">
       <div class="increment3by3">
@@ -700,7 +495,7 @@ margin-left: 26px;
                                    <div class="s-b-img">
                                       <center><img src="/webassets/2021/img/icons/Beauty-and-Wellness_icon.svg" alt="Beauty-and-Wellness-Scheduling-Software"></center></div>
                                       <div class="s-b-title"><h1><a href="/scheduling-software/beauty-salon">Beauty and Wellness</a></h1></div>
-                                      <div class="s-b-par">Spend more time on doing what you love the most. Picktime appointment scheduling software has the best features to help you run your business smoothly.</div>
+                                      <div class="s-b-par">Spend more time doing what you love the most. Picktime appointment scheduling software has the best features to help you run your business smoothly.</div>
                                  </div> 
                               </div>      
                             </div>
@@ -710,7 +505,7 @@ margin-left: 26px;
                                    <div class="s-b-img">
                                       <center><img src="/webassets/2021/img/icons/Photographer_icon.svg" alt="Photographers-Scheduling-Software"></center></div>
                                       <div class="s-b-title"><h1><a href="/scheduling-software/photographers">Photographers</a></h1></div>
-                                      <div class="s-b-par">We believe that you should have a well managed business whether you are a freelancer or own a big studio. Schedule meetings, appointments and manage your team with Picktime.</div>
+                                      <div class="s-b-par">We believe that you should have a well-managed business whether you are a freelancer or own a big studio. Schedule meetings, appointments and manage your team with Picktime.</div>
                                  </div> 
                               </div>   
                             </div>
@@ -720,7 +515,7 @@ margin-left: 26px;
                                    <div class="s-b-img">
                                       <center><img src="/webassets/2021/img/icons/Health-and-Fitness_icon.svg" alt="Health-and-Fitness-Scheduling-Software"></center></div>
                                       <div class="s-b-title"><h1><a href="/scheduling-software/medical">Health and Fitness</a></h1></div>
-                                      <div class="s-b-par">Be a gym trainer or a yoga trainer, manage your class bookings like a pro. Preset the number of places available in your class to avoid overbookings.</div>
+                                      <div class="s-b-par">Be a gym trainer or a yoga trainer and manage your class bookings like a pro. Preset the number of places available in your class to avoid overbooking.</div>
                                  </div> 
                               </div>   
                             </div>
@@ -737,7 +532,7 @@ margin-left: 26px;
                                    <div class="s-b-img">
                                      <center><img src="/webassets/2021/img/icons/Event-management_icon.svg" alt="Event-Management-Scheduling-Software"></center></div>
                                       <div class="s-b-title"><h1><a href="/scheduling-software/events">Event Management</a></h1></div>
-                                      <div class="s-b-par">Picktime event management software gives you the right tools to manage your staff, resources and and clients for free.</div>
+                                      <div class="s-b-par">Picktime event management software gives you the right tools to manage your staff, resources and clients for free.</div>
                                  </div> 
                               </div>         
                             </div>
@@ -747,7 +542,7 @@ margin-left: 26px;
                                    <div class="s-b-img">
                                       <center><img src="/webassets/2021/img/icons/Financial-services_icon.svg" alt="Financial-Services-Scheduling-Software"></center></center></div>
                                       <div class="s-b-title"><h1><a href="/scheduling-software/financial-services">Financial Services</a></h1></div>
-                                      <div class="s-b-par">Be a gym trainer or a yoga trainer, manage your class bookings like a pro. Preset the number of places available in your class to avoid overbookings.</div>
+                                      <div class="s-b-par">With the huge responsibilites like managing hard earned finances, it is important to worry less about the clerical work of your business. Enjoy free services with Picktime.</div>
                                  </div> 
                               </div>   
                             </div>
@@ -757,7 +552,7 @@ margin-left: 26px;
                                    <div class="s-b-img">
                                       <center><img src="/webassets/2021/img/icons/legal-services_icon.svg" alt="Legal-Services-Scheduling-Software"></center></div>
                                       <div class="s-b-title"><h1><a href="/scheduling-software/legal">Legal Services</a></h1></div>
-                                      <div class="s-b-par">Maintaining a steady client base is just as important as maintaining Law. Let your clients know your when you are free through our appointment booking service.</div>
+                                      <div class="s-b-par">Maintaining a steady client base is just as important as maintaining Law. Let your clients know when you are free through our appointment booking service.</div>
                                  </div> 
                               </div>   
                             </div>
@@ -774,7 +569,7 @@ margin-left: 26px;
                                    <div class="s-b-img">
                                       <center><img src="/webassets/2021/img/icons/doctor-medical _icon.svg" alt="Doctor-and-Medical-Clinics-Scheduling-Software"></center></div>
                                       <div class="s-b-title"><h1><a href="/scheduling-software/dentists">Doctors and Medical Clinics</a></h1></div>
-                                      <div class="s-b-par">User friendly features and tools that let you have a hasslefree and stressfree day. Start your free account today for scheduling your patient appointments.</div>
+                                      <div class="s-b-par">User-friendly features and tools that let you have a hassle-free and stress-free day. Start your free account today for scheduling your patient appointments.</div>
                                  </div> 
                               </div>        
                             </div>
@@ -794,7 +589,7 @@ margin-left: 26px;
                                    <div class="s-b-img">
                                       <center><img src="/webassets/2021/img/icons/Interview_icon.svg" alt="Interview-Scheduling-Scheduling-Software"></div>
                                       <div class="s-b-title"><h1><a href="/scheduling-software/interview">Interview Scheduling</a></h1></div>
-                                      <div class="s-b-par">Everybody wants to put their free time for better use and we understand that. Use our free and smart scheduling software that makes your managing your business faster and smoother.</div>
+                                      <div class="s-b-par">Everybody wants to put their free time to better use and we understand that. Use our free and smart scheduling software that makes your managing your business faster and smoother.</div>
                                  </div> 
                               </div>   
                             </div>
@@ -816,146 +611,6 @@ margin-left: 26px;
         </div><!-- End Well -->
     </div>
 </div>
-
-
-
-
-
-
-
-
-<style type="text/css">
-
-#myCarousel .thumbnail {
-  margin-bottom: 0;
-}
-.carousel-control.left, .carousel-control.right {
-    background: #fff;
-    font-size: 35px;
-}
-.carousel-control {
-  color:#fff;
-  top:40%;
-  color:#8B22E2;
-  bottom:auto;
-  padding-top:4px;
-  width:30px;
-  height:30px;
-  text-shadow:none;
-  opacity:1;
-}
-.carousel-control:hover {
-  color: #8B22E2;
-}
-.carousel-control.left, .carousel-control.right {
-    background: #fff;
-    font-size: 35px;
-}
-.carousel-control.right {
-  left:auto;
-  right:-60px;
-  /* background: blue; */
-}
-.carousel-control.left {
-  right:auto;
-  left:-70px;
-  /* background: blue; */
-}
-
-
-
-
-.carousel-indicators {
-  bottom:-30px;
-}
-
-/* .carousel-indicators li {
-  border-radius:0;
-  width:10px;
-  height:10px;
-  background:#ccc;
-  border:1px solid #ccc;
-}
-.carousel-indicators .active {
-  width:12px;
-  height:12px;
-  background: red;
-  border-color:#3276b1;
-} */
-
- .itemL {
-  border: 2px solid #bbbbbb;
-    border-radius: 27px;
-    margin-left: auto;
-    margin-right: auto;
-    margin: 20px;
-    height: 300px;
-    width: auto;
-}
-
- .silder-boxs .s-b-img img {
-    width: 30%;
-    margin-top: 15px;
-    margin-right: auto;
-    margin-left: auto;
-}
-  .silder-boxs .s-b-title h1 {
-  color: #9a32e6;
-  font-size: 18px;
-  font-weight: bold;
-  margin-top: 10px;
-  text-align: center;
-  
-}
-.silder-boxs .s-b-title h1 a{
-	color: #9a32e6;
-	font: normal normal bold 18px/24px Samsung Sharp Sans;
-}
-.silder-boxs .s-b-par {
-     padding: 10px;
-   text-align: center;
-   line-height: 24px;
-   letter-spacing: 0.22px;
-   font-size: 16px;
-   font-weight: 400;
-}
-   .carousel-control > a > span {
-    color: #8b22e2;
-    font-size: 29px !important;
-    margin-top: 170px;
-}
-
-.col-sm-4{
-  float: left;
-  width: 33.33333333%;
-}
-
-
-/*#pick-time-is-for-everyone #leftarrow {
-margin-left: -55px;
-}
- #pick-time-is-for-everyone #rightarrow {
-margin-left: 26px;
-}*/
-
-@media only screen and (max-width:1024px){
-.itemL{
-margin: 0px;
-}
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  .carousel-inner .active.left { left: -50%; }
-  .carousel-inner .active.right { left: 50%; }
-  .carousel-inner .next        { left:  50%; }
-  .carousel-inner .prev        { left: -50%; }
-  .carousel-col                { width: 50%; }
-  .active > div:first-child + div { display:block; }
-}
-
-
-    </style>
-    
 
 
 <!-- ------------------------picktime is for everyone-----------end---------------->

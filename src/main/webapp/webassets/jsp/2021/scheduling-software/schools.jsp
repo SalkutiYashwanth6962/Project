@@ -15,19 +15,16 @@
     <meta name="description" content="Picktime helps many schools to simplify their scheduling tasks by providing easy to use web-based tools to schedule teachers, students, and parents. Picktime can be used in two ways. to facilitate internal scheduling by teachers, or to expand school event schedules on the Internet.">
     <meta name="keywords" content="Schools Scheduling Software, Best Academic Scheduling Software, Education Scheduling Software and Booking System, Best School Management Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
-	
+	<meta property="og:description" content="Picktime helps many schools to simplify their scheduling tasks by providing easy to use web-based tools to schedule teachers, students, and parents. Picktime can be used in two ways. to facilitate internal scheduling by teachers, or to expand school event schedules on the Internet." />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime helps many schools to simplify their scheduling tasks by providing easy to use web-based tools to schedule teachers, students, and parents. Picktime can be used in two ways. to facilitate internal scheduling by teachers, or to expand school event schedules on the Internet." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
-     
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
@@ -44,12 +41,9 @@
 	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
 		id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
 			<div id="services_sec">
 				<p>Today’s school industry plays a vital role in the country's educational growth. They help all students in the areas of academic achievement, career development, and personal/social development, ensuring today’s students become the prolific, well-adjusted adults of tomorrow. The exact obligations for school vary depending on the level of education. Whether you’re monitoring elementary level students in the classroom and play settings, helping middle-level school students achieve their academic and social goals, or supporting high school students with college-related processes, your days are busy with balancing a lot of tasks.</p>
 			</div>
@@ -104,8 +98,8 @@
 			</div>
 		</div>
 	</div>
-	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-	<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+<jsp:include page="../scheduling-software/website-new-footer.jsp" />
+<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
+<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

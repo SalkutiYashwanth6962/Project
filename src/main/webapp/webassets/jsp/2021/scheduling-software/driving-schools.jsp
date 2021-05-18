@@ -21,19 +21,19 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta property="og:description" content="Picktime is an easy-to-use, comprehensive and advanced appointment scheduling software solution for Auto Consultants and Driving Schools. Picktime allows driving school owners to completely manage their business. It is designed to manage most critical aspects of driving school business." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is an easy-to-use, comprehensive and advanced appointment scheduling software solution for Auto Consultants and Driving Schools. Picktime allows driving school owners to completely manage their business. It is designed to manage most critical aspects of driving school business." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
-	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
+<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
 	<!--every page  wave-->
 	<section id="industries_services">
 		<div class="container">
@@ -100,8 +100,8 @@
 			</div>
 		</div>
 	</div>
-	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-	<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+<jsp:include page="../scheduling-software/website-new-footer.jsp" />
+<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
+<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

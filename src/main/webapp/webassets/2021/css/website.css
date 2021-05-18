@@ -1635,6 +1635,447 @@ img.what-is-picktime-img{
 
 /*==========PICKTIME IS FOR EVERYONE***end==========*/
 
+
+
+/*==================PICKTIME IS FOR EVERYONE=========start============  */
+
+#carousel2 {
+	margin-bottom: 100px;
+}
+
+#carousel1 {
+	display: none;
+}
+
+#carousel2 {
+	display: block;
+}
+
+@media only screen and (max-width:768px) {
+	#carousel1 {
+		display: block;
+	}
+	#carousel2 {
+		display: none;
+	}
+}
+
+.col-centered {
+	float: none;
+	margin: 0 auto;
+}
+
+.carousel-control {
+	width: 8%;
+	width: 0px;
+}
+
+.carousel-control.left,
+.carousel-control.right {
+	margin-right: 40px;
+	margin-left: 32px;
+	background-image: none;
+}
+
+.carousel-control>a>span {
+	color: white;
+	font-size: 29px !important;
+}
+
+.carousel-col {
+	position: relative;
+	min-height: 1px;
+	padding: 5px;
+	float: left;
+}
+
+
+/*  .carousel-inner .next{
+ left: 25% !important;
+ } */
+
+.active>div {
+	display: none;
+}
+
+.active>div:first-child {
+	display: block;
+}
+
+
+/*  @media (max-width: 425px){
+   .carousel-inner .active.left { left: -50%; }
+   .carousel-inner .active.right { left: 50%; }
+   .carousel-inner .next        { left:  50%; }
+   .carousel-inner .prev		     { left: -50%; }
+   .carousel-col                { width: 50%; }
+   .active > div:first-child + div { display:block; }
+   .carousel-control > a > span{display: none;}
+	
+	
+} */
+
+
+/*xs*/
+
+@media (min-width: 426px) and (max-width: 767px) {
+	.carousel-inner .active.left {
+		left: -50%;
+	}
+	.carousel-inner .active.right {
+		left: 50%;
+	}
+	.carousel-inner .next {
+		left: 50%;
+	}
+	.carousel-inner .prev {
+		left: -50%;
+	}
+	.carousel-col {
+		width: 50%;
+	}
+	.active>div:first-child+div {
+		display: block;
+	}
+	.carousel-control>a>span {
+		display: none;
+	}
+}
+
+
+/*sm*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.carousel-inner .active.left {
+		left: -50%;
+	}
+	.carousel-inner .active.right {
+		left: 50%;
+	}
+	.carousel-inner .next {
+		left: 50%;
+	}
+	.carousel-inner .prev {
+		left: -50%;
+	}
+	.carousel-col {
+		width: 50%;
+	}
+	.active>div:first-child+div {
+		display: block;
+	}
+}
+
+
+/*md*/
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	.carousel-inner .active.left {
+		left: -33%;
+	}
+	.carousel-inner .active.right {
+		left: 33%;
+	}
+	.carousel-inner .next {
+		left: 33%;
+	}
+	.carousel-inner .prev {
+		left: -33%;
+	}
+	.carousel-col {
+		width: 33%;
+	}
+	.active>div:first-child+div {
+		display: block;
+	}
+	.active>div:first-child+div+div {
+		display: block;
+	}
+}
+
+
+/*lg*/
+
+@media (min-width: 1200px) {
+	.carousel-inner .active.left {
+		left: -25%;
+	}
+	.carousel-inner .active.right {
+		left: 25%;
+	}
+	.carousel-inner .next {
+		left: 25%;
+	}
+	.carousel-inner .prev {
+		left: -25%;
+	}
+	.carousel-col {
+		width: 33%;
+	}
+	.active>div:first-child+div {
+		display: block;
+	}
+	.active>div:first-child+div+div {
+		display: block;
+	}
+}
+
+#pick-time-is-for-everyone .items {
+	border: 2px solid #bbbbbb;
+	border-radius: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 20px;
+	height: 300px;
+	width: auto;
+}
+
+#pick-time-is-for-everyone .silder-box .s-b-img img {
+	width: 30%;
+	margin-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#pick-time-is-for-everyone .items .silder-box .s-b-title h1 {
+	color: #9a32e6;
+	font-size: 16px;
+	font-weight: bold;
+	margin: 5px;
+	text-align: center;
+}
+
+#pick-time-is-for-everyone .items .silder-box .s-b-title h1 a {
+	color: #9a32e6;
+}
+
+#pick-time-is-for-everyone .items .silder-box .s-b-par {
+	padding: 10px;
+	text-align: center;
+	font-weight: bold;
+	line-height: 22px;
+	letter-spacing: 0.22px;
+}
+
+#pick-time-is-for-everyone .carousel-control>a>span {
+	color: #8b22e2;
+	font-size: 29px !important;
+	margin-top: 170px;
+}
+
+#pick-time-is-for-everyone #leftarrow {
+	margin-left: -55px;
+}
+
+#pick-time-is-for-everyone #rightarrow {
+	margin-left: 26px;
+}
+
+@media only screen and (max-width:1200px) {
+	#pick-time-is-for-everyone .items {
+		height: 320px;
+	}
+}
+
+@media only screen and (max-width:575px) {
+	#pick-time-is-for-everyone .items {
+		margin: 0px;
+		height: 345px;
+	}
+}
+
+@media only screen and (max-width:425px) {
+	#pick-time-is-for-everyone .items {
+		height: 305px;
+	}
+}
+
+@media only screen and (max-width:320px) {
+	#pick-time-is-for-everyone .items {
+		height: 333px;
+	}
+}
+
+#myCarousel .thumbnail {
+	margin-bottom: 0;
+}
+
+.carousel-control.left,
+.carousel-control.right {
+	background: #fff;
+	font-size: 35px;
+}
+
+.carousel-control {
+	top: 40%;
+	color: #8B22E2;
+	bottom: auto;
+	padding-top: 4px;
+	width: 30px;
+	height: 30px;
+	text-shadow: none;
+	opacity: 1;
+}
+
+.carousel-control:hover {
+	color: #8B22E2;
+}
+
+.carousel-control.left,
+.carousel-control.right {
+	background: #fff;
+	font-size: 35px;
+}
+
+.carousel-control.right {
+	left: auto;
+	right: -60px;
+	/* background: blue; */
+}
+
+.carousel-control.left {
+	right: auto;
+	left: -70px;
+	/* background: blue; */
+}
+
+.carousel-indicators {
+	bottom: -30px;
+}
+
+
+/* .carousel-indicators li {
+  border-radius:0;
+  width:10px;
+  height:10px;
+  background:#ccc;
+  border:1px solid #ccc;
+}
+.carousel-indicators .active {
+  width:12px;
+  height:12px;
+  background: red;
+  border-color:#3276b1;
+} */
+
+.itemL {
+	border: 2px solid #bbbbbb;
+	border-radius: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 20px;
+	height: 310px;
+	width: auto;
+}
+
+.silder-boxs .s-b-img img {
+	width: 30%;
+	margin-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.silder-boxs .s-b-title h1 {
+	color: #9a32e6;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 10px;
+	text-align: center;
+}
+
+.silder-boxs .s-b-title h1 a {
+	color: #9a32e6;
+	font: normal normal bold 18px/24px Samsung Sharp Sans;
+}
+
+.silder-boxs .s-b-par {
+	padding: 10px;
+	text-align: center;
+	line-height: 24px;
+	letter-spacing: 0.22px;
+	font-size: 16px;
+	font-weight: 400;
+}
+
+.carousel-control>a>span {
+	color: #8b22e2;
+	font-size: 29px !important;
+	margin-top: 170px;
+}
+
+.col-sm-4 {
+	float: left;
+	width: 33.33333333%;
+}
+
+
+/*#pick-time-is-for-everyone #leftarrow {
+margin-left: -55px;
+}
+ #pick-time-is-for-everyone #rightarrow {
+margin-left: 26px;
+}*/
+
+@media only screen and (max-width:1024px) {
+	.itemL {
+		margin: 0px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.carousel-inner .active.left {
+		left: -50%;
+	}
+	.carousel-inner .active.right {
+		left: 50%;
+	}
+	.carousel-inner .next {
+		left: 50%;
+	}
+	.carousel-inner .prev {
+		left: -50%;
+	}
+	.carousel-col {
+		width: 50%;
+	}
+	.active>div:first-child+div {
+		display: block;
+	}
+}
+
+
+/*==============================PICKTIME IS FOR EVERYONE==========end=========  */
+
+/* Careers page */
+#careers .title{
+ font: normal normal bold 24px/24px Samsung Sharp Sans;
+   letter-spacing: 0px;
+    color: #000000;
+   margin: 10px 0px;
+   text-align: center;
+ 
+}
+#careers .mail{
+font: 15px/23px;
+   text-align:center;
+   color: #000000;
+   opacity: 1;
+   line-height: 22px;
+   letter-spacing: 0.22p
+
+}
+
+#careers ul li{
+list-style: none;
+font: 15px/23px;
+   font-weight: bold;
+   color: #000000;
+   opacity: 1;
+   line-height: 22px;
+   letter-spacing: 0.22p;
+}
+/* Careers page */
+
 /*==========love every one***start==========*/
 
 #love-by-evryine {

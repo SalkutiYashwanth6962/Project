@@ -20,12 +20,12 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta property="og:description" content="With Picktime interview scheduling software, spend more time with your candidates and less time in interview scheduling. Picktime is a free online appointment booking software that can be used to schedule interviews and manage your staffs." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="With Picktime interview scheduling software, spend more time with your candidates and less time in interview scheduling. Picktime is a free online appointment booking software that can be used to schedule interviews and manage your staffs." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
@@ -41,15 +41,11 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
 			<div id="services_sec">
 				<p>Interviews are a vital part of the hiring process, and also one of the most logistically challenging. Putting together an interview schedule that works for everyone is hard enough. And when you consider the possibility of going back and forth on email threads that don't talk to your interview scheduling software, the challenge just compounds. When your job is dedicated to finding the right candidate for the job, managing the troubles that come with bookings can be a total pain. Whether you are scheduling interviews or screening calls, you're required to find that magical time slot that works for everyone involved. Scheduling interviews is  time consuming task which involves proper management of staff and resources. You might have wondered, “How can I reduce the time I spend scheduling interviews, calls or rooms?” It’s easier than you think!</p>
 			</div>
@@ -104,15 +100,13 @@
 				<div id="services_sec">
 					<h3>Automatic Interview Reminders</h3>
 		        	<p>Email and sms notifications are sent to candidates after the booking is made and right before the interview as selected by your management staff.</p>
-		            
 		        	<p>So if you need a really simple and easy to use interview scheduling software give Picktime a try. You will be glad you did.</p>
 				</div>
-				
 			</div>
 		</div>
 	</div>
-	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-	<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+<jsp:include page="../scheduling-software/website-new-footer.jsp" />
+<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
+<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

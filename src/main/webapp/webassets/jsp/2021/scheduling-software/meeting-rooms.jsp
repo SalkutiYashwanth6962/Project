@@ -20,14 +20,12 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
-	
+	<meta property="og:description" content="Picktime is a free online room booking software with which you can book a meeting room from any part of the world with just an internet connected device. You can schedule a meeting in the room of your choice right from your home screen. Picktime is a fantastic way of making sure your room management system is running smoothly." />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is a free online room booking software with which you can book a meeting room from any part of the world with just an internet connected device. You can schedule a meeting in the room of your choice right from your home screen. Picktime is a fantastic way of making sure your room management system is running smoothly." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
-     
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
@@ -44,12 +42,9 @@
 	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
 		id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
 			<div id="services_sec">
 				<p>The rising trend in freelancers working from shared offices is one that is changing the face of business, and there are also more businesses than ever before saving money by using shared facilities and resources. For business incubators, our meeting room booking software is very useful, and it offers much more than just booking systems.</p>
 			</div>
@@ -100,12 +95,11 @@
 					 <h3 class="service-desc-title">Mobile Friendly</h3>
 		        	<p>Picktime lives in the cloud and is accessible from any device that's connected to the web. Just open a browser, type in your subdomain(to access your business page) and you're ready! Our mobile-first, responsive design lets you manage your bookings from wherever you are using on any mobile device. Your users likewise have access to a booking process optimized for mobiles, allowing them to check availability, manage existing bookings and make new bookings on the go, all without having to download, install or update any apps!</p>
 				</div>
-				
 			</div>
 		</div>
 	</div>
-	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-	<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+<jsp:include page="../scheduling-software/website-new-footer.jsp" />
+<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
+<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

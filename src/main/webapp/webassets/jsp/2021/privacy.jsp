@@ -20,12 +20,12 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta property="og:description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
      
     <jsp:include page="scheduling-software/website-new-headtag.jsp" />
@@ -81,10 +81,7 @@
   <h1><span style="font-weight: normal;">Privacy Policy </span></h1>
   <p>Updated on May-18-2021</p>
   <hr>
-
-<h2>Personal Data collected for the following purposes and using the following services:</h2>
-
-
+  <h2>Personal Data collected for the following purposes and using the following services:</h2>
 <div class="row">
         <div class="col-md-6">
             <div class="media">
@@ -106,17 +103,10 @@
                 <h4>Analytics</h4>
                 <p><strong>Google Analytics and Facebook Ads conversion tracking (Facebook pixel)</strong><br>Personal Data: Tracker; Usage Data</p>
                     <p><strong>Google Analytics Demographics and Interests reports</strong><br>Personal Data: Tracker; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)</p>
-
               </div>
             </div>
         </div>
     </div>
-
-
-
-
-
-
 <div class="row">
         <div class="col-md-6">
             <div class="media">
@@ -137,14 +127,10 @@
               <div class="media-body">
                 <h4>Contacting the User</h4>
                   <p><strong>Mailing list or newsletter</strong><br>Personal Data: address; city; company name; country; email address; first name; last name; profession; state; ZIP/Postal code</p>
-
-
               </div>
             </div>
         </div>
     </div>
-
-
 <div class="row">
         <div class="col-md-6">
             <div class="media">
@@ -154,7 +140,6 @@
               <div class="media-body">
                <h4>Content commenting</h4>
                  <p><strong>Disqus</strong><br>Personal Data: Data communicated while using the service; Tracker; Usage Data</p>
-
               </div>
             </div>
         </div>
@@ -166,17 +151,10 @@
               <div class="media-body">
                 <h4>Device permissions for Personal Data access</h4>
                  <p><strong>Device permissions for Personal Data access</strong><br>Personal Data: Approximate location permission (non-continuous); Biometric Data access permission; Camera permission, without saving or recording; Contacts permission</p>
-
-
               </div>
             </div>
         </div>
     </div>
-
-
-
-
-
 <div class="row">
         <div class="col-md-6">
             <div class="media">
@@ -199,17 +177,10 @@
                <h4>Handling payments</h4>
                 <p><strong>PayPal</strong><br>Personal Data: various types of Data as specified in the privacy policy of the service</p>
                  <p><strong>Square and Stripe</strong><br>Personal Data: billing address; first name; last name; payment info</p>
-
-
-
               </div>
             </div>
         </div>
     </div>
-
-
-
-
 <div class="row">
         <div class="col-md-6">
             <div class="media">
@@ -218,7 +189,7 @@
               </div>
               <div class="media-body">
                <h4>Hosting and backend infrastructure</h4>
-                <p><strong>Google App Engine and Google Cloud Storage</strong><br>Personal Data: various types of Data as specified in the privacy policy of the service</p>
+                <p><strong>Google Cloud Server and Storage</strong><br>Personal Data: various types of Data as specified in the privacy policy of the service</p>
                 <p><strong>Firebase Cloud Firestore</strong><br>Personal Data:  Usage Data; various types of Data as specified in the privacy policy of the service</p>
               </div>
             </div>
@@ -231,13 +202,10 @@
               <div class="media-body">
                <h4>Infrastructure monitoring</h4>
                 <p><strong>Sentry</strong><br>Personal Data: various types of Data as specified in the privacy policy of the service</p>
-
               </div>
             </div>
         </div>
     </div>
-
-
 <div class="row">
         <div class="col-md-6">
             <div class="media">
@@ -258,12 +226,10 @@
               <div class="media-body">
                <h4>Interaction with live chat platforms</h4>
                 <p><strong>Crisp Widget</strong><br>Personal Data: Data communicated while using the service; Tracker; Usage Data; various types of Data as specified in the privacy policy of the service</p>
-
               </div>
             </div>
         </div>
     </div>
-
     <div class="row">
         <div class="col-md-6">
             <div class="media">
@@ -289,9 +255,6 @@
             </div>
         </div>
     </div>
-
-
-
      <div class="row">
         <div class="col-md-6">
             <div class="media">
@@ -301,7 +264,6 @@
               <div class="media-body">
                <h4>Managing contacts and sending messages</h4>
                 <p><strong>Sendgrid</strong><br>Personal Data: company name; email address; first name; last name; phone number; physical address; Tracker</p>
-
               </div>
             </div>
         </div>
@@ -313,7 +275,6 @@
               <div class="media-body">
                <h4>Managing support and contact requests</h4>
                 <p><strong>Support Hero</strong><br>Personal Data: Data communicated while using the service; various types of Data as specified in the privacy policy of the service</p>
-
               </div>
             </div>
         </div>
@@ -338,8 +299,6 @@
               <div class="media-body">
                <h4>Registration and authentication</h4>
                 <p><strong>Facebook Authentication, Google OAuth, Linkedin OAuth and Twitter OAuth</strong><br>Personal Data: various types of Data as specified in the privacy policy of the service</p>
-
-
               </div>
             </div>
         </div>
@@ -353,8 +312,6 @@
               <div class="media-body">
                <h4>Registration and authentication provided directly by www.picktime.com</h4>
                <p><strong>Direct registration</strong><br>Personal Data: address; city; company name; country; email address; field of activity; first name; last name; password; profession; state; ZIP/Postal code</p>
-
-
               </div>
             </div>
         </div>
@@ -366,8 +323,6 @@
               <div class="media-body">
                <h4>Remarketing and behavioral targeting</h4>
                <p><strong>Google Ads Remarketing, Facebook Remarketing, LinkedIn Website Retargeting and Twitter Remarketing</strong><br>Personal Data: Tracker; Usage Data</p>
-
-
               </div>
             </div>
         </div>
@@ -381,7 +336,6 @@
               <div class="media-body">
                <h4>Social features</h4>
                 <p><strong>Firebase Dynamic Links</strong><br>Personal Data: various types of Data as specified in the privacy policy of the service</p>
-
               </div>
             </div>
         </div>
@@ -393,12 +347,10 @@
               <div class="media-body">
                <h4>SPAM protection</h4>
                 <p><strong>Google reCAPTCHA</strong><br>Personal Data: Tracker; Usage Data</p>
-
               </div>
             </div>
         </div>
     </div>
-
     <div class="row">
         <div class="col-md-6">
             <div class="media">
@@ -408,21 +360,13 @@
               <div class="media-body">
                <h4>Tag Management</h4>
                 <p><strong>Google Tag Manager</strong><br>Personal Data: Usage Data</p>
-
               </div>
             </div>
         </div>
         <div class="col-md-6">
-          
         </div>
     </div>
-
-
-
 <hr>
-
-
-
 <div class="row">
         <div class="col-md-12">
             <div class="media">
@@ -446,7 +390,7 @@
               </div>
               <div class="media-body">
 						<h4>Customer Testimonials and Comments</h4>
-						<p>We post customer testimonials and comments on our Websites, which may contain Personal Information. We may obtain each customer's consent via email prior to posting the customer's name and testimonial.</p>
+						<p>We post customer testimonials and comments on our Websites, which may contain Personal Information. We may inform each customer via email prior to posting the customer's name and testimonial.</p>
               </div>
             </div>
         </div>
@@ -460,20 +404,6 @@
               <div class="media-body">
 						<h4>Corporate Events</h4>
 						<p>If we (or our assets) are acquired by another company, whether by merger, acquisition, bankruptcy or otherwise, that company would receive all information gathered by Picktime on the Websites and the Subscription Service. In this event, you will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your Personal Information, and choices you may have regarding your Personal Information.</p>
-              </div>
-            </div>
-        </div>
-</div>
-
-<div class="row">
-        <div class="col-md-12">
-            <div class="media">
-              <div class="media-left">
-                <i class="icon-web-document" aria-hidden="true" style="font-size: 25px;"></i>
-              </div>
-              <div class="media-body">
-						<h4>Publicity</h4>
-						<p>Unless otherwise agreed to by Customer and the Company, during the Term, the Company may disclose Customer’s name as a customer of the Company and subscriber of the Service, and Customer hereby grants the Company the right to display Customer’s name, Company, and logo in the Company’s marketing materials and on the Company’s public website, in each case in accordance with any branding guidelines Customer may provide to the Company.</p>
               </div>
             </div>
         </div>

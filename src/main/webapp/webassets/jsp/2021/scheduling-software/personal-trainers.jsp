@@ -1,7 +1,6 @@
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-    
 <%
 	response.setHeader( "Pragma", "no-cache" );
 	response.setHeader( "Cache-Control", "private, no-cache, no-store, must-revalidate" );
@@ -20,14 +19,12 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
-	
+	<meta property="og:description" content="Picktime is free appointment booking software for all your appointment and class booking problems. You can manage all your personal training classes online at one place. Picktime is a browser based appointment software so you can access it from anywhere through the internet." />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is free appointment booking software for all your appointment and class booking problems. You can manage all your personal training classes online at one place. Picktime is a browser based appointment software so you can access it from anywhere through the internet." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
-     
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
@@ -44,19 +41,15 @@
 	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
 		id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
 			<div id="services_sec">
 				<p>As a certified personal trainer, you are in the business of improving people’s health and lives. It is rewarding and refreshing, but also comes with difficulties. How can you stay on top of your customer needs and progress? Many customers come to you because they need encouragement in overcoming the obstacles to making positive, lasting changes in their lives – how do you keep them motivated? How do you manage a growing business? If you are a solo personal trainer, may be your customers contact you directly for appointments. This can get annoying as you cannot miss these calls even during your personal times. Fitting solo workout sessions with your clients might seem impossible with all your class bookings.</p>
 			</div>
 			<div id="services_sec">
 				<p>Here is a simple, powerful, and effective solution – Online appointment scheduling. No more spreadsheets, floating client files, and paperwork. Try Picktime to improve client engagement and streamline your workflow. Picktime is free appointment booking software for all your appointment and class booking problems. You can manage all your personal training classes online at one place. Picktime is a browser based appointment software so you can access it from anywhere through the internet. Store unlimited student contacts and manage all your classes online without having to interfere. Our booking system fits perfectly to the needs of independent health coaches and personal trainers who want to improve business.</p>
 			</div>
-			
 			<div class="key_features">
 				<h2>Key Features:</h2>
 		         <p>With the following features that allow for customers to book their class online, Picktime has the potential to elevate your career as a personal trainer or health coach:</p>
@@ -92,7 +85,6 @@
 					<h3>Keep Your Contacts in One Place:</h3>
 		        	<p>Picktime makes it simple. Your customer data is stored in Picktime with their profile, address, photo, default activity and location. You can note down personal information about them such as previous sessions, progress or training goals. You will have all your client’s data with you at all times on your Android Phone, Laptop, Desktop, iPad or iPhone.</p>
 				</div>
-				
 				<div id="services_sec">
 					<h3>Enjoy uninterrupted personal time:</h3>
 			        <p>If you are a solo trainer you probably don’t have a front end staff to take appointments on your behalf. With our free personal trainer booking software, have an overview of all your appointments just before you start your day.</p>
@@ -106,8 +98,8 @@
 			</div>
 		</div>
 	</div>
-	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-	<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+<jsp:include page="../scheduling-software/website-new-footer.jsp" />
+<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
+<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

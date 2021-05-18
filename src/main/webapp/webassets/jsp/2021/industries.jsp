@@ -20,12 +20,12 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta property="og:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
      
     <jsp:include page="scheduling-software/website-new-headtag.jsp" />
@@ -68,7 +68,7 @@
 	
 	
 	<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		<a href="/scheduling-software/hair_salon">
+		<a href="/scheduling-software/hair-salon">
 		<div class="unit-4 d-block">
 			<div class="unit-4-icon mb-3">
 				<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Hair Salon" src="/webassets/2021/img/icons/Beauty-and-Wellness_icon.svg" style="height: 60px;"></span></span>
@@ -233,7 +233,7 @@
 <div class="row align-items-stretch">
 
 	<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-		<a href="/scheduling-software/physiologists">
+		<a href="/scheduling-software/psychologists">
 		<div class="unit-4 d-block">
 			<div class="unit-4-icon mb-3">
 			<span class="icon-wrap"><span class="text-primary icon-autorenew"><img alt="Psychologists" src="/webassets/2021/img/icons/industries/Psychologist.svg" style="height: 60px;"></span></span>

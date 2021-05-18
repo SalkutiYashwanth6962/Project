@@ -20,19 +20,19 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta property="og:description" content="Picktime is a Free Appointment Scheduling Software & Event Management Platform for all business types and sizes. Picktime allows you to manage all your event appointment data in one place. Our online booking system and appointment booking software have been primarily designed to address the most complex business requirements." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is a Free Appointment Scheduling Software & Event Management Platform for all business types and sizes. Picktime allows you to manage all your event appointment data in one place. Our online booking system and appointment booking software have been primarily designed to address the most complex business requirements." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
-	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
+<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
 	<!--every page  wave-->
 	<section id="industries_services">
 		<div class="container">
@@ -44,20 +44,15 @@
 	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
 		id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
 			<div id="services_sec">
 				<p>The special events industry has grown enormously in the past decade. Event planners can work from anywhere and at any time. Whether you are a large event planning business or solo entrepreneur, you have to be organized in Event planning business. Whether you're doing event planning for companies, charities or smaller local events your online presence is vital. Starting from managing booking schedules and task management you have to be organized to make your business more profitable.</p>
 			</div>
 			<div id="services_sec">
 				<p>Picktime is a Free Appointment Scheduling Software & Event Management Platform for all business types and sizes. Picktime allows you to manage all your event appointment data in one place. Our online booking system and appointment booking software have been primarily designed to address the most complex business requirements. Picktime allows you to automate and customize the scheduling process for events, appointments, meetings and classes. if you are looking for an online booking software for events, activities, or training, we will provide your clients with a complete solution that will give them the ability to browse, select and book for your sessions within a real-time and securely that will take their user experience to the next level. Our online booking software is ideal for event management agencies. If you need a  highly flexible, feature-rich booking, and powerful software solution that will address your biggest challenges and help create opportunities, then Picktime is what you are looking for.</p>
-
 			</div>
-			
 			<div class="key_features">
 				<h2>Key Features</h2>
 				<ul>
@@ -102,8 +97,8 @@
 			</div>
 		</div>
 	</div>
-	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-	<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+<jsp:include page="../scheduling-software/website-new-footer.jsp" />
+<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
+<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

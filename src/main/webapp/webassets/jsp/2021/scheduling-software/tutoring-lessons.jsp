@@ -20,12 +20,12 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta property="og:description" content="Picktime is an online appointment booking system for tutoring lessons that is designed to make your life stress free by creating a platform through which your clients can schedule their appointments directly. It, not only schedules your clients, but also helps you manage your schedules." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is an online appointment booking system for tutoring lessons that is designed to make your life stress free by creating a platform through which your clients can schedule their appointments directly. It, not only schedules your clients, but also helps you manage your schedules." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
@@ -44,12 +44,9 @@
 	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
 		id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
 			<div id="services_sec">
 				<p>Over the past several years, online booking of tutoring lessons has been gaining prominence. Many parents are starting to choose online tutoring lessons booking over traditional ways of tutoring admission at learning centers. The open gate to online booking has given parents and students many options of tutors and institutions. Even if you have never used a tutor before, you may be familiar with the traditional in-person approach: you make an appointment, meet one-on-one or with a group, and receive assistance in a given subject. However, the advent of the Internet has changed this dynamic in several important ways. The digital format of online tutoring lends itself wonderfully to creating a permanent record of each session.</p>
 			</div>
@@ -105,13 +102,11 @@
 					<h3>Sync with your calendar</h3>
 			        <p>With picktime schedule all your classes around your personal meetings and schedules. Reduce waiting times and frustrated customers with our free online class booking software.</p>
 				</div>
-				
-				
 			</div>
 		</div>
 	</div>
-	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-	<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+<jsp:include page="../scheduling-software/website-new-footer.jsp" />
+<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
+<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

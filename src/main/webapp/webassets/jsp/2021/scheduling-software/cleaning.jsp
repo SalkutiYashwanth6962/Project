@@ -1,7 +1,6 @@
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-    
 <%
 	response.setHeader( "Pragma", "no-cache" );
 	response.setHeader( "Cache-Control", "private, no-cache, no-store, must-revalidate" );
@@ -15,19 +14,16 @@
     <meta name="description" content="Picktime Cleaning Service appointment scheduling Software makes online booking easy for clients and helps you trim your daily scheduling. Your house cleaning business will run at maximum efficiency with Picktime.">
     <meta name="keywords" content="Cleaning Scheduling Software, Best Cleaning Service Software, Best Maid Service Software,   Cleaning and Maid Service Scheduling Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
-	
+	<meta property="og:description" content="Picktime Cleaning Service appointment scheduling Software makes online booking easy for clients and helps you trim your daily scheduling. Your house cleaning business will run at maximum efficiency with Picktime." />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime Cleaning Service appointment scheduling Software makes online booking easy for clients and helps you trim your daily scheduling. Your house cleaning business will run at maximum efficiency with Picktime." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
-     
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
@@ -41,15 +37,11 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
 			<div id="services_sec">
 				<p>Running a cleaning business is more than a full-time job. it can be hard to find the time to keep your business organized with managerial responsibilities like dispatching cleaners, scheduling jobs and getting new customers . Cleaning service companies are flooded with huge number of service requests making it difficult for them to handle scheduling and dispatching on time. With many services like providing maids, total house clean up etc., picktime lets you switch through them with ease.</p>
 			</div>

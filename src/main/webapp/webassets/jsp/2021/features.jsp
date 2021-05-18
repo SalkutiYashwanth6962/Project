@@ -20,12 +20,12 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta property="og:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
      
     <jsp:include page="scheduling-software/website-new-headtag.jsp" />
@@ -40,7 +40,7 @@
 		<div class="i-b-m"><h1>What we offer?</h1></div>
 		<p class="i-s-m">Picktime is packed with powerful features
 			that will help you schedule your appointment, classes, rooms,
-			equipment etc with ease</p>
+			equipment, etc. with ease.</p>
 	</div>
 </section>
 <img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="wave1">
@@ -52,7 +52,7 @@
 	<div class="col-lg-12 col-md-12 col-sm-12">
 		 <div class="f-s-m"> <h2>FEATURES</h2></div>
 		 <div class="f-b-m"><h2>Picktime has something for everyone</h2></div>
-		 <p class="f-p-m">Our sheduling platform is made for any kind of business. Be a salon that offer appointments, a tutor that offers classes or a co-working space that needs to manage spaces - we are a one stop solution for anyone who needs scheduling to increase their efficiency and maintain hassle free bookings</p>
+		 <p class="f-p-m">Our scheduling platform is made for any kind of business. Be a salon that offers appointments, a tutor that offers classes or a co-working space that needs to manage spaces - we are a one-stop solution for anyone who needs scheduling to increase their efficiency and maintain hassle-free bookings</p>
 		 <div class="btn-lg"><a href="/register">SIGNUP FOR FREE</a></div>
 	</div>	  
 	</div>
@@ -61,7 +61,7 @@
 <!------- -------------------------for buiness owners---------start------->
 <section id="for-buiness-owners">
   <div class="container">
-    <div class="f-b-o-s-m"><h2>FOR BUINESSS OWNERS</h2></div>
+    <div class="f-b-o-s-m"><h2>FOR BUSINESS OWNERS</h2></div>
     <div class="f-b-o-b-m"><h2>Everything your business needs all in one place</h2></div>
 
 
@@ -79,7 +79,7 @@
          <div class="f-b-o-h-with-i">
            <img src="/webassets/2021/img/What-is-picktime-appointment.svg" class="icons" alt="Appointment-Scheduling">
            <div class="f-b-o-h"><h3><a href="/features/appointment-scheduling">Appointment Scheduling   </a></h3></div>
-           <p>Easily Manage your Appointments with a few clicks</p>
+           <p>Easily manage your Appointments with a few clicks.</p>
          </div>
       
        </div>
@@ -96,7 +96,7 @@
          <div class="f-b-o-h-with-i">
              <img src="/webassets/2021/img/icons/features/Manage-customer_icon.svg" class="icons" alt="Manage-Customers">
            <div class="f-b-o-h"><h3><a href="/features/manage-customers">Manage Customers</a></h3></div>
-           <p>Manage your Customer data, their appointment history all in one place</p>
+           <p>Manage your Customer data, their appointment history all in one place.</p>
          </div>
        </div>
      </div>
@@ -107,14 +107,14 @@
          <div class="f-b-o-h-with-i">
              <img src="/webassets/2021/img/icons/features/Multiple-location_icon.svg" class="icons" alt="Multiple-Locations">
            <div class="f-b-o-h"><h3><a href="/features/multiple-location">Multiple Locations</a></h3></div>
-           <p>Check what is going on in all your business locations in a glance</p>
+           <p>Check what is going on in all your business locations at a glance.</p>
          </div>
        </div>
        <div class="col-lg-4 col-md-4 col-sm-4">
          <div class="f-b-o-h-with-i">
            <img src="/webassets/2021/img/icons/features/Show-open-slots_icon.svg" class="icons" alt="Team-Management">
            <div class="f-b-o-h"><h3><a href="/features/team-management">Team Management </a></h3></div>
-           <p>Manage your teams schedule, bookings & day off’s</p>
+           <p>Manage your team`s schedule, bookings & day off’s.</p>
          </div>
        </div>
        <div class="col-lg-4 col-md-4 col-sm-4">
@@ -132,7 +132,7 @@
          <div class="f-b-o-h-with-i">
          <img src="/webassets/2021/img/icons/features/Invoice_icon.svg" class="icons" alt="Invoice-Generation">
            <div class="f-b-o-h"><h3><a href="/features/invoice">Invoice Generation</a></h3></div>
-           <p>Keep track of all your bookings Invoices and Refunds</p>
+           <p>Keep track of all your bookings, invoices and refunds.</p>
          </div>
        </div>
        <div class="col-lg-4 col-md-4 col-sm-4">
@@ -155,7 +155,7 @@
      <div class="row" id="spacing">
        <div class="col-lg-4 col-md-4 col-sm-4">
          <div class="f-b-o-h-with-i">
-             <img src="/webassets/2021/img/icons/features/Booking-Froms_icon.svg" class="icons" alt="Booking-Widget">
+             <img src="/webassets/2021/img/icons/features/Booking-Widget_icon.svg" class="icons" alt="Booking-Widget">
            <div class="f-b-o-h"><h3> <a href="/features/booking-widget">Booking Widget </a></h3></div>
            <p>Turn your Website into a Booking Engine.</p>
          </div>
@@ -164,14 +164,14 @@
          <div class="f-b-o-h-with-i">
               <img src="/webassets/2021/img/icons/features/Reminder_icon.svg" class="icons" alt="Reminders">
            <div class="f-b-o-h"><h3><a href="/features/email-alerts">Reminders</a></h3></div>
-           <p>Avoid No-shows & missed appointments. Save time</p>
+           <p>Avoid no-shows & missed appointments. Save time</p>
          </div>
        </div>
        <div class="col-lg-4 col-md-4 col-sm-4">
          <div class="f-b-o-h-with-i">
        <img src="/webassets/2021/img/icons/features/Reports_icon.svg" class="icons" alt="Reports">
            <div class="f-b-o-h"><h3><a href="/features/reports">Reports</a></h3></div>
-           <p>View end to end detailed reports of all your business activities</p>
+           <p>View end-to-end detailed reports of all your business activities</p>
          </div>
        </div>
      </div>
@@ -189,7 +189,7 @@
          <div class="f-b-o-h-with-i">
        <img src="/webassets/2021/img/icons/features/Vouchers-and-Discounts_icon.svg" class="icons" alt="Vouchers-and-Discounts">
            <div class="f-b-o-h"><h3><a href="/features/vouchers-discounts">Vouchers & Discounts</a></h3></div>
-           <p>Notify customers about latest offers and discounts.</p>
+           <p>Notify customers about the latest offers and discounts.</p>
          </div>
        </div>
        <div class="col-lg-4 col-md-4 col-sm-4">
@@ -217,7 +217,7 @@
 		</div>
 		<div class="col-md-6">		
 			<div class="f-c-s-x"><h2>FOR TRAINERS</h2></div>
-			<div class="f-c-b-x"><h2>Don’t get suffocated with over crowded classes</h2></div>
+			<div class="f-c-b-x"><h2>Don’t get suffocated with overcrowded classes</h2></div>
 			 <div class="row">
 			       <div class="col-xs-6"><img alt="Class-Bookings" src="/webassets/2021/img/What-is-picktime-group-booking.svg" id="dammy"><h3>Class Bookings</h3></div>
 			       <div class="col-xs-6"><img alt="Class-Packs" src="/webassets/2021/img/icons/features/Class-Packs_icon.svg" id="dammy"><h3>Class Packs</h3></div>
@@ -262,7 +262,7 @@
               </div>
               <div class="media-body">
                <div class="title"><h3>Calendar Sync</h3></div>
-                <p>Manage schedules, vacation times, breaks within the app</p>
+                <p>Sync your Google, Outlook, Office365, Exchange & iCloud calendars with Picktime.</p>
               </div>
             </div>
         </div>
@@ -275,7 +275,7 @@
               </div>
               <div class="media-body">
                <div class="title"><h3>Timezone Conversion</h3></div>
-                <p>Manage schedules, vacation times, breaks within the app</p>
+                <p>Automatic timezone conversion based on your Customer Location.</p>
               </div>
             </div>
         </div>
@@ -291,7 +291,7 @@
               </div>
               <div class="media-body">
                <div class="title"><h3>Get Notified</h3></div>
-                <p>Manage schedules, vacation times, breaks within the app</p>
+                <p>Stay informed about upcoming, cancelled & rescheduled bookings.</p>
               </div>
             </div>
         </div>
@@ -304,7 +304,7 @@
               </div>
               <div class="media-body">
                <div class="title"><h3>Online Calendar</h3></div>
-                <p>Manage schedules, vacation times, breaks within the app</p>
+                <p>Access Picktime no matter where you are. All your data is stored in the cloud.</p>
               </div>
             </div>
         </div>
@@ -321,7 +321,7 @@
               </div>
               <div class="media-body">
                <div class="title"><h3>Virtual Meetings</h3></div>
-                <p>Manage schedules, vacation times, breaks within the app</p>
+                <p>Schedule Meetings, Interviews and Group Sessions no matter where your team is.</p>
               </div>
             </div>
         </div>
@@ -334,7 +334,7 @@
               </div>
               <div class="media-body">
                <div class="title"><h3>Manage Resources</h3></div>
-                <p>Manage schedules, vacation times, breaks within the app</p>
+                <p>Be in charge of Meetings rooms, Conference Rooms, Equipment etc</p>
               </div>
             </div>
         </div>

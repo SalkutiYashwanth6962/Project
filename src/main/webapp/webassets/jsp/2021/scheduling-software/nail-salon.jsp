@@ -15,27 +15,21 @@
     <meta name="description" content="Picktime is a free online appointment scheduling software for nail salons that is flexible and easy to use. Picktime is fully customizable for you to work just the way you want. For a business that is associated with direct customer interaction you definitely needs a appointment booking system.">
     <meta name="keywords" content="Nail Salon Scheduling Software, Free Nail Salon Scheduling Software, Nail Salon App, Nail Salon Appointment Scheduling & Payments Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
-	
+	<meta property="og:description" content="Picktime is a free online appointment scheduling software for nail salons that is flexible and easy to use. Picktime is fully customizable for you to work just the way you want. For a business that is associated with direct customer interaction you definitely needs a appointment booking system." />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is a free online appointment scheduling software for nail salons that is flexible and easy to use. Picktime is fully customizable for you to work just the way you want. For a business that is associated with direct customer interaction you definitely needs a appointment booking system." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
-     
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
-
 <body>
-
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
-
 	<!--every page  wave-->
 	<section id="industries_services">
 		<div class="container">
@@ -49,11 +43,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
-
-
 			<div id="services_sec">
 				<p>Nail Salons are becoming quite popular like Hair Salons.
 					Nails have become such an important part of beauty regime that
@@ -84,9 +74,6 @@
 					not as it lets you spend quality time with your clients instead of
 					taking phone calls.</p>
 			</div>
-
-
-
 			<div class="key_features">
 				<h2>Key Features</h2>
 				<ul>
@@ -101,16 +88,10 @@
 					<li>Maintain staff</li>
 					<li>Add unlimited staff and services</li>
 					<li>24 hours email support</li>
-
 				</ul>
-
 			</div>
-
-
 			<div class="bottom_section">
 				<h2>Benefits Of Picktime Online Appointment Booking for Nail Salon</h2>
-
-
 				<div id="services_sec">
 					<h3>Reminder System:</h3>
 			        <p>Picktime Nail salon appointment software is designed to send out text messages and Email reminders to both the customers and beauty professionals. We understand how annoying it is to have customer no shows. With our specially designed automated reminder system, increase your business by leaps and bounds.</p>
@@ -135,17 +116,14 @@
 					<h3 class="service-desc-title">Dedicated Service:</h3>
 			         <p>Nail Artists or salon staffs will receive more calls and text messages from their regular customers for appointment booking when they are working. With our powerful and easy to use Nail salon Management software provide the best of your service to your customers and keep your appointment woes at a distance.</p>
 				</div>
-
 				<div id="services_sec">
 					<p>Are you still using a paper and pen to book your customer’s appointment at your business? Picktime provides a secure way to improve your efficiency and to increase profits. While there is no cost to purchase or rent the appointment management software, it pays off with extra appointments, extra retail sales, and more time for yourself! Register for FREE!</p>
 				</div>
 			</div>
 		</div>
 	</div>
-	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-	<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
-
-
+<jsp:include page="../scheduling-software/website-new-footer.jsp" />
+<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
+<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

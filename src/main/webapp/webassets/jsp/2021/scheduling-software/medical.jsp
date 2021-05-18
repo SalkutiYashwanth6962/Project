@@ -15,19 +15,16 @@
     <meta name="description" content="Picktime is an online patient appointment scheduling software for doctors that is designed to make your life stress free by creating a platform through which your patients can schedule their appointments directly. Get rid of moth-eaten patient records and outdated excel sheets. Picktime not only schedules your patients, it also helps you manage your staff schedules.">
     <meta name="keywords" content="Free Medical Scheduling Software Systems, Medical Scheduling Software, Best Patient Scheduling Software, Best Medical Scheduling Software, Appointment Scheduling Software for Medical Practices, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
-	
+	<meta property="og:description" content="Picktime is an online patient appointment scheduling software for doctors that is designed to make your life stress free by creating a platform through which your patients can schedule their appointments directly. Get rid of moth-eaten patient records and outdated excel sheets. Picktime not only schedules your patients, it also helps you manage your staff schedules." />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is an online patient appointment scheduling software for doctors that is designed to make your life stress free by creating a platform through which your patients can schedule their appointments directly. Get rid of moth-eaten patient records and outdated excel sheets. Picktime not only schedules your patients, it also helps you manage your staff schedules." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
-     
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
@@ -44,21 +41,15 @@
 	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
 		id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
 			<div id="services_sec">
 				<p>Doctors are real life superheroes who save tens and hundreds of lives everyday. But to be a successful and a renowned doctor in your locality, gaining your patient’s trust is very important. With emergencies and everyday struggle, spending your valuable time on scheduling patient appointments can become quite draining. Another additional responsibility is managing your staff and resources. With so many things to manage, dedicating your full time and spending quality time with your patients may not be possible. Your clinic probably see hundreds of patients everyday. Managing appointments efficiently is a big problem which every business faces. With so many new people to cater to and a equal number of old patients to catch up with, you must have faced quite a few situations. This also includes double bookings and missing on patient appointments. Get rid of everyday nonsense with our online appointment scheduling software.</p>
-				
 			</div>
 			<div id="services_sec">
 				<p>Picktime is an online patient appointment scheduling software that is designed to make your life stress free by creating a platform through which your patients can schedule their appointments directly. Get rid of moth-eaten patient records and outdated excel sheets. Picktime not only schedules your patients, it also helps you manage your staff schedules. Allocate particular services to specified staff with respect to their designations and create a healthy, well functioning work environment. If your clinic has more than one doctor working, add them into your picktime account and let your patients see who is available at what time. Make time for your loved ones and personal meetings as you don’t have to spend time on maintaining patient schedules.</p>
-
 			</div>
-			
 			<div class="key_features">
 				<h2>Key Features</h2>
 				<ul>
@@ -104,12 +95,11 @@
 		     	<br>
 		     	<p>Have you been considering web based medical appointment scheduling software for your Medical practice? Picktime can provide those services and more for your practice!</p>
 		     	</div>
-				
 			</div>
 		</div>
 	</div>
-	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-	<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+<jsp:include page="../scheduling-software/website-new-footer.jsp" />
+<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
+<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

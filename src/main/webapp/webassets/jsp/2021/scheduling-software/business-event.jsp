@@ -20,12 +20,12 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta property="og:description" content="Picktime is the solution for all your event scheduling and staff management issues. It is a great looking, professional interface to the booking system for your event business, organization or welfare. It can be accessed from any internet device with the browser (Desktops, Laptops, Tablets, Smartphones and even in Smart TVs). Picktime can also sync with your calendar, ensuring you never get double booked" />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is the solution for all your event scheduling and staff management issues. It is a great looking, professional interface to the booking system for your event business, organization or welfare. It can be accessed from any internet device with the browser (Desktops, Laptops, Tablets, Smartphones and even in Smart TVs). Picktime can also sync with your calendar, ensuring you never get double booked" />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
@@ -41,26 +41,19 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
 			<div id="services_sec">
 				<p>Have you ever noticed how many business events take place every week or every day? It can be business related workshops, training, conferences, networking, seminars and much more. If you are going to operate your own business events, then you probably need a user-friendly and easy to use booking system that will allow your future clients to find your company easily and make a booking.</p>
-								
 			</div>
 			<div id="services_sec">
 				<p>Picktime Online event scheduling software will definitely suit your needs! It allows you to create as many services as you need and multiple service providers at free of cost. Your clients will only need to pick a date, choose a service, and time and confirm the booking. It is a free online appointment scheduler designed specifically for B2B events, workshops and meetings. It’s a fast, effective way for all participants to meet the right people and book appointments with each other.</p>
-
 			</div>
 			<div id="services_sec">
 				<p>Picktime is the solution for all your event scheduling and staff management issues. It is a great looking, professional interface to the booking system for your event business, organization or welfare. It can be accessed from any internet device with the browser (Desktops, Laptops, Tablets, Smartphones and even in Smart TVs). Picktime can also sync with your calendar, ensuring you never get double booked and allowing for each meeting that’s scheduled in Picktime to appear on your calendar.</p>
-
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -83,17 +76,14 @@
 				<div id="services_sec">
 					<h3>Reduce Appointment Mistakes</h3>
 					<p>Scheduling can become a nightmare for the event business if not planned and handled well. The field of event management has advanced in the use of technology in operational situations but the administration is still lagging with the constant changes. Picktime will make that system automated and systematic.</p>
-
 				</div>
 				<div id="services_sec">
 					<h3>Clients Can Book From Your Website</h3>
 					<p>Using Picktime, clients can book their appointments directly from your website. You can embed a Picktime booking widget or button on your website, or add a booking button to your email so clients can easily request appointments based on your availability. By placing Book Now button on your website, your clients can book their slots 24/7 online.</p>
-
 				</div>
 				<div id="services_sec">
 					<h3>Reduce Volume of Appointment Calls and Increase Profits</h3>
 					<p>Picktime guides clients through scheduling any service to ensure accurate and efficient completion according to the event managers and event planners. Within months you’ll see increased appointment volumes, elevated client access, improved market share, and assured revenue.</p>
-
 				</div>
 				<div id="services_sec">
 					<h3>Manage all at one place</h3>
@@ -102,7 +92,6 @@
 				<div id="services_sec">
 					<h3>Appointment Reminders</h3>
 					<p>Picktime is not just an appointment book, it can also help you reduce missed appointments and therefore avoid lost revenue. We send automated email and sms reminders to clients so that they show up to their scheduled appointments.</p>
-
 				</div>
 			</div>
 		</div>

@@ -50,12 +50,12 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta property="og:description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	
      <!--Google Fonts-->  
@@ -64,67 +64,43 @@
 	
 	<!--Bootstrap-->  
 	<link rel="stylesheet" href="/webassets/2021/css/bootstrap.min.css?_=<%=cache%>">
-	
-	
-	
-		<style type="text/css">
-	
-	
-       #cookies {
-        padding-top: 10px;
-    	}
-	   
-	   #cookies h2{
-	   font-size: 18px;
-       color: #141414;
-       line-height: 1.6;
-       padding-bottom: 15px;
-       font-weight: bold;
-	   
-	   }
-	   p{
-	   font-size: 14px;
-       line-height: 1.6;
-       ont-weight: normal;
-       color: #777;
-	   }
-	   h4{
-	   font-size: 13px;
-       font-weight: bold;
-       padding:10px 0px;
-       margin-bottom: 0;
-       color: #777;
-	   }
-	   
-	  ul{
-	   font-size: 14px;
-       line-height: 1.6;
-       ont-weight: normal;
-       color: #777;
-	  } 
-	
-	
+	<style type="text/css">
+		#cookies {
+			padding-top: 10px;
+		}
+		#cookies h2 {
+			font-size: 18px;
+			color: #141414;
+			line-height: 1.6;
+			padding-bottom: 15px;
+			font-weight: bold;
+		}
+		p {
+			font-size: 14px;
+			line-height: 1.6;
+			ont-weight: normal;
+			color: #777;
+		}
+		h4 {
+			font-size: 13px;
+			font-weight: bold;
+			padding: 10px 0px;
+			margin-bottom: 0;
+			color: #777;
+		}
+		ul {
+			font-size: 14px;
+			line-height: 1.6;
+			ont-weight: normal;
+			color: #777;
+		}
 	</style>
-	
-	
-	
-	
-	</head>
+</head>
 <body>
-
-
-
-
-
-<div class="container">
-<div class="row">
-<div class="col-sm-0"></div>
-<div class="col-sm-12">
-
-
-
-
-
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-0"></div>
+			<div class="col-sm-12">
 <section id="cookies">
      <h2>Cookie Policy</h2>
 			<p>This document informs Users about the technologies that help www.picktime.com to achieve the purposes described below. Such technologies allow the Owner to access and store information (for example by using a Cookie) or use resources (for example by running a script) on a User’s device as they interact with www.picktime.com.</p>

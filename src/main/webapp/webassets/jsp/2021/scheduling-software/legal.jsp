@@ -15,24 +15,21 @@
     <meta name="description" content="Picktime is the best free appointment management for law firms and legal services. Be prepared to be blown away by how much Picktime is giving away for free. Naturally, as most legal appointment scheduling softwares, Picktime helps you with managing appointments, managing your juniors, finding new clients and maintain relationships with existing ones.">
     <meta name="keywords" content="Legal Scheduling Software, Scheduling Software for Lawyers, Free Online Legal Scheduling Software, Law firm appointment scheduling software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
-	
+	<meta property="og:description" content="Picktime is the best free appointment management for law firms and legal services. Be prepared to be blown away by how much Picktime is giving away for free. Naturally, as most legal appointment scheduling softwares, Picktime helps you with managing appointments, managing your juniors, finding new clients and maintain relationships with existing ones." />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is the best free appointment management for law firms and legal services. Be prepared to be blown away by how much Picktime is giving away for free. Naturally, as most legal appointment scheduling softwares, Picktime helps you with managing appointments, managing your juniors, finding new clients and maintain relationships with existing ones." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
-     
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
-	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
+<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
 	<!--every page  wave-->
 	<section id="industries_services">
 		<div class="container">
@@ -41,15 +38,11 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
 			<div id="services_sec">
 				<p>Why would a law practice be interested in an online booking system? Appointments with clients, opposing counsel, and colleagues are the lifeblood of your practice. It can also be very tedious. That's why we recommend a powerful online booking system for your legal firm. Your online booking system should allow your potential clients to choose the day and time that is right for them (and that works for you too, of course) and also, optionally, choose which attorney in your practice is available for them to meet.</p>
 			</div>
@@ -95,9 +88,8 @@
 				</div>
 			</div>
 		</div>
-	</div>
-	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-	<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+<jsp:include page="../scheduling-software/website-new-footer.jsp" />
+<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
+<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

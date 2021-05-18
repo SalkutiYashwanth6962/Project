@@ -20,12 +20,12 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta property="og:description" content="Picktime is a free web based online booking software for all types of restaurants. You don't have to install any software to access picktime. Picktime can be accessed through any devices(Desktop, laptop, tablet and smartphone) through viable internet connection. Picktime is not only to manage your table bookings, you can even manage your staffs. " />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is a free web based online booking software for all types of restaurants. You don't have to install any software to access picktime. Picktime can be accessed through any devices(Desktop, laptop, tablet and smartphone) through viable internet connection. Picktime is not only to manage your table bookings, you can even manage your staffs. " />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
@@ -44,12 +44,9 @@
 	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
 		id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
 			<div id="services_sec">
 				<p>As a business owner, there’s nothing worse than missed telephone calls when you are busy with personal stuff. Equally there’s nothing worse than a call not being answered when you are trying to book a restaurant! Working closely with restaurants business, Picktime (specialized for many businesses) joined forces in order to improve the dining experience for both customers and staff.</p>
 			</div>
@@ -88,7 +85,6 @@
 				<div id="services_sec">
 					<h3>Online Reservations</h3>
 			      <p>Your customers can do reservations anywhere, anytime. You get automated text and email reminders of confirmation, cancellations and rescheduled reservations.</p>
-
 				</div>
 				<div id="services_sec">
 					<h3>Booking Widget</h3>
@@ -109,8 +105,8 @@
 			</div>
 		</div>
 	</div>
-	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-	<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+<jsp:include page="../scheduling-software/website-new-footer.jsp" />
+<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
+<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

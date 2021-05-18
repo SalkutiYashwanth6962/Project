@@ -15,19 +15,16 @@
     <meta name="description" content="Picktime is an free online daycare appointment scheduling software that is designed to make your life stress free by creating a platform through which your customers can schedule their appointments directly. It, not only schedules your customers, but also helps you manage your schedules. Allocate particular services to specified staff with respect to their designations and create a well functioning work environment.">
     <meta name="keywords" content="Child Care Scheduling Software, Best Child Care Software, child care management solution, Best Daycare Software, The Best Free Child Care Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
-	
+	<meta property="og:description" content="Picktime is an free online daycare appointment scheduling software that is designed to make your life stress free by creating a platform through which your customers can schedule their appointments directly. It, not only schedules your customers, but also helps you manage your schedules. Allocate particular services to specified staff with respect to their designations and create a well functioning work environment." />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a Free appoinment scheduling or booking software which manages all your appointments 24X7 automatically for you which makes it easy for you and your customers." />
+	<meta name="twitter:description" content="Picktime is an free online daycare appointment scheduling software that is designed to make your life stress free by creating a platform through which your customers can schedule their appointments directly. It, not only schedules your customers, but also helps you manage your schedules. Allocate particular services to specified staff with respect to their designations and create a well functioning work environment." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
-     
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
@@ -41,15 +38,11 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
 			<div id="services_sec">
 				<p>Finding the right child care is one of the toughest tasks parents face these days. The number of working parents, including single parent families and families with both parents employed is escalating, creating an ever-growing need for quality child care. You also have a tremendous amount of flexibility when it comes to the exact services you choose to offer. You may limit your clientele to children in certain age groups or tailor your operating hours to meet the needs of a particular market segment. Within this very broad market is the more narrow group of clients you'll serve. Use market research to figure out who these people are and how you can best attract them to your center.</p>
 			</div>
@@ -95,7 +88,7 @@
 		</div>
 	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-	<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
+<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>
