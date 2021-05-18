@@ -29,7 +29,7 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
+    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/features.css?_=<%=cache%>">
 </head>
 
 <body>
@@ -43,13 +43,6 @@
 </section>
 <img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 <!--every page  wave-->
-
-<style>
-#feature_sec p{
-	font-weight: bold;
-    color: #000000;
-}
-</style>
 
 <div id="features-body-section" style="margin-bottom: 200px;">
 	<div class="container">

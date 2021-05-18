@@ -67,7 +67,7 @@
 <jsp:include page="scheduling-software/website-new-navbar.jsp" />
 
 
-<div id="careers" style="margin: 120px 0px 300px 0px;">
+<div id="careers" style="margin: 200px 0px 200px 0px;">
 	<div class="container">
 		
       <div class="title">Want to be part of our amazing team?</div>
