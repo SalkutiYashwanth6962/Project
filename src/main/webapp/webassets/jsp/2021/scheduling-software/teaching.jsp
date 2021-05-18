@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>Teaching is one the most challenging and satisfying professions of all. Moulding little brains and giving students support to help them come out with flying colours is not easy. You have to put all your effort and hard work into being the best teacher they ever had. But it is not always possible to give your students the time they want with all other things you have to do, Like spending time with your family and meeting up with other important people. This may make you feel like you are not doing justice to your job when you are not able to cater to your students.</p>
 			</div>

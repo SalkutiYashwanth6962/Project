@@ -47,11 +47,8 @@
 <div class="industries-body-section" style="margin-bottom: 200px;">
 	<div class="container">
 	
-	
-				
-				
-	
-	
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 	<div id="services_sec">
 	           <p>Online scheduling is a great way to improve profitability for Golf classes. Do you offer training and classes? Do you teach golf and get tired of scheduling the lessons manually? In this case, you should check out the Picktime golf class scheduling software. Our management software is not only for golf lessons, it is made for any type of class and this has allowed us to gain experience and fine tune our software to perfection.</p>
 				</div>

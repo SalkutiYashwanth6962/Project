@@ -55,8 +55,8 @@
 
 <div class="industries-body-section" style="margin-bottom: 200px;">
 	<div class="container">
-	
-	
+		
+		<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 	
 		<div id="services_sec">
 		<p>Whether you are a Chiropractor who runs a single staff business or a part of a much larger enterprise, there are unique challenges to the profession in regard to generating more revenue or more appointments. Smaller businesses often deal with constant uncertainty to make a decision based on the cost of hiring someone to help scheduling appointments. This process can be expensive and time-consuming. Businesses with more employees have a new set of problems altogether. How do you determine which client belongs with which Chiropractor? If you share a receptionist, is there a standard system for adding an appointment to each practitioner's schedule? As you can see, there are various challenges no matter the what the size or structure of your business is.</p>

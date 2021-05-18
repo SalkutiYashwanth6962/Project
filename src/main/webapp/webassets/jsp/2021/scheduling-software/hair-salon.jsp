@@ -56,7 +56,9 @@
 <div class="industries-body-section" style="margin-bottom: 200px;">
 	<div class="container">
 	
-	
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+				
+		
 	
 		<div id="services_sec">
 		<p>Hair Salons are the most visited places after restaurants and hospitals. Every customer wants the best of services. But quite often hair salon and spa owners struggle with managing customers. This often leads to loosing of customers. Aren’t you able to keep up with your growing business? Are you dealing with angry customers due to improper appointment management? Are you tired of booking your appointments in Excel and facing No shows? Are you losing track of your appointments and losing business day by day? Is your appointment scheduling unorganized? Are you using paid salon software but not seeing any improvement in your business? We have a solution for all your appointment scheduling problems at a free of cost. No more paid appointment scheduling softwares.</p>

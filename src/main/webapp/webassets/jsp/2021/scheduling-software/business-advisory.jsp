@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>Are you hesitant to pay for an extra staff just to book appointments on your behalf? We understand scheduling hassles can wreak havoc with your customer retention efforts. Fortunately, Picktime can help local business owners with this onerous burden. As an added benefit, also collect useful data about your clients that can be utilized for marketing campaigns.</p>
 			</div>

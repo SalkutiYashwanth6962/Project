@@ -44,6 +44,9 @@
 <!--every page  wave-->
 <div class="industries-body-section" style="margin-bottom: 200px;">
 	<div class="container">
+		
+		<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+		
 		<div id="services_sec">
 		<p>Acupuncture has been around for thousands of years, and people are still arguing its benefits. You have the place, you have the customers, you have the staff, but the next level will require a little more than needles, calm lighting, and soft hands. To keep your loyal customers on the table, week after week, you need to have a proper appointment scheduling system to deliver an experience that’s seamless for them and easy for you. Appointment Scheduling is an important component of any Acupuncture practice.</p>
 		</div>

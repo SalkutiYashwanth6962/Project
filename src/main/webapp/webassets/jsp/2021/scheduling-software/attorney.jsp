@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>A career as an attorney is an extraordinary calling. However, becoming an attorney is an enormous undertaking in terms of time commitment and financial investment. They are autonomous and have the ability to make their own hours, set their own fees and choose their own clients and practice areas. Millions of people search for attorney and lawyer-related keywords on Google every month, so it should come as no surprise that your prospective clients are online, looking for you. You’ve just gotta find a way to be there when they’re ready to pull the trigger and hire an attorney. There are countless strategies, online lawyer and legal case management softwares, but nothing like picktime.</p>
 			</div>

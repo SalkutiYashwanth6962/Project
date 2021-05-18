@@ -48,6 +48,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>To schedule a driving lesson with an instructor, most times, student have to make a phone call. What happens if you are out on the road, trying to teach students how to drive? Many driving instructors are independent contractors with no access to an office, but they run business over their cell phone. For that reason, for a student interested in going to driving school, it may not be convenient to keep calling a driving instructor to make an appointment and not be able to get through. That is why an online appointment scheduling system is important.</p>
 			</div>

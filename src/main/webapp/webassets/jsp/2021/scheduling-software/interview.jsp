@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>Interviews are a vital part of the hiring process, and also one of the most logistically challenging. Putting together an interview schedule that works for everyone is hard enough. And when you consider the possibility of going back and forth on email threads that don't talk to your interview scheduling software, the challenge just compounds. When your job is dedicated to finding the right candidate for the job, managing the troubles that come with bookings can be a total pain. Whether you are scheduling interviews or screening calls, you're required to find that magical time slot that works for everyone involved. Scheduling interviews is  time consuming task which involves proper management of staff and resources. You might have wondered, “How can I reduce the time I spend scheduling interviews, calls or rooms?” It’s easier than you think!</p>
 			</div>

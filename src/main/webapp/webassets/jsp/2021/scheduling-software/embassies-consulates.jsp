@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>Embassies and consulates around the world are affording various services for immigrants of their countries, who are usually visiting or staying abroad. Often, the staffs of these embassies are under a huge pressure from people who need help such as renewing passports, advice on legal stuff, traveling visa process or other business resolutions. Within the embassies, there are usually various consultants focusing on different problems, accepting appointments and helping people with their issues. Throughout the years, the scheduling of these bookings and meetings have been done over the phone, which unfortunately is not a very efficient way for the people nor the employees.</p>
 			</div>

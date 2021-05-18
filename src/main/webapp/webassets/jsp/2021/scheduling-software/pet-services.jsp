@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>Most people with careers in the pet industry follow their dream of working with animals, and they love it. It’s a wonderful feeling, waking up every morning and knowing you’ll spend your day making life better for the pets in your care. However, you know that running a business is work, regardless of how much you love your furry little clients. No doubt about it.</p>
 			</div>

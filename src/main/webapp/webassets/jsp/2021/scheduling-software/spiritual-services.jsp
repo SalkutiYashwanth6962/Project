@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>Growth, fulfillment, and happiness require a daily spiritual practice, along with taking care of ourselves and loving others. Unfortunately, while our culture encourages daily exercise for the body, it does not always encourage daily exercise for the spirit. If you run a Spiritual service business, you provide a variety of services and ritual assistance to help your clients be on their life path. Whether you provide spiritual consultations for couples, pastoral care services, chaplains services for various faiths, Sunday schools, medium, guidance or any other type of spiritual services, you deal with appointments on a daily basis and having a simple and efficient tool that will arrange your availability and accept bookings 24/7 is a great benefit worth to consider.</p>
 			</div>

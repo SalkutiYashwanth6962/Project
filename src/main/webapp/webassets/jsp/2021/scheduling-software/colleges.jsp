@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>The Internet has obviously been one of the prominent innovations in human history. It has single-handedly cherished hundreds of changes to a variety of industries. It has widened communications and expedited new methods of all types of transactions, and most importantly it has allowed an unbelievable streamlining to take place in the world of administration. For colleges and universities, especially, the benefits of utilizing online scheduling and administration software has allowed numerous benefits and cut costs all at the same time. This has allowed undreamed improvements to every department at colleges that utilize this incredible technology. For college counseling departments, especially, the benefits have been incredible.</p>
 			</div>

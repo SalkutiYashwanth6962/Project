@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>Maintaining a spa industry is not a piece of cake. The Spa Industry has risen so much in the past 15 years that it has become a necessity for most of the people. With increasing stress levels and extremely busy daily lives, people tend to see spa’s as their only getaways for a relaxing hour or two. A good massage or treatment in your spa might just brighten the mood of your customer. With challenging  tasks in hand, interfering customers and constant telephone ringing can sidetrack your concentration resulting in poor service and unhappy customers. Catering to all your customers and Managing appointments does become crazier as your customer base keeps growing. Another added problem is letting your customer choose their favourite staff member for the service they need.</p>
 			</div>

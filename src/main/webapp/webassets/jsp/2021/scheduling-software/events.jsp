@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>The special events industry has grown enormously in the past decade. Event planners can work from anywhere and at any time. Whether you are a large event planning business or solo entrepreneur, you have to be organized in Event planning business. Whether you're doing event planning for companies, charities or smaller local events your online presence is vital. Starting from managing booking schedules and task management you have to be organized to make your business more profitable.</p>
 			</div>

@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>As much as we'd like to believe that Ice creams and chocolate cakes are elixirs for a long and healthy life, we know that's not the case. We also know that a regular exercise routine is one of the inevitable paths to a healthier and longer life. A fitness center encourages trainees to follow a well-balanced program that includes both strength training and proper exercise. This supports weight loss and heart health, helps prevent osteoporosis and improves muscle strength, stability, and versatility.</p>
 			</div>

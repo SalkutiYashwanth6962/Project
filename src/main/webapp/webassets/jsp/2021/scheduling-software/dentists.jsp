@@ -54,6 +54,9 @@
 
 <div class="industries-body-section" style="margin-bottom: 200px;">
 	<div class="container">
+		
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 	            <div id="services_sec">
 	            <p>The modern dental practice has developed drastically over the past few years. Most dentists use ledger cards and paper appointment books to track the appointments and financial health of the practice. There are several types of softwares that dentists use in their office, but the most important is the Appointment Scheduling software. One process that almost immediately increases the number of patients is appointment scheduling. This seemingly simple task can quickly become burdensome and challenging to many. While patient growth absolutely has its benefits, it also creates new difficulties for facility administrators and their staffs.</p>
 				</div>

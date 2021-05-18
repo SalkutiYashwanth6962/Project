@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>The equipment rental, sales and service industry faces unique operational and reporting challenges. The fast-growing energy sector also fuels rental growth, since drilling companies are renting more equipment. Your customers demand exceptional customer service and equipment, in every case and in any economy. You deserve the same from your business partners. Picktime understands your business and we’ve been delivering a complete business management solution for businesses that rent, sell and service equipment.</p>
 			</div>

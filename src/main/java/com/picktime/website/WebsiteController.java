@@ -37,6 +37,7 @@ public class WebsiteController {
 	@RequestMapping(value="/features/{pageName}")
 	public String featuresPages(HttpServletRequest request,HttpServletResponse response,@PathVariable("pageName") String pageName) throws IOException
 	{
+		request.setAttribute("pageName", pageName);
 		return "2021/features/"+pageName;
 	}
 	@RequestMapping(value="/integrations")

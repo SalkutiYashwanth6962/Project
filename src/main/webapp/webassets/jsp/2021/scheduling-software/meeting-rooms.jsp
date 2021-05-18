@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>The rising trend in freelancers working from shared offices is one that is changing the face of business, and there are also more businesses than ever before saving money by using shared facilities and resources. For business incubators, our meeting room booking software is very useful, and it offers much more than just booking systems.</p>
 			</div>

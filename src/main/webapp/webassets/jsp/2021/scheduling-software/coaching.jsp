@@ -56,11 +56,8 @@
 <div class="industries-body-section" style="margin-bottom: 200px;">
 	<div class="container">
 	
-	
+	<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 				
-				
-	
-	
 	<div id="services_sec">
 	           <p>In the era of advanced modern technologies, aggressive sports people or people who want to undergo coaching for other stuff, love it when they can simply go online and sign up for any class no matter where they are, day or night. It is very annoying to take calls from your clients at times you don’t want to take them. There are also much more important things like improving your business and strengthening your marketing campaign. With such important things to, you often cannot concentrate on them due to no shows, double bookings and lack of organisation.</p>
 								</div>

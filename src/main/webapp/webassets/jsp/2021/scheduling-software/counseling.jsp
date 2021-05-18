@@ -54,8 +54,8 @@
 
 <div class="industries-body-section" style="margin-bottom: 200px;">
 	<div class="container">
-	
-	
+		
+		<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 	
 		<div id="services_sec">
 		<p>For every type of human struggle, there is a type of counselor to helps us work through it. Grief, Marriage, credit, substance abuse, even career woes – counselors who help people deal with all of these concerns are invaluable to those who go to them. Directly jumping into the counseling service industry can be challenging. There are hundreds of counseling services you can provide to your clients. If you believe you have a unique point of view to offer your clients then it may be time for you to take that leap. Like any business, there are certain factors that should be taken into attention. By planning ahead you can easily face any problems that might occur. Remember if you don't be systematic or organized you are to fail.</p>

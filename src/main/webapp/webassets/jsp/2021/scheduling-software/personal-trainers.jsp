@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>As a certified personal trainer, you are in the business of improving people’s health and lives. It is rewarding and refreshing, but also comes with difficulties. How can you stay on top of your customer needs and progress? Many customers come to you because they need encouragement in overcoming the obstacles to making positive, lasting changes in their lives – how do you keep them motivated? How do you manage a growing business? If you are a solo personal trainer, may be your customers contact you directly for appointments. This can get annoying as you cannot miss these calls even during your personal times. Fitting solo workout sessions with your clients might seem impossible with all your class bookings.</p>
 			</div>

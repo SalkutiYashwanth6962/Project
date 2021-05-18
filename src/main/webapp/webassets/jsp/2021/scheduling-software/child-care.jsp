@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>Finding the right child care is one of the toughest tasks parents face these days. The number of working parents, including single parent families and families with both parents employed is escalating, creating an ever-growing need for quality child care. You also have a tremendous amount of flexibility when it comes to the exact services you choose to offer. You may limit your clientele to children in certain age groups or tailor your operating hours to meet the needs of a particular market segment. Within this very broad market is the more narrow group of clients you'll serve. Use market research to figure out who these people are and how you can best attract them to your center.</p>
 			</div>

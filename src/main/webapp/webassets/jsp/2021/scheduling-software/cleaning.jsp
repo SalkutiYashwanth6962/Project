@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>Running a cleaning business is more than a full-time job. it can be hard to find the time to keep your business organized with managerial responsibilities like dispatching cleaners, scheduling jobs and getting new customers . Cleaning service companies are flooded with huge number of service requests making it difficult for them to handle scheduling and dispatching on time. With many services like providing maids, total house clean up etc., picktime lets you switch through them with ease.</p>
 			</div>

@@ -49,7 +49,9 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 
 
 			<div id="services_sec">

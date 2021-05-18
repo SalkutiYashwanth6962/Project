@@ -48,6 +48,8 @@
 <div class="industries-body-section" style="margin-bottom: 200px;">
 	<div class="container">
 	
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 	<div id="services_sec">
 	            <p>While patient growth certainly has its benefits, it also creates new difficulties for Physiologists and their staff. Processes and methods that previously were adequate may no longer be effective in handling a rise in patients, urging administrators to seek out alternatives and new technology and techniques to assist them and their patients. One process that almost immediately resulted in an increase in patients is appointment scheduling. This seemingly simple task can often become burdensome and challenging to staff members. This is especially true if the Physiologists facility continues to rely on the most standard and also the most inefficient manner of scheduling appointments over the phone.</p>
 				</div>

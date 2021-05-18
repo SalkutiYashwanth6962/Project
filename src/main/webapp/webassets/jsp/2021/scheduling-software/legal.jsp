@@ -47,6 +47,9 @@
 
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
+			
+			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			
 			<div id="services_sec">
 				<p>Why would a law practice be interested in an online booking system? Appointments with clients, opposing counsel, and colleagues are the lifeblood of your practice. It can also be very tedious. That's why we recommend a powerful online booking system for your legal firm. Your online booking system should allow your potential clients to choose the day and time that is right for them (and that works for you too, of course) and also, optionally, choose which attorney in your practice is available for them to meet.</p>
 			</div>
