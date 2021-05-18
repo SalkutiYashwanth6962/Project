@@ -18,7 +18,7 @@
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
+	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="With Picktime interview scheduling software, spend more time with your candidates and less time in interview scheduling. Picktime is a free online appointment booking software that can be used to schedule interviews and manage your staffs." />
 	
@@ -26,7 +26,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="With Picktime interview scheduling software, spend more time with your candidates and less time in interview scheduling. Picktime is a free online appointment booking software that can be used to schedule interviews and manage your staffs." />
-	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
+	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">

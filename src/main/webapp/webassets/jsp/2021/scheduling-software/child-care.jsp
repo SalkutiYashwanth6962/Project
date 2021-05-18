@@ -17,14 +17,14 @@
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
+	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime is an free online daycare appointment scheduling software that is designed to make your life stress free by creating a platform through which your customers can schedule their appointments directly. It, not only schedules your customers, but also helps you manage your schedules. Allocate particular services to specified staff with respect to their designations and create a well functioning work environment." />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime is an free online daycare appointment scheduling software that is designed to make your life stress free by creating a platform through which your customers can schedule their appointments directly. It, not only schedules your customers, but also helps you manage your schedules. Allocate particular services to specified staff with respect to their designations and create a well functioning work environment." />
-	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
+	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>

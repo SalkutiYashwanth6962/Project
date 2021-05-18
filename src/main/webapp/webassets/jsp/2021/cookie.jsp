@@ -48,7 +48,7 @@
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
+	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	
@@ -56,7 +56,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
-	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
+	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
 	
      <!--Google Fonts-->  
 	<link rel="preconnect" href="https://fonts.gstatic.com">

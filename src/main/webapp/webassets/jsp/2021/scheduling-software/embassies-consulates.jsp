@@ -18,7 +18,7 @@
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
+	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="The Picktime appointment software suits both the embassies and the consulates perfectly, because it helps to organize both your appointments and staffs of your business. Picktime for consulates is a great way to manage your appointments" />
 	
@@ -26,7 +26,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="The Picktime appointment software suits both the embassies and the consulates perfectly, because it helps to organize both your appointments and staffs of your business. Picktime for consulates is a great way to manage your appointments" />
-	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
+	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">

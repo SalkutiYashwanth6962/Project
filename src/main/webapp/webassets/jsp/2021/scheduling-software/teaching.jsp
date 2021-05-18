@@ -18,7 +18,7 @@
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
+	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime is an online appointment scheduling software for teaching which helps you schedule classes, meetings and events so that your students can meet up with you when you are available. Sign up with Picktime and set up your account. Make your available time slots visible in your booking page and simply share your link." />
 	
@@ -26,7 +26,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime is an online appointment scheduling software for teaching which helps you schedule classes, meetings and events so that your students can meet up with you when you are available. Sign up with Picktime and set up your account. Make your available time slots visible in your booking page and simply share your link." />
-	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-cover.jpg" />
+	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
