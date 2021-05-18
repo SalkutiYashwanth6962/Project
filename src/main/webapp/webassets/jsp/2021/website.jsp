@@ -43,7 +43,7 @@
 						<h1><span>Simplified Scheduling</span> <br>for everyone</h1>
 					</div>
 					<p class="b-p-y">Free online Appointment scheduling software with Payments, Invoicing, Sales, Reporting, Customer & Team management.</p>
-					<a  href="/login"><button class="btn-lg text-center signup-btn-banner">GET STARTED FOR FREE</button></a>
+					<a  href="/register"><button class="btn-lg text-center signup-btn-banner">GET STARTED FOR FREE</button></a>
 				</div>
 				<div class="col-md-6">
 					<img src="\webassets\2021\img\picktime-hero-new.svg" class="img-banner"  alt="Picktime-free-online-appointment-scheduling-app">

@@ -46,7 +46,7 @@
 				</div>
 				<p class="b-p-y">We got your back. Picktime can be used from Android, ios and Windows as well. Our team has taken extra care to design the app in such a way
                          that the user can use it anytime and from anywhere.</p>
-				<a  href="/login"><div class="btn-lg text-center">GET STARTED FOR FREE</div></a>
+				<a  href="/register"><div class="btn-lg text-center">GET STARTED FOR FREE</div></a>
 			</div>
 			<div class="col-md-6 hidden-sm hidden-xs">
 			    <img src="/webassets/2021/img/mobile-screens/mobile-screen.svg" class="img-responsive" width="auto" alt="Picktime-Mobile-App" id="mobile-main">
