@@ -3525,6 +3525,20 @@ height: 80px;
   #pricinng-box .box {
     width: 380px;
   }
+  #for-buiness-owners .f-b-o-h h3{
+      font: normal normal 600 16px/20px Raleway;
+  }
+  #for-buiness-owners p{
+    font-size: 14px;
+    line-height: 18px;
+  }
+  #spacing{    
+    margin-left: 0px;
+  }
+  #for-class h3{
+    margin: 0px;
+    margin-bottom: 20px;
+  }
 }
 
 @media only screen and (max-width: 425px) {
