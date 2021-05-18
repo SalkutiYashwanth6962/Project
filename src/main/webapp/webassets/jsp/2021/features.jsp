@@ -164,7 +164,7 @@
          <div class="f-b-o-h-with-i">
               <img src="/webassets/2021/img/icons/features/Reminder_icon.svg" class="icons" alt="Reminders">
            <div class="f-b-o-h"><h3><a href="/features/reminders">Reminders</a></h3></div>
-           <p>Avoid no-shows & missed appointments. Save time</p>
+           <p>Avoid no-shows & missed appointments (Coming soon).</p>
          </div>
        </div>
        <div class="col-lg-4 col-md-4 col-sm-4">
