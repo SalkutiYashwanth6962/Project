@@ -1,6 +1,6 @@
 <%@page import="java.util.Calendar"%>
 
-<section id="pricinng-box">
+<section id="pricing-box">
 	<div class="box">
 		<div id="box-title">Pricing?</div>
 		<P id="box-text">Picktime is a completely free solution. It is
@@ -11,7 +11,7 @@
 	</div>
 </section>
 
-<!-- -------------------------------Footer---------start------------------------------>
+<!------------------Footer-------------------->
  <section id="picktime">
   <div class="container">
     <div class="row">
@@ -67,8 +67,7 @@
     </div>
   </div>
 </section> 
-<!-- ------------------------Business webservices------------------------------ -->
- <section id="footer" style=" ">
+ <section id="footer">
   <div class="container">
   
     <h1 class="text-center" id="footer-title"><a href="/industries">Businesses we serve</a></h1>
@@ -169,7 +168,6 @@
   </div>
    
 </section>
-<!-- -------------------------------Footer---------end------------------------------>
 
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

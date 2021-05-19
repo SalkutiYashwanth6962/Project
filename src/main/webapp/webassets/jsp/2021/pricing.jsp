@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
 <center><h1>Comming Soon</h1><h1>Pricing page</h1></center>
-
 </body>
 </html>

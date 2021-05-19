@@ -430,13 +430,13 @@
 <p>Users can, for example, find information about how to manage Cookies in the most commonly used browsers at the following addresses:</p>
 
 <ul>
-  <a href="https://support.google.com/chrome/answer/95647?hl=en&p=cpn_cookies" target="_blank"><li>Google Chrome</li></a>
-  <a href="https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US" target="_blank"><li>Mozilla Firefox</li></a>
-  <a href="https://support.apple.com/en-in/guide/safari/sfri11471/mac" target="_blank"><li>Apple Safari</li></a>
-  <a target="_blank" href="https://support.microsoft.com/en-us/topic/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d"><li>Microsoft Internet Explorer</li></a>
-  <a target="_blank" href="https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09"><li>Microsoft Edge</li></a>
-  <a target="_blank" href="https://support.brave.com/hc/en-us/articles/360022806212-How-do-I-use-Shields-while-browsing"><li>Brave</li></a>
-  <a target="_blank" href="https://help.opera.com/en/latest/web-preferences/#cookies"><li>Opera</li></a>
+  <li><a href="https://support.google.com/chrome/answer/95647?hl=en&p=cpn_cookies" target="_blank">Google Chrome</a></li>
+  <li><a href="https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US" target="_blank">Mozilla Firefox</a></li>
+  <li><a href="https://support.apple.com/en-in/guide/safari/sfri11471/mac" target="_blank">Apple Safari</a></li>
+  <li><a target="_blank" href="https://support.microsoft.com/en-us/topic/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d">Microsoft Internet Explorer</a></li>
+  <li><a target="_blank" href="https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09">Microsoft Edge</a></li>
+  <li><a target="_blank" href="https://support.brave.com/hc/en-us/articles/360022806212-How-do-I-use-Shields-while-browsing">Brave</a></li>
+  <li><a target="_blank" href="https://help.opera.com/en/latest/web-preferences/#cookies">Opera</a></li>
 </ul>
 <p>Users may also manage certain categories of Trackers used on mobile apps by opting out through relevant device settings, such as the device advertising settings for mobile devices, or tracking settings in general (Users may open the device settings, view and look for the relevant setting).</p>
 <h4>Advertising industry specific opt-outs</h4>

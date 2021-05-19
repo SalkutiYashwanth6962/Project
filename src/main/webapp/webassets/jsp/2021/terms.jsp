@@ -393,32 +393,22 @@
 	<h4>Terms and conditions applying to extra features</h4>
 	<p>Users that have an active subscription may purchase single extra add-ons or features, described in the relevant section of www.picktime.com.<br>
 	Unless otherwise specified, such extras are subject to the same terms applicable to the main Product, including all provisions of this document.</p>
-	
-	
-	
 	<h2>Liability and indemnification</h2><h3>EU Users</h3><h4>Indemnification</h4>
 	<p>The User agrees to indemnify and hold the Owner and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners and employees harmless from and against any claim or demand ⁠— including but not limited to lawyer's fees and costs ⁠— made by any third party due to or in relation with any culpable use of or connection to the Service, violation of these Terms, infringement of any third-party rights or statutory provision by the User or its affiliates, officers, directors, agents, co-branders, partners and employees to the extent allowed by applicable law.</p>
 	<h4>Limitation of liability</h4>
 	<p>Unless otherwise explicitly stated and without prejudice to applicable statutory product liability provisions, Users shall have no right to claim damages against the Owner (or any natural or legal person acting on its behalf).</p>
-	
 	<p>This does not apply to damages to life, health or physical integrity, damages resulting from the breach of an essential contractual obligation such as any obligation strictly necessary to achieve the purpose of the contract, and/or damages resulting from intent or gross negligence, as long as www.picktime.com has been appropriately and correctly used by the User.</p>
-	
 	<p>Unless damages have been caused by way of intent or gross negligence, or they affect life, health or physical integrity, the Owner shall only be liable to the extent of typical and foreseeable damages at the moment the contract was entered into.</p>
 	<h3>Australian Users</h3><h4>Limitation of liability</h4>
 	<p>Nothing in these Terms excludes, restricts or modifies any guarantee, condition, warranty, right or remedy which the User may have under the Competition and Consumer Act 2010 (Cth) or any similar State and Territory legislation and which cannot be excluded, restricted or modified (non-excludable right). To the fullest extent permitted by law, our liability to the User, including liability for a breach of a non-excludable right and liability which is not otherwise excluded under these Terms of Use, is limited, at the Owner’s sole discretion, to the re-performance of the services or the payment of the cost of having the services supplied again.</p>
 	<h3>US Users</h3><h4>Disclaimer of Warranties</h4>
 	<p><strong>www.picktime.com is provided strictly on an “as is” and “as available” basis.  Use of the Service is at Users’ own risk. To the maximum extent permitted by applicable law, the Owner expressly disclaims all conditions, representations, and warranties — whether express, implied, statutory or otherwise, including, but not limited to, any implied warranty of merchantability, fitness for a particular purpose, or non-infringement of third-party rights. No advice or information, whether oral or written, obtained by user from owner or through the Service will create any warranty not expressly stated herein.</strong></p>
-	
 	<p><strong>Without limiting the foregoing, the Owner, its subsidiaries, affiliates, licensors, officers, directors, agents, co-branders, partners, suppliers and employees do not warrant that the content is accurate, reliable or correct; that the Service will meet Users’ requirements; that the Service will be available at any particular time or location, uninterrupted or secure; that any defects or errors will be corrected; or that the Service is free of viruses or other harmful components. Any content downloaded or otherwise obtained through the use of the Service is downloaded at users own risk and users shall be solely responsible for any damage to Users’ computer system or mobile device or loss of data that results from such download or Users’ use of the Service.</strong></p>
-	
 	<p><strong>The Owner does not warrant, endorse, guarantee, or assume responsibility for any product or service advertised or offered by a third party through the Service or any hyperlinked website or service, and the Owner shall not be a party to or in any way monitor any transaction between Users and third-party providers of products or services.</strong></p>
-	
 	<p><strong>The Service may become inaccessible or it may not function properly with Users’ web browser, mobile device, and/or operating system. The owner cannot be held liable for any perceived or actual damages arising from Service content, operation, or use of this Service.</strong></p>
-	
 	<p><strong>Federal law, some states, and other jurisdictions, do not allow the exclusion and limitations of certain implied warranties. The above exclusions may not apply to Users. This Agreement gives Users specific legal rights, and Users may also have other rights which vary from state to state. The disclaimers and exclusions under this agreement shall not apply to the extent prohibited by applicable law.</strong></p>
 	<h4>Limitations of liability</h4>
 	<p><strong>To the maximum extent permitted by applicable law, in no event shall the Owner, and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees be liable for</strong></p>
-	
 	<ul>
 	<li><strong>any indirect, punitive, incidental, special, consequential or exemplary damages, including without limitation damages for loss of profits, goodwill, use, data or other intangible losses, arising out of or relating to the use of, or inability to use, the Service; and</strong></li>
 	<li><strong>any damage, loss or injury resulting from hacking, tampering or other unauthorized access or use of the Service or User account or the information contained therein;</strong></li>
@@ -430,14 +420,10 @@
 	<li><strong>any errors or omissions in any content or for any loss or damage incurred as a result of the use of any content posted, emailed, transmitted, or otherwise made available through the Service; and/or</strong></li>
 	<li><strong>the defamatory, offensive, or illegal conduct of any User or third party.  In no event shall the Owner, and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees be liable for any claims, proceedings, liabilities, obligations, damages, losses or costs in an amount exceeding the amount paid by User to the Owner hereunder in the preceding 12 months, or the period of duration of this agreement between the Owner and User, whichever is shorter.</strong></li>
 	</ul>
-	
-	
 	<p><strong>This limitation of liability section shall apply to the fullest extent permitted by law in the applicable jurisdiction whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, even if company has been advised of the possibility of such damage.</strong></p>
-	
 	<p><strong>Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, therefore the above limitations or exclusions may not apply to User.  The terms give User specific legal rights, and User may also have other rights which vary from jurisdiction to jurisdiction.  The disclaimers, exclusions, and limitations of liability under the terms shall not apply to the extent prohibited by applicable law.</strong></p>
 	<h4>Indemnification</h4>
 	<p><strong>The User agrees to defend, indemnify and hold the Owner and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees harmless from and against any and all claims or demands, damages, obligations, losses, liabilities, costs or debt, and expenses, including, but not limited to, legal fees and expenses, arising from</strong></p>
-	
 	<ul>
 	<li><strong>User’s use of and access to the Service, including any data or content transmitted or received by User;</strong></li>
 	<li><strong>User’s violation of these terms, including, but not limited to, User’s breach of any of the representations and warranties set forth in these terms;</strong></li>
@@ -447,15 +433,11 @@
 	<li><strong>User’s willful misconduct; or</strong></li>
 	<li><strong>statutory provision by User or its affiliates, officers, directors, agents, co-branders, partners, suppliers and employees to the extent allowed by applicable law.</strong></li>
 	</ul>
-	
-	
 	<h2>Common provisions</h2><h3 id="no-waiver">No Waiver</h3>
 	<p>The Owner’s failure to assert any right or provision under these Terms shall not constitute a waiver of any such right or provision.  No waiver shall be considered a further or continuing waiver of such term or any other term.</p>
 	<h3>Service interruption</h3>
 	<p>To ensure the best possible service level, the Owner reserves the right to interrupt the Service for maintenance, system updates or any other changes, informing the Users appropriately.</p>
-	
 	<p>Within the limits of law, the Owner may also decide to suspend or terminate the Service altogether. If the Service is terminated, the Owner will cooperate with Users to enable them to withdraw Personal Data or information in accordance with applicable law.</p>
-	
 	<p>Additionally, the Service might not be available due to reasons outside the Owner’s reasonable control, such as “force majeure” (eg. labor actions, infrastructural breakdowns or blackouts etc).</p>
 	<h3>Service reselling</h3>
 	<p>Users may not reproduce, duplicate, copy, sell, resell or exploit any portion of www.picktime.com and of its Service without the Owner’s express prior written permission, granted either directly or through a legitimate reselling program.</p>
@@ -463,21 +445,16 @@
 	<p>To learn more about the use of their Personal Data, Users may refer to the <a href="/legal/privacy">privacy policy</a> of www.picktime.com.</p>
 	<h3>Intellectual property rights</h3>
 	<p>Without prejudice to any more specific provision of these Terms, any intellectual property rights, such as copyrights, trademark rights, patent rights and design rights related to www.picktime.com are the exclusive property of the Owner or its licensors and are subject to the protection granted by applicable laws or international treaties relating to intellectual property.</p>
-	
 	<p>All trademarks — nominal or figurative — and all other marks, trade names, service marks, word marks, illustrations, images, or logos appearing in connection with www.picktime.com are, and remain, the exclusive property of the Owner or its licensors and are subject to the protection granted by applicable laws or international treaties related to intellectual property.</p>
 	<h3>Changes to these Terms</h3>
 	<p>The Owner reserves the right to amend or otherwise modify these Terms at any time. In such cases, the Owner will appropriately inform the User of these changes.</p>
-	
 	<p>Such changes will only affect the relationship with the User for the future.</p>
-	
 	<p>The continued use of the Service will signify the User’s acceptance of the revised Terms. If Users do not wish to be bound by the changes, they must stop using the Service. Failure to accept the revised Terms, may entitle either party to terminate the Agreement.</p>
-	
 	<p>The applicable previous version will govern the relationship prior to the User's acceptance. The User can obtain any previous version from the Owner.</p>
 	<p>If required by applicable law, the Owner will specify the date by which the modified Terms will enter into force.</p>
 	<h3>Assignment of contract</h3>
 	<p>The Owner reserves the right to transfer, assign, dispose of by novation, or subcontract any or all rights or obligations under these Terms, taking the User’s legitimate interests into account.
 	Provisions regarding changes of these Terms will apply accordingly.</p>
-	
 	<p>Users may not assign or transfer their rights or obligations under these Terms in any way, without the written permission of the Owner.</p>
 	<h3>Contacts</h3>
 	<p>All communications relating to the use of www.picktime.com must be sent using the contact information stated in this document.</p>
@@ -490,7 +467,6 @@
 	<h4>EU Users</h4>
 	<p>Should any provision of these Terms be or be deemed void, invalid or unenforceable, the parties shall do their best to find, in an amicable way, an agreement on valid and enforceable provisions thereby substituting the void, invalid or unenforceable parts.<br>
 	In case of failure to do so, the void, invalid or unenforceable provisions shall be replaced by the applicable statutory provisions, if so permitted or stated under the applicable law.</p>
-	
 	<p>Without prejudice to the above, the nullity, invalidity or the impossibility to enforce a particular provision of these Terms shall not nullify the entire Agreement, unless the severed provisions are essential to the Agreement, or of such importance that the parties would not have entered into the contract if they had known that the provision would not be valid, or in cases where the remaining provisions would translate into an unacceptable hardship on any of the parties.</p>
 	<h3>Authoritative version of these Terms</h3>
 	<p>These Terms are drawn up and revised in English. Other language versions of these Terms are provided for information purposes only. In the event of any inconsistency between different linguistic versions, the original version shall always prevail.</p>
@@ -502,19 +478,14 @@
 	<p>The exclusive competence to decide on any controversy resulting from or connected to these Terms lies with the courts of the place where the Owner is based, as displayed in the relevant section of this document.</p>
 	<h4>Exception for European Consumers</h4>
 	<p>The above does not apply to any Users that qualify as European Consumers, nor to Consumers based in Switzerland, Norway or Iceland.</p>
-	
 	<h2>Dispute resolution</h2><h3>Amicable dispute resolution </h3>
 	<p>Users may bring any disputes to the Owner who will try to resolve them amicably.</p>
-	
 	<p>While Users' right to take legal action shall always remain unaffected, in the event of any controversy regarding the use of www.picktime.com or the Service, Users are kindly asked to contact the Owner at the contact details provided in this document.</p>
 	<p>The User may submit the complaint to the Owner by using the dedicated section of www.picktime.com and following the instructions provided.</p>
-	
 	<p>The Owner will process the request without undue delay and within 2 days of receiving it.</p>
 	<h3>Online dispute resolution for Consumers</h3>
 	<p>The European Commission has established an online platform for alternative dispute resolutions that facilitates an out-of-court method for solving any dispute related to and stemming from online sale and service contracts.</p>
-	
 	<p>As a result, any European Consumer can use such platform for resolving any dispute stemming from contracts which have been entered into online. The platform is <a href="#">available at the following link</a>.</p>
-	
 	  <div class="panel-group" id="Definitions">
 	    <div class="panel panel-default">
 	      <div class="panel-heading">
@@ -552,23 +523,11 @@
 	      </div>
 	    </div>
 	  </div> 
-	  
-	  <div class="footer">
-	  
-	 
-	  </div>
-	  
 	</section>
-	
 	</div>
-	
 	<div class="col-sm-2"></div>
 	</div>
 	</div>
-	
-	
-	
-	
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

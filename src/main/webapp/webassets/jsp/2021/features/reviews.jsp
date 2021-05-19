@@ -31,32 +31,25 @@
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/features.css?_=<%=cache%>">
 </head>
-
 <body>
-
-<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
-<!--every page  wave-->
-<section id="industries_services">
-		<div class="container">
-			<div class="main_title" style="color:#8B22E2;"><h1>Reviews</h1></div>
+	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
+		<!--every page  wave-->
+		<section id="industries_services">
+				<div class="container">
+					<div class="main_title" style="color:#8B22E2;"><h1>Reviews</h1></div>
+				</div>
+		</section>
+		<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
+		<!--every page  wave-->
+		<div id="features-body-section" style="margin-bottom: 200px;">
+			<div class="container">
+				<div id="feature_sec">
+				<p>Do you want to what your customers are thinking about your service?  Let your customers rate your business because we know how important it is for any business to have happy customers.</p>
+		     	<p>You can either make it visible in your booking page or you can take it as a kind of feedback to improve your business.</p>
+		     	</div>
+		   </div>
 		</div>
-</section>
-<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
-<!--every page  wave-->
-
-
-
-<div id="features-body-section" style="margin-bottom: 200px;">
-	<div class="container">
-		<div id="feature_sec">
-		<p>Do you want to what your customers are thinking about your service?  Let your customers rate your business because we know how important it is for any business to have happy customers.</p>
-     	<p>You can either make it visible in your booking page or you can take it as a kind of feedback to improve your business.</p>
-     	</div>
-		
-</div>
-</div>
-
-<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
+	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 <script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
 <script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
 </body>

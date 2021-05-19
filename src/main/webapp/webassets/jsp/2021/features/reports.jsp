@@ -32,34 +32,29 @@
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/features.css?_=<%=cache%>">
 </head>
 <body>
-
-<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
-<!--every page  wave-->
-<section id="industries_services">
-		<div class="container">
-			<div class="main_title" style="color:#8B22E2;"><h1>Reports</h1></div>
+	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
+		<!--every page  wave-->
+		<section id="industries_services">
+				<div class="container">
+					<div class="main_title" style="color:#8B22E2;"><h1>Reports</h1></div>
+				</div>
+		</section>
+		<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
+		<!--every page  wave-->
+		<div id="features-body-section" style="margin-bottom: 200px;">
+			<div class="container">
+				<div id="feature_sec">
+				<p>Did you ever wonder how easy it would have been if you had a device that could tell you how your business is running and what you can do to make it better?</p>
+		     	</div>
+				<div id="feature_sec">
+		        <p>With Picktime’s dashboard get insights about everything from how much revenue you have earned on a particular day to which service was the most loved one. Not only that, Picktime gives you all the information in a graphical format which not only saves you a lot of time but also helps you run your business in a better way.</p>
+				</div>
+				<div id="feature_sec">
+		         <p>See all your upcoming appointments, your total revenue, your top staff and your top services. This makes it easier for you to analyze for which services appointments are booked the most on specific days and helps you hire more staff. On the other hand, know which services are doing the worst and take measures or discuss with your team on what you can do to make it better. Picktime simplifies your life by giving you solutions which help you solve your business problems easily and stay stress free.</p>
+				</div>
 		</div>
-</section>
-<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
-<!--every page  wave-->
-
-
-
-<div id="features-body-section" style="margin-bottom: 200px;">
-	<div class="container">
-		<div id="feature_sec">
-		<p>Did you ever wonder how easy it would have been if you had a device that could tell you how your business is running and what you can do to make it better?</p>
-     	</div>
-		<div id="feature_sec">
-        <p>With Picktime’s dashboard get insights about everything from how much revenue you have earned on a particular day to which service was the most loved one. Not only that, Picktime gives you all the information in a graphical format which not only saves you a lot of time but also helps you run your business in a better way.</p>
 		</div>
-		<div id="feature_sec">
-         <p>See all your upcoming appointments, your total revenue, your top staff and your top services. This makes it easier for you to analyze for which services appointments are booked the most on specific days and helps you hire more staff. On the other hand, know which services are doing the worst and take measures or discuss with your team on what you can do to make it better. Picktime simplifies your life by giving you solutions which help you solve your business problems easily and stay stress free.</p>
-		</div>
-</div>
-</div>
-
-<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
+	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 <script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
 <script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
 </body>

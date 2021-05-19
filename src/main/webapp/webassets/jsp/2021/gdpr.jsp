@@ -248,7 +248,7 @@
 	     </h3>
 	     
 	     <p>Please note that in case a user feels that their personal data has been unduly disclosed, stolen or their privacy has been violated, they will need to contact the owner immediately and unambiguously.
-	In case you have a query or wish to complain against a privacy breach, email us at legal@picktime.com.
+	        In case you have a query or wish to complain against a privacy breach, email us at legal@picktime.com.
 	     </p>
 	     <h3>What are the exclusive rights of the owner regarding the maintenance of the account?
 	     </h3>

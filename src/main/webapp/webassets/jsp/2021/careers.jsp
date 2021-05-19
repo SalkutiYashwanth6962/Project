@@ -27,29 +27,18 @@
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
-     
     <jsp:include page="scheduling-software/website-new-headtag.jsp" />
 </head>
 <body>
-
-<jsp:include page="scheduling-software/website-new-navbar.jsp" />
-
-
-<div id="careers" style="margin: 200px 0px 200px 0px;">
-	<div class="container">
-		
-      <div class="title">Want to be part of our amazing team?</div>
-        <div class="mail">Send an email to hello@picktime.com</div>
-
-
-
-  </div>
-</div>
-<jsp:include page="scheduling-software/website-new-footer.jsp"/>
-
+	<jsp:include page="scheduling-software/website-new-navbar.jsp" />
+		<div id="careers" style="margin: 200px 0px 200px 0px;">
+			<div class="container">
+		      <div class="title">Want to be part of our amazing team?</div>
+		        <div class="mail">Send an email to hello@picktime.com</div>
+		  </div>
+		</div>
+	<jsp:include page="scheduling-software/website-new-footer.jsp"/>
 <script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
 <script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
-
-
 </body>
 </html>

@@ -434,14 +434,14 @@ img.what-is-picktime-img{
 
 /*==========VIDEO MEETING INTEGRATION***start==========*/
 
-#vedio {
+#video {
   background-image: url("/webassets/2021/img/mountains.svg");
   background-position: top;
   background-size: cover;
   padding-top: 150px;
 }
 
-#vedio .col-md-6 .v-s-y h2 {
+#video .col-md-6 .v-s-y h2 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
@@ -449,7 +449,7 @@ img.what-is-picktime-img{
   padding-top: 130px;
 }
 
-#vedio .col-md-6 .v-b-y h3 {
+#video .col-md-6 .v-b-y h3 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #000000;
@@ -457,7 +457,7 @@ img.what-is-picktime-img{
   margin-bottom: 20px;
 }
 
-#vedio .col-md-6 .v-p-y {
+#video .col-md-6 .v-p-y {
   color: #000000;
   opacity: 1;
   /* padding: 10px 140px 10px 0px; */
@@ -468,7 +468,7 @@ img.what-is-picktime-img{
   margin-bottom: 20px;
 }
 
-#vedio .col-md-6 .btn-lg {
+#video .col-md-6 .btn-lg {
   width: 40%;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -483,13 +483,13 @@ img.what-is-picktime-img{
   box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
 }
 
-/* #vedio .col-md-6 .btn-lg:hover {
+/* #video .col-md-6 .btn-lg:hover {
 	color: #8B22E2;
 	background: #FFAA00;
 	outline: none;
 } */
 
-#vedio .col-md-6 #img-v {
+#video .col-md-6 #img-v {
   margin-top: 170px;
   width: 100%;
 }
@@ -1633,11 +1633,10 @@ img.what-is-picktime-img{
   font: normal normal bold 35px/44px Samsung Sharp Sans;
 }
 
-/*==========PICKTIME IS FOR EVERYONE***end==========*/
 
 
 
-/*==================PICKTIME IS FOR EVERYONE=========start============  */
+/*=====carousel====start============  */
 
 #carousel2 {
 	margin-bottom: 100px;
@@ -2396,7 +2395,7 @@ font: 15px/23px;
   #calenders .col-md-6 .c-b-x h3,
   #onlinebooking .col-md-6 .o-b-y h3,
   #payment .col-md-6 .p-b-x h3,
-  #vedio .col-md-6 .v-b-y h3,
+  #video .col-md-6 .v-b-y h3,
   #multiple .col-md-6 .m-b-x h3,
   #reminders .col-md-6 .r-b-y h3,
   #class-booking .col-md-6 .c-b-x h3,
@@ -2416,7 +2415,7 @@ font: 15px/23px;
   #calenders .col-md-6 .c-s-x h2,
   #onlinebooking .col-md-6 .o-s-y h2,
   #payment .col-md-6 .p-s-x h2,
-  #vedio .col-md-6 .v-s-y h2,
+  #video .col-md-6 .v-s-y h2,
   #multiple .col-md-6 .m-s-x h2,
   #reminders .col-md-6 .r-s-y h2,
   #class-booking .col-md-6 .c-s-x h2,
@@ -2429,7 +2428,7 @@ font: 15px/23px;
   #what-is-picktime .col-md-6 .btn-lg,
   #onlinebooking .col-md-6 .btn-lg,
   #payment .col-md-6 .btn-lg-p-x,
-  #vedio .col-md-6 .btn-lg,
+  #video .col-md-6 .btn-lg,
   #multiple .col-md-6 .btn-lg,
   #reminders .col-md-6 .btn-lg,
   #reminders .col-md-6 .btn-lg,
@@ -2588,28 +2587,28 @@ font: 15px/23px;
   #payment .col-md-6 #bg-p {
     display: none;
   }
-  /* vedio */
-  #vedio {
+  /* video */
+  #video {
     background-image: url(/webassets/2021/img/mountains.svg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
     padding-top: 160px;
   }
-  #vedio .col-md-6 .v-s-y h2 {
+  #video .col-md-6 .v-s-y h2 {
     padding-top: 100px;
   }
-  /* #vedio .col-md-6 .v-b-y h3{
+  /* #video .col-md-6 .v-b-y h3{
 		padding: 10px 0px 10px 0px;
 	} */
-  #vedio .col-md-6 .v-p-y {
+  #video .col-md-6 .v-p-y {
     padding: 10px 0px 10px 0px;
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
     font-size: 18px;
   }
-  #vedio .col-md-6 #img-v {
+  #video .col-md-6 #img-v {
     margin-top: 50px;
     margin-bottom: 40px;
     padding: 5px;
@@ -2919,7 +2918,7 @@ height: 80px;
   #what-is-picktime .col-md-6 .btn-lg,
   #onlinebooking .col-md-6 .btn-lg,
   #payment .col-md-6 .btn-lg-p-x,
-  #vedio .col-md-6 .btn-lg,
+  #video .col-md-6 .btn-lg,
   #multiple .col-md-6 .btn-lg,
   #reminders .col-md-6 .btn-lg,
   #class-booking .col-md-6 .btn-lg-c-x,
@@ -2953,7 +2952,7 @@ height: 80px;
   #what-is-picktime .col-md-6 .btn-lg,
   #onlinebooking .col-md-6 .btn-lg,
   #payment .col-md-6 .btn-lg-p-x,
-  #vedio .col-md-6 .btn-lg,
+  #video .col-md-6 .btn-lg,
   #multiple .col-md-6 .btn-lg,
   #reminders .col-md-6 .btn-lg,
   #class-booking .col-md-6 .btn-lg-c-x,
@@ -2971,7 +2970,7 @@ height: 80px;
   #onlinebooking .col-md-6 #img-o {
     padding: 20px;
   }
-  #vedio .col-md-6 .v-s-y h2 {
+  #video .col-md-6 .v-s-y h2 {
     padding-top: 35px;
   }
 
@@ -3015,7 +3014,7 @@ height: 80px;
   /*====Button==universal-selectors====*/
   #onlinebooking .col-md-6 .btn-lg,
   #payment .col-md-6 .btn-lg-p-x,
-  #vedio .col-md-6 .btn-lg,
+  #video .col-md-6 .btn-lg,
   #multiple .col-md-6 .btn-lg,
   #reminders .col-md-6 .btn-lg,
   #class-booking .col-md-6 .btn-lg-c-x,
@@ -3326,7 +3325,7 @@ height: 80px;
 
 /*===Pricing box====start=====*/
 
-#pricinng-box .box {
+#pricing-box .box {
   background-color: white;
   opacity: 0.9;
   position: relative;
@@ -3338,7 +3337,7 @@ height: 80px;
   text-align: center;
 }
 
-#pricinng-box .box .btn-lg {
+#pricing-box .box .btn-lg {
   width: 40%;
   color: #fff;
   font-weight: 500;
@@ -3354,12 +3353,12 @@ height: 80px;
   padding-top: 15px;
   padding-bottom: 15px;
 }
-#pricinng-box .box .btn-lg a {
+#pricing-box .box .btn-lg a {
   color: white;
   font-weight: bold;
 }
 
-#pricinng-box #box-title {
+#pricing-box #box-title {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8b22e2;
@@ -3367,7 +3366,7 @@ height: 80px;
   text-align: center;
 }
 
-#pricinng-box #box-text {
+#pricing-box #box-text {
   color: #000000;
   opacity: 1;
   padding: 15px 80px;
@@ -3380,7 +3379,7 @@ height: 80px;
 }
 
 @media only screen and (max-width: 1024px) {
-  #pricinng-box .box{    
+  #pricing-box .box{    
     width: 800px;
   }  
 }
@@ -3486,17 +3485,17 @@ height: 80px;
   #for-class h3{
     /* margin-top: 27px; */
   }
-  #pricinng-box .box {
+  #pricing-box .box {
     margin: -38px 20px -170px;
     width: 550px;
   }
-  #pricinng-box #box-title {
+  #pricing-box #box-title {
     font: normal normal bold 24px/30px Samsung Sharp Sans;
   }
-  #pricinng-box .box .btn-lg {
+  #pricing-box .box .btn-lg {
     width: 60%;
   }
-  #pricinng-box #box-text {
+  #pricing-box #box-text {
     padding: 10px 10px 10px 10px;
   }
 }
@@ -3519,10 +3518,10 @@ height: 80px;
     width: 100%;
     padding: 0px 40px;
   }
-  #pricinng-box .box .btn-lg {
+  #pricing-box .box .btn-lg {
     font-size: 10px;
   }
-  #pricinng-box .box {
+  #pricing-box .box {
     width: 380px;
   }
   #for-buiness-owners .f-b-o-h h3{
@@ -3572,7 +3571,7 @@ height: 80px;
   #what-we-offer .w-w-o-b-m {
     margin: -37px 0px 20px 0px;
   }
-  #pricinng-box .box {
+  #pricing-box .box {
     width: 280px;
   }
 }
@@ -3724,17 +3723,17 @@ height: 80px;
     margin-top: -82px;
   }
 
-  #pricinng-box .box {
+  #pricing-box .box {
     margin: -38px auto -170px;
     width: 550px;
   }
-  #pricinng-box #box-title {
+  #pricing-box #box-title {
     font: normal normal bold 24px/30px Samsung Sharp Sans;
   }
-  #pricinng-box .box .btn-lg {
+  #pricing-box .box .btn-lg {
     width: 60%;
   }
-  #pricinng-box #box-text {
+  #pricing-box #box-text {
     padding: 10px 0px;
     font-size: 14px;
     line-height: 20px;
@@ -3742,7 +3741,7 @@ height: 80px;
 }
 
 @media only screen and (max-width: 591px) {
-  #pricinng-box .box .btn-lg {
+  #pricing-box .box .btn-lg {
     font-size: 14px;
     font-weight: bold;
     width: 100%;
@@ -3750,7 +3749,7 @@ height: 80px;
   /* #integration-body .i-t-s {
 		margin: 30px 0px 20px 50px;
 	} */
-  #pricinng-box .box {
+  #pricing-box .box {
     width: 380px;
   }
 
@@ -3760,7 +3759,7 @@ height: 80px;
 }
 
 @media only screen and (max-width: 425px) {
-  #pricinng-box .box {
+  #pricing-box .box {
     width: 280px;
     padding: 20px;
   }

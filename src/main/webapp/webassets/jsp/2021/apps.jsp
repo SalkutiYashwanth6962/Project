@@ -30,14 +30,9 @@
      
     <jsp:include page="scheduling-software/website-new-headtag.jsp"/>
 </head>
-	
-	
-	
 <body>
 <jsp:include page="scheduling-software/website-new-navbar.jsp" />
-<!---------------------------------integration------------start------->
-
-<section id="banners">
+ <section id="banners">
 		<div class="container">
 			<div
 				class="col-md-6">
@@ -52,21 +47,9 @@
 			    <img src="/webassets/2021/img/mobile-screens/mobile-screen.svg" class="img-responsive" width="auto" alt="Picktime-Mobile-App" id="mobile-main">
 			</div>
 		</div>
-<!-- 		<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="wave"> -->
 	</section>
-
-<!-- <section id="integration">
-
-	<div class="container">
-		<div class="i-b-m"><h1>Are you always on the go?</h1></div>
-		<p class="i-s-m">We got your back. Picktime can be used from Android, ios and Windows as well. Our team has taken extra care to design the app in such a way
-                         that the user can use it anytime and from anywhere.</p>
-	</div>
-</section>
-<img alt="" src="\webassets\2021\img\wavesNegative.svg" id="wave1"> -->
-
-<!---------------------------------Apps--------------start------->
-<section id="apps-body">
+   <!---------------------------------Apps--------------start------->
+  <section id="apps-body">
 		<div class="container appsPage-body">
 			<div class="row">
 				<div class="col-md-6 hidden-md hidden-lg mobile-app-image">
@@ -80,7 +63,6 @@
 					<img src="/webassets/2021/img/mobile-screens/picktime-haircut.svg" class="img-responsive" width="250" alt="Mobile Notifications">
 				</div>
 			</div>
-				
 			<div class="row">	
 				<div class="col-md-6 mobile-app-image">
 					<img src="/webassets/2021/img/mobile-screens/picktime-reminder.svg" class="img-responsive" width="250" alt="Appointment Reminder">
@@ -90,8 +72,6 @@
 					<p>Are you a business owner who provide services at your customer place? Now you can check all your upcoming appointments through your mobile or Tablet.</p>
 				</div>
 			</div>
-			
-				
 			<div class="row">	
 				<div class="col-md-6 hidden-md hidden-lg mobile-app-image">
 					<img src="/webassets/2021/img/mobile-screens/picktime-overview.svg" class="img-responsive" width="250" alt="Picktime Revenue Dashboard">
@@ -104,8 +84,6 @@
 					<img src="/webassets/2021/img/mobile-screens/picktime-overview.svg" class="img-responsive" width="250" alt="Picktime Revenue Dashboard">
 				</div>
 			</div>
-			
-
 			<div class="row">		
 				<div class="col-md-6 mobile-app-image">
 					<img src="/webassets/2021/img/mobile-screens/picktime-booking-confirmed.svg" class="img-responsive" width="250" alt="Online Booking Page 24/7 Accept Bookings">
@@ -117,25 +95,19 @@
 			</div>
 		</div>
 	</section>
-
-   <!---------------------------------Apps--------------End------->
+<!---------------------------------Apps--------------End------->
 <jsp:include page="scheduling-software/website-new-footer.jsp"/>
-
  <script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
 <script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
-
 <!--aos animation -->
 <script src="/webassets/2021/js/aos.js?_=<%=cache%>"></script>
-
 <script>
 AOS.init();
 </script>
-
 <script type="text/javascript">
  $(window).scroll(function(){
 	$('nav').toggleClass('scrolled', $(this).scrollTop() > 500);
 });
 </script>
-
 </body>
 </html>
