@@ -682,7 +682,7 @@
 						<!--  Carousel Slides / Quotes -->
 						<div class="carousel-inner">
 							<!--   Quote 1 -->
-							<div class="item">
+							<div class="item active">
 								<blockquote>
 									<div class="row">
 										<div class="col-sm-6">
@@ -728,7 +728,7 @@
 								</blockquote>
 							</div>
 							<!-- Quote 3 -->
-							<div class="item active">
+							<div class="item">
 								<blockquote>
 									<div class="row">
 										<div class="col-sm-6">
