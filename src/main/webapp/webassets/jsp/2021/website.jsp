@@ -351,7 +351,7 @@
 										    <div class="s-b-img">
 											<center><img src="/webassets/2021/img/icons/Health-and-Fitness_icon.svg" alt="Health-and-Fitness-Scheduling-Software"></center>
 										    </div>
-										    <div class="s-b-title"><h1><a href="/scheduling-software/medical">Health and Fitness</a></h1></div>
+										    <div class="s-b-title"><h1><a href="/scheduling-software/gyms">Health and Fitness</a></h1></div>
 									     	<div class="s-b-par">Be a gym trainer or a yoga trainer and manage your class bookings like a pro. Preset the number of places available in your class to avoid overbooking.</div>
 									      </div>
 						            </div>
@@ -403,7 +403,7 @@
 										     <div class="s-b-img">
 											<center><img src="/webassets/2021/img/icons/doctor-medical _icon.svg" alt="Doctors-and-Medical-Clinics-Scheduling-Software"></center>
 										    </div>
-										    <div class="s-b-title"><h1><a href="/scheduling-software/dentists">Doctors and Medical Clinics</a></h1></div>
+										    <div class="s-b-title"><h1><a href="/scheduling-software/medical">Doctors and Medical Clinics</a></h1></div>
 										     <div class="s-b-par">User-friendly features and tools that let you have a hassle-free and stress-free day. Start your free account today for scheduling your patient appointments.</div>
 								        </div>
 						            </div>
@@ -475,7 +475,7 @@
 	                               <div class="silder-boxs">
 	                                  <div class="s-b-img">
 	                                     <center><img src="/webassets/2021/img/icons/Health-and-Fitness_icon.svg" alt="Health-and-Fitness-Scheduling-Software"></center></div>
-	                                     <div class="s-b-title"><h1><a href="/scheduling-software/medical">Health and Fitness</a></h1></div>
+	                                     <div class="s-b-title"><h1><a href="/scheduling-software/gyms">Health and Fitness</a></h1></div>
 	                                     <div class="s-b-par">Be a gym trainer or a yoga trainer and manage your class bookings like a pro. Preset the number of places available in your class to avoid overbooking.</div>
 	                                </div> 
 	                             </div>   
@@ -523,7 +523,7 @@
 	                               <div class="silder-boxs">
 	                                  <div class="s-b-img">
 	                                     <center><img src="/webassets/2021/img/icons/doctor-medical _icon.svg" alt="Doctor-and-Medical-Clinics-Scheduling-Software"></center></div>
-	                                     <div class="s-b-title"><h1><a href="/scheduling-software/dentists">Doctors and Medical Clinics</a></h1></div>
+	                                     <div class="s-b-title"><h1><a href="/scheduling-software/medical">Doctors and Medical Clinics</a></h1></div>
 	                                     <div class="s-b-par">User-friendly features and tools that let you have a hassle-free and stress-free day. Start your free account today for scheduling your patient appointments.</div>
 	                                </div> 
 	                             </div>        
