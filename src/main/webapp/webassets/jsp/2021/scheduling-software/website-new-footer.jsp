@@ -7,7 +7,7 @@
 			simple and extremely easy to use. It is the only scheduling
 			platform where you can manage both your personal and business
 			calendars all in one place. Signup now!</P>
-		<div class="btn-lg"><a href="/register">SIGNUP FOR FREE</a></div>
+		<a class="btn-lg" href="/register">SIGNUP FOR FREE</a>
 	</div>
 </section>
 

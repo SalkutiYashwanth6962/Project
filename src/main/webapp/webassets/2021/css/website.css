@@ -3338,7 +3338,7 @@ height: 80px;
 /*===For Team====End=====*/
 
 /*===Pricing box====start=====*/
-section #pricing-box {
+#pricing-box {
     position: relative;
     z-index: 10;
 }
@@ -3369,6 +3369,7 @@ section #pricing-box {
   margin: auto;
   padding-top: 15px;
   padding-bottom: 15px;
+  display: block;
 }
 #pricing-box .box .btn-lg a {
   color: white;
