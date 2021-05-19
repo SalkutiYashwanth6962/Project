@@ -43,7 +43,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Financial Services Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>The challenge for financial companies is competing with new incumbents that has never been greater. Shifting simple transactions to computers doesn’t mean the relationship should suffer, though. Whether it’s a first-time mortgage appointment or a life long customer planning their retirement, banks see the value in offering scheduling experiences that create profitable customer engagements. The nature of financial services is prone to inconsistent busy and quiet times. Planning and even predicting these changes enables more efficient capacity planning and better use of staff and resources.</p>
 			</div>

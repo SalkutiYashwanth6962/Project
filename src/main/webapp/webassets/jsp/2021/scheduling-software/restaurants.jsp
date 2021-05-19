@@ -46,7 +46,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Restaurants Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>As a business owner, there’s nothing worse than missed telephone calls when you are busy with personal stuff. Equally there’s nothing worse than a call not being answered when you are trying to book a restaurant! Working closely with restaurants business, Picktime (specialized for many businesses) joined forces in order to improve the dining experience for both customers and staff.</p>
 			</div>

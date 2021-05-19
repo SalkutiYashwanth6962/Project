@@ -42,7 +42,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Parent meetings Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>Usually, a couple of times a year parents (and often child as well) will have the opportunity to have meeting with the teacher and talk about the learning progress of their child. Have you ever noticed just how stressful a parent-teacher meeting really is? Parents often automatically think that the teacher is out to get their children. The teacher almost always thinks that parents have it in for them. Well the children mostly are caught in the middle and think that everyone is out to get them. Reduce this stress by taking some time to begin organizing for a parent-teacher meeting. By preparing yourself beforehand, you can help ensure that everything goes a lot smoother for everyone involved. An easy solution to this problem is to set up a Parents Teacher meeting scheduling software such as Picktime.</p>
 			</div>

@@ -46,7 +46,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Photographers Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>If you are a photographer, concentrating on getting the right shot is very important. Photographers are the key part for any special occasion they capture  moments that will be cherished forever. With selfies becoming the new trend, it's highly unlikely that people would hire an amature to capture your wedding moments or birthday parties. As an artist your main goal is deliver the best of output to your clients. Whether you have a team of assistants and photographers or you run your business alone managing schedules is the key for running your business in a stress free way.</p>
 			</div>

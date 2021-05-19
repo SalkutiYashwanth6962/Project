@@ -43,7 +43,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Medical Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>Doctors are real life superheroes who save tens and hundreds of lives everyday. But to be a successful and a renowned doctor in your locality, gaining your patient’s trust is very important. With emergencies and everyday struggle, spending your valuable time on scheduling patient appointments can become quite draining. Another additional responsibility is managing your staff and resources. With so many things to manage, dedicating your full time and spending quality time with your patients may not be possible. Your clinic probably see hundreds of patients everyday. Managing appointments efficiently is a big problem which every business faces. With so many new people to cater to and a equal number of old patients to catch up with, you must have faced quite a few situations. This also includes double bookings and missing on patient appointments. Get rid of everyday nonsense with our online appointment scheduling software.</p>
 			</div>
@@ -68,7 +68,7 @@
 				</ul>
 			</div>
 			<div class="bottom_section">
-				<h2>Benefits of Picktime for Psychologists</h2>
+				<h2>Benefits of Picktime for Medical</h2>
 				<div id="services_sec">
 					<h3>Give your 100%:</h3>
 		         	<p>Maintaining patient schedules and solving double booked appointment chaos takes a toll on you and your business. Give your 100% by spending quality time with all your patients equally. Know who is waiting and how many more patients should be checked with a quick look at your dashboard.</p>

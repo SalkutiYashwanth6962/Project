@@ -2019,6 +2019,13 @@ margin-left: 26px;
 	.itemL {
 		margin: 0px;
 	}
+	.carousel-control.right{
+	display: none;
+	}
+	.carousel-control.left{
+	display: none;
+	}
+	
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -2337,6 +2344,7 @@ font: 15px/23px;
   }
   #feature .col-lg-6 .f-p-y {
     padding: 10px 0px 0px 0px;
+    text-align: center;
   }
   #feature .col-lg-6 .btn8 {
     display: none;
@@ -3159,7 +3167,7 @@ height: 80px;
 
 #for-buiness-owners .f-b-o-i #center_img {
   width: 100%;
-  padding: 10px 170px;
+  padding: 10px 170px 100px 170px;
 }
 
 #for-buiness-owners .f-b-o-h h3 {
@@ -3250,6 +3258,9 @@ height: 80px;
   font-weight: 600;
   line-height: 20px;
 }
+#for-class h3 a{
+	color: #000000 !important;
+}
 
 .class-booking-features {
   width: 20%;
@@ -3309,6 +3320,9 @@ height: 80px;
 
 #for-team .manage-team .title h3 {
   font: normal normal 600 20px/24px Raleway;
+}
+#for-team .manage-team .title h3 a{
+	color: #000000 !important;
 }
 
 #for-team .manage-team p {
@@ -3382,7 +3396,16 @@ height: 80px;
   #pricing-box .box{    
     width: 800px;
   }  
+  
+ /*  .left carousel-control{
+  display: none;
+  }
+  .right carousel-control{
+  display: none;
+  } */
 }
+
+
 
 /*===Pricing====End=====*/
 
@@ -3448,8 +3471,8 @@ height: 80px;
   }
 
   #for-buiness-owners .f-b-o-i #center_img {
-    width: 100%;
-    padding: 10px 120px;
+     width: 100%;
+      padding: 10px 100px 50px 100px;
   }
 
   #for-team {
@@ -3511,7 +3534,7 @@ height: 80px;
 
   #for-buiness-owners .f-b-o-i #center_img {
     width: 100%;
-    padding: 10px 40px;
+    padding: 10px 50px 30px 50px;
   }
 
   #for-team .f-t-b-i img {

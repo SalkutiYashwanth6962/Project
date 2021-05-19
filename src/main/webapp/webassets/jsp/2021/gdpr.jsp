@@ -79,7 +79,7 @@
 	              </div>
 	              <div class="media-body">
 						<h3>Our New Privacy Policy tells you the source and the purpose of tracking your data</h3>
-	                     <p>The updated Picktime <a href="legal/privacy">Privacy Policy</a> complying with the GDPR incorporates details about how we collect personal information about our users and through which services or “Platforms”. Our Platforms include our website, services, plug-ins, software and other Downloadable Tools. We have also integrated with various external platforms such as Google, Microsoft Outlook, Apple App Store, PayPal, Zapier, Disqus, Zendesk and many more for tracking personal data of Picktime users such as name, city, country, physical address and postal code, email address and mobile number. Additionally, we have laid down the purpose of using that information to maintain transparency about our operations with our users.</p>
+	                     <p>The updated Picktime <a href="/legal/privacy">Privacy Policy</a> complying with the GDPR incorporates details about how we collect personal information about our users and through which services or “Platforms”. Our Platforms include our website, services, plug-ins, software and other Downloadable Tools. We have also integrated with various external platforms such as Google, Microsoft Outlook, Apple App Store, PayPal, Zapier, Disqus, Zendesk and many more for tracking personal data of Picktime users such as name, city, country, physical address and postal code, email address and mobile number. Additionally, we have laid down the purpose of using that information to maintain transparency about our operations with our users.</p>
 	              </div>
 	            </div>
 	        </div>
@@ -181,7 +181,7 @@
 	              </div>
 	              <div class="media-body">
 	              <h3>You have the right to withdraw consent of data processing with our New Cookie Policy</h3>
-	              <p>The updated Cookie Policy of <a href="legal/cookie">Picktime </a>  talks about the technologies that are providing us assistance in accessing and storing information through the use of Cookies or other resources on a user’s web or mobile device while these users interact with our website. These technologies are also known as “Trackers”. These Trackers are directly managed by the Owner and are known as First-Party Trackers. Additionally, Picktime also makes use of trackers that enable services provided by a third party.
+	              <p>The updated<a href="/legal/cookie"> Cookie Policy</a> of Picktime talks about the technologies that are providing us assistance in accessing and storing information through the use of Cookies or other resources on a user’s web or mobile device while these users interact with our website. These technologies are also known as “Trackers”. These Trackers are directly managed by the Owner and are known as First-Party Trackers. Additionally, Picktime also makes use of trackers that enable services provided by a third party.
 	              </p>
 	              <p>For some specific purposes, the users might also be asked for consent for sharing their personal information. However, even after consent is given, it can be withdrawn freely at any time. This has been done specifically in consideration of the GDPR so that the personal information of any user is not disclosed with any third-party tracker.</p>
 	              </div>
@@ -212,7 +212,7 @@
 	              </div>
 	              <div class="media-body">
 	              <h3>Ensure safe registration with our New Terms and Conditions</h3>
-	              <p>Our updated Terms and Conditions are used for governing how Picktime operates and all other legal relationships and agreements with the Owner. The complete details about account registration, account suspension, deletion and renewal can be found in the Terms and Conditions section of<a href=""> Picktime.</a> Our terms and conditions have been updated in compliance with the GDPR to ensure that our users have a safe and secured experience on our platforms.</p>
+	              <p>Our updated Terms and Conditions are used for governing how Picktime operates and all other legal relationships and agreements with the Owner. The complete details about account registration, account suspension, deletion and renewal can be found in the <a href="/legal/terms">Terms and Conditions</a> section of Picktime. Our terms and conditions have been updated in compliance with the GDPR to ensure that our users have a safe and secured experience on our platforms.</p>
 	              </div>
 	            </div>
 	        </div>

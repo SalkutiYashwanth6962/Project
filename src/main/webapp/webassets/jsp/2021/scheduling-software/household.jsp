@@ -48,7 +48,7 @@
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Household Scheduling Software " src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			
 			<div id="services_sec">
 				<p>Do you work out at people’s houses or apartments? Don’t have an office to tell people where to meet you? Are you tired of having to rotate between your client's addresses to give them an estimate of what time you think you’ll be able to show up? whether you're a Nurse's Aide or another home service provider, using an online scheduling system will keep all of your clients’ addresses and other necessary informations in one location that you can access 24/7 right from your Laptop or tablet or smartphone. Beat out your competition by making it easy for clients to schedule your home visits, pet sitting services, house sitting services, landscape services, moving & storage services, pest control services, house cleaning services, & more all online.</p>

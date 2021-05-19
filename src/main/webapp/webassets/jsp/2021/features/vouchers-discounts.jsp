@@ -44,14 +44,21 @@
 		<div id="features-body-section" style="margin-bottom: 200px;">
 			<div class="container">
 				<div id="feature_sec">
-				<p>Have you ever faced problems with staff not turning up? Well, most of the customers who have their appointments booked tend to forget that they have an appointment in the first place. This is one of the major reasons why many businesses see a lot of no-shows or late check-in’s.</p>
+                 <p>If you don't take care of your customers, someone else might! So stay ahead of the rest and let your customers know that your world revolves around them. 
+                 </p>
+                 <p>Add in new customers on Picktime and save their name and contact information for future use. Maintain good relationships with your loyal customers by sending them gift vouchers and discount coupons. Picktime allows you to assign a unique promo code or voucher code for each of your customers, which they may use while availing any of your services. Notify your customers about the latest vouchers, discounts, and promo offers through SMS and email reminders to let them feel valued. 
+                 </p>
+                 <p>Start an email marketing campaign by creating client and customer lists on your Mailchimp and Constant Contact account and send your clients and customers promotional emails about the latest offers, discounts, vouchers, and gift cards at regular intervals.</p>
 		     	</div>
 				<div id="feature_sec">
-		         <p>We also agree that It can be highly inconvenient to keep reminding your customers of their appointments through phone calls and manual messaging. And moreover what is an appointment scheduling software without infused modern technology?</p>
+                <p>Customize your vouchers, discounts, and gift cards to your likings. For example, if you run a salon or spa, make your customers come back to you for attractive offers and discounts on hair spa, facial, manicure, pedicure, skin treatment, and many more services.
+                </p>
+                <p>If you are a gym or yoga trainer, handle class bookings by taking in more clients at once. Tell them about the current offers and discounts on admission and the validity date of the coupon. You can also come up with money-saver packs like yoga plus aerobics at a lower price for people who make bookings before a particular date. </p>
 				</div>
 				<div id="feature_sec">
-		         <p>Picktime lets you send automated messages to your clients when an appointment is booked. It is not only limited to that, you as a business owner can customise the way your message looks and when it reaches your customers inbox in you business settings. It is not just limited to sending SMS to your customers, you can send them to your staff as well.</p>
-				 <p>Forget about No-shows and customers arriving at the wrong time with our SMS reminder feature.</p>
+                
+                 <p>Offer more than appointments to your clients and customers. For example, suppose you are a photographer. In that case, you may organize workshops for your customers and provide membership to them into your photography club with special discounts and a unique membership code that they need to mention during the booking process. Provide them value for the money they spend on such offers by selling them out-of-the-box ideas and rewarding experiences.</p>
+				<p>Why wait? Try Picktime for free to enhance relationships with your customers and let them know that they matter to you with special discounts, vouchers, gift cards, and coupons.</p>
 				</div>
 		    </div>
 		</div>

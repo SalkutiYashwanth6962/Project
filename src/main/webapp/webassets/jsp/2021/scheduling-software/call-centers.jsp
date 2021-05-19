@@ -42,7 +42,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Call Centers Scheduling Software " src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>When it comes to the level of effort it takes to manage your hourly staff correctly, planning and managing schedules for call center staff is probably the top of the list. Having quality support staff is astonishingly important to the success of a company and making sure that you always have enough staff scheduled to handle customer calls is one of the main aspects of scheduling in this industry. What makes organizing schedules for call centers especially hard is that most businesses need to have a call center personnel available 24 hours a day, seven days a week. Not having people scheduled correctly can lead to a lot of problems for your company. When you aren’t able to provide proper support for your customers, you lose business. When customers are not able to get their questions answered in a timely manner, they become frustrated and irritated.</p>
 			</div>

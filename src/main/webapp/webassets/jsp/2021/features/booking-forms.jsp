@@ -44,18 +44,19 @@
 	<div id="features-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<div id="feature_sec">
-			<h2>Use it on the go</h2>
-			<p>Have you ever faced problems with missed appointment books and excel sheets? Well, most of us do on a daily basis. With our appointment scheduling software, you don’t have to worry about such petty issues. Check your appointments set for the day on the go. We have designed our software in such a way that you can use it on any device which has access to the internet. We simplify all the clerical work of your business so that you can concentrate on giving better service to your customers. </p>
+             <p>Are you facing trouble in finding clients that are the right fit for your business? Let Picktime online appointment scheduling software help you construct an online booking form. Picktime's online booking form feature will work as a client intake form for your business and permit you to gather necessary details about your client upon booking an appointment with you. </p>
+			<p>Create a customized online booking form to collect all information about your client during the booking process. You won't need to recruit anybody to take notes of your client's history or present condition. All you have to do is create an online booking form for your business and send or share your online booking form link with your customers via SMS or email. </p>
+			<p>Customize your online booking form according to the demands and requirements of your business. You may request texts, digits, special characters, checkbox, dropdown, and date response. For example, if you are a doctor, you may take details of your patients like age, gender, height, weight, blood pressure level, blood sugar level and medical history while letting them schedule an appointment with you. 
+			</p>
 			</div>
 			<div id="feature_sec">
-			<h2>It’s totally free</h2>
-			<p>Yes, you heard it right! Picktime is totally FREE! Add unlimited staff, services and much more. Do you have more than one branch? You can add that to your account as well. You can keep track of what is going on in your location even when you are vacationing on the other side of the world.</p>
+              <p>Handle your class bookings efficiently with the assistance of the booking forms feature. </p>
+			  <p>If you are a tutor, forget about hiring an assistant to give out admission forms. Instead, directly send your online booking page link to all your students so that they can fill in their personal details and contact number and book online classes according to your choice of time and date.</p>
 			</div>
 			<div id="feature_sec">
-			<h2>Be available 24X7 </h2>
-			<p>Hectic schedules and busy life styles have left us with very less spare time. With Picktime, say bye-bye to defined booking times. Simply share your booking page link with your customers and let them make bookings with you whenever they want. Keep increasing your customer base and also create a better user experience for your old ones. Easily drag and drop to reschedule appointments. Keep track of monthly revenue and sales. You can also send email and text reminders to your clients and also your staff. Print-out your staff’s everyday schedules or just pin them on your notice board.</p>
-			<br>
-			<p>Customise your Picktime account just the way you want in the way that works for you. See the difference in the way that your business runs all by yourself.</p>
+			
+			<p>Try to know the choices and preferences of your clients well before pitching an idea in front of them. For example, for your event management business, you can ask for details such as type of event, date and time of the event, number of guests and any particular choice of theme.</p>
+			<p>Sign up now to create your online booking form. Picktime will help you increase your business's size by leaps and bounds through a robust client onboarding process and allowing faster online appointment scheduling.</p>
 			</div>
 			</div>
 	</div>

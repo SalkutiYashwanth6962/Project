@@ -46,7 +46,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Yoga Trainers Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>Yoga is the art and science of wellness and healing and as more people find the multiple health benefits of yoga, there exists a continuous need for qualified yoga trainers. If you have obtained an excellent physical, spiritual and mental health benefits of yoga for yourself, you may decide to become a yoga teacher to assist others to do the same. Do you Feel challenged to manage your yoga classes and schedule appointments efficiently? Have you ever considered using free appointment scheduling or free yoga class booking software for this purpose? We spoke with many yoga teachers about their experiences on managing their students and booking appointments and made a software to fit your needs.</p>
 			</div>

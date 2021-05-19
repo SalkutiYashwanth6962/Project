@@ -41,7 +41,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="City Councils Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>All over the world, cities, towns and villages are maintained by government organizations with the structured process that provide a variety of services to improve people's lives and society growth. These government offices get a huge flow of requests and applications from people to solve their day to day issues. Normally City councils will have various departments to solve people's problems but the problem is handling those applications. Scheduling tasks to multiple city council staffs is another difficult situation. To handle all those applications and assign tasks to multiple staffs, the city council could start with an online scheduling system. Meeting and appointment scheduling software that helps you save time, increase customer satisfaction and be more competitive.</p>
 			</div>

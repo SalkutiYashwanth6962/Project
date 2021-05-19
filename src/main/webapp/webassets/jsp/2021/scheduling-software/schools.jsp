@@ -43,7 +43,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Schools Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>Today’s school industry plays a vital role in the country's educational growth. They help all students in the areas of academic achievement, career development, and personal/social development, ensuring today’s students become the prolific, well-adjusted adults of tomorrow. The exact obligations for school vary depending on the level of education. Whether you’re monitoring elementary level students in the classroom and play settings, helping middle-level school students achieve their academic and social goals, or supporting high school students with college-related processes, your days are busy with balancing a lot of tasks.</p>
 			</div>
@@ -74,7 +74,7 @@
 				</ul>
 			</div>
 			<div class="bottom_section">
-				<h2>Benefits of Picktime for Psychologists</h2>
+				<h2>Benefits of Picktime for Schools</h2>
 				<div id="services_sec">
 					<h3>A modern campus for modern students</h3>
 			        <p>When it comes to configuring the scheduling process, the Picktime appointment scheduling system is structured to accommodate a comprehensive range of needs. With a user-friendly interface and automatic system, it is specifically designed to cater to the way you work, however that is. We have experience providing appointment scheduling systems for many schools and have refined the process to include a number of advanced features such as automatic text reminders and even time zone integration for language schools.</p>

@@ -43,7 +43,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Escape Rooms Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>Making the decision to open your own escape room is scary but interesting. You have played other escape games and enjoyed them. You’re full of artistic ideas, and you know you can design a game that will charm your customers. Of course, there are certain things you’re excited about and certain things you know you have to do but really would rather not have to think about. Exciting things include writing a compelling scenario, designing puzzles, and seeing the room in your imagination come to life. This process includes other challenges like getting permits and finding a location. Another annoying process is figuring out a appointment scheduling system for your business. An Escape Room booking system is something you know you need, but when you start researching, you feel kind of overwhelmed.</p>
 			</div>
@@ -68,7 +68,7 @@
 				</ul>
 			</div>
 			<div class="bottom_section">
-				<h2>Benefits of Picktime</h2>
+				<h2>Benefits of Picktime for Escape Room Business</h2>
 				<div id="services_sec">
 					<h3>Accuracy</h3>
 					<p>Taking bookings over the phone puts you and your employees in charge of spelling everything right and entering all the data you need correctly. Let your customers enter that data themselves with our online booking system. They’re less likely to make mistakes.</p>

@@ -191,16 +191,16 @@
 			<div class="f-c-s-x"><h2>FOR TRAINERS</h2></div>
 			<div class="f-c-b-x"><h2>Don’t get suffocated with overcrowded classes</h2></div>
 			 <div class="row">
-			       <div class="col-xs-6"><img alt="Class-Bookings" class="class-booking-features" src="/webassets/2021/img/What-is-picktime-group-booking.svg"><h3>Class Bookings</h3></div>
-			       <div class="col-xs-6"><img alt="Class-Packs" class="class-booking-features"  src="/webassets/2021/img/icons/features/Class-Packs_icon.svg"><h3>Class Packs <span style="font-weight: 100;font-size: 12px;">(Coming Soon)</span></h3></div>
+			       <div class="col-xs-6"><img alt="Class-Bookings" class="class-booking-features" src="/webassets/2021/img/What-is-picktime-group-booking.svg"><h3><a href="/features/class-bookings">Class Bookings</a></h3></div>
+			       <div class="col-xs-6"><img alt="Class-Packs" class="class-booking-features"  src="/webassets/2021/img/icons/features/Class-Packs_icon.svg"><h3><a href="#">Class Packs </a><span style="font-weight: 100;font-size: 12px;">(Coming Soon)</span></h3></div>
 			 </div>
 			 <div class="row">
-			       <div class="col-xs-6"><img alt="Attendance" class="class-booking-features"  src="/webassets/2021/img/icons/features/Attendance_icon.svg"><h3>Attendance</h3></div>
-			       <div class="col-xs-6"><img alt="Waitlist" class="class-booking-features"  src="/webassets/2021/img/icons/features/Waitlist_icon.svg"><h3>Waitlist <span style="font-weight: 100;font-size: 12px;">(Coming Soon)</span></h3></div>
+			       <div class="col-xs-6"><img alt="Attendance" class="class-booking-features"  src="/webassets/2021/img/icons/features/Attendance_icon.svg"><h3><a href="#">Attendance</a></h3></div>
+			       <div class="col-xs-6"><img alt="Waitlist" class="class-booking-features"  src="/webassets/2021/img/icons/features/Waitlist_icon.svg"><h3><a href="#">Waitlist </a><span style="font-weight: 100;font-size: 12px;">(Coming Soon)</span></h3></div>
 				 </div>
 				 <div class="row">
-				       <div class="col-xs-6"><img alt="Print-Agenda" class="class-booking-features"  src="/webassets/2021/img/icons/features/Print-Agenda_icon.svg"><h3>Print Agenda</h3></div>
-				       <div class="col-xs-6"><img alt="Show-open-slots" class="class-booking-features"  src="/webassets/2021/img/icons/features/Show-open-slots_icon.svg"><h3>Show open slots</h3></div>
+				       <div class="col-xs-6"><img alt="Print-Agenda" class="class-booking-features"  src="/webassets/2021/img/icons/features/Print-Agenda_icon.svg"><h3><a href="#">Print Agenda</a></h3></div>
+				       <div class="col-xs-6"><img alt="Show-open-slots" class="class-booking-features"  src="/webassets/2021/img/icons/features/Show-open-slots_icon.svg"><h3><a href="#">Show open slots</a></h3></div>
 				 </div>
 			</div>
 		</div>
@@ -226,7 +226,7 @@
 		               <img alt="Calendar-Sync" src="/webassets/2021/img/icons/features/Calander-syn_icon.svg">
 		              </div>
 		              <div class="media-body">
-		               <div class="title"><h3>Calendar Sync</h3></div>
+		               <div class="title"><h3><a href="/features/two-way-calendar">Calendar Sync</a></h3></div>
 		                <p>Sync your Google, Outlook, Office 365, Exchange and iCloud calendars with Picktime.</p>
 		              </div>
 		            </div>
@@ -237,7 +237,7 @@
 		               <img alt="Timezone-Conversion" src="/webassets/2021/img/Features-box3.svg">
 		              </div>
 		              <div class="media-body">
-		               <div class="title"><h3>Timezone Conversion</h3></div>
+		               <div class="title"><h3><a href="#">Timezone Conversion</a></h3></div>
 		                <p>Automatic timezone conversion based on your Customer Location.</p>
 		              </div>
 		            </div>
@@ -250,7 +250,7 @@
 		               <img alt="Get-Notified" src="/webassets/2021/img/icons/features/Notifications_icon.svg">
 		              </div>
 		              <div class="media-body">
-		               <div class="title"><h3>Get Notified</h3></div>
+		               <div class="title"><h3><a href="#">Get Notified</a></h3></div>
 		                <p>Stay informed about upcoming, cancelled & rescheduled bookings.</p>
 		              </div>
 		            </div>
@@ -261,7 +261,7 @@
 		               <img alt="Online-Calendar" src="/webassets/2021/img/icons/features/Calendar_icon.svg">
 		              </div>
 		              <div class="media-body">
-		               <div class="title"><h3>Online Calendar</h3></div>
+		               <div class="title"><h3><a href="/features/online-calendar">Online Calendar</a></h3></div>
 		                <p>Access Picktime no matter where you are. All your data is stored in the cloud.</p>
 		              </div>
 		            </div>
@@ -274,7 +274,7 @@
 		               <img alt="Virtual-Meetings" src="/webassets/2021/img/icons/features/Virtual-meetings_icon.svg">
 		              </div>
 		              <div class="media-body">
-		               <div class="title"><h3>Virtual Meetings</h3></div>
+		               <div class="title"><h3><a href="#">Virtual Meetings</a></h3></div>
 		                <p>Schedule Meetings, Interviews and Group Sessions no matter where your team is.</p>
 		              </div>
 		            </div>
@@ -285,7 +285,7 @@
 		               <img alt="Manage-Resources" src="/webassets/2021/img/What-is-picktime-rooms-euipment.svg">
 		              </div>
 		              <div class="media-body">
-		               <div class="title"><h3>Manage Resources</h3></div>
+		               <div class="title"><h3><a href="#">Manage Resources</a></h3></div>
 		                <p>Be in charge of Meetings rooms, Conference Rooms, Equipment etc</p>
 		              </div>
 		            </div>

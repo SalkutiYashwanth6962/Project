@@ -45,7 +45,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Business Events Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>Have you ever noticed how many business events take place every week or every day? It can be business related workshops, training, conferences, networking, seminars and much more. If you are going to operate your own business events, then you probably need a user-friendly and easy to use booking system that will allow your future clients to find your company easily and make a booking.</p>
 			</div>

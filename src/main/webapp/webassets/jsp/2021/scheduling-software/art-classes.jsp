@@ -49,7 +49,7 @@
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 		
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Art Classes Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			
 			<div id="services_sec">
 				<p>Everything around us is Art. For students  who want to develop these skills or want Art to be their profession, you are the person who can help and assist their needs. It is always a difficult task to arrange all the stuff that is needed to run a creative and an interesting class. When you are focussed on giving your students the best experience, taking large number of appointments can often get tiresome. Make class bookings easier and automatic with picktime.</p>

@@ -45,7 +45,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software"
+			<img class="img-responsive" alt="Colleges Scheduling Software"
 				src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>The Internet has obviously been one of the prominent
@@ -101,7 +101,7 @@
 				</ul>
 			</div>
 			<div class="bottom_section">
-				<h2>Benefits of Picktime for Psychologists</h2>
+				<h2>Benefits of Picktime for Colleges</h2>
 				<div id="services_sec">
 					<h3 class="service-desc-title">Quicker and Efficient
 						Scheduling of Assessment Exams</h3>

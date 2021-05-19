@@ -43,7 +43,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Libraries Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>Most of the libraries function with the help of spreadsheets, excel sheets and books to manage staff and books. These methods though effective often cause quite a lot of confusion. Maintaining a library not only includes managing staff schedules, it means undertaking a difficult task like keeping records of all the books available, which books are reserved and which books need to be kept back into their respective positions. effective scheduling and introducing new ways to manage your library is the right way to keep your library organised with meagre budgets.most of the library administrative staff find it difficult to manage staff properly with a lot of other important work to do. Amp up your modernisation to next level.</p>
 			</div>

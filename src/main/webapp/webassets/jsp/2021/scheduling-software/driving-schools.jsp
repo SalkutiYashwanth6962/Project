@@ -49,7 +49,7 @@
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Driving Schools Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			
 			<div id="services_sec">
 				<p>To schedule a driving lesson with an instructor, most times, student have to make a phone call. What happens if you are out on the road, trying to teach students how to drive? Many driving instructors are independent contractors with no access to an office, but they run business over their cell phone. For that reason, for a student interested in going to driving school, it may not be convenient to keep calling a driving instructor to make an appointment and not be able to get through. That is why an online appointment scheduling system is important.</p>
@@ -80,7 +80,7 @@
 				</ul>
 			</div>
 			<div class="bottom_section">
-				<h2>Benefits of Picktime for Psychologists</h2>
+				<h2>Benefits of Picktime for Driving School Business</h2>
 				<div id="services_sec">
 					<h3>Student Scheduling</h3>
 			        <p>Student and staff scheduling and resource management is probably one of the most difficult aspects of driving school industry. It often gets quite confusing to refer back on pages to see who is free and who is busy. Not to mention great inefficiency in printing schedules and keeping track of working hours. We are proud to say that Picktime is the most integrated, and has flexible scheduling capability compared to any software in the market.</p>

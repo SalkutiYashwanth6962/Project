@@ -188,13 +188,13 @@
 	<li>Users aren’t located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist-supporting” country;</li>
 	<li>Users aren’t listed on any U.S. Government list of prohibited or restricted parties;</li>
 	</ul> 
-	<h3>Account registration</h3>
+	<h3>Account Registration</h3>
 	<p>To use the Service Users must register or create a User account, providing all required data or information in a complete and truthful manner.<br>
 	Failure to do so will cause unavailability of the Service.</p>
 	<p>Users are responsible for keeping their login credentials confidential and safe. For this reason, Users are also required to choose passwords that meet the highest standards of strength permitted by www.picktime.com.</p>
 	<p>By registering, Users agree to be fully responsible for all activities that occur under their username and password.<br>
 	Users are required to immediately and unambiguously inform the Owner via the contact details indicated in this document, if they think their personal information, including but not limited to User accounts, access credentials or personal data, have been violated, unduly disclosed or stolen.</p>
-	<h4>Account termination</h4>
+	<h4>Account Termination</h4>
 	<p>Users can terminate their account and stop using the Service at any time by doing the following:</p>
 	<ul>
 	<li>By using the tools provided for account termination on www.picktime.com.</li>
@@ -202,7 +202,7 @@
 	<ul>
 	<li>By sending account termination request to the email: hello@picktime.com</li>
 	</ul>
-	<h4>Account suspension and deletion</h4>
+	<h4>Account Suspension and Deletion</h4>
 	<p>The Owner reserves the right to suspend or terminate the User's account at any time and without notice, at the Owner's sole discretion, in these cases:</p>
 	<ul>
 	<li><p>User has violated these Terms; and/or</p></li>
@@ -227,7 +227,7 @@
 	<p>The intellectual property rights for content owned and provided by the Owner are licensed on a “some-rights-reserved” basis.</p>
 	
 	<p>Users can find further details about how they may use such content in the relevant section of www.picktime.com.</p>
-	<h3>Content provided by Users</h3>
+	<h3>Content Provided by Users</h3>
 	<p>The Owner allows Users to upload, share or provide their own content to www.picktime.com.</p>
 	
 	<p>By providing content to www.picktime.com, Users confirm that they are legally allowed to do so and that they are not infringing any statutory provisions and/or third-party rights.</p>
@@ -259,14 +259,14 @@
 	<p>Content meant to be made available to specific audiences may only be shared with such third parties as determined by Users.</p>
 	<p>Any personal data, identifier or any other information Users upload in connection with such content (such as a User-ID, avatar or nickname etc.) shall also appear in connection with the content.</p>
 	<p>Users may (and are encouraged to) check on www.picktime.com to find details of who can access the content they provide.</p>
-	<h3>Access to external resources</h3>
+	<h3>Access To External Resources</h3>
 	<p>Through www.picktime.com Users may have access to external resources provided by third parties. Users acknowledge and accept that the Owner has no control over such resources and is therefore not responsible for their content and availability.</p>
 	
 	<p>Conditions applicable to any resources provided by third parties, including those applicable to any possible grant of rights in content, result from each such third parties’ terms and conditions or, in the absence of those, applicable statutory law.</p>
 	<p>In particular, on www.picktime.com Users may see advertisements provided by third parties. The Owner does not control or moderate the advertisements displayed via www.picktime.com. If Users click on any such advertisement, they will be interacting with any third party responsible for that advertisement.</p>
 	
 	<p>The Owner is not responsible for any matters resulting from such interaction with third parties, such as anything resulting from visiting third-party websites or using third-party content.</p>
-	<h3>Acceptable use</h3>
+	<h3>Acceptable Use</h3>
 	<p>www.picktime.com and the Service may only be used within the scope of what they are provided for, under these Terms and applicable law.</p>
 	
 	<p>Users are solely responsible for making sure that their use of www.picktime.com and/or the Service violates no applicable law, regulations or third-party rights.</p>
@@ -279,7 +279,7 @@
 	<li>offend the Owner or any third party.</li>
 	</ul>
 	
-	<h3>API usage terms</h3>
+	<h3>API Usage Terms</h3>
 	<p>Users may access their data relating to www.picktime.com via the Application Program Interface (API). Any use of the API, including use of the API through a third-party product/service that accesses www.picktime.com, is bound by these Terms and, in addition, by the following specific terms:</p>
 	
 	<ul>
@@ -292,13 +292,13 @@
 	
 	<p>The fees, duration and conditions applicable to the purchase of such Products are described below and in the dedicated sections of www.picktime.com.</p>
 	<p>To purchase Products, the User must register or log into www.picktime.com.</p>
-	<h3>Product description</h3>
+	<h3>Product Description</h3>
 	<p>Prices, descriptions or availability of Products are outlined in the respective sections of www.picktime.com and are subject to change without notice.</p>
 	
 	<p>While Products on www.picktime.com are presented with the greatest accuracy technically possible, representation on www.picktime.com through any means (including, as the case may be, graphic material, images, colors, sounds) is for reference only and implies no warranty as to the characteristics of the purchased Product.</p>
 	
 	<p>The characteristics of the chosen Product will be outlined during the purchasing process.</p>
-	<h3>Purchasing process</h3>
+	<h3>Purchasing Process</h3>
 	<p>Any steps taken from choosing a Product to order submission form part of the purchasing process.</p>
 	
 	<p>The purchasing process includes these steps:</p>
@@ -308,7 +308,7 @@
 	<li>After having reviewed the information displayed in the purchase selection, Users may place the order by submitting it.</li>
 	</ul>
 	
-	<h3>Order submission</h3>
+	<h3>Order Submission</h3>
 	<p>When the User submits an order, the following applies:</p>
 	
 	<ul>
@@ -326,7 +326,7 @@
 	<li>either exclusive or inclusive of any applicable fees, taxes and costs, depending on the section the User is browsing.</li>
 	</ul>
 	
-	<h3>Offers and discounts</h3>
+	<h3>Offers And Discounts</h3>
 	<p>The Owner may offer discounts or provide special offers for the purchase of Products. Any such offer or discount shall always be subject to the eligibility criteria and the terms and conditions set out in the corresponding section of www.picktime.com.</p>
 	
 	<p>Offers and discounts are always granted at the Owner’s sole discretion.</p>
@@ -353,28 +353,28 @@
 	<li>The Coupon is intended solely for non–commercial use. Any reproduction, counterfeiting and commercial trade of the Coupon is strictly forbidden, along with any illegal activity related to the purchase and/or use of the Coupon.</li>
 	</ul>
 	
-	<h3>Methods of payment</h3>
+	<h3>Methods Of Payment</h3>
 	<p>Information related to accepted payment methods are made available during the purchasing process.</p>
 	
 	<p>Some payment methods may only be available subject to additional conditions or fees. In such cases related information can be found in the dedicated section of www.picktime.com.</p>
 	<p>All payments are independently processed through third-party services. Therefore, www.picktime.com does not collect any payment information – such as credit card details – but only receives the last four digits of the credit card and a notification once the payment has been successfully completed.</p>
 	
 	<p>If payment through the available methods fail or is refused by the payment service provider, the Owner shall be under no obligation to fulfil the purchase order. Any possible costs or fees resulting from the failed or refused payment shall be borne by the User.</p>
-	<h3>Authorization for future PayPal payment</h3>
+	<h3>Authorization For Future PayPal Payment</h3>
 	<p>If Users authorize the PayPal feature which allows future purchases, www.picktime.com will store an identification code linked to the Users’ PayPal account. This will authorize www.picktime.com to automatically process payments for future purchases or recurring installments of past purchases.</p>
 	
 	<p>This authorization can be revoked at any time, either by contacting the Owner or by changing the user settings offered by PayPal.</p>
 	<h3>Retention of usage rights</h3>
 	<p>Users do not acquire any rights to use the purchased Product until the total purchase price is received by the Owner.</p>
-	<h3>Delivery</h3><h4>Performance of services</h4>
+	<h3>Delivery</h3><h4>Performance of Services</h4>
 	<p>The purchased service shall be performed or made available within the timeframe specified on www.picktime.com or as communicated before the order submission.</p>
-	<h3>Contract duration</h3><h4>Subscriptions</h4>
+	<h3>Contract Duration</h3><h4>Subscriptions</h4>
 	<p>Subscriptions allow Users to receive a Product continuously or regularly over a determined period of time.</p>
 	
 	<p>Paid subscriptions begin on the day the payment is received by the Owner.</p>
 	
 	<p>In order to maintain subscriptions, Users must pay the required recurring fee in a timely manner. Failure to do so may cause service interruptions.</p>
-	<h4>Fixed-term subscriptions</h4>
+	<h4>Fixed-Term Subscriptions</h4>
 	<p>Paid fixed-term subscriptions start on the day the payment is received by the Owner and last for the subscription period chosen by the User or otherwise specified during the purchasing process.</p>
 	
 	<p>Once the subscription period expires, the Product shall no longer be accessible, unless the User renews the subscription by paying the relevant fee.</p>
@@ -485,7 +485,7 @@
 	<p>The Owner will process the request without undue delay and within 2 days of receiving it.</p>
 	<h3>Online dispute resolution for Consumers</h3>
 	<p>The European Commission has established an online platform for alternative dispute resolutions that facilitates an out-of-court method for solving any dispute related to and stemming from online sale and service contracts.</p>
-	<p>As a result, any European Consumer can use such platform for resolving any dispute stemming from contracts which have been entered into online. The platform is <a href="#">available at the following link</a>.</p>
+	<p>As a result, any European Consumer can use such platform for resolving any dispute stemming from contracts which have been entered into online. The platform is <a href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage">available at the following link</a>.</p>
 	  <div class="panel-group" id="Definitions">
 	    <div class="panel panel-default">
 	      <div class="panel-heading">

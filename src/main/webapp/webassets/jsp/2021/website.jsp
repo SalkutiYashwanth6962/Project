@@ -81,7 +81,7 @@
 		   		</div>
 			</div>
 			<div class="col-md-12 text-center" style="margin: 20px 0px">
-				<a class="hidden-md hidden-lg" href="/industries"><button class="btn-lg signup-btn-banner text-center">LEARN MORE</button></a>
+				<a class="hidden-md hidden-lg" href="/features"><button class="btn-lg signup-btn-banner text-center">LEARN MORE</button></a>
 			</div>
 		</div>
 	</section>

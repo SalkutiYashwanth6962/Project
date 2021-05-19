@@ -351,7 +351,7 @@
 					<p>Google AdSense is an advertising service provided by Google LLC or by Google Ireland Limited, depending on the location www.picktime.com is accessed from. This service uses the “DoubleClick” Cookie, which tracks use of www.picktime.com and User behavior concerning ads, products and services offered</p>
 					<p>Users may decide to disable all the DoubleClick Cookies by going to:<a target="_blank" href="https://accounts.google.com/ServiceLogin/webreauth?passive=1209600&continue=https%3A%2F%2Fadssettings.google.com%2Fauthenticated%3Fhl%3Den&followup=https%3A%2F%2Fadssettings.google.com%2Fauthenticated%3Fhl%3Den&hl=en&flowName=GlifWebSignIn&flowEntry=ServiceLogin"> Google Ad Settings.</a></p>
 					<p>Personal Data processed: Tracker and Usage Data.</p>
-					<p>Place of processing: United States – <a target="_blank" href="https://policies.google.com/privacy">Privacy Policy</a> – Opt Out; Ireland – <a target="_blank" href="https://policies.google.com/privacy">Privacy Policy</a> – Opt Out.</p>
+					<p>Place of processing: United States – <a target="_blank" href="https://policies.google.com/privacy">Privacy Policy</a> –<a href="https://adssettings.google.com/authenticated"> Opt Out;</a> Ireland – <a target="_blank" href="https://policies.google.com/privacy">Privacy Policy</a> –<a href="https://adssettings.google.com/authenticated#display_optout"> Opt Out.</a></p>
 					        
         </div>
       </div>

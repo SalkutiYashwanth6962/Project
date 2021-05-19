@@ -46,7 +46,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Tutoring Lessons Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>Over the past several years, online booking of tutoring lessons has been gaining prominence. Many parents are starting to choose online tutoring lessons booking over traditional ways of tutoring admission at learning centers. The open gate to online booking has given parents and students many options of tutors and institutions. Even if you have never used a tutor before, you may be familiar with the traditional in-person approach: you make an appointment, meet one-on-one or with a group, and receive assistance in a given subject. However, the advent of the Internet has changed this dynamic in several important ways. The digital format of online tutoring lends itself wonderfully to creating a permanent record of each session.</p>
 			</div>
@@ -73,7 +73,7 @@
 				</ul>
 			</div>
 			<div class="bottom_section">
-				<h2>Benefits of Picktime for Psychologists</h2>
+				<h2>Benefits of Picktime for Tutoring Lessons</h2>
 				<div id="services_sec">
 					<h3>Be Always available</h3>
 		         	<p>May be you are a part time tutor with a very busy life and a family to look after. With picktime, your clients will be able to schedule meetings with you without actually calling you. Be virtually available round the clock with our class booking software.</p>

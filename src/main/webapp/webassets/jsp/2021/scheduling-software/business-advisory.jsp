@@ -45,7 +45,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Business Advisory Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>Are you hesitant to pay for an extra staff just to book appointments on your behalf? We understand scheduling hassles can wreak havoc with your customer retention efforts. Fortunately, Picktime can help local business owners with this onerous burden. As an added benefit, also collect useful data about your clients that can be utilized for marketing campaigns.</p>
 			</div>
@@ -71,7 +71,7 @@
 				</ul>
 			</div>
 			<div class="bottom_section">
-				<h2>Benefits of Picktime for Psychologists</h2>
+				<h2>Benefits of Picktime for Business Advisory</h2>
 				<div id="services_sec">
 					<h3>Appointment scheduling made easy</h3>
 					<p>Reduce appointment scheduling mistakes, decreasing revenue loss. Offer a quick, easy way, convenient for customers to schedule appointments. Provide access to current scheduling and customer information for all employees, from work and home, as desired. 

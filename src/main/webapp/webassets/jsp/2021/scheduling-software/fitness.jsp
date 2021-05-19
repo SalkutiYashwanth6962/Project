@@ -45,7 +45,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Fitness Classes Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>As much as we'd like to believe that Ice creams and chocolate cakes are elixirs for a long and healthy life, we know that's not the case. We also know that a regular exercise routine is one of the inevitable paths to a healthier and longer life. A fitness center encourages trainees to follow a well-balanced program that includes both strength training and proper exercise. This supports weight loss and heart health, helps prevent osteoporosis and improves muscle strength, stability, and versatility.</p>
 			</div>
@@ -88,7 +88,7 @@
 		             <p>Every Fitness Center owner dreads no-shows. These are customers who forget their classes or show up at the incorrect time or date. With automatic appointment reminders in Picktime, you can reduce no-shows without having to call the customer. Picktime automatically sends the customer an email or SMS reminder so you have more time to do other tasks.</p>
 				</div>
 				<div id="services_sec">
-					<h3>Cut Costs with without paying a penny</h3>
+					<h3>Cut Costs without paying a penny</h3>
 			         <p>It is always time taking and confusing to keep noting appointments in a dairy or going through an excel sheet. It is quite a common practise to hire someone to book appointments on your behalf. Save money with our a la mode gym management software.</p>
 				</div>
 				<div id="services_sec">

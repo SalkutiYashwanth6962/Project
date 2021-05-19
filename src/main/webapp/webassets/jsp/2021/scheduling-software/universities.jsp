@@ -46,7 +46,7 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Universities Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div id="services_sec">
 				<p>University life is so busy both for staff and students and good online scheduling software like Picktime can become a great relief for everybody. Handling applicant interviews, meeting with students, event management and examination timetabling are hectic jobs for university management people. With so many university activities, it is important for students to know when they can discuss their academic paper, thesis or other things. As a staff, you may need to let your students obtain your calendar and book an appointment with you so as to avoid constant calls, emails and making notes.</p>
 			</div>

@@ -48,7 +48,7 @@
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			
-			<img class="img-responsive" alt="Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<img class="img-responsive" alt="Design Consultations Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			
 			<div id="services_sec">
 				<p>For Design Consultancies, online scheduling is a vital lead generation tool. For many people, finding the perfect design for their houses, offices, and even website design is the biggest challenge. Design consultancy plays an important role in cornering their issues, providing the right advice and solving them. Having your appointment booking online is really a good idea for your business growth.</p>
