@@ -18,6 +18,11 @@
 	margin: 40px 0px;
 }
 
+div#industries > div > div {
+    margin-bottom: 40px;
+    /* padding: 0px 15px; */
+}
+
 /* wave start */
 #industries_services {
 	margin-top: -27px;

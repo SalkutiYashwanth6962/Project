@@ -4,396 +4,384 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9;
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 <url>
-  <loc>https://www.picktime.com/</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/integrations</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/integrations</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/login</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/login</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/register</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/register</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/apps</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/apps</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/faqs</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/beauty-salon</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/careers</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/photographers</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/industries</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/medical</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/beauty-salon</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/events</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/hair-salon</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/financial-services</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/nail-salon</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/legal</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/medical</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/dentists</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/spa</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/universities</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/personal-trainers</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/interview</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/fitness</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/legal/privacy</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/yoga-trainers</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/legal/cookie</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/dentists</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/legal/terms</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/chiropractics</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/industries</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/acupuncture</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/careers</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/physiologists</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/legal/gdpr</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/psychologists</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/hair-salon</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/gyms</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/nail-salon</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/golf-classes</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/spa</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/sportitems-renting</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/fitness</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/counseling</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/yoga-trainers</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/coaching</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/personal-trainers</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/meeting-rooms</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/chiropractics</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/spiritual-services</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/acupuncture</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/design-consultations</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/physiologists</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/cleaning</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/psychologists</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/household</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/gyms</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/pet-services</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/golf-classes</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/business-event</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/sportitems-renting</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/events</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/counseling</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/photographers</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/coaching</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/driving-schools</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/meeting-rooms</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/art-classes</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/spiritual-services</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/equipement-rental</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/design-consultations</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/escape-rooms</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/cleaning</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/restaurants</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/household</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/call-centers</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/pet-services</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/interview</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/driving-schools</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/financial-services</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/business-event</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/business-advisory</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/art-classes</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/legal</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/equipement-rental</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/attorney</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/escape-rooms</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/embassies-consulates</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/restaurants</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/city-councils</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/call-centers</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/universities</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/business-advisory</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/colleges</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/attorney</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/schools</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/embassies-consulates</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/libraries</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/city-councils</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/teaching</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/colleges</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/tutoring-lessons</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/schools</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/parent-meetings</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/libraries</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/scheduling-software/child-care</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/teaching</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/privacy.html</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/tutoring-lessons</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/terms.html</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/parent-meetings</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/enduser-license.html</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/scheduling-software/child-care</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/appointment-scheduling</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features/appointment-scheduling</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/online-calendar</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features/booking-page</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/sms-remainders</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features/manage-customers</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/two-way-calendar</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features/multiple-location</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/class-bookings</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features/manage-staff</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/booking-page</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features/take-payments</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/dashboard</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features/invoice</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/multiple-location</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features/dashboard</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/invoice</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features/recurring-appointments</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/recurring-appointments</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features/booking-widget</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/booking-widget</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features/reminders</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/manage-customers</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features/reports</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/manage-staff</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features/booking-forms</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/email-alerts</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features/vouchers-discounts</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/reports</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/features/reviews</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.picktime.com/features/take-payments</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.picktime.com/features/reviews</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.picktime.com/forgotPassword</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://beta9.picktime.com/forgotPassword</loc>
+  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 </urlset>

@@ -3448,7 +3448,7 @@ height: 80px;
   /*=====button======  */
   #features .btn-lg {
     font-size: 15px;
-    margin: 20px 0px 10px 80px;
+    margin: 20px auto;
     padding: 10px 0px;
     width: 60%;
   }
@@ -3471,8 +3471,8 @@ height: 80px;
   }
 
   #for-buiness-owners .f-b-o-i #center_img {
-     width: 100%;
-      padding: 10px 100px 50px 100px;
+    width: 100%;
+	padding: 10px 100px 50px 100px;
   }
 
   #for-team {
@@ -3534,7 +3534,7 @@ height: 80px;
 
   #for-buiness-owners .f-b-o-i #center_img {
     width: 100%;
-    padding: 10px 50px 30px 50px;
+    padding: 10px 40px;
   }
 
   #for-team .f-t-b-i img {
@@ -3582,7 +3582,7 @@ height: 80px;
 
   /*=====button======  */
   #features .btn-lg {
-    margin: 20px 0px 10px 50px;
+    margin: 20px auto;
   }
   #what-we-offer img {
     margin-top: -140px;
