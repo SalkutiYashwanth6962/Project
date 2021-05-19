@@ -2118,6 +2118,7 @@ font: 15px/23px;
 #love-by-evryine #quote-carousel {
   padding: 0 10px 30px 10px;
   margin-top: 30px;
+  margin-bottom: 20px;
 }
 
 #love-by-evryine .carousel-inner p {
@@ -2227,13 +2228,13 @@ font: 15px/23px;
   #love-by-evryine #quote-carousel .carousel-indicators li {
     display: inline-block;
     margin: 0px 5px;
-    width: 15px;
-    height: 15px;
+    /* width: 15px; */
+    /* height: 15px; */
   }
   #love-by-evryine #quote-carousel .carousel-indicators li.active {
     margin: 0px 5px;
-    width: 20px;
-    height: 20px;
+    /* width: 20px; */
+    /* height: 20px; */
   }
 }
 
