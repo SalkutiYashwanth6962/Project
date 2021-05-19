@@ -250,7 +250,7 @@
 		               <img alt="Get-Notified" src="/webassets/2021/img/icons/features/Notifications_icon.svg">
 		              </div>
 		              <div class="media-body">
-		               <div class="title"><h3><a href="#">Get Notified</a></h3></div>
+		               <div class="title"><h3><a href="/features/email-alerts">Get Notified</a></h3></div>
 		                <p>Stay informed about upcoming, cancelled & rescheduled bookings.</p>
 		              </div>
 		            </div>

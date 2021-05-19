@@ -32,9 +32,9 @@
 	        	</li>
 	        </ul>
 	       <ul class="terms-holder">
-	         <li><a target="_blank" href="legal/privacy">Privacy Policy</a></li>
+	         <li><a target="_blank" href="/legal/privacy">Privacy Policy</a></li>
 	         <li><a target="_blank" href="/legal/cookie">Cookie Policy</a></li>
-	         <li><a target="_blank" href="legal/terms">Terms</a></li>
+	         <li><a target="_blank" href="/legal/terms">Terms</a></li>
 	       </ul>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-6">
@@ -51,7 +51,7 @@
              <ul>
                 <li><a href="https://blog.picktime.com/">Blog</a></li>
                 <li><a href="https://support.picktime.com/">Support</a></li>
-                <li><a href="https://go.crisp.chat/chat/embed/?website_id=cffc37e4-7649-45d6-b044-074c60b9dbdc">Chat</a></li>
+                <li><a target="_blank" href="https://go.crisp.chat/chat/embed/?website_id=cffc37e4-7649-45d6-b044-074c60b9dbdc">Chat</a></li>
                 <!-- <li><a href="javascript:void(0);">Roadmap</a></li> -->
               </ul>
           </div>
