@@ -51,13 +51,14 @@
              <ul>
                 <li><a href="https://blog.picktime.com/">Blog</a></li>
                 <li><a href="https://support.picktime.com/">Support</a></li>
-                <li><a target="_blank" href="https://go.crisp.chat/chat/embed/?website_id=cffc37e4-7649-45d6-b044-074c60b9dbdc">Chat</a></li>
+                <li><a target="_blank" rel="noreferrer" href="https://go.crisp.chat/chat/embed/?website_id=cffc37e4-7649-45d6-b044-074c60b9dbdc">Chat</a></li>
                 <!-- <li><a href="javascript:void(0);">Roadmap</a></li> -->
               </ul>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-4">
              <ul>
                 <li>&nbsp;</li>
+<!--                 <li><a target="_blank" href="/faqs">FAQs</a></li> -->
                 <li><a target="_blank" href="/careers">Careers</a></li>
                 <li><a target="_blank" href="/legal/gdpr">GDPR</a></li>
              </ul>

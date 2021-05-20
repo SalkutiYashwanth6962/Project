@@ -687,17 +687,13 @@
 									<div class="row">
 										<div class="col-sm-6">
 											<p>
-												<i class="icon-quote-left" aria-hidden="true"
-													id="left-icon"></i>I love this company packed full of features, this software works perfectly and the customer support is outstanding! i am so happy with this company l liked everything about thes software.<i class="icon-quote-right"
-													aria-hidden="true" id="right-icon"></i>
+												<i class="icon-quote-left" aria-hidden="true" id="left-icon"></i>I love this company. Packed full of features, this software works perfectly and the customer support is outstanding! I'm so happy with this company l liked everything about this software.<i class="icon-quote-right" aria-hidden="true" id="right-icon"></i>
 											</p>
 											<small>Cassi E</small>
 										</div>
 										<div class="col-sm-6">
 											<p>
-												<i class="icon-quote-left" aria-hidden="true"
-													id="left-icon"></i>Great free scheduling tools. The ability to book directly from google maps and to start charging for appointments! it is crazy how many free features Picktime gives you I also like how i can manage multiple accounts for my staff.<i class="icon-quote-right"
-													aria-hidden="true" id="right-icon"></i>
+												<i class="icon-quote-left" aria-hidden="true" id="left-icon"></i>Great free scheduling tool. The ability to book directly from google maps and to start charging for appointments!It is crazy how many free features Picktime gives you. I also like how I can manage multiple accounts for my staff. <i class="icon-quote-right" aria-hidden="true" id="right-icon"></i>
 											</p>
 											<small>Nick A</small>
 										</div>
@@ -710,17 +706,13 @@
 									<div class="row">
 										<div class="col-sm-6">
 											<p>
-												<i class="icon-quote-left" aria-hidden="true"
-													id="left-icon"></i>Picktime is an excellent organization platform. i use in my day picktime helps to solve my problems and manage my commitments. Picktime The smarttest way to shedule appointments, meeting, classes,interviews and reservations. I love it.<i class="icon-quote-right"
-													aria-hidden="true" id="right-icon"></i>
+												<i class="icon-quote-left" aria-hidden="true" id="left-icon"></i>Picktime is an excellent organization platform. I use in my day to day. Picktime helps to solve my problems and manage my commitments. Picktime The smartest way to schedule appointments, meetings, classes, interviews and reservations. I love it.<i class="icon-quote-right" aria-hidden="true" id="right-icon"></i>
 											</p>
 											<small>Kezi T</small>
 										</div>
 										<div class="col-sm-6">
 											<p>
-												<i class="icon-quote-left" aria-hidden="true"
-													id="left-icon"></i>The perfect tool to appointments in organizations. Easy to use and integrable with Facebook. It allows to book appointments with multilple location/people. it simplifies all the process and sync it with your calender.<i class="icon-quote-right"
-													aria-hidden="true" id="right-icon"></i>
+												<i class="icon-quote-left" aria-hidden="true" id="left-icon"></i>The perfect tool to book appointments in organizations. Easy to use and integrable with Facebook. It allows to book appointments with multiple locations/people. It simplifies all the process and sync it with your calendar.<i class="icon-quote-right" aria-hidden="true" id="right-icon"></i>
 											</p>
 											<small>Luca C</small>
 										</div>
@@ -733,17 +725,13 @@
 									<div class="row">
 										<div class="col-sm-6">
 											<p>
-												<i class="icon-quote-left" aria-hidden="true"
-													id="left-icon"></i>This program is very essential for us, because it helps us to schedule the appointments we have with colleagues from other companies, clients and new staff of the organization. Every time we schedule an appointment there is never a clash of schedules, because Picktime has everything under control.<i class="icon-quote-right"
-													aria-hidden="true" id="right-icon"></i>
+												<i class="icon-quote-left" aria-hidden="true" id="left-icon"></i>This program is very essential for us, because it helps us to schedule the appointments we have with colleagues from other companies, clients and new staff of the organization. Every time we schedule an appointment there is never a clash of schedules, because Picktime has everything under control.<i class="icon-quote-right" aria-hidden="true" id="right-icon"></i>
 											</p>
 											<small>Ava Nataile W</small>
 										</div>
 										<div class="col-sm-6">
 											<p>
-												<i class="icon-quote-left" aria-hidden="true"
-													id="left-icon"></i>Great Free Software. I have had a great overall experience with Picktime. It has been great to have a link I can send to my customers for them to follow and schedule an appointment. I love that this is free! This is a great way to schedule appointments.<i class="icon-quote-right"
-													aria-hidden="true" id="right-icon"></i>
+												<i class="icon-quote-left" aria-hidden="true" id="left-icon"></i>Great Free Software. I have had a great overall experience with Picktime. It has been great to have a link I can send to my customers for them to follow and schedule an appointment. I love that this is free! This is a great way to schedule appointments.<i class="icon-quote-right" aria-hidden="true" id="right-icon"></i>
 											</p>
 											<small>Beth C</small>
 										</div>
