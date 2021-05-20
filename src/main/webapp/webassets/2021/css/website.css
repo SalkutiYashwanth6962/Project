@@ -1851,9 +1851,10 @@ img.what-is-picktime-img{
 #pick-time-is-for-everyone .items .silder-box .s-b-par {
 	padding: 10px;
 	text-align: center;
-	font-weight: bold;
-	line-height: 22px;
+	line-height: 24px;
 	letter-spacing: 0.22px;
+	font-size: 14px;
+	font-weight: 400;
 }
 
 #pick-time-is-for-everyone .carousel-control>a>span {
@@ -1989,8 +1990,9 @@ img.what-is-picktime-img{
 
 .silder-boxs .s-b-par {
 	padding: 10px;
+	padding-top: 0px;
 	text-align: center;
-	line-height: 24px;
+	line-height: 22px;
 	letter-spacing: 0.22px;
 	font-size: 16px;
 	font-weight: 400;
