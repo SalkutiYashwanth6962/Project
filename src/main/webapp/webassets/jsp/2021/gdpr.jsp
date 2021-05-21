@@ -165,9 +165,9 @@
 	              </div>
 	              <div class="media-body">
 	              <h3>View, edit and control the access to your data</h3>
-	              <p>You can directly view and edit your data and that of your staff and customers through your <a href="https://www.picktime.com/app#customers"> Picktime account. </a>As a data controller, it will be your responsibility to make and abide by your own GDPR-compliant rules to control the access of your data to your staff, clients, and customers.
+	              <p>You can directly view and edit your data and that of your staff and customers through your <a href="/login"> Picktime account. </a>As a data controller, it will be your responsibility to make and abide by your own GDPR-compliant rules to control the access of your data to your staff, clients, and customers.
 	              </p>
-	              <p>Picktime has also created a system through which you can limit the access of your staff to your data and control and edit the admin rights. Click here to learn more about how Picktime sets permission levels for your staff if they need to access your<a href="https://www.picktime.com/app#customers"> data.</a>
+	              <p>Picktime has also created a system through which you can limit the access of your staff to your data and control and edit the admin rights. Click here to learn more about how Picktime sets permission levels for your staff if they need to access your<a href="/login"> data.</a>
 	              </p>
 	              </div>
 	            </div>

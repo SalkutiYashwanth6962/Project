@@ -2325,6 +2325,18 @@ font: 15px/23px;
 .picktime-bottom:hover {
   color: white;
 }
+.cookie-consent-section{
+	position: relative;
+}
+.cookie-consent-section > div{
+	position: fixed;
+	width: 350px;
+	bottom: -10px;
+	left: 10px;
+	z-index: 10;
+	background: rgb(255 255 255 / 90%);
+	color: #333;
+}
 /*==========Footer***end==========*/
 
 /* Home page-Responsive web site */

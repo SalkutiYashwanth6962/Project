@@ -170,6 +170,53 @@
    
 </section>
 
+<section id="cookie-consent-section" class="cookie-consent-section" style="display: none;">
+	<div class="cookie-consent alert alert-success fade in alert-dismissible" style="margin-top: 18px;">
+		<a href="#" class="close" onclick="cookieConsent(true);" data-dismiss="alert" aria-label="close" title="close">&times;</a> 
+		<span>We use cookies which allows Picktime to optimize your user experience and to analyse the traffic on the website. Visit our <a href="/legal/gdpr" target="_blank">GDPR</a> page to go through the  <a href="/legal/cookie" target="_blank">cookie policy</a>.</span>
+	</div>
+</section>
+
+	<script>
+	function setCookie(cname, cvalue, exdays) {
+	  var d = new Date();
+	  d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+	  var expires = "expires="+d.toUTCString();
+	  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+	}
+	
+	function getCookie(cname) {
+	  var name = cname + "=";
+	  var ca = document.cookie.split(';');
+	  for(var i = 0; i < ca.length; i++) {
+	    var c = ca[i];
+	    while (c.charAt(0) == ' ') {
+	      c = c.substring(1);
+	    }
+	    if (c.indexOf(name) == 0) {
+	      return c.substring(name.length, c.length);
+	    }
+	  }
+	  return "";
+	}
+	function removeCookie(name) {
+	  document.cookie = name +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+	}
+	function checkCookie() {
+	  var userconsent = getCookie("userconsent");
+	  if (!userconsent) {
+		  var x = document.getElementById('cookie-consent-section')
+		  x.style.display = "block";
+	  }
+	}
+	checkCookie();
+	function cookieConsent(isTrue){
+		if(isTrue) {
+			setCookie("userconsent", true, 365);
+		}
+	}
+// 	removeCookie("userconsent");
+	</script>
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
