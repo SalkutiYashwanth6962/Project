@@ -173,7 +173,7 @@
 <section id="cookie-consent-section" class="cookie-consent-section" style="display: none;">
 	<div class="cookie-consent alert alert-success fade in alert-dismissible" style="margin-top: 18px;">
 		<a href="#" class="close" onclick="cookieConsent(true);" data-dismiss="alert" aria-label="close" title="close">&times;</a> 
-		<span>We use cookies which allows Picktime to optimize your user experience and to analyse the traffic on the website. Visit our <a href="/legal/gdpr" target="_blank">GDPR</a> page to go through the  <a href="/legal/cookie" target="_blank">cookie policy</a>.</span>
+		<span>We use cookies which allows Picktime to optimize your user experience and to analyse the traffic on the website. Visit our  <a href="/legal/cookie" target="_blank">cookie policy</a> page.</span>
 	</div>
 </section>
 
