@@ -209,7 +209,7 @@
 		  x.style.display = "block";
 	  }
 	}
-	checkCookie();
+	setTimeout(checkCookie, 5000);
 	function cookieConsent(isTrue){
 		if(isTrue) {
 			setCookie("userconsent", true, 365);
