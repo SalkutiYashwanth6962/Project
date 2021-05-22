@@ -154,7 +154,7 @@
 				<div class="col-md-4 "id="integration-sections">
 				<div class="pic"><img alt="Squarespace-integration" src="/webassets/2021/img/apps/11-11Sqaurespace.png"></div>
 				<div class="headings">Squarespace</div>
-				<p>Covert your leads into full time customers.</p>
+				<p>Convert your leads into full time customers.</p>
 				</div>
 				<div class="col-md-4 "id="integration-sections">
 				<div class="pic"><img alt="Drupal-integration" src="/webassets/2021/img/apps/4Drupal.png"></div>
