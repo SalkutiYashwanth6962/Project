@@ -29,7 +29,6 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -41,16 +40,15 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Teaching Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Teaching is one the most challenging and satisfying professions of all. Moulding little brains and giving students support to help them come out with flying colours is not easy. You have to put all your effort and hard work into being the best teacher they ever had. But it is not always possible to give your students the time they want with all other things you have to do, Like spending time with your family and meeting up with other important people. This may make you feel like you are not doing justice to your job when you are not able to cater to your students.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is an online appointment scheduling software which helps you schedule classes, meetings and events so that your students can meet up with you when you are available. Sign up with Picktime and set up your account. Make your available time slots visible in your booking page and simply share your link. That's it! You are all set to meet your students and clarify their doubts or talk to parents about their child’s progress. Our booking software reduces the time and effort you put into meeting your students post classes and schedules your appointments around your personal meetings.</p>
 			</div>
 			<div class="key_features">
@@ -69,27 +67,25 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of using Picktime</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Access it from anywhere</h3>
 		        	<p>Our booking system is online. You don't have to be worried about missing books or excel sheets. You just need to login to have a look at your appointments for the day.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Automated SMS and email reminders</h3>
 			        <p>Do not worry about no shows from your students. Picktime sends SMS and email reminders at a time preset by you.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Drag and drop</h3>
 			         <p>Reschedule appointments easily by just dragging and dropping them. make your appointments hassle free. Colour code your services for easier management.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>A personalised booking page</h3>
 			        <p>Don't have a website? Picktime creates a booking page for you which you can easily customise. Add your services and available times and make them visible online.</p>
 				</div>
 			</div>
 		</div>
 	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+   <jsp:include page="../scheduling-software/website-new-footer.jsp" />
 </body>
 </html>

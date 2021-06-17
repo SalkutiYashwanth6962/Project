@@ -29,30 +29,27 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/features.css?_=<%=cache%>">
 </head>
 <body>
-<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
-<!--every page  wave-->
-<section id="industries_services">
+	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
+	<!--every page  wave-->
+	<section id="industries_services">
 		<div class="container">
 			<div class="main_title" style="color:#8B22E2;"><h1>Class Bookings</h1></div>
 		</div>
-</section>
-<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
-<!--every page  wave-->
+	</section>
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
+	<!--every page  wave-->
 	<div id="features-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<div id="feature_sec">
-            <p>Picktime is the right mate for you if you are someone who takes music, dance or a tutor. It is quite a common problem to find the right strength of students in your classes. There are either too less of students or too many which often leads to either disappointment or irritation.</p>
-			<p>Just create a class and set a limit of entries to your class. Make the class available in your booking page. Share your link to your students or clients and you are all set. See your class getting automatically filled. Once the class gets filled nobody will be able to book slots further. You can not only make your group classes available, you can also make your one-one classes and gain new leads.</p>
-			<p>It doesn’t really matter if you run a huge academy with a number of other trainers or an individual owner. Picktime helps your run your business as seamlessly as possible.</p>
-			<p>You can also accept your class payments when your client is booking an appointment with you. Stay stress free and have zero crowded classes with our class bookings feature</p>
+			<div class="feature_sec">
+	            <p>Picktime is the right mate for you if you are someone who takes music, dance or a tutor. It is quite a common problem to find the right strength of students in your classes. There are either too less of students or too many which often leads to either disappointment or irritation.</p>
+				<p>Just create a class and set a limit of entries to your class. Make the class available in your booking page. Share your link to your students or clients and you are all set. See your class getting automatically filled. Once the class gets filled nobody will be able to book slots further. You can not only make your group classes available, you can also make your one-one classes and gain new leads.</p>
+				<p>It doesn’t really matter if you run a huge academy with a number of other trainers or an individual owner. Picktime helps your run your business as seamlessly as possible.</p>
+				<p>You can also accept your class payments when your client is booking an appointment with you. Stay stress free and have zero crowded classes with our class bookings feature</p>
 			</div>
+	   </div>
 	</div>
-	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
+	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>

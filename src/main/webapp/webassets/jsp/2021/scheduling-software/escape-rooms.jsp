@@ -26,10 +26,9 @@
 	<meta name="twitter:description" content="Picktime is a free browser based appointment scheduling software for Escape rooms and Quest rooms which allows you to manage all your appointments in one place. When setting up the system a good option to use, is Any Room plugin, that allows you to join the room and session, so in fact, the client ONLY needs to choose the session in whatever escape room he prefers to book. " />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
-<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
+    <jsp:include page="../scheduling-software/website-new-navbar.jsp" />
 	<!--every page  wave-->
 	<section id="industries_services">
 		<div class="container">
@@ -44,10 +43,10 @@
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Escape Rooms Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Making the decision to open your own escape room is scary but interesting. You have played other escape games and enjoyed them. You’re full of artistic ideas, and you know you can design a game that will charm your customers. Of course, there are certain things you’re excited about and certain things you know you have to do but really would rather not have to think about. Exciting things include writing a compelling scenario, designing puzzles, and seeing the room in your imagination come to life. This process includes other challenges like getting permits and finding a location. Another annoying process is figuring out a appointment scheduling system for your business. An Escape Room booking system is something you know you need, but when you start researching, you feel kind of overwhelmed.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is a free browser based appointment scheduling software for Escape rooms and Quest rooms which allows you to manage all your appointments in one place. When setting up the system a good option to use, is Any Room plugin, that allows you to join the room and session, so in fact, the client ONLY needs to choose the session in whatever escape room he prefers to book. This simplifies the booking process by one step. In this case, all your Escape room texts should be written in Session room description. Add Additional fields to get more information, on for example how many people will join the room session.</p>
 			</div>
 			<div class="key_features">
@@ -69,31 +68,29 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Escape Room Business</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Accuracy</h3>
 					<p>Taking bookings over the phone puts you and your employees in charge of spelling everything right and entering all the data you need correctly. Let your customers enter that data themselves with our online booking system. They’re less likely to make mistakes.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Convenience</h3>
 					<p>Customers can book appointments anytime from anywhere with Picktime escape room booking software. You can also book appointments to escape rooms present at any time zone.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Data collection</h3>
 					<p>All information entered into the booking system becomes the ultimate marketing database. You automatically collect names, email address, and other profile details for future marketing campaigns.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Time-saving</h3>
 					<p>Taking bookings over the phone and entering details into an excel sheet or paper system is time-consuming. Picktime allows your customers to book your escape rooms from your website using “Book Now” button. If you don’t have a website, then you can invite your customers to your Picktime unique appointment booking page.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Tracking and reporting</h3>
 					<p>Picktime provides you the detailed analytics report of all your appointments and staff tasks. The ability to adapt marketing and operations strategies in real time gives you a competitive advantage.</p>
 				</div>
 			</div>
 		</div>
 	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+    <jsp:include page="../scheduling-software/website-new-footer.jsp" />
 </body>
 </html>

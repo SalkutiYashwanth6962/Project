@@ -29,7 +29,6 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -41,15 +40,13 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Sport Items Renting Scheduling Software"
 				src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Managing your best rental sports related items can be
 					complicated, particularly if you are still using old fashioned
 					methods like written journals. It is difficult to keep a good
@@ -62,7 +59,7 @@
 					Picktime, everyone can see when the company's PlayStation 3 is
 					available for rental. No more cluttered Post-it notes!</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime online scheduling system can be used for booking
 					tennis courts, football pitches, volleyball courts, basketball
 					fields, pools, golf clubs, balls, nets, uniforms, roller skates,
@@ -72,7 +69,7 @@
 					glasses, helmets, sticks, gloves and any other sports equipment you
 					have.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>With Picktime, equipment rental companies are open 24/7 to
 					rent their equipment online. If you are in the equipment rental
 					business, online scheduling enables you to let customers book
@@ -101,7 +98,7 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Sport Items Rental business</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Equipment Management</h3>
 					<p>Clients can reserve beforehand and be sure they get the
 						equipment when they need it. You can track your sports equipment
@@ -110,7 +107,7 @@
 						checking personal data. You can organize the process better, by
 						putting the exact duration for which you rent an item.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Rent More Equipment</h3>
 					<p>Our online booking system will help you grow your equipment
 						rental business through capturing online shoppers. When an online
@@ -120,7 +117,7 @@
 						website into a powerful sales tool capable of making sales on the
 						spot. It also reduces the workload of your staff.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Get a Book now button</h3>
 					<p>Place Book Now on your website and make it easy for your
 						clients to book. You have your own beautiful booking website with
@@ -129,14 +126,14 @@
 						or engage with a new customer. Your availability is always
 						bookable in real time 24-7 / 365.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Available everywhere</h3>
 					<p>You can create several locations if you offer sports item
 						renting in several places. Since your appointment calendar is
 						online, you can view it at work, at home or even if you are on a
 						vacation half way across the globe.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Improve Your Efficiency</h3>
 					<p>Using our rental equipment software is like having an online
 						salesperson capable of renting equipment and booking schedules
@@ -152,7 +149,5 @@
 		</div>
 	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
 </body>
 </html>

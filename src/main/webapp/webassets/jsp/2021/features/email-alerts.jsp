@@ -31,27 +31,25 @@
     <link rel="stylesheet" type="text/css" href="/webassets/2021/css/features.css?_=<%=cache%>">
 </head>
 <body>
-<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
-<!--every page  wave-->
-<section id="industries_services">
+	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
+	<!--every page  wave-->
+	<section id="industries_services">
 		<div class="container">
 			<div class="main_title" style="color:#8B22E2;"><h1>Email Alerts</h1></div>
 		</div>
-</section>
-<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
-<!--every page  wave-->
+	</section>
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
+	<!--every page  wave-->
 	<div id="features-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<div id="feature_sec">
-			<p>Have you ever faced problems with staff not turning up? Well, most of the customers who have their appointments booked tend to forget that they have an appointment in the first place. This is one of the major reasons why many businesses see a lot of no-shows or late check-in’s.</p>
-			<p>We also agree that It can be highly inconvenient to keep reminding your customers of their appointments through phone calls and manual messaging. And moreover what is an appointment scheduling software without infused modern technology?</p>
-			<p>Picktime lets you send automated Emails to your clients when an appointment is booked. It is not only limited to that, you as a business owner can customise the way your Email looks and when it reaches your customers inbox in you business settings. It is not just limited to sending emails to your customers, you can send notifications to your staff as well.</p>
-			<p>Forget about No-shows and customers arriving at the wrong time with our Email reminder feature.</p>
+			<div class="feature_sec">
+				<p>Have you ever faced problems with staff not turning up? Well, most of the customers who have their appointments booked tend to forget that they have an appointment in the first place. This is one of the major reasons why many businesses see a lot of no-shows or late check-in’s.</p>
+				<p>We also agree that It can be highly inconvenient to keep reminding your customers of their appointments through phone calls and manual messaging. And moreover what is an appointment scheduling software without infused modern technology?</p>
+				<p>Picktime lets you send automated Emails to your clients when an appointment is booked. It is not only limited to that, you as a business owner can customise the way your Email looks and when it reaches your customers inbox in you business settings. It is not just limited to sending emails to your customers, you can send notifications to your staff as well.</p>
+				<p>Forget about No-shows and customers arriving at the wrong time with our Email reminder feature.</p>
 			</div>
+  		</div>
 	</div>
-	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
+	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>

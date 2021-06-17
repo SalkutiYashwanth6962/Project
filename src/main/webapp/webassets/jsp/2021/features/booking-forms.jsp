@@ -29,46 +29,35 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/features.css?_=<%=cache%>">
 </head>
 <body>
-<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
-<!--every page  wave-->
-<section id="industries_services">
-		<div class="container">
-			<div class="main_title" style="color:#8B22E2;"><h1>Booking Forms</h1></div>
-		</div>
-</section>
-<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
-<!--every page  wave-->
+	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
+	<!--every page  wave-->
+	<section id="industries_services">
+			<div class="container">
+				<div class="main_title" style="color:#8B22E2;"><h1>Booking Forms</h1></div>
+			</div>
+	</section>
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
+	<!--every page  wave-->
 	<div id="features-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<div id="feature_sec">
-             <p>Are you facing trouble in finding clients that are the right fit for your business? Let Picktime online appointment scheduling software help you construct an online booking form. Picktime's online booking form feature will work as a client intake form for your business and permit you to gather necessary details about your client upon booking an appointment with you. </p>
-			<p>Create a customized online booking form to collect all information about your client during the booking process. You won't need to recruit anybody to take notes of your client's history or present condition. All you have to do is create an online booking form for your business and send or share your online booking form link with your customers via SMS or email. </p>
-			<p>Customize your online booking form according to the demands and requirements of your business. You may request texts, digits, special characters, checkbox, dropdown, and date response. For example, if you are a doctor, you may take details of your patients like age, gender, height, weight, blood pressure level, blood sugar level and medical history while letting them schedule an appointment with you. 
-			</p>
+			<div class="feature_sec">
+		         <p>Are you facing trouble in finding clients that are the right fit for your business? Let Picktime online appointment scheduling software help you construct an online booking form. Picktime's online booking form feature will work as a client intake form for your business and permit you to gather necessary details about your client upon booking an appointment with you. </p>
+				 <p>Create a customized online booking form to collect all information about your client during the booking process. You won't need to recruit anybody to take notes of your client's history or present condition. All you have to do is create an online booking form for your business and send or share your online booking form link with your customers via SMS or email. </p>
+				 <p>Customize your online booking form according to the demands and requirements of your business. You may request texts, digits, special characters, checkbox, dropdown, and date response. For example, if you are a doctor, you may take details of your patients like age, gender, height, weight, blood pressure level, blood sugar level and medical history while letting them schedule an appointment with you. 
+				 </p>
 			</div>
-			<div id="feature_sec">
-              <p>Handle your class bookings efficiently with the assistance of the booking forms feature. </p>
-			  <p>If you are a tutor, forget about hiring an assistant to give out admission forms. Instead, directly send your online booking page link to all your students so that they can fill in their personal details and contact number and book online classes according to your choice of time and date.</p>
+			<div class="feature_sec">
+             	<p>Handle your class bookings efficiently with the assistance of the booking forms feature. </p>
+			     <p>If you are a tutor, forget about hiring an assistant to give out admission forms. Instead, directly send your online booking page link to all your students so that they can fill in their personal details and contact number and book online classes according to your choice of time and date.</p>
 			</div>
-			<div id="feature_sec">
-			
-			<p>Try to know the choices and preferences of your clients well before pitching an idea in front of them. For example, for your event management business, you can ask for details such as type of event, date and time of the event, number of guests and any particular choice of theme.</p>
-			<p>Sign up now to create your online booking form. Picktime will help you increase your business's size by leaps and bounds through a robust client onboarding process and allowing faster online appointment scheduling.</p>
+			<div class="feature_sec">
+				<p>Try to know the choices and preferences of your clients well before pitching an idea in front of them. For example, for your event management business, you can ask for details such as type of event, date and time of the event, number of guests and any particular choice of theme.</p>
+				<p>Sign up now to create your online booking form. Picktime will help you increase your business's size by leaps and bounds through a robust client onboarding process and allowing faster online appointment scheduling.</p>
 			</div>
-			</div>
+		</div>
 	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/anime.js?_=<%=cache%>"></script>
-<!--aos animation -->
-<script src="/webassets/2021/js/aos.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/main.js?_=<%=cache%>"></script>
-<script>
-AOS.init();
-</script>
+	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>

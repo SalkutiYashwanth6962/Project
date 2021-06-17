@@ -29,7 +29,6 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -41,17 +40,15 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Attorney Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>A career as an attorney is an extraordinary calling. However, becoming an attorney is an enormous undertaking in terms of time commitment and financial investment. They are autonomous and have the ability to make their own hours, set their own fees and choose their own clients and practice areas. Millions of people search for attorney and lawyer-related keywords on Google every month, so it should come as no surprise that your prospective clients are online, looking for you. You’ve just gotta find a way to be there when they’re ready to pull the trigger and hire an attorney. There are countless strategies, online lawyer and legal case management softwares, but nothing like picktime.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is an online appointment booking system that is designed to make your life stress free by creating a platform through which your clients can schedule their
 				appointments directly. It, not only schedules your clients, but also helps you manage your schedules. Allocate particular services to specified staff with respect to their designations and create a well functioning work environment. If your office
 				has more than one lawyer or attorney working, add them into your picktime account and let your clients see who is available at what time. Make time for people who really long you.</p>
@@ -75,24 +72,24 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Attorneys</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Easy appointment scheduling</h3>
 			        <p>Well-designed agenda, where you can easily look through all your reservations and check details of clients. Customizable booking for your clients, where reserving a spot takes only a few seconds.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Automated sms and email reminders</h3>
 		        	<p>Email and sms notifications about booking confirmation, cancellation or reservation change. Automatic text and email reminders before the appointment. Easy rescheduling and canceling of appointments with the possibility to inform client automatically.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Maintain customer database</h3>
 			          <p>Know who is waiting and how many more clients should be dealt with a quick look at your dashboard. Ability to request additional info from your clients, for example ask them to briefly describe the case so you can be prepared for the meeting.
 		                	Ability to accept the full price or a confirmation fee from your clients.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Recurring appointments</h3>
 		          	<p>Don’t worry about manually writing down repeated appointments, with picktime you can automatically use the recurring appointment option book all your appointments with a click.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>No more no shows</h3>
 			          <p>Our appointment scheduling system sends automated SMS and email reminders to your clients. May clients actually miss their appointments as they tend to forget them. See an increase in your revenue and less wasted time with our top notch booking system.</p>
 				</div>
@@ -100,7 +97,5 @@
 		</div>
 	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

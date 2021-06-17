@@ -26,22 +26,21 @@
 	<meta name="twitter:description" content="Picktime is a free appointment scheduling software which is developed completely to manage beauty salon appointments and services. As it is free, you can add unlimited users and services." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
 	<!--every page  wave-->
 	<section id="industries_services">
-			<div class="container">
-				<div class="main_title" style="color:#8B22E2;"><h1>Beauty Salon Scheduling Software</h1></div>
-			</div>
+		<div class="container">
+			<div class="main_title" style="color:#8B22E2;"><h1>Beauty Salon Scheduling Software</h1></div>
+		</div>
 	</section>
 	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Beauty Salon Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Looking good has become a priority for a majority of people
 					in this world. Beauty salons see a lot of people come in everyday.
 					Everybody wants to be updated with latest fashion and hair trends.
@@ -53,7 +52,7 @@
 					to run a successful business. Are you fed up of customers leaving
 					due to improper booking schedules?</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is a free appointment scheduling software which is
 					developed completely to manage beauty salon appointments and
 					services. As it is free, you can add unlimited users and services.
@@ -64,7 +63,7 @@
 					to the internet. Picktime also allows you to manage your staffs and
 					experts and store customer database.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime helps you run your business as smooth as butter.
 					Forget all your appointment scheduling nightmares and concentrate
 					on providing excellent service with our salon scheduling software.</p>
@@ -91,7 +90,7 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Beauty Salon Industry</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Appointment Book</h3>
 					<p>Make your Bookings, a hassle free task for your customers by
 						adding all your services and staff to your personalised booking
@@ -101,7 +100,7 @@
 						they want. Dump all you excel sheets and appointments books and
 						get updated to a whole new way of scheduling appointments.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>No waiting time</h3>
 					<p>Through Picktime, your customers can forget about telephone
 						calls, or visiting your beauty salon in person, where they may
@@ -109,7 +108,7 @@
 						With Picktime, your beauty salon or clinic will become more
 						accessible, from anywhere, at any time.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Keep a Record of all your Appointments</h3>
 					<p>As the manager of your beauty salon, you can enjoy the
 						statistics of your business which gives you an insight of your
@@ -117,7 +116,7 @@
 						services, your busiest and least busy times of the year, the most
 						popular appointment times, and more.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Systemize your Customer Base</h3>
 					<p>With this service, you get to know everything about your
 						customers, and you will be in complete control. Imagine having all
@@ -125,7 +124,7 @@
 						which will enable you to generate many more marketing campaigns in
 						the future.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Staff Management</h3>
 					<p>Manage your staffs schedule as well. You can also let your
 						staff manage their bookings by giving them access to our free
@@ -134,15 +133,14 @@
 						Nothing is more satisfying than seeing happy and content
 						customers.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Reduce No-Shows</h3>
 					<p>Send reminders in advance so that customers don’t forget
 						about their appointments. You can also let them cancel their
 						appointments and keep track of it and let other customers book the
 						cancelled slots.</p>
 				</div>
-
-				<div id="services_sec">
+				<div class="services_sec">
 					<p>Use our appointment scheduling software and we assure you a
 						better and a well managed system free.</p>
 				</div>
@@ -150,15 +148,5 @@
 		</div>
 	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/anime.js?_=<%=cache%>"></script>
-<!--aos animation -->
-<script src="/webassets/2021/js/aos.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/main.js?_=<%=cache%>"></script>
-<script>
-AOS.init();
-</script>
-
 </body>
 </html>

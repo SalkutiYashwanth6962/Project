@@ -26,7 +26,6 @@
 	<meta name="twitter:description" content="Picktime is an online patient appointment scheduling software for doctors that is designed to make your life stress free by creating a platform through which your patients can schedule their appointments directly. Get rid of moth-eaten patient records and outdated excel sheets. Picktime not only schedules your patients, it also helps you manage your staff schedules." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -44,10 +43,10 @@
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Medical Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Doctors are real life superheroes who save tens and hundreds of lives everyday. But to be a successful and a renowned doctor in your locality, gaining your patient’s trust is very important. With emergencies and everyday struggle, spending your valuable time on scheduling patient appointments can become quite draining. Another additional responsibility is managing your staff and resources. With so many things to manage, dedicating your full time and spending quality time with your patients may not be possible. Your clinic probably see hundreds of patients everyday. Managing appointments efficiently is a big problem which every business faces. With so many new people to cater to and a equal number of old patients to catch up with, you must have faced quite a few situations. This also includes double bookings and missing on patient appointments. Get rid of everyday nonsense with our online appointment scheduling software.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is an online patient appointment scheduling software that is designed to make your life stress free by creating a platform through which your patients can schedule their appointments directly. Get rid of moth-eaten patient records and outdated excel sheets. Picktime not only schedules your patients, it also helps you manage your staff schedules. Allocate particular services to specified staff with respect to their designations and create a healthy, well functioning work environment. If your clinic has more than one doctor working, add them into your picktime account and let your patients see who is available at what time. Make time for your loved ones and personal meetings as you don’t have to spend time on maintaining patient schedules.</p>
 			</div>
 			<div class="key_features">
@@ -69,37 +68,35 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Medical</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Give your 100%:</h3>
 		         	<p>Maintaining patient schedules and solving double booked appointment chaos takes a toll on you and your business. Give your 100% by spending quality time with all your patients equally. Know who is waiting and how many more patients should be checked with a quick look at your dashboard.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>No double bookings:</h3>
 			         <p>Excel sheets and appointment books can confuse your clinic manager way too much. Flipping through pages and excel sheets every time to confirm a patient's appointment is a waste of time. With our patient booking system, forget all your booking woes and let your managers put their time and effort into other important work.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Automated SMS and email reminders:</h3>
 			       <p>The main cause for no shows and missed appointments is patients forgetting about their appointments. With our reminder system send SMS and emails at a preset time before the appointment time so that no appointments are missed and see a increase in your revenue.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					 <h3>Manage staff:</h3>
 		         	<p>Our patient booking system relieves the  strain of managing appointments so staff can focus on other responsibilities. That means higher organizational effectiveness and lower overall labor costs.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Resource Allocation:</h3>
 		        	<p>Picktime helps you keep track, whenever patients check in. It also helps you keep track of where your staff (doctors, nurses, open rooms, etc.) is going at any point in time. It ensures that your day-to-day clinical operations run as smoothly as possible.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3 class="service-desc-title">No more Waiting Time:</h3>
 		        	<p>Wait times have always been, and always will be, an issue because of poor scheduling. According to patients, the waiting period is usually the worst part of the doctor's visit. With our appointment booking system make Visits to the doctor a better experience for your patients.</p>
-		     	<br>
-		     	<p>Have you been considering web based medical appointment scheduling software for your Medical practice? Picktime can provide those services and more for your practice!</p>
+		     		<br>
+		     		<p>Have you been considering web based medical appointment scheduling software for your Medical practice? Picktime can provide those services and more for your practice!</p>
 		     	</div>
 			</div>
 		</div>
 	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+    <jsp:include page="../scheduling-software/website-new-footer.jsp" />
 </body>
 </html>

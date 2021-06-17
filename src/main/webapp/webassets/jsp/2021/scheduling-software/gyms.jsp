@@ -29,7 +29,6 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -41,13 +40,12 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Gyms Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>When a person joins the gym for the first time, going to the
 					gym can be an intimidating experience. There’s a machine for every
 					muscle group in the body. It’s not uncommon to hear newbies
@@ -63,7 +61,7 @@
 					on a first name basis, can break the monotony of a long-standing
 					routine and easily put himself in spin class to get some variety.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is a free online appointment scheduling and group
 					class booking software which makes your customer book their gym
 					classes online. Customize your business page where customers can
@@ -96,7 +94,7 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Gyms</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Recurring Classes</h3>
 					<p>If a customer loves one of the classes you offer each week,
 						it’s easy for him to book the appointments on a repeating basis.
@@ -105,13 +103,13 @@
 						schedule of when your class is offered and your customers will be
 						able to book themselves as far out as they’d like.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Don't let clients lose motivation</h3>
 					<p>You don’t have to disappoint your customers with your busy
 						schedule. Let clients know when you are available through picktime
 						Calendar.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Stay on time</h3>
 					<p>An easy to read schedule is critical to keeping an office on
 						track. With Picktime Appointment Calendar, you can view
@@ -119,7 +117,7 @@
 						the day’s appointments. Share the scheduling information with more
 						than one computer and keep everyone up-to-date.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Avoid missed appointments or conflicts</h3>
 					<p>Reduce the number of no-shows and cancellations by sending
 						e-mail or SMS reminders using Picktime Appointment Scheduler. put
@@ -134,9 +132,5 @@
 		</div>
 	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
-
-
 </body>
 </html>

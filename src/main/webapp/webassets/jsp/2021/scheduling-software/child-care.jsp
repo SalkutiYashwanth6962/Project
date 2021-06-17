@@ -26,7 +26,6 @@
 	<meta name="twitter:description" content="Picktime is an free online daycare appointment scheduling software that is designed to make your life stress free by creating a platform through which your customers can schedule their appointments directly. It, not only schedules your customers, but also helps you manage your schedules. Allocate particular services to specified staff with respect to their designations and create a well functioning work environment." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -43,10 +42,10 @@
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Child Care Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Finding the right child care is one of the toughest tasks parents face these days. The number of working parents, including single parent families and families with both parents employed is escalating, creating an ever-growing need for quality child care. You also have a tremendous amount of flexibility when it comes to the exact services you choose to offer. You may limit your clientele to children in certain age groups or tailor your operating hours to meet the needs of a particular market segment. Within this very broad market is the more narrow group of clients you'll serve. Use market research to figure out who these people are and how you can best attract them to your center.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is an free online daycare scheduling software that is designed to make your life stress free by creating a platform through which your customers can schedule their appointments directly. It, not only schedules your customers, but also helps you manage your schedules. Allocate particular services to specified staff with respect to their designations and create a well functioning work environment. If your office has more than one staff working, add them into your picktime account and let your customers see who is available at what time. Make time for people who really oblige you.</p>
 			</div>
 			<div class="key_features">
@@ -68,19 +67,19 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Child Care</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Manage staff schedules</h3>
 			        <p>With our online booking systems manage your staff along with your clients. Know who is a occupied and who is free. Disturb the workload equally to your staff and extract the best performance from them.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Reduce no shows</h3>
 			         <p>With our automated sms and email system reduce no shows. Fill cancelled appointment slots with new clients. Reschedule appointments according to your clients necessity.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Recurring appointments</h3>
 			        <p>If your clients need daycare only on particular days, create recurring appointments for them with our online appointment booking system.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Book now button</h3>
 			        <p>You can place a one click book now button on your website and turn it into a appointment scheduling engine.</p>
 				</div>
@@ -88,7 +87,5 @@
 		</div>
 	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

@@ -29,7 +29,6 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -41,21 +40,18 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Embassies and consulates Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Embassies and consulates around the world are affording various services for immigrants of their countries, who are usually visiting or staying abroad. Often, the staffs of these embassies are under a huge pressure from people who need help such as renewing passports, advice on legal stuff, traveling visa process or other business resolutions. Within the embassies, there are usually various consultants focusing on different problems, accepting appointments and helping people with their issues. Throughout the years, the scheduling of these bookings and meetings have been done over the phone, which unfortunately is not a very efficient way for the people nor the employees.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>The Picktime appointment software suits both the embassies and the consulates perfectly, because it helps to organize both your appointments and staffs of your business. The services can be split into different categories with many consultants. Each of the consultants can then have their own working hours schedule, which can be adjusted and tracked directly even from the smartphone as Picktime is a browser based appointment scheduling software. If the embassy or consulate has special days closed, they can set all employees off in such occasions. It will reduce your productivity loss, no-shows, and stress. Keep a record of customers and staffs, so that complaints or praises can be credited to the appropriate staff.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime for consulates is a great way to manage your appointments. If you are doing your scheduling by hand then it is easy to make mistakes. It allows for the automated appointment reminders via email or text message. Picktime appointment booking software enables paperless procedure workflows, as well as online contact data storage. Streamline your client appointment booking process with secure appointment scheduling software for embassies and consulates.</p>
 			</div>
 			<div class="key_features">
@@ -78,35 +74,33 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Embassies and Consulates</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Candidate Meeting Scheduling</h3>
 		        	<p>Take the hassle out of scheduling appointments by allowing candidates to seamlessly book with you based on your calendar availability. Create multiple service types and customize their settings. Schedule interviews in group. Use Picktime scheduling software for all of your meetings.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Rescheduling</h3>
 			        <p>Picktime's scheduling engine was carefully crafted to make last minute changes as easy as possible. Whether your interviewers completely cancel, run late, or cause a complete mess, you can use Picktime to fix it in moments.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Easy click and drag</h3>
 			        <p>Picktime's design gives a simple way for your candidate's to select your availability. You just click and drag to create the blocks of time as per your availability and Picktime takes it from there. You and your candidate can have better interviews.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Automatic Interview Reminders</h3>
 			        <p>Email and sms notifications are sent to candidates after the booking is made and right before the interview as selected by your management staff.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Data Maintenance</h3>
 			        <p>Every business needs to be organized, but for consulate business, it is even more important. Because of the nature of your services, the data collected through your service must be handled carefully and it should be confidential. Picktime is protected through SSL and you no need to worry about your confidential data's.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>No limitations</h3>
 		         	<p>Spending more time with one person without knowing your schedules, and breaks will make you stressful and reduce your productivity. So make time to routinely take a breathe from your clients. Your whole life shouldn’t be about counseling. Picktime allows you to create break blocks or off blocks in your calendar.</p>
 				</div>
 			</div>
 		</div>
 	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+    <jsp:include page="../scheduling-software/website-new-footer.jsp" />
 </body>
 </html>

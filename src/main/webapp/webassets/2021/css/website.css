@@ -27,11 +27,6 @@ a:hover {
 
 /*==========nav-bar***start==========*/
 
-/* .navbar-default{
- background: #F0F2F8 0% 0% no-repeat padding-box;
- border: none;
-} */
-
 .navbar-default.scrolled {
   background: #ffff;
   /*  margin-top:-20px; */
@@ -97,15 +92,11 @@ a:hover {
 }
 
 .navbar .btn {
-  /* margin: 30px;
-	width: 122px;
-	height: 50px; */
   padding: 15px 35px;
   font-weight: bold;
   background: var(--unnamed-color-8b22e2) 0% 0% no-repeat padding-box;
   background: #8b22e2 0% 0% no-repeat padding-box;
   border-radius: 25px;
-  opacity: 1;
   color: #ffffff;
   outline: none;
   border: none;
@@ -115,14 +106,13 @@ a:hover {
 
 /*==========banner***start==========*/
 
-#banners {
+.banners {
   background-color: #f0f2f8;
-  /* margin-top: -27px;  */
   margin-top: 100px;
   padding-bottom: 50px;
 }
 
-#banners .col-md-6 .b-t-y h1 {
+.banners .col-md-6 .b-t-y h1 {
   font: normal normal bold 50px/60px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #312b2b;
@@ -130,18 +120,18 @@ a:hover {
   margin-top: 70px;
 }
 
-#banners .col-md-6 .b-t-y span {
+.banners .col-md-6 .b-t-y span {
   color: #8b22e2;
 }
 
-#banners .col-md-6 .b-p-y {
+.banners .col-md-6 .b-p-y {
   font-size: 20px;
   font-weight: 400;
   padding: 15px 0px;
   line-height: 35px;
 }
 
-#banners .col-md-6 .btn-lg {
+.banners .col-md-6 .btn-lg {
   width: 250px;
   padding: 16px 0px;
   color: #fff;
@@ -157,7 +147,7 @@ a:hover {
   transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
-#banners .col-md-6 .img-banner {
+.banners .col-md-6 .img-banner {
   position: relative;
   width: 100%;
 }
@@ -195,32 +185,29 @@ a:hover {
 
 /*==========what is picktime***start==========*/
 
-#what-is-picktime {
+.what-is-picktime {
   margin: -12px 0px 0px 0px;
   background: #ffffff;
 }
 
-#what-is-picktime .col-md-6 .w-s-y h2 {
+.what-is-picktime .col-md-6 .w-s-y h2 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
   margin-top: 120px;
 }
 
-#what-is-picktime .col-md-6 .w-b-y h3 {
+.what-is-picktime .col-md-6 .w-b-y h3 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
 }
 
-#what-is-picktime .col-md-6 .w-p-y {
-  color: #000000;
-  opacity: 1;
-  /* padding: 15px 25px 10px 0px; */
+.what-is-picktime .col-md-6 .w-p-y {
   line-height: 35px;
   font-size: 20px;
   font-weight: 400;
 }
 
-#what-is-picktime .signup-btn-banner{
+.what-is-picktime .signup-btn-banner{
   width: 60%;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -236,7 +223,7 @@ a:hover {
   transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
-#what-is-picktime .col-md-6 p {
+.what-is-picktime .col-md-6 p {
   /* margin-left: 5px; */
   /* margin-top: 15px; */
   padding-top: 10px;
@@ -249,29 +236,27 @@ img.what-is-picktime-img{
 
 /*==========Calender***start==========*/
 
-#calenders {
+.calenders {
   background-image: url(/webassets/2021/img/mountains.svg);
   background-repeat: repeat-x;
   background-position: center;
   padding-top: 200px;
 }
 
-#calenders .col-md-6 .c-s-x h2 {
+.calenders .col-md-6 .c-s-x h2 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   color: #8a2be2;
   margin-left: 70px;
   padding-top: 100px;
 }
 
-#calenders .col-md-6 .c-b-x h3 {
+.calenders .col-md-6 .c-b-x h3 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   margin-left: 70px;
   margin-bottom: 10px;
 }
 
-#calenders .col-md-6 .c-p-x {
-  color: #000000;
-  opacity: 1;
+.calenders .col-md-6 .c-p-x {
   margin-left: 70px;
   letter-spacing: 0.22px;
   margin-bottom: 130px;
@@ -280,13 +265,13 @@ img.what-is-picktime-img{
   font-weight: 400;
 }
 
-#calenders .col-md-6 #bg-cal {
+.calenders .col-md-6 .bg-cal {
   position: relative;
   margin-left: -196px;
   margin-top: 11px;
 }
 
-#calenders .col-md-6 #img-cal {
+.calenders .col-md-6 .img-cal {
   position: absolute;
   margin-left: -400px;
   top: 67px;
@@ -297,30 +282,24 @@ img.what-is-picktime-img{
 
 /*==========online booking***start==========*/
 
-#onlinebooking {
+.onlinebooking {
   margin: 100px 0px;
 }
 
-#onlinebooking .col-md-6 .o-s-y h2 {
+.onlinebooking .col-md-6 .o-s-y h2 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
-  opacity: 1;
   padding-top: 100px;
 }
 
-#onlinebooking .col-md-6 .o-b-y h3 {
+.onlinebooking .col-md-6 .o-b-y h3 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
-  color: #000000;
-  opacity: 1;
   margin-bottom: 20px;
 }
 
-#onlinebooking .col-md-6 .o-p-y {
-  color: #000000;
-  opacity: 1;
-  /* padding: 10px 150px 0px 0px; */
+.onlinebooking .col-md-6 .o-p-y {
   letter-spacing: 0.22px;
   line-height: 30px;
   font-size: 20px;
@@ -328,7 +307,7 @@ img.what-is-picktime-img{
   margin-bottom: 20px;
 }
 
-#onlinebooking .col-md-6 .btn-lg {
+.onlinebooking .col-md-6 .btn-lg {
   width: 40%;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -343,18 +322,18 @@ img.what-is-picktime-img{
   box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
 }
 
-#onlinebooking .col-md-6 .btn3:hover {
+.onlinebooking .col-md-6 .btn3:hover {
   color: #8b22e2;
   background: #ffaa00;
   outline: none;
 }
 
-#onlinebooking .col-md-6 #bg-o {
+.onlinebooking .col-md-6 .bg-o {
   position: relative;
   margin-left: 200px;
 }
 
-#onlinebooking .col-md-6 #img-o {
+.onlinebooking .col-md-6 .img-o {
   position: relative;
   margin-top: -550px;
   margin-left: 50px;
@@ -365,11 +344,11 @@ img.what-is-picktime-img{
 
 /*==========paymenet and invoicing***start==========*/
 
-#payment {
+.payment {
   margin: 10px 0px;
 }
 
-#payment .col-md-6 .p-s-x h2 {
+.payment .col-md-6 .p-s-x h2 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
@@ -377,17 +356,13 @@ img.what-is-picktime-img{
   padding-top: 70px;
 }
 
-#payment .col-md-6 .p-b-x h3 {
+.payment .col-md-6 .p-b-x h3 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
-  color: #000000;
-  opacity: 1;
   margin-left: 50px;
   margin-bottom: 20px;
 }
 
-#payment .col-md-6 .p-p-x {
-  color: #000000;
-  opacity: 1;
+.payment .col-md-6 .p-p-x {
   margin-left: 50px;
   letter-spacing: 0.22px;
   line-height: 30px;
@@ -395,34 +370,12 @@ img.what-is-picktime-img{
   font-weight: 400;
 }
 
-#payment .col-md-6 .btn-lg-p-x {
-  width: 40%;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  color: #fff;
-  font-weight: bold;
-  letter-spacing: 0.12px;
-  background: #8b22e2 0% 0% no-repeat padding-box;
-  border-radius: 25px;
-  outline: none;
-  border: none;
-  text-align: center;
-  margin-left: 50px;
-  box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
-}
-
-#payment .col-md-6 .btn-lg:hover {
-  color: #8b22e2;
-  background: #ffaa00;
-  outline: none;
-}
-
-#payment .col-md-6 #bg-p {
+.payment .col-md-6 .bg-p {
   position: relative;
   margin-left: -200px;
 }
 
-#payment .col-md-6 #img-p {
+.payment .col-md-6 .img-p {
   position: absolute;
   margin-top: 0px;
   margin-left: -420px;
@@ -434,33 +387,27 @@ img.what-is-picktime-img{
 
 /*==========VIDEO MEETING INTEGRATION***start==========*/
 
-#video {
+.video {
   background-image: url("/webassets/2021/img/mountains.svg");
   background-position: top;
   background-size: cover;
   padding-top: 150px;
 }
 
-#video .col-md-6 .v-s-y h2 {
+.video .col-md-6 .v-s-y h2 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
-  opacity: 1;
   padding-top: 130px;
 }
 
-#video .col-md-6 .v-b-y h3 {
+.video .col-md-6 .v-b-y h3 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
-  color: #000000;
-  opacity: 1;
   margin-bottom: 20px;
 }
 
-#video .col-md-6 .v-p-y {
-  color: #000000;
-  opacity: 1;
-  /* padding: 10px 140px 10px 0px; */
+.video .col-md-6 .v-p-y {
   letter-spacing: 0.22px;
   line-height: 30px;
   font-size: 20px;
@@ -468,7 +415,7 @@ img.what-is-picktime-img{
   margin-bottom: 20px;
 }
 
-#video .col-md-6 .btn-lg {
+.video .col-md-6 .btn-lg {
   width: 40%;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -483,13 +430,7 @@ img.what-is-picktime-img{
   box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
 }
 
-/* #video .col-md-6 .btn-lg:hover {
-	color: #8B22E2;
-	background: #FFAA00;
-	outline: none;
-} */
-
-#video .col-md-6 #img-v {
+.video .col-md-6 .img-v {
   margin-top: 170px;
   width: 100%;
 }
@@ -498,40 +439,34 @@ img.what-is-picktime-img{
 
 /*==========MULTIPLE LOCATION MANAGMENT***start==========*/
 
-#multiple {
+.multiple {
   height: 800px;
   background: #f0f2f8 0% 0% no-repeat;
   padding-top: 150px;
   margin-top: -10px;
 }
 
-#multiple .col-md-6 .m-s-x h2 {
+.multiple .col-md-6 .m-s-x h2 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
-  opacity: 1;
   padding-top: 120px;
 }
 
-#multiple .col-md-6 .m-b-x h3 {
+.multiple .col-md-6 .m-b-x h3 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
-  color: #000000;
-  opacity: 1;
   margin-bottom: 20px;
 }
 
-#multiple .col-md-6 .m-p-x {
-  color: #000000;
-  opacity: 1;
-  /* padding: 10px 125px 10px 0px; */
+.multiple .col-md-6 .m-p-x {
   letter-spacing: 0.22px;
   line-height: 30px;
   font-size: 20px;
   font-weight: 400;
 }
 
-#multiple .col-md-6 .btn-lg {
+.multiple .col-md-6 .btn-lg {
   width: 40%;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -546,18 +481,18 @@ img.what-is-picktime-img{
   box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
 }
 
-#multiple .col-md-6 .btn-lg-m-x:hover {
+.multiple .col-md-6 .btn-lg-m-x:hover {
   background: #ffaa00;
   outline: none;
 }
 
-#multiple .col-md-6 #bg-m {
+.multiple .col-md-6 .bg-m {
   position: relative;
   margin-left: -264px;
   margin-top: 20px;
 }
 
-#multiple .col-md-6 #img-m {
+.multiple .col-md-6 .img-m {
   position: absolute;
   left: 50px;
   /*margin-left: -254px;
@@ -570,37 +505,31 @@ img.what-is-picktime-img{
 
 /*==========REMINDERS***start==========*/
 
-#reminders {
+.reminders {
   margin: 100px 0px;
 }
 
-#reminders .col-md-6 .r-s-y h2 {
+.reminders .col-md-6 .r-s-y h2 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
-  opacity: 1;
   padding-top: 150px;
 }
 
-#reminders .col-md-6 .r-b-y h3 {
+.reminders .col-md-6 .r-b-y h3 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
-  color: #000000;
-  opacity: 1;
   margin-bottom: 20px;
 }
 
-#reminders .col-md-6 .r-p-y {
-  color: #000000;
-  opacity: 1;
-  /* padding: 10px 145px 10px 0px; */
+.reminders .col-md-6 .r-p-y {
   letter-spacing: 0.22px;
   line-height: 30px;
   font-size: 20px;
   font-weight: 400;
 }
 
-#reminders .col-md-6 .btn-lg {
+.reminders .col-md-6 .btn-lg {
   width: 40%;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -615,22 +544,19 @@ img.what-is-picktime-img{
   box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
 }
 
-#reminders .col-md-6 .btn7:hover {
+.reminders .col-md-6 .btn7:hover {
   color: #8b22e2;
   background: #ffaa00;
   outline: none;
 }
 
-#reminders .col-md-6 #bg-r {
+.reminders .col-md-6 .bg-r {
   position: relative;
   margin-left: 200px;
 }
 
-#reminders .col-md-6 #img-r {
+.reminders .col-md-6 .img-r {
   position: relative;
-  /* margin-top: -400px;
-	margin-left: 60px;
- */
   margin-top: -443px;
   margin-left: 121px;
   left: -16px;
@@ -640,11 +566,11 @@ img.what-is-picktime-img{
 
 /*==========CLASS BOOKINGS***start==========*/
 
-#class-booking {
+.class-booking {
   margin: 10px 0px;
 }
 
-#class-booking .col-md-6 .c-s-x h2 {
+.class-booking .col-md-6 .c-s-x h2 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
@@ -652,17 +578,13 @@ img.what-is-picktime-img{
   padding-top: 90px;
 }
 
-#class-booking .col-md-6 .c-b-x h3 {
+.class-booking .col-md-6 .c-b-x h3 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
-  color: #000000;
-  opacity: 1;
   margin-left: 50px;
   margin-bottom: 20px;
 }
 
-#class-booking .col-md-6 .c-p-x {
-  color: #000000;
-  opacity: 1;
+.class-booking .col-md-6 .c-p-x {
   margin-left: 50px;
   /* padding: 10px 70px 0px 0px; */
   letter-spacing: 0.22px;
@@ -672,7 +594,7 @@ img.what-is-picktime-img{
   margin-bottom: 20px;
 }
 
-#class-booking .col-md-6 .btn-lg-c-x {
+.class-booking .col-md-6 .btn-lg-c-x {
   width: 40%;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -688,12 +610,12 @@ img.what-is-picktime-img{
   box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
 }
 
-#class-booking .col-md-6 #bg-c {
+.class-booking .col-md-6 .bg-c {
   position: relative;
   margin-left: -200px;
 }
 
-#class-booking .col-md-6 #img-c {
+.class-booking .col-md-6 .img-c {
   position: absolute;
   margin-top: 100px;
   margin-left: -470px;
@@ -705,22 +627,20 @@ img.what-is-picktime-img{
 
 /*==========Features***start==========*/
 
-#feature {
+.feature {
   height: 518px;
   background: #f7f8fc 0% 0% no-repeat padding-box;
-  opacity: 1;
   margin-bottom: 45px;
   margin-top: 100px;
 }
 
-#feature .col-lg-6 .f-b-y h2 {
+.feature .col-lg-6 .f-b-y h2 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   position: relative;
   z-index: 1;
 }
 
-#feature .col-lg-6 .f-p-y {
-  opacity: 1;
+.feature .col-lg-6 .f-p-y {
   position: relative;
   z-index: 1;
   padding: 0;
@@ -731,17 +651,16 @@ img.what-is-picktime-img{
   text-align: left;
 }
 
-#feature .col-lg-6 p {
+.feature .col-lg-6 p {
   text-align: center;
   font: 15px/23px;
   font-weight: bold;
-  opacity: 1;
   position: relative;
   z-index: 1;
   padding: 0px 10px;
 }
 
-#feature .col-lg-6 .btn8 {
+.feature .col-lg-6 .btn8 {
   width: 40%;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -758,13 +677,7 @@ img.what-is-picktime-img{
   z-index: 1;
 }
 
-/* #feature .col-lg-6 .btn8:hover {
-	color: #8B22E2;
-	background: #FFAA00;
-	outline: none;
-} */
-
-#feature .col-lg-6 .box1 {
+.feature .col-lg-6 .box1 {
   background: white;
   height: 250px;
   width: 180px;
@@ -779,29 +692,26 @@ img.what-is-picktime-img{
   border-radius: 9px;
 }
 
-#feature .col-lg-6 #box1-img,
-#feature .col-lg-6 #box2-img,
-#feature .col-lg-6 #box3-img,
-#feature .col-lg-6 #box4-img {
+.feature .col-lg-6 .box1-img{
   width: 60px;
   height: 85px;
   margin: 35px;
   margin: 5px 60px 5px 60px;
 }
 
-#feature .col-lg-6 #boxtitle h1 {
+.feature .col-lg-6 .boxtitle h1 {
   text-align: center;
   color: #8a2be2;
   font-weight: bold;
   font-size: 13px;
 }
 
-#feature .col-lg-6 #box-con {
+.feature .col-lg-6 .box-content {
   text-align: center;
   font-weight: 500;
 }
 
-#feature .col-lg-6 .box2 {
+.feature .col-lg-6 .box2 {
   background: white;
   height: 250px;
   width: 180px;
@@ -812,7 +722,7 @@ img.what-is-picktime-img{
   border-radius: 9px;
 }
 
-#feature .col-lg-6 .box3 {
+.feature .col-lg-6 .box3 {
   background: white;
   height: 250px;
   width: 180px;
@@ -823,7 +733,7 @@ img.what-is-picktime-img{
   border-radius: 9px;
 }
 
-#feature .col-lg-6 .box4 {
+.feature .col-lg-6 .box4 {
   background: white;
   height: 250px;
   width: 180px;
@@ -902,66 +812,52 @@ img.what-is-picktime-img{
 /*==========Features***end==========*/
 
 /*==========Features ON***start==========*/
-#featured-on {
+
+.Rated{
   margin: 150px 0px;
 }
 
-#featured-on .imageColumn {
+.Rated .imageColumn {
   float: left;
   width: 20%;
   padding: 40px;
 }
 
-#featured-on .g2-c {
+.Rated .g2-c {
   margin-top: 30px;
 }
-#featured-on .f-b-m h2 {
+.Rated .f-b-m h2 {
   margin: 10px 0px;
   text-align: center;
   font: normal normal bold 35px/44px Samsung Sharp Sans;
 }
 
-/* #featured-on .grey-images ul li {
-	list-style: none;
-	display: inline;
-	padding: 55px;
-} */
-/* 
-#featured-on .rated-img{
-	height: 130px;
-} */
-
 /*==========Features***end==========*/
 
 /*=========Book from anywhere at any time***start==========*/
 
-#book-from-any-where {
+.book-from-any-where {
   margin: 150px 0px;
   background-color: #f7f8fc;
 
   position: relative;
   z-index: 0;
 }
-#book-from-any-where .col-md-6 .r-s-y {
+.book-from-any-where .col-md-6 .r-s-y {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
-  opacity: 1;
   padding-top: 150px;
 }
 
-#book-from-any-where .col-md-6 .b-b-y h2 {
+.book-from-any-where .col-md-6 .b-b-y h2 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
-  color: #000000;
-  opacity: 1;
   padding: 200px 150px 0px 0px;
   margin-bottom: 20px;
 }
 
-#book-from-any-where .col-md-6 .b-p-y {
-  color: #000000;
-  opacity: 1;
+.book-from-any-where .col-md-6 .b-p-y {
   padding: 10px 145px 10px 0px;
   letter-spacing: 0.22px;
   line-height: 30px;
@@ -970,7 +866,7 @@ img.what-is-picktime-img{
   margin-bottom: 20px;
 }
 
-#book-from-any-where .col-md-6 .btn-lg {
+.book-from-any-where .col-md-6 .btn-lg {
   width: 40%;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -986,13 +882,13 @@ img.what-is-picktime-img{
   margin-bottom: 160px;
 }
 
-#book-from-any-where .col-md-6 #img-b {
+.book-from-any-where .col-md-6 .img-b {
   /* padding: 70px; */
   width: 100%;
   margin-top: 110px;
 }
 
-#book-from-any-where:before {
+.book-from-any-where:before {
   position: absolute;
   content: "";
   top: 0;
@@ -1006,7 +902,7 @@ img.what-is-picktime-img{
   z-index: -1;
 }
 
-#book-from-any-where .shape1 {
+.book-from-any-where .shape1 {
   position: absolute;
   top: 20%;
   z-index: -1;
@@ -1023,7 +919,7 @@ img.what-is-picktime-img{
     transform: rotateY(360deg);
   }
 }
-#book-from-any-where .shape2 {
+.book-from-any-where .shape2 {
   position: absolute;
   z-index: -1;
   top: 80%;
@@ -1049,7 +945,7 @@ img.what-is-picktime-img{
   }
 }
 
-#book-from-any-where .shape3 {
+.book-from-any-where .shape3 {
   position: absolute;
   left: 25%;
   bottom: 15%;
@@ -1079,7 +975,7 @@ img.what-is-picktime-img{
   }
 }
 
-#book-from-any-where .shape4 {
+.book-from-any-where .shape4 {
   position: absolute;
   right: 25%;
   bottom: 15%;
@@ -1109,7 +1005,7 @@ img.what-is-picktime-img{
   }
 }
 
-#book-from-any-where .shape5 {
+.book-from-any-where .shape5 {
   position: absolute;
   right: 5%;
   top: 10%;
@@ -1142,7 +1038,7 @@ img.what-is-picktime-img{
   animation-timing-function: linear;
 }
 
-#book-from-any-where .shape6 {
+.book-from-any-where .shape6 {
   position: absolute;
   z-index: -1;
   top: 40%;
@@ -1157,7 +1053,7 @@ img.what-is-picktime-img{
   }
 }
 
-#book-from-any-where .shape7 {
+.book-from-any-where .shape7 {
   position: absolute;
   left: 25%;
   top: 15%;
@@ -1177,7 +1073,7 @@ img.what-is-picktime-img{
   animation-timing-function: linear;
 }
 
-#book-from-any-where .shape8 {
+.book-from-any-where .shape8 {
   position: absolute;
   z-index: -1;
   top: 15%;
@@ -1185,29 +1081,22 @@ img.what-is-picktime-img{
 }
 
 /*==========boook from anywhere at anytime***end==========*/
-
-
-#carousel2{
-  margin-bottom: 100px;
-}
-
-
 /*==========connecting app***start==========*/
 
-#connect-app {
+.connect-app {
   background-color: #f7f8fc;
   position: relative;
   padding-top: 64px;
   padding-bottom: 64px;
 }
 
-#connect-app .c-b-m h2 {
+.connect-app .c-b-m h2 {
   margin: 0px 0px 40px 0px;
   text-align: center;
   font: normal normal bold 35px/44px Samsung Sharp Sans;
 }
 
-#connect-app .c-m-x-f {
+.connect-app .c-m-x-f {
   position: relative;
   overflow: hidden;
   margin-left: auto;
@@ -1219,12 +1108,12 @@ img.what-is-picktime-img{
   width: 100%;
 }
 
-#connect-app .c-m-x-s {
+.connect-app .c-m-x-s {
   max-width: 100%;
   margin: 20px auto;
 }
 
-#connect-app .c-f-l {
+.connect-app .c-f-l {
   display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
   display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
   display: -ms-flexbox; /* TWEENER - IE 10 */
@@ -1233,7 +1122,7 @@ img.what-is-picktime-img{
 
   flex-direction: row;
 }
-#connect-app .c-s-l {
+.connect-app .c-s-l {
   display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
   display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
   display: -ms-flexbox; /* TWEENER - IE 10 */
@@ -1244,21 +1133,21 @@ img.what-is-picktime-img{
   padding-left: 80px;
 }
 
-#connect-app .c-f-l-pic-19 {
+.connect-app .c-f-l-pic-19 {
   min-width: 128px;
   margin-bottom: 8px;
   margin-left: 8px;
   margin-right: 8px;
 }
 
-#connect-app .c-s-l-pic-19 {
+.connect-app .c-s-l-pic-19 {
   min-width: 128px;
   margin-left: 8px;
   margin-right: 8px;
 }
 
 /* smallzoom */
-#connect-app img {
+.connect-app img {
   width: 70%;
   -webkit-animation: scale 15s infinite forwards;
   -moz-animation: scale 15s infinite forwards;
@@ -1353,7 +1242,7 @@ img.what-is-picktime-img{
   }
 }
 
-#connect-app .c-f-3 {
+.connect-app .c-f-3 {
   display: flex;
   min-width: 100%;
   flex-shrink: 0;
@@ -1415,7 +1304,7 @@ img.what-is-picktime-img{
   }
 }
 
-#connect-app .c-s-3 {
+.connect-app .c-s-3 {
   display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
   display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
   display: -ms-flexbox; /* TWEENER - IE 10 */
@@ -1483,7 +1372,7 @@ img.what-is-picktime-img{
 }
 
 /* up and down */
-#connect-app #a {
+.connect-app .a-picktime-ani {
   position: relative;
   -webkit-animation: topbottam 7s infinite forwards;
   -moz-animation: topbottam 7s infinite forwards;
@@ -1491,7 +1380,7 @@ img.what-is-picktime-img{
   -ms-transition: topbottam 7s infinite forwards;
   animation: topbottam 7s infinite forwards;
 }
-#connect-app #b {
+.connect-app .b-picktime-ani {
   position: relative;
   -webkit-animation: topbottam 12s infinite forwards;
   -moz-animation: topbottam 12s infinite forwards;
@@ -1499,7 +1388,7 @@ img.what-is-picktime-img{
   -ms-transition: topbottam 12s infinite forwards;
   animation: topbottam 12s infinite forwards;
 }
-#connect-app #c {
+.connect-app .c-picktime-ani {
   position: relative;
   -webkit-animation: topbottam 6s infinite forwards;
   -moz-animation: topbottam 6s infinite forwards;
@@ -1508,7 +1397,7 @@ img.what-is-picktime-img{
   animation: topbottam 6s infinite forwards;
 }
 
-#connect-app #d {
+.connect-app .d-picktime-ani {
   position: relative;
   -webkit-animation: topbottam 10s infinite forwards;
   -moz-animation: topbottam 10s infinite forwards;
@@ -1516,7 +1405,7 @@ img.what-is-picktime-img{
   -ms-transition: topbottam 10s infinite forwards;
   animation: topbottam 10s infinite forwards;
 }
-#connect-app #e {
+.connect-app .a-picktime-ani {
   position: relative;
   -webkit-animation: topbottam 8s infinite forwards;
   -moz-animation: topbottam 8s infinite forwards;
@@ -1616,18 +1505,18 @@ img.what-is-picktime-img{
 /*==========connecting app***end==========*/
 
 /*==========PICKTIME IS FOR EVERYONE***start==========*/
-#pick-time-is-for-everyone {
+.pick-time-is-for-everyone {
   margin: 50px 0px 50px 0px;
 }
 
-#pick-time-is-for-everyone .p-t-i-f-e-s-m h2 {
+.pick-time-is-for-everyone .p-t-i-f-e-s-m h2 {
   margin: 10px 0px 10px 0px;
   text-align: center;
   color: #8a2be2;
   font: normal normal bold 20px/24px Samsung Sharp Sans;
 }
 
-#pick-time-is-for-everyone .p-t-i-f-e-b-m h3 {
+.pick-time-is-for-everyone .p-t-i-f-e-b-m h3 {
   margin: 10px 0px 50px 0px;
   text-align: center;
   font: normal normal bold 35px/44px Samsung Sharp Sans;
@@ -1819,7 +1708,7 @@ img.what-is-picktime-img{
 	}
 }
 
-#pick-time-is-for-everyone .items {
+.pick-time-is-for-everyone .items {
 	border: 2px solid #bbbbbb;
 	border-radius: 27px;
 	margin-left: auto;
@@ -1829,14 +1718,14 @@ img.what-is-picktime-img{
 	width: auto;
 }
 
-#pick-time-is-for-everyone .silder-box .s-b-img img {
+.pick-time-is-for-everyone .silder-box .s-b-img img {
 	width: 30%;
 	margin-top: 15px;
 	margin-right: auto;
 	margin-left: auto;
 }
 
-#pick-time-is-for-everyone .items .silder-box .s-b-title h1 {
+.pick-time-is-for-everyone .items .silder-box .s-b-title h1 {
 	color: #9a32e6;
 	font-size: 16px;
 	font-weight: bold;
@@ -1844,11 +1733,11 @@ img.what-is-picktime-img{
 	text-align: center;
 }
 
-#pick-time-is-for-everyone .items .silder-box .s-b-title h1 a {
+.pick-time-is-for-everyone .items .silder-box .s-b-title h1 a {
 	color: #9a32e6;
 }
 
-#pick-time-is-for-everyone .items .silder-box .s-b-par {
+.pick-time-is-for-everyone .items .silder-box .s-b-par {
 	padding: 10px;
 	text-align: center;
 	line-height: 24px;
@@ -1857,43 +1746,48 @@ img.what-is-picktime-img{
 	font-weight: 400;
 }
 
-#pick-time-is-for-everyone .carousel-control>a>span {
+.pick-time-is-for-everyone .carousel-control>a>span {
 	color: #8b22e2;
 	font-size: 29px !important;
 	margin-top: 170px;
 }
 
-#pick-time-is-for-everyone #leftarrow {
+.pick-time-is-for-everyone #leftarrow {
 	margin-left: -55px;
 }
 
-#pick-time-is-for-everyone #rightarrow {
+.pick-time-is-for-everyone #rightarrow {
 	margin-left: 26px;
 }
 
 @media only screen and (max-width:1200px) {
-	#pick-time-is-for-everyone .items {
+	.pick-time-is-for-everyone .items {
 		height: 320px;
 	}
 }
 
 @media only screen and (max-width:575px) {
-	#pick-time-is-for-everyone .items {
+	.pick-time-is-for-everyone .items {
 		margin: 0px;
 		height: 345px;
 	}
 }
 
 @media only screen and (max-width:425px) {
-	#pick-time-is-for-everyone .items {
+	.pick-time-is-for-everyone .items {
 		height: 305px;
 	}
 }
 
 @media only screen and (max-width:320px) {
-	#pick-time-is-for-everyone .items {
+	.pick-time-is-for-everyone .items {
 		height: 333px;
 	}
+	.navbar-brand img {
+    margin: 0px 0px 0px 0px;
+    width: 180px;
+    margin-top: -20px;
+}
 }
 
 #myCarousel .thumbnail {
@@ -1920,30 +1814,24 @@ img.what-is-picktime-img{
 .carousel-control:hover {
 	color: #8B22E2;
 }
-
 .carousel-control.left,
 .carousel-control.right {
 	background: #fff;
 	font-size: 35px;
 }
-
 .carousel-control.right {
 	left: auto;
 	right: -60px;
 	/* background: blue; */
 }
-
 .carousel-control.left {
 	right: auto;
 	left: -70px;
 	/* background: blue; */
 }
-
 .carousel-indicators {
 	bottom: -30px;
 }
-
-
 /* .carousel-indicators li {
   border-radius:0;
   width:10px;
@@ -2010,10 +1898,10 @@ img.what-is-picktime-img{
 }
 
 
-/*#pick-time-is-for-everyone #leftarrow {
+/*.pick-time-is-for-everyone #leftarrow {
 margin-left: -55px;
 }
- #pick-time-is-for-everyone #rightarrow {
+ .pick-time-is-for-everyone #rightarrow {
 margin-left: 26px;
 }*/
 
@@ -2056,32 +1944,20 @@ margin-left: 26px;
 
 /* Careers page */
 #careers .title{
- font: normal normal bold 24px/24px Samsung Sharp Sans;
-   letter-spacing: 0px;
-    color: #000000;
-   margin: 10px 0px;
-   text-align: center;
+	font: normal normal bold 24px/24px Samsung Sharp Sans;
+   	letter-spacing: 0px;
+   	margin: 10px 0px;
+   	text-align: center;
  
 }
 #careers .mail{
-font: 15px/23px;
+   font: 15px/23px;
    text-align:center;
-   color: #000000;
-   opacity: 1;
    line-height: 22px;
    letter-spacing: 0.22p
 
 }
 
-#careers ul li{
-list-style: none;
-font: 15px/23px;
-   font-weight: bold;
-   color: #000000;
-   opacity: 1;
-   line-height: 22px;
-   letter-spacing: 0.22p;
-}
 /* Careers page */
 
 /*==========love every one***start==========*/
@@ -2342,56 +2218,54 @@ font: 15px/23px;
 /* Home page-Responsive web site */
 
 @media only screen and (max-width: 1199px) {
-  #pricing .btn9 {
-    margin-left: 360px;
-  }
-  #feature {
+  
+  .feature {
     margin-top: 50px;
     height: 425px;
   }
 
-  #feature .col-lg-6 #dots {
+  .feature .col-lg-6 #dots {
     display: none;
   }
-  #feature .col-lg-6 .f-b-y h2 {
+  .feature .col-lg-6 .f-b-y h2 {
     text-align: center;
     margin: 40px 0px 10px 0px;
   }
-  #feature .col-lg-6 .f-p-y {
+  .feature .col-lg-6 .f-p-y {
     padding: 10px 0px 0px 0px;
     text-align: center;
   }
-  #feature .col-lg-6 .btn8 {
+  .feature .col-lg-6 .btn8 {
     display: none;
   }
 
-  #feature #box-section {
+  .feature .box-section {
     margin-left: 100px;
   }
-  #feature .col-lg-6 .box1 {
+  .feature .col-lg-6 .box1 {
     margin: 33px 0px 40px 0px;
     height: 200px;
     width: 150px;
   }
-  #feature .col-lg-6 .box3 {
+  .feature .col-lg-6 .box3 {
     margin: -236px 0px 37px 180px;
     height: 200px;
     width: 150px;
   }
-  #feature .col-lg-6 .box2 {
+  .feature .col-lg-6 .box2 {
     margin: -240px 0px 42px 570px;
     height: 200px;
     width: 150px;
   }
-  #feature .col-lg-6 .box4 {
+  .feature .col-lg-6 .box4 {
     margin: -240px 0px 40px 375px;
     height: 200px;
     width: 150px;
   }
-  #feature .col-lg-6 p {
+  .feature .col-lg-6 p {
     padding: 0px;
   }
-  #feature .col-lg-6 #box1-img {
+  .feature .col-lg-6 .box1-img {
     width: 45px;
     height: 71px;
     margin: 35px;
@@ -2400,11 +2274,11 @@ font: 15px/23px;
 }
 
 @media only screen and (max-width: 1024px) {
-  #book-from-any-where .col-md-6 #img-b {
+  .book-from-any-where .col-md-6 .img-b {
     margin-top: 160px;
   }
 
-  #multiple .col-md-6 #img-m {
+  .multiple .col-md-6 .img-m {
     margin-top: 60px;
   }  
 }
@@ -2414,50 +2288,48 @@ font: 15px/23px;
     padding: 25px 0px;
   }
   /*===== big titles========= */
-  #what-is-picktime .col-md-6 .w-b-y h3,
-  #calenders .col-md-6 .c-b-x h3,
-  #onlinebooking .col-md-6 .o-b-y h3,
-  #payment .col-md-6 .p-b-x h3,
-  #video .col-md-6 .v-b-y h3,
-  #multiple .col-md-6 .m-b-x h3,
-  #reminders .col-md-6 .r-b-y h3,
-  #class-booking .col-md-6 .c-b-x h3,
-  #feature .col-lg-6 .f-b-y h2,
-  #featured-on .f-b-m h2,
-  #book-from-any-where .col-md-6 .b-b-y h2,
-  #connect-app .c-b-m h2,
-  #pick-time-is-for-everyone .p-t-i-f-e-b-m h3,
+  .what-is-picktime .col-md-6 .w-b-y h3,
+  .calenders .col-md-6 .c-b-x h3,
+  .onlinebooking .col-md-6 .o-b-y h3,
+  .payment .col-md-6 .p-b-x h3,
+  .video .col-md-6 .v-b-y h3,
+  .multiple .col-md-6 .m-b-x h3,
+  .reminders .col-md-6 .r-b-y h3,
+  .class-booking .col-md-6 .c-b-x h3,
+  .feature .col-lg-6 .f-b-y h2,
+  .Rated .f-b-m h2,
+  .book-from-any-where .col-md-6 .b-b-y h2,
+  .connect-app .c-b-m h2,
+  .pick-time-is-for-everyone .p-t-i-f-e-b-m h3,
   #love-by-evryine h2,
-  #pricing .p-b-m,
   #footer .footer-title {
     font: normal normal bold 24px/30px Samsung Sharp Sans;
     text-align: center;
   }
   /*========= small titles========= */
-  #what-is-picktime .col-md-6 .w-s-y h2,
-  #calenders .col-md-6 .c-s-x h2,
-  #onlinebooking .col-md-6 .o-s-y h2,
-  #payment .col-md-6 .p-s-x h2,
-  #video .col-md-6 .v-s-y h2,
-  #multiple .col-md-6 .m-s-x h2,
-  #reminders .col-md-6 .r-s-y h2,
-  #class-booking .col-md-6 .c-s-x h2,
-  #pick-time-is-for-everyone .p-t-i-f-e-s-m h2,
-  #class-booking .col-md-6 .c-s-x h2 #pricing .p-s-m {
+  .what-is-picktime .col-md-6 .w-s-y h2,
+  .calenders .col-md-6 .c-s-x h2,
+  .onlinebooking .col-md-6 .o-s-y h2,
+  .payment .col-md-6 .p-s-x h2,
+  .video .col-md-6 .v-s-y h2,
+  .multiple .col-md-6 .m-s-x h2,
+  .reminders .col-md-6 .r-s-y h2,
+  .class-booking .col-md-6 .c-s-x h2,
+  .pick-time-is-for-everyone .p-t-i-f-e-s-m h2,
+  .class-booking .col-md-6 .c-s-x h2 {
     font: normal normal bold 18px/18px Samsung Sharp Sans;
     text-align: center;
   }
   /*========Button============ */
-  #what-is-picktime .col-md-6 .btn-lg,
-  #onlinebooking .col-md-6 .btn-lg,
-  #payment .col-md-6 .btn-lg-p-x,
-  #video .col-md-6 .btn-lg,
-  #multiple .col-md-6 .btn-lg,
-  #reminders .col-md-6 .btn-lg,
-  #reminders .col-md-6 .btn-lg,
-  #class-booking .col-md-6 .btn-lg-c-x,
-  #book-from-any-where .col-md-6 .btn-lg,
-  #pricing .btn9 {
+  .what-is-picktime .col-md-6 .btn-lg,
+  .onlinebooking .col-md-6 .btn-lg,
+  .payment .col-md-6 .btn-lg-p-x,
+  .video .col-md-6 .btn-lg,
+  .multiple .col-md-6 .btn-lg,
+  .reminders .col-md-6 .btn-lg,
+  .reminders .col-md-6 .btn-lg,
+  .class-booking .col-md-6 .btn-lg-c-x,
+  .book-from-any-where .col-md-6 .btn-lg {
     font-size: 15px;
     margin-left: auto;
     margin-right: auto;
@@ -2489,23 +2361,23 @@ font: 15px/23px;
 	margin-top: 60px;
 	} */
 
-  #banners {
+  .banners {
     margin-top: 50px;
   }
 
-  #banners .col-md-6 .img-banner {
+  .banners .col-md-6 .img-banner {
     width: 100%;
     padding-top: 15px;
   }
-  #banners .col-md-6 .b-t-y h1 {
+  .banners .col-md-6 .b-t-y h1 {
     font: normal normal bold 30px/40px Samsung Sharp Sans;
     text-align: center;
   }
-  #banners .col-md-6 .btn-lg {
+  .banners .col-md-6 .btn-lg {
     width: 100%;
     /* padding: 18px 0px; */
   }
-  #banners .col-md-6 .b-p-y {
+  .banners .col-md-6 .b-p-y {
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
@@ -2514,7 +2386,7 @@ font: 15px/23px;
     margin-top: 30px;
   }
   /* what is pick time */
-  #what-is-picktime .col-md-6 .w-p-y {
+  .what-is-picktime .col-md-6 .w-p-y {
     /* margin-left: 0px;
 		padding: 10px 0px 0px 0px; */
     line-height: 25px;
@@ -2522,35 +2394,35 @@ font: 15px/23px;
     text-align: center;
     font-size: 18px;
   }
-  #what-is-picktime {
+  .what-is-picktime {
     margin: -2px 0px;
   }
 
   /*calenders */
-  #calenders {
+  .calenders {
     background-image: none;
     padding-top: 0px;
     margin: 30px 0px;
   }
-  #calenders .col-md-6 #bg-cal {
+  .calenders .col-md-6 .bg-cal {
     display: none;
   }
-  #calenders .col-md-6 #img-cal {
+  .calenders .col-md-6 .img-cal {
     position: relative;
     margin-left: 0px;
     left: 0px;
     top: 0px;
     width: 100%;
   }
-  #calenders .col-md-6 .c-s-x h2 {
+  .calenders .col-md-6 .c-s-x h2 {
     margin-left: 0px;
     padding-top: 10px;
   }
-  #calenders .col-md-6 .c-b-x h3 {
+  .calenders .col-md-6 .c-b-x h3 {
     margin-left: 0px;
     padding: 10px 0px;
   }
-  #calenders .col-md-6 .c-p-x {
+  .calenders .col-md-6 .c-p-x {
     margin-left: 0px;
     padding: 10px 0px 0px 0px;
     line-height: 25px;
@@ -2560,26 +2432,24 @@ font: 15px/23px;
     font-size: 18px;
   }
   /*onlinebooking  */
-  #onlinebooking {
+  .onlinebooking {
     margin: 30px 0px;
   }
-  #onlinebooking .col-md-6 .o-s-y h2 {
+  .onlinebooking .col-md-6 .o-s-y h2 {
     padding-top: 20px;
   }
-  #onlinebooking .col-md-6 .o-b-y h3 {
-    /* padding: 10px 0px 10px 0px */
-  }
-  #onlinebooking .col-md-6 .o-p-y {
+  
+  .onlinebooking .col-md-6 .o-p-y {
     padding: 10px 0px 10px 0px;
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
     font-size: 18px;
   }
-  #onlinebooking .col-md-6 #bg-o {
+  .onlinebooking .col-md-6 .bg-o {
     display: none;
   }
-  #onlinebooking .col-md-6 #img-o {
+  .onlinebooking .col-md-6 .img-o {
     position: relative;
     width: 100%;
     margin-top: 15px;
@@ -2587,18 +2457,18 @@ font: 15px/23px;
     padding: 100px;
   }
   /* payment */
-  #payment {
+  .payment {
     margin: 30px 0px;
   }
-  #payment .col-md-6 .p-s-x h2 {
+  .payment .col-md-6 .p-s-x h2 {
     margin-left: 0px;
     padding-top: 0px;
   }
-  #payment .col-md-6 .p-b-x h3 {
+  .payment .col-md-6 .p-b-x h3 {
     /* padding: 10px 0px 10px 0px; */
     margin-left: 0px;
   }
-  #payment .col-md-6 .p-p-x {
+  .payment .col-md-6 .p-p-x {
     margin-left: 0px;
     padding: 10px 0px 10px 0px;
     line-height: 25px;
@@ -2606,56 +2476,56 @@ font: 15px/23px;
     text-align: center;
     font-size: 18px;
   }
-  #payment .col-md-6 #img-p,
-  #payment .col-md-6 #bg-p {
+  .payment .col-md-6 .img-p,
+  .payment .col-md-6 .bg-p {
     display: none;
   }
   /* video */
-  #video {
+  .video {
     background-image: url(/webassets/2021/img/mountains.svg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
     padding-top: 160px;
   }
-  #video .col-md-6 .v-s-y h2 {
+  .video .col-md-6 .v-s-y h2 {
     padding-top: 100px;
   }
-  /* #video .col-md-6 .v-b-y h3{
+  /* .video .col-md-6 .v-b-y h3{
 		padding: 10px 0px 10px 0px;
 	} */
-  #video .col-md-6 .v-p-y {
+  .video .col-md-6 .v-p-y {
     padding: 10px 0px 10px 0px;
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
     font-size: 18px;
   }
-  #video .col-md-6 #img-v {
+  .video .col-md-6 .img-v {
     margin-top: 50px;
     margin-bottom: 40px;
     padding: 5px;
     width: 100%;
   }
   /* multiple */
-  #multiple {
+  .multiple {
     padding-top: 0px;
     margin-top: -10px;
     height: 400px;
   }
-  #multiple .col-md-6 #bg-m {
+  .multiple .col-md-6 .bg-m {
     display: none;
   }
-  #multiple .col-md-6 #img-m {
+  .multiple .col-md-6 .img-m {
     display: none;
   }
-  #multiple .col-md-6 .m-s-x h2 {
+  .multiple .col-md-6 .m-s-x h2 {
     padding: 10px 0px 10px 0px;
   }
-  /* #multiple .col-md-6 .m-b-x h3 {
+  /* .multiple .col-md-6 .m-b-x h3 {
 		padding: 10px 0px 10px 0px;
 	} */
-  #multiple .col-md-6 .m-p-x {
+  .multiple .col-md-6 .m-p-x {
     padding: 10px 0px 10px 0px;
     line-height: 25px;
     letter-spacing: 0.22px;
@@ -2663,22 +2533,22 @@ font: 15px/23px;
     font-size: 18px;
   }
   /* reminders */
-  #reminders {
+  .reminders {
     margin: 30px 0px;
   }
-  #reminders .col-md-6 #bg-r {
+  .reminders .col-md-6 .bg-r {
     display: none;
   }
-  #reminders .col-md-6 #img-r {
+  .reminders .col-md-6 .img-r {
     display: none;
   }
-  #reminders .col-md-6 .r-s-y h2 {
+  .reminders .col-md-6 .r-s-y h2 {
     padding: 10px 0px 10px 0px;
   }
-  /* #reminders .col-md-6 .r-b-y h3{
+  /* .reminders .col-md-6 .r-b-y h3{
 		padding: 10px 0px 10px 0px;
 	} */
-  #reminders .col-md-6 .r-p-y {
+  .reminders .col-md-6 .r-p-y {
     padding: 10px 0px 10px 0px;
     line-height: 25px;
     letter-spacing: 0.22px;
@@ -2686,18 +2556,18 @@ font: 15px/23px;
     font-size: 18px;
   }
   /* payment */
-  #class-booking {
+  .class-booking {
     margin: 30px 0px;
   }
-  #class-booking .col-md-6 .c-s-x h2 {
+  .class-booking .col-md-6 .c-s-x h2 {
     margin-left: 0px;
     padding-top: 0px;
   }
-  #class-booking .col-md-6 .c-b-x h3 {
+  .class-booking .col-md-6 .c-b-x h3 {
     /* padding: 10px 0px 10px 0px; */
     margin-left: 0px;
   }
-  #class-booking .col-md-6 .c-p-x {
+  .class-booking .col-md-6 .c-p-x {
     margin-left: 0px;
     padding: 10px 0px 10px 0px;
     line-height: 25px;
@@ -2705,95 +2575,85 @@ font: 15px/23px;
     text-align: center;
     font-size: 18px;
   }
-  #class-booking .col-md-6 #img-c,
-  #class-booking .col-md-6 #bg-c {
+  .class-booking .col-md-6 .img-c,
+  .class-booking .col-md-6 .bg-c {
     display: none;
   }
 
   /* feature */
-  #feature {
+  .feature {
     margin-top: 40px;
     height: 630px;
   }
-  #feature .col-lg-6 #dots {
+  .feature .col-lg-6 #dots {
     display: none;
   }
-  #feature .col-lg-6 .f-b-y h2 {
+  .feature .col-lg-6 .f-b-y h2 {
     text-align: center;
     margin: 40px 0px 10px 0px;
   }
-  #feature .col-lg-6 .f-p-y {
+  .feature .col-lg-6 .f-p-y {
     padding: 10px 0px 0px 0px;
     font-size: 18px;
     text-align: center;
   }
-  #feature .col-lg-6 .btn8 {
+  .feature .col-lg-6 .btn8 {
     display: none;
   }
 
-  #feature #box-section {
+  .feature .box-section {
     margin-left: 50px;
   }
-  #feature .col-lg-6 .box1,
-  #feature .col-lg-6 .box3 {
+  .feature .col-lg-6 .box1,
+  .feature .col-lg-6 .box3 {
     margin: 33px 0px 40px 120px;
     height: 200px;
     width: 150px;
   }
-  #feature .col-lg-6 .box2,
-  #feature .col-lg-6 .box4 {
+  .feature .col-lg-6 .box2,
+  .feature .col-lg-6 .box4 {
     margin: -240px 0px 40px 315px;
     height: 200px;
     width: 150px;
   }
-  #feature .col-lg-6 p {
+  .feature .col-lg-6 p {
     padding: 0px;
   }
-  #feature .col-lg-6 #box1-img {
+  .feature .col-lg-6 .box1-img {
     width: 45px;
     height: 71px;
     margin: 35px;
     margin: 0px 0px 0px 50px;
   }
   /* featured-on */
-  #featured-on {
+  .Rated {
     margin: 30px 0px;
   }
-  /* #featured-on .f-b-m h2 {
-		margin: 10px 0px;
-	} */
-  /* #featured-on .grey-images ul li {
-		padding: 0px;
-	} */
-  /* #featured-on .grey-images ul li img {
-		width: 23%;
-		padding: 6px;
-	} */
-
-  #featured-on .imageColumn {
+  
+  .Rated .imageColumn {
     float: left;
     width: 20%;
     padding: 30px;
   }
-  #featured-on .g2-c {
+  .Rated .g2-c {
     margin-top: 15px;
   }
 
   /* book-from-any-where */
-  #book-from-any-where {
+  .book-from-any-where {
     margin: 30px 0px;
   }
 
-  #book-from-any-where .col-md-6 #img-b {
+  .book-from-any-where .col-md-6 .img-b {
     display: block;
     padding: 20px;
     margin-top: -180px;
   }
 
-  #book-from-any-where .col-md-6 .b-b-y h2 {
+  .book-from-any-where .col-md-6 .b-b-y h2 {
     padding: 10px 0px 10px 0px;
   }
-  #book-from-any-where .col-md-6 .b-p-y {
+  .book-from-any-where .col-md-6 .b-p-y {
     padding: 10px 0px 10px 0px;
     line-height: 25px;
     letter-spacing: 0.22px;
@@ -2805,32 +2665,32 @@ font: 15px/23px;
     display: none;
   }
 
-  #connect-app img {
+  .connect-app img {
     width: 40%;
   }
-  #connect-app .c-f-l-pic-19 {
+  .connect-app .c-f-l-pic-19 {
     min-width: 128px;
     margin-bottom: 20px;
     margin-left: -50px;
     margin-right: 0px;
   }
 
-  #connect-app .c-s-l-pic-19 {
+  .connect-app .c-s-l-pic-19 {
     min-width: 128px;
     margin-left: -50px;
     margin-right: 10px;
   }
 
-  #connect-app {
+  .connect-app {
     padding-top: 25px;
     padding-bottom: 25px;
   }
   /* connect-app 
-	#connect-app .c-b-m{
+	.connect-app .c-b-m{
 	   margin: 10px 0px;
 	}
 	
-	#connect-app {
+	.connect-app {
 		display: none;
 	}*/
   /* love-by-evryine */
@@ -2925,7 +2785,7 @@ margin: 20px 0px 0px 0px;
     margin-top: 0px;
   }
 
-  #featured-on .imageColumn {
+  .Rated .imageColumn {
     padding: 10px;
   }
   img.what-is-picktime-img{
@@ -2938,28 +2798,27 @@ height: 80px;
 
 @media only screen and (max-width: 540px) {
   /*====Button====universal-selectors========*/
-  #what-is-picktime .col-md-6 .btn-lg,
-  #onlinebooking .col-md-6 .btn-lg,
-  #payment .col-md-6 .btn-lg-p-x,
-  #video .col-md-6 .btn-lg,
-  #multiple .col-md-6 .btn-lg,
-  #reminders .col-md-6 .btn-lg,
-  #class-booking .col-md-6 .btn-lg-c-x,
-  #book-from-any-where .col-md-6 .btn-lg,
-  #pricing .btn9 {
+  .what-is-picktime .col-md-6 .btn-lg,
+  .onlinebooking .col-md-6 .btn-lg,
+  .payment .col-md-6 .btn-lg-p-x,
+  .video .col-md-6 .btn-lg,
+  .multiple .col-md-6 .btn-lg,
+  .reminders .col-md-6 .btn-lg,
+  .class-booking .col-md-6 .btn-lg-c-x,
+  .book-from-any-where .col-md-6 .btn-lg {
     margin-left: 90px;
     width: 60%;
   }
 
-  #feature #box-section {
+  .feature .box-section {
     margin-left: 0px;
   }
-  #feature .col-lg-6 .box1,
-  #feature .col-lg-6 .box3 {
+  .feature .col-lg-6 .box1,
+  .feature .col-lg-6 .box3 {
     margin: 33px 0px 40px 40px;
   }
-  #feature .col-lg-6 .box4,
-  #feature .col-lg-6 .box2 {
+  .feature .col-lg-6 .box4,
+  .feature .col-lg-6 .box2 {
     margin: -240px 0px 40px 280px;
   }
   #love-by-evryine #right-icon {
@@ -2972,15 +2831,14 @@ height: 80px;
 
 @media only screen and (max-width: 480px) {
   /*====Button==universal-selectors====*/
-  #what-is-picktime .col-md-6 .btn-lg,
-  #onlinebooking .col-md-6 .btn-lg,
-  #payment .col-md-6 .btn-lg-p-x,
-  #video .col-md-6 .btn-lg,
-  #multiple .col-md-6 .btn-lg,
-  #reminders .col-md-6 .btn-lg,
-  #class-booking .col-md-6 .btn-lg-c-x,
-  #book-from-any-where .col-md-6 .btn-lg,
-  #pricing .btn9 {
+  .what-is-picktime .col-md-6 .btn-lg,
+  .onlinebooking .col-md-6 .btn-lg,
+  .payment .col-md-6 .btn-lg-p-x,
+  .video .col-md-6 .btn-lg,
+  .multiple .col-md-6 .btn-lg,
+  .reminders .col-md-6 .btn-lg,
+  .class-booking .col-md-6 .btn-lg-c-x,
+  .book-from-any-where .col-md-6 .btn-lg {
     margin-left: 70px;
     width: 60%;
   }
@@ -2990,22 +2848,22 @@ height: 80px;
     width: 100px;
     height: 40px;
   }
-  #onlinebooking .col-md-6 #img-o {
+  .onlinebooking .col-md-6 .img-o {
     padding: 20px;
   }
-  #video .col-md-6 .v-s-y h2 {
+  .video .col-md-6 .v-s-y h2 {
     padding-top: 35px;
   }
 
-  #feature #box-section {
+  .feature .box-section {
     margin-left: 0px;
   }
-  #feature .col-lg-6 .box1,
-  #feature .col-lg-6 .box3 {
+  .feature .col-lg-6 .box1,
+  .feature .col-lg-6 .box3 {
     margin: 0px 0px 0px 0px;
   }
-  #feature .col-lg-6 .box2,
-  #feature .col-lg-6 .box4 {
+  .feature .col-lg-6 .box2,
+  .feature .col-lg-6 .box4 {
     margin: -200px 165px 57px;
   }
   #love-by-evryine #quote-carousel img {
@@ -3018,12 +2876,12 @@ height: 80px;
     width: 150px;
     margin: 100px 0px 0px 0px;
   }
-  #book-from-any-where .col-md-6 #img-b {
+  .book-from-any-where .col-md-6 .img-b {
     padding: 15px;
     width: 100%;
     margin-top: 20px;
   }
-  #book-from-any-where .col-md-6 .btn-lg {
+  .book-from-any-where .col-md-6 .btn-lg {
     /* display: none; */
    margin-bottom: 10px;
   }
@@ -3035,35 +2893,34 @@ height: 80px;
 
 @media only screen and (max-width: 348px) {
   /*====Button==universal-selectors====*/
-  #onlinebooking .col-md-6 .btn-lg,
-  #payment .col-md-6 .btn-lg-p-x,
-  #video .col-md-6 .btn-lg,
-  #multiple .col-md-6 .btn-lg,
-  #reminders .col-md-6 .btn-lg,
-  #class-booking .col-md-6 .btn-lg-c-x,
-  #book-from-any-where .col-md-6 .btn-lg,
-  #pricing .btn9 {
+  .onlinebooking .col-md-6 .btn-lg,
+  .payment .col-md-6 .btn-lg-p-x,
+  .video .col-md-6 .btn-lg,
+  .multiple .col-md-6 .btn-lg,
+  .reminders .col-md-6 .btn-lg,
+  .class-booking .col-md-6 .btn-lg-c-x,
+  .book-from-any-where .col-md-6 .btn-lg {
     margin-left: 40px;
     width: 70%;
   }
-  #feature #box-section {
+  .feature .box-section {
     margin-left: 0px;
   }
-  #feature .col-lg-6 .box1,
-  #feature .col-lg-6 .box3 {
+  .feature .col-lg-6 .box1,
+  .feature .col-lg-6 .box3 {
     margin: 0px -20px 0px;
     height: 200px;
     width: 145px;
   }
-  #feature .col-lg-6 .box2,
-  #feature .col-lg-6 .box4 {
+  .feature .col-lg-6 .box2,
+  .feature .col-lg-6 .box4 {
     margin: -190px 140px 20px;
     height: 190px;
     width: 145px;
   }
 }
 
-/* =====================================***********Features-page-start*******==================================== */
+/* Features-page-start */
 
 /*===what-we-offer====start=====*/
 
@@ -3076,12 +2933,6 @@ height: 80px;
 #banner-bg-color {
   height: 10px;
   background: #f0f2f8 0% 0% no-repeat padding-box;
-}
-
-#what-we-offer {
-  /* margin-top: -40px;
-	height: 140px;
-	background: #F0F2F8 0% 0% no-repeat padding-box;  */
 }
 
 #what-we-offer .w-w-o-b-m {
@@ -3106,42 +2957,38 @@ height: 80px;
 
 /*===Feature====start=====*/
 
-#features {
+.features {
   margin: 0px 0px 100px 0px;
 }
 
-#features .f-s-m h2 {
+.features .f-s-m h2 {
   font: normal normal bold 20px/25px Samsung Sharp Sans;
   color: #8b22e2;
   text-align: center;
   margin: 0px;
 }
 
-#features .f-b-m h2 {
+.features .f-b-m h2 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
-  color: #000000;
-  opacity: 1;
   text-align: center;
   margin-top: 20px;
 }
 
-#features .f-p-m {
+.features .f-p-m {
   text-align: center;
-  color: #000000;
-  opacity: 1;
   padding: 20px 90px;
   line-height: 35px;
   font-size: 20px;
   font-weight: 400;
 }
 
-#features .btn-lg {
-  width: 25%;
-  padding-top: 10px;
-  padding-bottom: 10px;
+.features .btn-lg {
+  width: 30%;
+  padding-top: 14px;
+  padding-bottom: 14px;
   color: #fff !important;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0.12px;
   background: #8b22e2 0% 0% no-repeat padding-box;
   border-radius: 25px;
@@ -3150,9 +2997,8 @@ height: 80px;
   text-align: center;
   box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
   transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  margin: 0px 0px 0px 415px;
 }
-#features a {
+.features a {
   color: #fff !important;
   font-weight: 600;
 }
@@ -3161,40 +3007,38 @@ height: 80px;
 
 /*===For Buinesss owners====start=====*/
 
-#for-buiness-owners {
+.for-buiness-owners {
   margin: 20px 0px 20px 0px;
 }
 
-#for-buiness-owners .f-b-o-s-m h2 {
+.for-buiness-owners .f-b-o-s-m h2 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   color: #8b22e2;
   text-align: center;
   margin: 20px 0px 20px 0px;
 }
 
-#for-buiness-owners .f-b-o-b-m h2 {
+.for-buiness-owners .f-b-o-b-m h2 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
-  color: #000000;
   text-align: center;
   margin: 30px 0px 50px 0px;
 }
 
-#for-buiness-owners .f-b-o-i #center_img {
+.for-buiness-owners .f-b-o-i .all-professional {
   width: 100%;
   padding: 10px 170px 100px 170px;
 }
 
-#for-buiness-owners .f-b-o-h h3 {
+.for-buiness-owners .f-b-o-h h3 {
   font: normal normal 600 20px/24px Raleway;
   /* width: 80%;
 	float: right; */
   margin-top: 5px;
   padding-left: 15px;
-  color: black;
   position: relative;
 }
-#for-buiness-owners .f-b-o-h h3:before {
+.for-buiness-owners .f-b-o-h h3:before {
   content: " ";
   height: 100%;
   background: #8b22e2;
@@ -3203,27 +3047,25 @@ height: 80px;
   left: 0px;
   border-radius: 10px;
 }
-#for-buiness-owners .f-b-o-h h3 a {
+.for-buiness-owners .f-b-o-h h3 a {
   color: #000000 !important;
 }
 
-#for-buiness-owners p {
+.for-buiness-owners p {
   font-size: 16px;
   font-weight: 400;
-  color: #000000;
-  opacity: 1;
   padding: 10px 10px;
   line-height: 22px;
   letter-spacing: 0.22px;
 }
 
-#for-buiness-owners .icons {
+.for-buiness-owners .icons {
   width: 50px;
   height: 50px;
   margin-bottom: 5px;
 }
 
-#spacing {
+.spacing {
   margin-bottom: 40px;
   margin-left: 100px;
 }
@@ -3232,38 +3074,36 @@ height: 80px;
 
 /*===For Class====start=====*/
 
-#for-class {
+.for-class {
   margin: 20px 0px 20px 0px;
 }
 
-#for-class .col-md-6 #bg-p {
+.for-class .col-md-6 .bg-p {
   position: relative;
   margin-left: -200px;
   width: 100%;
 }
 
-#for-class .col-md-6 #img-p {
+.for-class .col-md-6 .img-p {
   margin-top: 120px;
   margin-left: -73px;
   width: 100%;
   padding: 40px;
 }
 
-#for-class .col-md-6 .f-c-s-x h2 {
+.for-class .col-md-6 .f-c-s-x h2 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
   padding: 120px 0px 0px 0px;
 }
 
-#for-class .col-md-6 .f-c-b-x h2 {
+.for-class .col-md-6 .f-c-b-x h2 {
   font: normal normal bold 40px/44px Samsung Sharp Sans;
-  color: #000000;
-  opacity: 1;
-  padding: 00px 0px 10px 0px;
+  padding: 0px 0px 10px 0px;
 }
 
-#for-class h3 {
+.for-class h3 {
   font: normal normal 400 14px/24px Raleway;
   width: 80%;
   float: right;
@@ -3273,7 +3113,7 @@ height: 80px;
   font-weight: 600;
   line-height: 20px;
 }
-#for-class h3 a{
+.for-class h3 a{
 	color: #000000 !important;
 }
 
@@ -3286,31 +3126,30 @@ height: 80px;
 /*===For Class====End=====*/
 
 /*===For Team====start=====*/
-#for-team {
+.for-team {
   margin: 10px 0px 100px 0px;
 }
 
-#for-team .f-t-s-m h2 {
+.for-team .f-t-s-m h2 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   color: #8b22e2;
   text-align: center;
   margin: 20px 0px 20px 0px;
 }
 
-#for-team .f-t-b-m h2 {
+.for-team .f-t-b-m h2 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
-  color: #000000;
   text-align: center;
   margin: 20px 0px 10px 0px;
 }
 
-/* #for-team .f-t-b-i img {
+/* .for-team .f-t-b-i img {
   width: 100%;
   padding: 10px 300px;
 } */
 
-#for-team .manage-team img {
+.for-team .manage-team img {
 	width: 70px;
 	height: 70px;
 	margin-right: 10px;
@@ -3319,32 +3158,26 @@ height: 80px;
     vertical-align: middle;
 }
 
-#for-team .manage-team {
+.for-team .manage-team {
   margin: 100px 0px;
 }
 
-/* #for-team .manage-team #spacing1 {
-	margin-left: 15px;
-} */
-
-#for-team .manage-team img {
+.for-team .manage-team img {
   width: 70px;
   height: 70px;
   /* padding: 10px; */
 }
 
-#for-team .manage-team .title h3 {
+.for-team .manage-team .title h3 {
   font: normal normal 600 20px/24px Raleway;
 }
-#for-team .manage-team .title h3 a{
+.for-team .manage-team .title h3 a{
 	color: #000000 !important;
 }
 
-#for-team .manage-team p {
+.for-team .manage-team p {
   font-size: 16px;
   font-weight: 400;
-  color: #000000;
-  opacity: 1;
   padding: 0px 130px 0px 0px;
   line-height: 22px;
   letter-spacing: 0.22px;
@@ -3353,11 +3186,11 @@ height: 80px;
 /*===For Team====End=====*/
 
 /*===Pricing box====start=====*/
-#pricing-box {
+.pricing-box {
     position: relative;
     z-index: 10;
 }
-#pricing-box .box {
+.pricing-box .box {
    background-color: rgb(255 255 255 / 80%);
   /* / opacity: 0.9; / */
   position: relative;
@@ -3369,7 +3202,7 @@ height: 80px;
   text-align: center;
 }
 
-#pricing-box .box .btn-lg {
+.pricing-box .box .btn-lg {
   width: 40%;
   color: #fff;
   font-weight: 500;
@@ -3386,22 +3219,19 @@ height: 80px;
   padding-bottom: 15px;
   display: block;
 }
-#pricing-box .box .btn-lg a {
+.pricing-box .box .btn-lg a {
   color: white;
   font-weight: bold;
 }
 
-#pricing-box #box-title {
+.pricing-box .box-title {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8b22e2;
-  opacity: 1;
   text-align: center;
 }
 
-#pricing-box #box-text {
-  color: #000000;
-  opacity: 1;
+.pricing-box .box-text {
   padding: 15px 80px;
   /* line-height: 22px; */
   letter-spacing: 0.22px;
@@ -3412,7 +3242,7 @@ height: 80px;
 }
 
 @media only screen and (max-width: 1024px) {
-  #pricing-box .box{    
+  .pricing-box .box{    
     width: 800px;
   }  
   
@@ -3429,35 +3259,28 @@ height: 80px;
 /*===Pricing====End=====*/
 
 /* Responsive web site */
-
-@media only screen and (max-width: 1199px) {
-  #features .btn-lg {
-    margin: 0px 0px 0px 350px;
-  }
-}
-
 @media only screen and (max-width: 991px) {
   /*=====big title======  */
   #what-we-offer .w-w-o-b-m,
-  #features .f-b-m h2,
-  #for-buiness-owners .f-b-o-b-m h2,
-  #for-class .col-md-6 .f-c-b-x h2,
-  #for-team .f-t-b-m h2 {
+  .features .f-b-m h2,
+  .for-buiness-owners .f-b-o-b-m h2,
+  .for-class .col-md-6 .f-c-b-x h2,
+  .for-team .f-t-b-m h2 {
     font: normal normal bold 24px/30px Samsung Sharp Sans;
     text-align: center;
     margin: 20px 0px 20px 0px;
   }
   /*=====small title======  */
-  #features .f-s-m h2,
-  #for-buiness-owners .f-b-o-s-m h2,
-  #for-class .col-md-6 .f-c-s-x h2,
-  #for-team .f-t-s-m h2 {
+  .features .f-s-m h2,
+  .for-buiness-owners .f-b-o-s-m h2,
+  .for-class .col-md-6 .f-c-s-x h2,
+  .for-team .f-t-s-m h2 {
     font: normal normal bold 18px/18px Samsung Sharp Sans;
     text-align: center;
   }
   /*=====paragraph======  */
   #what-we-offer .w-w-o-p-m,
-  #features .f-p-m {
+  .features .f-p-m {
     margin-left: 0px;
     padding: 10px 0px 0px 0px;
     line-height: 30px;
@@ -3465,10 +3288,9 @@ height: 80px;
     text-align: center;
   }
   /*=====button======  */
-  #features .btn-lg {
+  .features .btn-lg {
     font-size: 15px;
-    margin: 20px auto;
-    padding: 10px 0px;
+    padding: 14px 0px;
     width: 60%;
   }
   #what-we-offer img {
@@ -3480,64 +3302,58 @@ height: 80px;
   #what-we-offer {
     height: 290px;
   }
-  #spacing {
+  .spacing {
     margin-bottom: 50px;
     margin-left: 30px;
   }
 
-  #for-buiness-owners p {
+  .for-buiness-owners p {
     padding: 10px 0px 20px 0px;
   }
 
-  #for-buiness-owners .f-b-o-i #center_img {
+  .for-buiness-owners .f-b-o-i .all-professional {
     width: 100%;
 	padding: 10px 100px 50px 100px;
   }
 
-  #for-team {
+  .for-team {
     margin: 10px 0px 50px 0px;
   }
 
-  #for-team .manage-team p {
+  .for-team .manage-team p {
     padding: 0px 50px 0px 0px;
   }
-  /* #for-team.manage-team #spacing1 {
-		margin-left: 50px;
-		margin-top: 50px;
-	} */
-  #for-class .col-md-6 .f-c-s-x h2 {
+  .for-class .col-md-6 .f-c-s-x h2 {
     padding: 10px 0px 10px 0px;
   }
-  #for-class .col-md-6 #bg-p {
+  .for-class .col-md-6 .bg-p {
     display: none;
   }
-  #for-class .col-md-6 #img-p {
+  .for-class .col-md-6 .img-p {
     /* display: none; */
     width: 100%;
     margin-top: 0px;
     margin-left: 0px;
   }
-  #for-team .f-t-b-i img {
+  .for-team .f-t-b-i img {
     width: 100%;
     padding: 0px 120px;
   }
-  #for-class .manage-team {
+  .for-class .manage-team {
     margin: 50px 0px;
   }
-  #for-class h3{
-    /* margin-top: 27px; */
-  }
-  #pricing-box .box {
+  
+  .pricing-box .box {
     margin: -38px 20px -170px;
     width: 550px;
   }
-  #pricing-box #box-title {
+  .pricing-box .box-title {
     font: normal normal bold 24px/30px Samsung Sharp Sans;
   }
-  #pricing-box .box .btn-lg {
+  .pricing-box .box .btn-lg {
     width: 60%;
   }
-  #pricing-box #box-text {
+  .pricing-box .box-text {
     padding: 10px 10px 10px 10px;
   }
 }
@@ -3551,32 +3367,32 @@ height: 80px;
     margin-top: -30px;
   }
 
-  #for-buiness-owners .f-b-o-i #center_img {
+  .for-buiness-owners .f-b-o-i .all-professional {
     width: 100%;
     padding: 10px 40px;
   }
 
-  #for-team .f-t-b-i img {
+  .for-team .f-t-b-i img {
     width: 100%;
     padding: 0px 40px;
   }
-  #pricing-box .box .btn-lg {
+  .pricing-box .box .btn-lg {
     font-size: 10px;
   }
-  #pricing-box .box {
+  .pricing-box .box {
     width: 380px;
   }
-  #for-buiness-owners .f-b-o-h h3{
+  .for-buiness-owners .f-b-o-h h3{
       font: normal normal 600 16px/20px Raleway;
   }
-  #for-buiness-owners p{
+  .for-buiness-owners p{
     font-size: 14px;
     line-height: 18px;
   }
-  #spacing{    
+  .spacing{    
     margin-left: 0px;
   }
-  #for-class h3{
+  .for-class h3{
     margin: 0px;
     margin-bottom: 20px;
   }
@@ -3585,24 +3401,22 @@ height: 80px;
 @media only screen and (max-width: 425px) {
   /*=====big title======  */
   #what-we-offer .w-w-o-b-m,
-  #features .f-b-m h2,
-  #for-buiness-owners .f-b-o-b-m h2,
-  #for-class .col-md-6 .f-c-b-x h2,
-  #for-team .f-t-b-m h2 {
+  .features .f-b-m h2,
+  .for-buiness-owners .f-b-o-b-m h2,
+  .for-class .col-md-6 .f-c-b-x h2,
+  .for-team .f-t-b-m h2 {
     font: normal normal bold 20px/24px Samsung Sharp Sans;
   }
   /*=====small title======  */
-  #features .f-s-m h2,
-  #for-buiness-owners .f-b-o-s-m h2,
-  #for-class .col-md-6 .f-c-s-x h2,
-  #for-team .f-t-s-m h2 {
+  .features .f-s-m h2,
+  .for-buiness-owners .f-b-o-s-m h2,
+  .for-class .col-md-6 .f-c-s-x h2,
+  .for-team .f-t-s-m h2 {
     font: normal normal bold 16px/16px Samsung Sharp Sans;
   }
 
   /*=====button======  */
-  #features .btn-lg {
-    margin: 20px auto;
-  }
+ 
   #what-we-offer img {
     margin-top: -140px;
   }
@@ -3613,14 +3427,14 @@ height: 80px;
   #what-we-offer .w-w-o-b-m {
     margin: -37px 0px 20px 0px;
   }
-  #pricing-box .box {
+  .pricing-box .box {
     width: 280px;
   }
 }
 
-/* =====================================***********Features-page-END*******======================================== */
+/* Features-page-END */
 
-/* =====================================***********Integrations-page-start*******================================== */
+/* Integrations-page-start */
 
 /*===integration====start=====*/
 
@@ -3670,11 +3484,8 @@ height: 80px;
   margin: 30px 0px;
 }
 
-#integration-body #integration-sections {
+#integration-body .integration-sections {
   max-width: 380px;
-  /* margin-left: auto;
-  margin-right: auto; */
-  /* text-align: center; */
   float: left;
 }
 
@@ -3692,8 +3503,6 @@ height: 80px;
 }
 
 #integration-body p {
-  /*  padding: 10px 35px 20px 100px; */
-  /* padding: 10px 70px; */
   line-height: 28px;
   letter-spacing: 0.22px;
   text-align: left;
@@ -3723,9 +3532,7 @@ height: 80px;
 }
 
 @media only screen and (max-width: 1199px) {
-  #integration-body p {
-/*     padding: 10px 20px 20px 20px; */
-  }
+ 
   #wave1 {
     margin-top: -114px;
   }
@@ -3753,29 +3560,22 @@ height: 80px;
   #integration {
     height: 400px;
   }
-  #integration-body .i-t-s {
-    /* margin: 10px 0px 10px 0px; */
-    /* text-align: center; */
-  }
-  #integration-body p {
-/*     padding: 10px 0px 20px 0px; */
-  }
 
   #wave1 {
     margin-top: -82px;
   }
 
-  #pricing-box .box {
+  .pricing-box .box {
     margin: -38px auto -170px;
     width: 550px;
   }
-  #pricing-box #box-title {
+  .pricing-box .box-title {
     font: normal normal bold 24px/30px Samsung Sharp Sans;
   }
-  #pricing-box .box .btn-lg {
+  .pricing-box .box .btn-lg {
     width: 60%;
   }
-  #pricing-box #box-text {
+  .pricing-box .box-text {
     padding: 10px 0px;
     font-size: 14px;
     line-height: 20px;
@@ -3783,7 +3583,7 @@ height: 80px;
 }
 
 @media only screen and (max-width: 591px) {
-  #pricing-box .box .btn-lg {
+  .pricing-box .box .btn-lg {
     font-size: 14px;
     font-weight: bold;
     width: 100%;
@@ -3791,7 +3591,7 @@ height: 80px;
   /* #integration-body .i-t-s {
 		margin: 30px 0px 20px 50px;
 	} */
-  #pricing-box .box {
+  .pricing-box .box {
     width: 380px;
   }
 
@@ -3801,7 +3601,7 @@ height: 80px;
 }
 
 @media only screen and (max-width: 425px) {
-  #pricing-box .box {
+  .pricing-box .box {
     width: 280px;
     padding: 20px;
   }
@@ -3810,37 +3610,30 @@ height: 80px;
   }
 }
 
-/* =====================================***********Integrations-End*******==================================== */
+/* Integrations-page-End */
 
-/* =====================================***********Industries-page-Start*******==================================== */
-
-/*=========banner==========start========*/
-
+/*-Industries-individual-page-Start-*/
 #i-banner {
   background-color: #f0f2f8;
-  margin-top: -27px;
+  margin-top: 90px;
 }
-
 #i-banner .col-md-6 .i-b-t-y {
   font: normal normal bold 40px/50px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #312b2b;
   padding-top: 15px;
-  margin-top: 50px;
+  margin-top: 100px;
 }
-
 #i-banner .col-md-6 .i-b-p-y {
-  font: 15px/18px;
-  font-weight: bold;
+  font-size: 20px;
+  font-weight: 400;
   padding: 15px 0px;
-  line-height: 22px;
-  letter-spacing: 0.22px;
+  line-height: 35px;
 }
-
 #i-banner .col-md-6 .btn-lg {
-  width: 40%;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  width: 50%;
+  padding-top: 15px;
+  padding-bottom: 15px;
   color: #6a3093;
   font-weight: bold;
   letter-spacing: 0.12px;
@@ -3852,103 +3645,61 @@ height: 80px;
   box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
   transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
-
 #i-banner .col-md-6 img {
   position: relative;
   width: 100%;
 }
-
 /*  wave  */
-
-#i-banner #wave {
+#i-banner .wave {
   margin-top: -48px;
 }
 
-.custom-shape-divider-bottom-1614347454 {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-  line-height: 0;
-}
-
-.custom-shape-divider-bottom-1614347454 svg {
-  position: relative;
-  display: block;
-  width: calc(100% + 1.3px);
-  height: 251px;
-  transform: rotateY(180deg);
-}
-
-.custom-shape-divider-bottom-1614347454 .shape-fill {
-  fill: #ffffff;
-}
 
 /*=========banner==========end========*/
 
 /*=====online calender===start==*/
 
 #i-online-calender {
-  margin: 70px 0px 60px 0px;
-}
-
-#i-online-calender .i-img {
-  margin-left: 60px;
+  margin: 60px 0px;
 }
 
 #i-online-calender .i-title {
   font: normal normal 600 20px/24px Raleway;
-  width: 80%;
-  margin-top: 10px;
-  margin-left: 25px;
+  margin: 10px 0px;
 }
 
 #i-online-calender p {
-  font: 15px/23px;
-  font-weight: 500;
-  color: #000000;
-  opacity: 1;
-  padding: 10px 69px 10px 27px;
-  line-height: 22px;
-  letter-spacing: 0.22px;
-  text-align: center;
+   line-height: 30px;
+   font-size: 20px;
+   font-weight: 400;
 }
 
 /*=====online calender===End==*/
 
 /*=====sync with your favourite calender==start==*/
 
-#s-w-y-f-c {
+.sync {
   margin: 100px 0px 40px 0px;
 }
 
-#s-w-y-f-c .s-w-y-f-c-y-s {
+.sync .s-w-y-f-c-y-s {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
-  opacity: 1;
-  margin: 10px 0px 10px 0px;
+  margin: 10px 0px 20px 0px;
 }
 
-#s-w-y-f-c .s-w-y-f-c-y-b {
+.sync .s-w-y-f-c-y-b {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
-  color: #000000;
-  opacity: 1;
-  margin: 10px 0px 10px 0px;
+  margin: 10px 0px 20px 0px;
 }
-
-#s-w-y-f-c p {
-  font: 15px/23px;
-  color: #000000;
-  opacity: 1;
-  padding: 10px 140px 10px 0px;
-  line-height: 22px;
-  letter-spacing: 0.22px;
+.sync p {
+   line-height: 30px;
+   font-size: 20px;
+   font-weight: 400;
 }
-
-#s-w-y-f-c img {
+.sync img {
   width: 100%;
 }
 
@@ -3956,91 +3707,77 @@ height: 80px;
 
 /*=====easily view your revenue==start==*/
 
-#statistics {
+.statistics {
   margin: 100px 0px 40px 0px;
 }
 
-#statistics img {
+.statistics img {
   width: 100%;
 }
 
-#statistics .s-x-s {
+.statistics .s-x-s {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
-  opacity: 1;
   margin: 100px 0px 10px 0px;
 }
 
-#statistics .s-x-b {
+.statistics .s-x-b {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
-  color: #000000;
-  opacity: 1;
   margin: 10px 0px 10px 0px;
 }
 
-#statistics p {
-  font: 15px/23px;
-  color: #000000;
-  opacity: 1;
-  padding: 10px 140px 10px 0px;
-  line-height: 22px;
-  letter-spacing: 0.22px;
+.statistics p {
+   line-height: 30px;
+   font-size: 20px;
+   font-weight: 400;
 }
 
 /*=====easily view your revenue==end==*/
 
-#Enable {
+.Enable {
   margin: 50px 0px 200px 0px;
 }
 
-#Enable .e-b-m {
+.Enable .e-b-m {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
-  color: #000000;
-  opacity: 1;
   text-align: center;
 }
 
-#Enable .e-p-m {
-  text-align: center;
-  font: 15px/23px;
-  color: #000000;
-  opacity: 1;
-  padding: 29px 169px 30px 182px;
-  line-height: 22px;
-  letter-spacing: 0.22px;
-}
-
-@media only screen and (max-width: 1199px) {
+.Enable .e-p-m {
+   text-align: center;
+   padding: 30px 100px 30px 100px;
+   line-height: 30px;
+   font-size: 20px;
+   font-weight: 400;
 }
 
 @media only screen and (max-width: 991px) {
   /*===== big titles===768====== */
-  #s-w-y-f-c .s-w-y-f-c-y-b,
-  #statistics .s-x-b,
-  #Enable .e-b-m {
+  .sync .s-w-y-f-c-y-b,
+  .statistics .s-x-b,
+  .Enable .e-b-m {
     font: normal normal bold 24px/30px Samsung Sharp Sans;
     text-align: center;
   }
   /*========= small titles========= */
-  #s-w-y-f-c .s-w-y-f-c-y-s,
-  #statistics .s-x-s {
+  .sync .s-w-y-f-c-y-s,
+  .statistics .s-x-s {
     font: normal normal bold 18px/18px Samsung Sharp Sans;
     text-align: center;
   }
   /*=====paragraph======  */
-  #s-w-y-f-c p,
-  #statistics p,
-  #Enable .e-p-m {
+  .sync p,
+  .statistics p,
+  .Enable .e-p-m {
     margin-left: 0px;
-    padding: 10px 0px 0px 0px;
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
   }
-  #i-banner #wave {
+  #i-banner .wave {
     margin-top: 30px;
   }
   /* banners */
@@ -4054,34 +3791,46 @@ height: 80px;
   }
   #i-banner .col-md-6 .btn-lg {
     width: 100%;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
   }
   #i-banner .col-md-6 .i-b-p-y {
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
   }
-  #wave {
-    margin-top: 30px;
-  }
+  
+ 	 #i-banner{
+ 	 margin-top: 30px;
+  	}
+  	.sync {
+    margin: 20px 0px 20px 0px;
+	}
+	.statistics {
+    margin: 20px 0px 20px 0px;
+	}
+  .Enable {
+    margin: 50px 0px 100px 0px;
+	}
 }
 
 @media only screen and (max-width: 452px) {
   /*===== big titles===768====== */
-  #s-w-y-f-c .s-w-y-f-c-y-b,
-  #statistics .s-x-b {
+  .sync .s-w-y-f-c-y-b,
+  .statistics .s-x-b {
     font: normal normal bold 20px/24px Samsung Sharp Sans;
     text-align: center;
   }
   /*========= small titles========= */
-  #s-w-y-f-c .s-w-y-f-c-y-s,
-  #statistics .s-x-s {
+  .sync .s-w-y-f-c-y-s,
+  .statistics .s-x-s {
     font: normal normal bold 16px/16px Samsung Sharp Sans;
     text-align: center;
   }
 }
+/*-Industries-individual---page-End-*/
 
+/* Industries-page-start */
 #industries_services .main-subtitle {
   padding: 20px 220px;
   text-align: center;
@@ -4195,9 +3944,9 @@ height: 80px;
   }
 }
 
-/* =====================================***********Industries-page-End*******==================================== */
+/* Industries-page-End */
 
-/*=======================mobile app page===========start======================================  */
+/*mobile app-page-start */
 
 #mobile-main{
 	margin-left: auto;
@@ -4210,8 +3959,6 @@ height: 80px;
   padding-top: 80px;
 }
 #apps-body p {
-  color: #000000;
-  opacity: 1;
   font-size: 18px;
   font-weight: 400;
   padding: 15px 0px;
@@ -4249,4 +3996,238 @@ margin-top: 100px;
   }
 }
 
-/*=======================mobile app page============end=====================================  */
+/* mobile app-page-end */
+
+
+/* All industrie-page-css-start  */
+.industries-body-section h2 {
+	font: normal normal bold 24px/24px Samsung Sharp Sans;
+	letter-spacing: 0px;
+	color: #8A2BE2;
+	margin: 20px 0px;
+}
+
+.industries-body-section p {
+	font-size: 20px;
+	font-weight: 400;
+	padding: 15px 0px;
+	line-height: 35px;
+}
+
+.industries-body-section .services_sec {
+	margin: 10px 0px 20px 0px;
+}
+.industries-body-section .img-responsive{
+	margin: auto;
+	border-radius: 20px !important;
+}
+.industries-body-section ul {
+	margin-bottom: 70px;
+	padding-left: 25px;
+}
+
+.industries-body-section ul li {
+	list-style: none;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 35px;
+}
+.industries-body-section ul li:before{
+	content: ' ';
+	margin-left: -25px;
+	margin-top: 8px;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	background: url("data:image/svg+xml;utf8,<?xml version='1.0' encoding='utf-8'?><svg width='18' height='18' viewBox='0 0 1792 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1671 566q0 40-28 68l-724 724-136 136q-28 28-68 28t-68-28l-136-136-362-362q-28-28-28-68t28-68l136-136q28-28 68-28t68 28l294 295 656-657q28-28 68-28t68 28l136 136q28 28 28 68z'/></svg>") no-repeat;
+}
+
+.industries-body-section h3 {
+	font: normal normal bold 20px/24px Samsung Sharp Sans;
+	letter-spacing: 0px;
+	margin: 10px 0px 0px 0px;
+}
+
+
+#industries_services {
+	margin-top: -27px;
+	height: 450px;
+	background: #F0F2F8 0% 0% no-repeat padding-box;
+}
+
+#industries_services .main_title h1 {
+	text-align: center;
+	font: normal normal bold 40px/50px Samsung Sharp Sans;
+	margin: 250px 0px 20px 0px;
+}
+
+#industries_wave_banner {
+	margin-top: -144px;
+}
+
+@media only screen and (max-width:2560px) {
+	#industries_wave_banner {
+		margin-top: -210px;
+	}
+	#industries_services {
+		height: 600px;
+	}
+}
+
+@media only screen and (max-width:1880px) {
+	#industries_wave_banner {
+		margin-top: -168px;
+	}
+}
+
+@media only screen and (max-width:1440px) {
+	#industries_wave_banner {
+		margin-top: -144px;
+	}
+}
+
+@media only screen and (max-width:1199px) {
+	#industries_wave_banner {
+		margin-top: -114px;
+	}
+}
+
+@media only screen and (max-width:991px) {
+	#industries_services .main_title h1 {
+		font: normal normal bold 24px/30px Samsung Sharp Sans;
+		text-align: center;
+		margin: 150px 0px 20px 0px;
+	}
+	#industries_services .i-s-m {
+		margin: 0px 0px 0px 0px;
+	}
+	#industries_services {
+		height: 300px;
+	}
+	#industries_wave_banner {
+		margin-top: -82px;
+	}
+}
+
+@media only screen and (max-width:591px) {
+	#industries_servicesyy-body .i-t-s {
+		margin: 30px 0px 20px 50px;
+	}
+	#industries_wave_banner {
+		margin-top: -60px;
+	}
+}
+
+@media only screen and (max-width:425px) {
+	#industries_wave_banner {
+		margin-top: -52px;
+	}
+}
+
+/* All industrie-page-css-end  */
+
+/* All feature-page-css-start  */
+#features-body-section h2 {
+	font: normal normal bold 20px/24px Samsung Sharp Sans;
+	letter-spacing: 0px;
+	color: #8A2BE2;
+	margin: 10px 0px;
+}
+
+#features-body-section p {
+	font-size: 20px;
+	font-weight: 400;
+	padding: 15px 0px;
+	line-height: 35px;
+}
+
+#features-body-section .feature_sec {
+	margin: 10px 0px 20px 0px;
+}
+
+div#industries > div > div {
+    margin-bottom: 40px;
+    /* padding: 0px 15px; */
+}
+
+/* wave start */
+#industries_services {
+	margin-top: -27px;
+	height: 450px;
+	background: #F0F2F8 0% 0% no-repeat padding-box;
+}
+
+#industries_services .main_title  h1 {
+	text-align: center;
+	font: normal normal bold 40px/50px Samsung Sharp Sans;
+	margin: 220px 0px 20px 0px;
+}
+
+#industries_wave_banner {
+	margin-top: -144px;
+}
+
+@media only screen and (max-width:2560px) {
+	#industries_wave_banner {
+		margin-top: -210px;
+	}
+	#industries_services {
+		height: 600px;
+	}
+}
+
+@media only screen and (max-width:1880px) {
+	#industries_wave_banner {
+		margin-top: -168px;
+	}
+}
+
+@media only screen and (max-width:1440px) {
+	#industries_wave_banner {
+		margin-top: -144px;
+	}
+}
+
+@media only screen and (max-width:1199px) {
+	#industries_wave_banner {
+		margin-top: -114px;
+	}
+}
+
+@media only screen and (max-width:991px) {
+	#industries_services .main_title h1 {
+		font: normal normal bold 24px/30px Samsung Sharp Sans;
+		text-align: center;
+		margin: 150px 0px 20px 0px;
+	}
+	#industries_services .i-s-m {
+		margin: 0px 0px 0px 0px;
+	}
+	#industries_services {
+		height: 300px;
+	}
+	#industries_wave_banner {
+		margin-top: -82px;
+	}
+	.main-subtitle {
+		font-size: 15px;
+		padding: 10px 50px;
+	}
+}
+
+@media only screen and (max-width:591px) {
+	#industries_servicesyy-body .i-t-s {
+		margin: 30px 0px 20px 50px;
+	}
+	#industries_wave_banner {
+		margin-top: -60px;
+	}
+}
+
+@media only screen and (max-width:425px) {
+	#industries_wave_banner {
+		margin-top: -52px;
+	}
+}
+
+/* All feature-page-css-end */

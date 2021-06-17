@@ -28,7 +28,6 @@
 	<meta name="twitter:description" content="Picktime is a free fitness training online appointment and class booking software which lets your customers book their sessions online. you can also customize your business page where your customers can book their appointments online. Your customers can make bookings just the way they want." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -40,19 +39,18 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Fitness Classes Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>As much as we'd like to believe that Ice creams and chocolate cakes are elixirs for a long and healthy life, we know that's not the case. We also know that a regular exercise routine is one of the inevitable paths to a healthier and longer life. A fitness center encourages trainees to follow a well-balanced program that includes both strength training and proper exercise. This supports weight loss and heart health, helps prevent osteoporosis and improves muscle strength, stability, and versatility.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Finding the right and qualified trainer is tough and it is the biggest challenge for customers. Fitness business is one of the booming business in today's market. How do you manage all your trainees or students? How do you manage your trainers schedules in a simple way? How do you handle fitness trainees appointment scheduling?</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is a free fitness training online appointment and class booking software which lets your customers book their sessions online. you can also customize your business page where your customers can book their appointments online. Your customers can make bookings just the way they want. You can display all your services like one on one training, group classes everything under your personalised business page and moreover, Picktime is a free fitness class scheduling software so there are no hidden charges. You can also set your staff or trainers to all services or only to a particular service and let them handle their own bookings.</p>
 			</div>
 			<div class="key_features">
@@ -71,37 +69,35 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Fitness Classes</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Manage your Business Online</h3>
 			         <p>Getting customers through word of mouth is always an advantage instead of getting through advertisements. But managing your customers online and allowing customers to book online will make them feel special and better. manage all appointments, services and assign a particular service to your staff. Let your customers book their appointments from anywhere at anytime.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Save Time</h3>
 			        <p>You can save a lot of time by dealing with lesser phone calls and unnecessary disturbances. This way you can give quality time to your customers and increase your business as well.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Available 24/7</h3>
 			        <p>It is quite a task to call back all your customers who have called during your training sessions. But there is an easier way to do this. our  business management software will have all the relevant details on your website. Customers can see your availability before making appointments, which will get updated into your calendar right away. You will always receive notification of new appointments or class bookings, so you can plan your day accordingly.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					 <h3>Automatic Appointment Reminders</h3>
 		             <p>Every Fitness Center owner dreads no-shows. These are customers who forget their classes or show up at the incorrect time or date. With automatic appointment reminders in Picktime, you can reduce no-shows without having to call the customer. Picktime automatically sends the customer an email or SMS reminder so you have more time to do other tasks.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Cut Costs without paying a penny</h3>
 			         <p>It is always time taking and confusing to keep noting appointments in a dairy or going through an excel sheet. It is quite a common practise to hire someone to book appointments on your behalf. Save money with our a la mode gym management software.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Recurring appointments</h3>
-			      <p>Now you don’t have to undergo through the tiresome task of rebooking customers every time. Just use our recurring appointment tool and book your customer's schedule in advance. This way neither you nor your customer has to worry about anything which creates a better customer owner relationship.</p>
-				<br>
+			      	<p>Now you don’t have to undergo through the tiresome task of rebooking customers every time. Just use our recurring appointment tool and book your customer's schedule in advance. This way neither you nor your customer has to worry about anything which creates a better customer owner relationship.</p>
+					<br>
 					<p>Use our Picktime online appointment scheduling software and keep your customer management and booking worries at a distance. Register for free!</p>
 				</div>
 			</div>
 		</div>
 	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+    <jsp:include page="../scheduling-software/website-new-footer.jsp" />
 </body>
 </html>

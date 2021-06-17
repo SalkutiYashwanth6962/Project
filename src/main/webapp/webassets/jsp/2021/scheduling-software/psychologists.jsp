@@ -29,10 +29,9 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
-<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
+    <jsp:include page="../scheduling-software/website-new-navbar.jsp" />
 	<!--every page  wave-->
 	<section id="industries_services">
 		<div class="container">
@@ -41,16 +40,12 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Psychologists Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>In this mechanical world, people lead a rather stressful
 					routine and busy way of life, where a regular interview with a
 					professional psychologist often becomes part of it. As a
@@ -59,7 +54,7 @@
 					Having a great appointment system will set the client's mood even
 					before the session starts.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is a free online psychologist appointment scheduling
 					software that allows you to create a unique appointment page for
 					your business so that your patients can book appointments with you
@@ -70,7 +65,7 @@
 					psychologists, you need to meet with clients and patients and you
 					require a scheduling tool that provides a personal feel.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime's power is in its simplicity. Getting access to the
 					right combination of essential, inherent features means you’ll have
 					more time to focus on your passion and develop even stronger
@@ -103,7 +98,7 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Psychologists</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Less Paperwork, More Breakthroughs</h3>
 					<p>Have your patients engaged with your practice right from the
 						start with our best-in-class client portal featuring completely
@@ -111,7 +106,7 @@
 						freedom of growing your practice without worrying about spending
 						time on data entry, rescheduling, or appointment reminders.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Accessibility and Management</h3>
 					<p>You can easily manage, edit, create and cancel bookings from
 						your picktime calendar 24/7. This function will help you to
@@ -124,7 +119,7 @@
 						scheduling software has high standards for patient's data
 						protection.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>One calendar for your whole life</h3>
 					<p>Whether you see a patient one time or every three weeks, we
 						provide you with the flexibility to create a schedule that fits
@@ -132,14 +127,14 @@
 						easily added to your calendar so you can manage your whole life
 						from one place.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Sending automated notifications (Reduce No shows)</h3>
 					<p>Our appointment booking software sends email and SMS
 						notifications to your patients before the appointment as
 						confirmation or as a reminder. You can preset appointment reminder
 						before an appointment.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Appointment Booking on your Website</h3>
 					<p>Your website can work for you in more ways than simply being
 						an online support for your clients. Your website can also cut down
@@ -158,8 +153,6 @@
 			</div>
 		</div>
 	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+    <jsp:include page="../scheduling-software/website-new-footer.jsp" />
 </body>
 </html>

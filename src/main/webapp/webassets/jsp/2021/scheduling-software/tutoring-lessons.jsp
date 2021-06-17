@@ -29,7 +29,6 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -41,16 +40,15 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Tutoring Lessons Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Over the past several years, online booking of tutoring lessons has been gaining prominence. Many parents are starting to choose online tutoring lessons booking over traditional ways of tutoring admission at learning centers. The open gate to online booking has given parents and students many options of tutors and institutions. Even if you have never used a tutor before, you may be familiar with the traditional in-person approach: you make an appointment, meet one-on-one or with a group, and receive assistance in a given subject. However, the advent of the Internet has changed this dynamic in several important ways. The digital format of online tutoring lends itself wonderfully to creating a permanent record of each session.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is an online appointment booking system that is designed to make your life stress free by creating a platform through which your clients can schedule their
 				appointments directly. It, not only schedules your clients, but also helps you manage your schedules. Allocate particular services to specified staff with respect to their designations and create a well functioning work environment. If your institute has more than one tutor working, add them into your picktime account and let your clients see who is available at what time. Make time for people who really long you.</p>
 			</div>
@@ -74,39 +72,37 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Tutoring Lessons</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Be Always available</h3>
 		         	<p>May be you are a part time tutor with a very busy life and a family to look after. With picktime, your clients will be able to schedule meetings with you without actually calling you. Be virtually available round the clock with our class booking software.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Booking page</h3>
 		        	<p>Don’t own a website? Worry not as picktime creates a personalised booking page for your business where all your available times, locations and classes offered can be put up for your clients to see.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Class Booking</h3>
 			       <p>Are you tired of overcrowded classes and no crowd for other classes? Equally distribute all your students to different classes and give quality time to do everyone. Do what you love to do with peace. Also provide one on one classes.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Send automated reminders</h3>
 		        	<p>With our class booking software, send automated sms and email reminders to your students. More bookings and fewer no shows increase your business revenue.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>See detailed reports</h3>
 			        <p>Know which classes are doing well and which are not with a quick glance at your analysis.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Integrate with facebook</h3>
 		         	<p>Do a lot of your students come across your business through facebook? Turn your facebook page into a class scheduling engine. Turn visit ors into leads.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Sync with your calendar</h3>
 			        <p>With picktime schedule all your classes around your personal meetings and schedules. Reduce waiting times and frustrated customers with our free online class booking software.</p>
 				</div>
 			</div>
 		</div>
 	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+    <jsp:include page="../scheduling-software/website-new-footer.jsp" />
 </body>
 </html>

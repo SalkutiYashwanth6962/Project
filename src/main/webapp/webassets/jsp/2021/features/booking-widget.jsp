@@ -29,30 +29,27 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/features.css?_=<%=cache%>">
 </head>
 <body>
-<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
-<!--every page  wave-->
+	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
+	<!--every page  wave-->
 	<section id="industries_services">
-			<div class="container">
-				<div class="main_title" style="color:#8B22E2;"><h1>Booking widget</h1></div>
-			</div>
+		<div class="container">
+			<div class="main_title" style="color:#8B22E2;"><h1>Booking widget</h1></div>
+		</div>
 	</section>
 	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
 	<div id="features-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<div id="feature_sec">
-			<p>If you have a website there are certainly a lot of potential leads who may visit your website in tens and hundreds on a daily basis. Though you may put out your contact details and email address in your website, not many people use that info to contact you. </p>
+			<div class="feature_sec">
+				<p>If you have a website there are certainly a lot of potential leads who may visit your website in tens and hundreds on a daily basis. Though you may put out your contact details and email address in your website, not many people use that info to contact you. </p>
 	     	</div>
-			<div id="feature_sec">
-			<p>With our booking widget, turn leads into customers. Its very easy to install and easy to embed. Just copy paste the code that is generated in your picktime business account and you are ready to hold in your leads.  What is a booking button you ask? It is a button which lets clients or leads book appointments directly from your website. The booking button redirects to the booking page and the person can easily book appointments with you in the time-slots you make public. Reduce the hassle of having to take phone calls and replying to emails. Make yourself virtually available and make your website a appointment booking engine.</p>
+			<div class="feature_sec">
+				<p>With our booking widget, turn leads into customers. Its very easy to install and easy to embed. Just copy paste the code that is generated in your picktime business account and you are ready to hold in your leads.  What is a booking button you ask? It is a button which lets clients or leads book appointments directly from your website. The booking button redirects to the booking page and the person can easily book appointments with you in the time-slots you make public. Reduce the hassle of having to take phone calls and replying to emails. Make yourself virtually available and make your website a appointment booking engine.</p>
 			</div>
+	   </div>
 	</div>
-	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
+	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>

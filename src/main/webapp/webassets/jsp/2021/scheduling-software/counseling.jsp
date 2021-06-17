@@ -29,10 +29,9 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
-<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
+    <jsp:include page="../scheduling-software/website-new-navbar.jsp" />
 	<!--every page  wave-->
 	<section id="industries_services">
 		<div class="container">
@@ -41,13 +40,12 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Counseling Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>For every type of human struggle, there is a type of
 					counselor to helps us work through it. Grief, Marriage, credit,
 					substance abuse, even career woes – counselors who help people deal
@@ -61,7 +59,7 @@
 					problems that might occur. Remember if you don't be systematic or
 					organized you are to fail.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime for counselors is a great way to manage your
 					appointments. It allows for the automated appointment reminders via
 					email or text message. Picktime is a free appointment scheduling
@@ -97,7 +95,7 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Counseling Business</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>One Click Book Now Button</h3>
 					<p>A great way to inspire your customers towards your online
 						appointment booking software is to include a button on your
@@ -105,26 +103,26 @@
 						your phone number to call you for an appointment, give them the
 						option to book right from your website with a [Book Now] button.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Appointment Reminders</h3>
 					<p>Picktime has an inbuilt system which sends appointment
 						reminders to your clients through email or a text message. You can
 						set how in advance you want to remind your customers of their
 						appointments.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Personalized Booking Page</h3>
 					<p>provide your client with a unique customized(with your
 						brand) URL to book their appointments.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Group Sessions</h3>
 					<p>If you provide informative lectures or group sessions and
 						special events, you can manage class size through Picktime's
 						customizable Class Booking tool. Set the specifications and
 						Picktime tracks the progress of class enrollments.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Saves a lot of time</h3>
 					<p>Quite often you observe yourself spending a lot more time
 						than needed with a few of your clients and lot less with others.
@@ -132,7 +130,7 @@
 						time to others clients equally and have time for yourself at the
 						end of your day.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Reduce No-Shows</h3>
 					<p>A client can not show up due various reasons. Some of them
 						may include same day cancellations, client running late and worst
@@ -142,7 +140,7 @@
 						same day cancellation, your other clients can book their
 						appointments which is a win-win situation.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Maintain client privacy</h3>
 					<p>Because of the nature of your services, the data collected
 						through your business must be handled carefully and it should be
@@ -153,19 +151,6 @@
 			</div>
 		</div>
 	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/anime.js?_=<%=cache%>"></script>
-
-<!--aos animation -->
-<script src="/webassets/2021/js/aos.js?_=<%=cache%>"></script>
-
-<script src="/webassets/2021/js/main.js?_=<%=cache%>"></script>
-
-<script>
-AOS.init();
-</script>
-
+    <jsp:include page="../scheduling-software/website-new-footer.jsp" />
 </body>
 </html>

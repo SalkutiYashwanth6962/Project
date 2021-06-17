@@ -29,33 +29,30 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/features.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
-		<!--every page  wave-->
-		<section id="industries_services">
-				<div class="container">
-					<div class="main_title" style="color:#8B22E2;"><h1>Invoice Generation</h1></div>
-				</div>
-		</section>
-		<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
-		<!--every page  wave-->
-		<div id="features-body-section" style="margin-bottom: 200px;">
-			<div class="container">
-				<div id="feature_sec">
-		        <p>Manually typing in all services your customer has undergone and producing a bill kills a lot of time and needs your complete attention. Simply choose the type of payment your customer chooses to pay you in and simply click on check out. Going back and forth on a number of applications is old-fashioned and time consuming.</p>
-		      	</div>
-				<div id="feature_sec">
-		        <P>It is not just limited to generating invoices for the services undertaken, you can also add in discounts, special offer codes etc and it gets automatically updated in the invoice. If you are salon who also sells products, you can add in the products from your inventory to the invoice and give an overall bill to your customer.</P>
-				</div>
-				<div id="feature_sec">
-		        <p>With Picktime, work gets easier and easier. Spend quality time with your customers and less time on doing administrative work. Another added advantage is you can enjoy all this for free. Yes! You heard it right. Sign-up now and forget unhappy and unsatisfactory business management.</p>
-				</div>
+	<!--every page  wave-->
+	<section id="industries_services">
+		<div class="container">
+			<div class="main_title" style="color:#8B22E2;"><h1>Invoice Generation</h1></div>
 		</div>
-		</div>
+	</section>
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
+	<!--every page  wave-->
+	<div id="features-body-section" style="margin-bottom: 200px;">
+		<div class="container">
+			<div class="feature_sec">
+	        	<p>Manually typing in all services your customer has undergone and producing a bill kills a lot of time and needs your complete attention. Simply choose the type of payment your customer chooses to pay you in and simply click on check out. Going back and forth on a number of applications is old-fashioned and time consuming.</p>
+	      	</div>
+			<div class="feature_sec">
+	        	<P>It is not just limited to generating invoices for the services undertaken, you can also add in discounts, special offer codes etc and it gets automatically updated in the invoice. If you are salon who also sells products, you can add in the products from your inventory to the invoice and give an overall bill to your customer.</P>
+			</div>
+			<div class="feature_sec">
+	        	<p>With Picktime, work gets easier and easier. Spend quality time with your customers and less time on doing administrative work. Another added advantage is you can enjoy all this for free. Yes! You heard it right. Sign-up now and forget unhappy and unsatisfactory business management.</p>
+			</div>
+	   </div>
+	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
 </body>
 </html>

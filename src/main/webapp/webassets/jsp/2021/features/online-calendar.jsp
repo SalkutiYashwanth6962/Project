@@ -29,41 +29,38 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/features.css?_=<%=cache%>">
 </head>
 <body>
-<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
-<!--every page  wave-->
-<section id="industries_services">
+	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
+	<!--every page  wave-->
+	<section id="industries_services">
 		<div class="container">
 			<div class="main_title" style="color:#8B22E2;"><h1>Online Calendar</h1></div>
 		</div>
-</section>
-<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
-<!--every page  wave-->
+	</section>
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
+	<!--every page  wave-->
 	<div id="features-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<div id="feature_sec">
-			<h2>No more double bookings</h2>
-			<p>Tired of customers fighting over double bookings? Shuffling through never ending pages and excel sheets is never going happen with Picktime. Let customers book appointments only in the times you make available. Simply book and rebook classes, appointments with just a few clicks. You can also access the calendar from anywhere at any point of time. Mark holidays, time-offs and week offs of your staff and your business.</p>
-			<p>Plan all your personal events around your appointment. Forget being late for your appointments. Always be planned and informed about everything that is happening around you.</p>
+			<div class="feature_sec">
+				<h2>No more double bookings</h2>
+				<p>Tired of customers fighting over double bookings? Shuffling through never ending pages and excel sheets is never going happen with Picktime. Let customers book appointments only in the times you make available. Simply book and rebook classes, appointments with just a few clicks. You can also access the calendar from anywhere at any point of time. Mark holidays, time-offs and week offs of your staff and your business.</p>
+				<p>Plan all your personal events around your appointment. Forget being late for your appointments. Always be planned and informed about everything that is happening around you.</p>
 			</div>
-			<div id="feature_sec">
-			<h2>Recurring Appointments</h2>
-			<p>Booking customers who have to repeatedly come to your salon or clinic always can be burdensome. With just a click book your client for all of their future or upcoming appointments.</p>
+			<div class="feature_sec">
+				<h2>Recurring Appointments</h2>
+				<p>Booking customers who have to repeatedly come to your salon or clinic always can be burdensome. With just a click book your client for all of their future or upcoming appointments.</p>
 			</div>
-			<div id="feature_sec">
-			<h2>Colour code your appointments</h2>
-			<p>Give a specific colour to your service and know for what services your customers are coming in with just a glance at your screen.</p>
+			<div class="feature_sec">
+				<h2>Colour code your appointments</h2>
+				<p>Give a specific colour to your service and know for what services your customers are coming in with just a glance at your screen.</p>
 			</div>
-			<div id="feature_sec">
-			<h2>Multiple Locations</h2>
-			<p>Do you have more than one branch at different Locations? We have got your back. Know what is happening at your location from anywhere.</p>
+			<div class="feature_sec">
+				<h2>Multiple Locations</h2>
+				<p>Do you have more than one branch at different Locations? We have got your back. Know what is happening at your location from anywhere.</p>
 			</div>
+   		</div>
 	</div>
-	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
+	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>

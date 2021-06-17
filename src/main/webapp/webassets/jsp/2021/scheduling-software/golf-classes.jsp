@@ -28,10 +28,9 @@
 	<meta name="twitter:description" content="Picktime is a easy-to-use online booking system for Golf classes to manage appointments and bookings in the most effective way. Have your calendar fully booked without your phone ringing once." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
-<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
+  <jsp:include page="../scheduling-software/website-new-navbar.jsp" />
 	<!--every page  wave-->
 	<section id="industries_services">
 		<div class="container">
@@ -46,7 +45,7 @@
 		<div class="container">
 			<img class="img-responsive" alt="Golf Classes Scheduling Software"
 				src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Online scheduling is a great way to improve profitability for
 					Golf classes. Do you offer training and classes? Do you teach golf
 					and get tired of scheduling the lessons manually? In this case, you
@@ -55,7 +54,7 @@
 					any type of class and this has allowed us to gain experience and
 					fine tune our software to perfection.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is a easy-to-use online booking system for Golf
 					classes to manage appointments and bookings in the most effective
 					way. Have your calendar fully booked without your phone ringing
@@ -92,7 +91,7 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Golf Classes</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Communication with your customers</h3>
 					<p>Picktime connects you with each of your customer's personal
 						profiles, providing you with useful information such as personal
@@ -101,7 +100,7 @@
 						scheduling easily and they will get notified for their current
 						appointments.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Always at your fingertips</h3>
 					<p>With your schedule in your hands, you can instantly create
 						and update services. Add new services that automatically sync with
@@ -110,14 +109,14 @@
 						Stay organized and boost productivity by easily managing multiple
 						staff schedules.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Auto Reminders</h3>
 					<p>Your clients get instant email and SMS reminders for every
 						appointment they book, cancel or reschedule. Say goodbye to missed
 						appointments. You can avoid up to 24% of no shows daily which
 						means your revenue grows constantly.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Book Now Button</h3>
 					<p>Your clients can connect to you even on mobile or with any
 						internet connected device and can see when you are available from
@@ -126,7 +125,7 @@
 						existing website, simply add a Picktime booking button to turn
 						your website into an appointment booking engine!</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Online Calendar</h3>
 					<p>Let your clients book online 24/7 with no intervention even
 						when your business is closed. You will see the appointments
@@ -134,7 +133,7 @@
 						different calendar views: day, week, or month. Get your business
 						under control.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Customers list</h3>
 					<P>You have a complete list of your customers with all their
 						contact details and annotations. You will have full control of all
@@ -142,7 +141,7 @@
 						ones you enter manually on your calendar. You can send direct
 						notifications both by email and SMS.</P>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Staffs and profiles</h3>
 					<p>You can create different access roles for your staff. You
 						can set specific permissions for editing or view the different
@@ -156,7 +155,5 @@
 		</div>
 	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
 </body>
 </html>

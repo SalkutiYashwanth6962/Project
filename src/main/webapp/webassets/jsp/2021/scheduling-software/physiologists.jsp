@@ -25,7 +25,6 @@
 	<meta name="twitter:description" content="Picktime is a robust Physiologist appointment scheduling software that is so easy to use. Take your practice to the next level, Picktime is the perfect application for all hospitals and doctor offices even if you are a one-man army or if you have multiple locations and multiple staff members." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -37,13 +36,12 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Physiologists Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>While patient growth certainly has its benefits, it also
 					creates new difficulties for Physiologists and their staff.
 					Processes and methods that previously were adequate may no longer
@@ -56,7 +54,7 @@
 					facility continues to rely on the most standard and also the most
 					inefficient manner of scheduling appointments over the phone.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime, an online appointment scheduling system, allows
 					individuals to conveniently and securely book their appointments
 					with Physiologists online through any Web-connected device. They
@@ -69,7 +67,7 @@
 					out to patients and booked individuals on a specific date prior to
 					their scheduled appointment.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Securing your information is our number one priority. Your
 					data is backed up automatically and kept in ultra-secure
 					facilities. Picktime is a robust Physiologist appointment
@@ -101,14 +99,14 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Physiologists</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Free Client Scheduling Page & Website Integration</h3>
 					<p>If you don’t have a website, never fear! Your Picktime
 						account comes with a unique free patient scheduling page for your
 						business. Grow your client list while you sleep. Get Picktime
 						"Book Now" button to your existing website.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Accessibility</h3>
 					<p>Gain more freedom by being able to check your appointments
 						or schedule new ones, no matter where you are. Picktime is the
@@ -119,7 +117,7 @@
 						for ways to simplify bookings and give your patients a chance to
 						reserve the slot online just with few clicks.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Security and confidentiality of all client data</h3>
 					<p>The security of our patient management software is without
 						any doubt of highest standards because we never display your
@@ -128,13 +126,13 @@
 						using double authentication during login process for all users who
 						access the system.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Sending notifications to your patients</h3>
 					<p>Our online booking system sends email and SMS notifications
 						to your patients before the appointment or in a time preset by you
 						to notify about the consultation, cancellation or rescheduling.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Reduce No shows</h3>
 					<p>By sending automatic reminders through email and SMS help
 						your patients to keep their appointments and increase your
@@ -153,9 +151,5 @@
 		</div>
 	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/anime.js?_=<%=cache%>"></script>
-
 </body>
 </html>

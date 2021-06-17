@@ -25,7 +25,6 @@
 	<meta name="twitter:description" content="Picktime scheduling software helps government departments simplify their complicated, high-volume engagement requirements. Picktime scheduling software is proven to improve citizen experience and create staff process efficiencies." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -42,10 +41,10 @@
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="City Councils Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>All over the world, cities, towns and villages are maintained by government organizations with the structured process that provide a variety of services to improve people's lives and society growth. These government offices get a huge flow of requests and applications from people to solve their day to day issues. Normally City councils will have various departments to solve people's problems but the problem is handling those applications. Scheduling tasks to multiple city council staffs is another difficult situation. To handle all those applications and assign tasks to multiple staffs, the city council could start with an online scheduling system. Meeting and appointment scheduling software that helps you save time, increase customer satisfaction and be more competitive.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime scheduling software helps government departments simplify their complicated, high-volume engagement requirements. Picktime scheduling software is proven to improve citizen experience and create staff process efficiencies. Powerful reporting enables management to easily maximize staff and resource utilization. our free online appointment booking software for government officials can be accessed without installation as it is web based appointment scheduling software. It can be used without the need for training or classes, and accessed via any web browser, even on tablets and mobile phones. It will reduce the workload for those doing the scheduling, but it will also reduce stress, disappointment, and loss of productivity caused by scheduling errors and risks.</p>
 			</div>
 			<div class="key_features">
@@ -68,23 +67,23 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for City Councils</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Effective citizen engagement</h3>
 			         <p>gain the trust of public by managing schedules effectively with our online scheduling software. Turn lazy working hours into the most effective ones. Spend quality time with public and be more available to them.</p>
 				</div>
-				<div id="services_sec">
-					<h3>Seamless Experience</h3>
+				<div class="services_sec">
+					<h3>Seam less Experience</h3>
 		             <p>Structured services assure critical services focus on members of the community most in need. Picktime’s range of scheduling solutions smoothly run many different journeys. Combine appointments(group appointments) to cope with demand peaks and troughs, or use events to host regular educational courses. All services can be synchronized to provide a seamless experience that increases satisfaction and creates efficiencies.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Sync other calendars</h3>
 	         		<p>Integrate appointments with Google, Outlook, Office 365, Exchange and iCloud calendar with Picktime for convenient calendar management. Schedules update as appointments inevitably change to ensure staff makes the most of their time. Connect citizen data at the point of service delivery to save time and provide a great service.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3 class="service-desc-title">Efficient Use</h3>
 			         <p>have a structured process and make sure your staff spend quality time with citizens. Allocate particular services to particular staff. Avoid no shows with automated sms and email reminders. Let the public adjust their appointments to fit their schedule. Reopen cancelled time slots.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Protecting your organization’s information</h3>
 			        <p>Information security is a central tenet to the trust customers places in Picktime. We have extremely robust data security policies and practices in place. This provides increased security on information and improves customer confidence.</p>
 				</div>
@@ -92,7 +91,5 @@
 		</div>
 	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-	<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

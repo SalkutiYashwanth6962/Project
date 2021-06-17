@@ -26,7 +26,6 @@
 	<meta name="twitter:description" content="Picktime is a free online scheduling software specially designed for libraries to make your scheduling tasks effective and easier. Easily reschedule and assign shifts to staff at multiple locations." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -44,10 +43,10 @@
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Libraries Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Most of the libraries function with the help of spreadsheets, excel sheets and books to manage staff and books. These methods though effective often cause quite a lot of confusion. Maintaining a library not only includes managing staff schedules, it means undertaking a difficult task like keeping records of all the books available, which books are reserved and which books need to be kept back into their respective positions. effective scheduling and introducing new ways to manage your library is the right way to keep your library organised with meagre budgets.most of the library administrative staff find it difficult to manage staff properly with a lot of other important work to do. Amp up your modernisation to next level.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is a free online scheduling software specially designed for libraries to make your scheduling tasks effective and easier. Easily reschedule and assign shifts to staff at multiple locations. Avoid scheduling chaos and know who is working at what time from anywhere at anytime. Track who is on leave and who is on break even when you are miles away! Manage</p>
 			</div>
 			<div class="key_features">
@@ -66,31 +65,29 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of using Picktime</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Schedule staff</h3>
 			        <p>With picktime scheduling software, Prepare staff schedules in a jiffy. Drag and drop to easy reschedule or block times.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Notifications</h3>
 			        <p>Send notifications students about free conference rooms,returned books. Notify staff, librarians and interns about allocated shifts and meetings.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Use it from anytime and anywhere</h3>
 			        <p>Let your students know information about anything about the library from your booking page. With this a lot of time is saved both for the staff and students. Update all the information about books, digital material etc.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Add all your services</h3>
 			        <p>Give specific colours to every service and make your service easy! Make multitasking easier with our library scheduling software. Say bye-bye to outdated books and excel sheets.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Multiple location access</h3>
 			        <p>If your services are available at multiple locations, easily organise all your data you store from a centralised system. Reduce the revenue you spend on hiring multiple librarians for maintaining records.</p>
 				</div>
 			</div>
 		</div>
 	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
 </body>
 </html>

@@ -27,7 +27,6 @@
 	<meta name="twitter:description" content="Picktime is a free online room booking software with which you can book a meeting room from any part of the world with just an internet connected device. You can schedule a meeting in the room of your choice right from your home screen. Picktime is a fantastic way of making sure your room management system is running smoothly." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -39,16 +38,15 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Meeting Rooms Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>The rising trend in freelancers working from shared offices is one that is changing the face of business, and there are also more businesses than ever before saving money by using shared facilities and resources. For business incubators, our meeting room booking software is very useful, and it offers much more than just booking systems.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is a free online room booking software with which you can book a meeting room from any part of the world with just an internet connected device. You can schedule a meeting in the room of your choice right from your home screen. Picktime is a fantastic way of making sure your room management system is running smoothly. Our meeting room management software comes with lots of features for your business. The weekly dashboard shows room availability instantly and users can book a meeting room in just a few clicks. For recurrent meetings, we offer an advanced booking screen as well for attendees. Meeting room management is the main goal of our Picktime booking software.</p>
 			</div>
 			<div class="key_features">
@@ -71,35 +69,33 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Meeting Rooms Business</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3 class="service-desc-title">Real Time Saver</h3>
 			        <p>With Picktime, you can schedule a meeting in the room of your choice right from your home screen. With Picktime you can have a glance of availability for a day, week or month. This way, you will always know if the room they need is available at the time and date they want.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3 class="service-desc-title">Booking Calendar</h3>
 		        	<p>Picktime's user-friendly interface allows you to make bookings directly in the calendar in just a few clicks. You are able to see everything at a glance and get a full visual overview of your space bookings. The drag and drop functionality lets you easily move bookings around and make adjustments wherever needed.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3 class="service-desc-title">Online Bookings</h3>
 			        <p>Online meeting room bookings can be enabled for your staffs, removing hours of administration time. Once you choose to give them access, they can sign in and have fun making bookings with our frictionless and intuitive approach. Availability is shown on the main booking calendar and bookings are made in only a few clicks.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3 class="service-desc-title">Fully Customizable</h3>
 			        <p>We're sure your venue has specific regulations that users need to respect while booking. For example, do you have maximum and minimum booking times? Do you want to manage strict booking "blocks" to eliminate wasteful gaps in your schedule? Do you have different kinds of users (e.g. Members, Coaches) that need particular treatment? As the best-in-class product for customizing the conditions and pricing under which users book your spaces, Picktime has you covered.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3 class="service-desc-title">User Management</h3>
 			        <p>Your users are at the heart of your venue, and Picktime gives you the versatility you need to take care of them. Everything is available from the user's list.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					 <h3 class="service-desc-title">Mobile Friendly</h3>
 		        	<p>Picktime lives in the cloud and is accessible from any device that's connected to the web. Just open a browser, type in your subdomain(to access your business page) and you're ready! Our mobile-first, responsive design lets you manage your bookings from wherever you are using on any mobile device. Your users likewise have access to a booking process optimized for mobiles, allowing them to check availability, manage existing bookings and make new bookings on the go, all without having to download, install or update any apps!</p>
 				</div>
 			</div>
 		</div>
 	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+    <jsp:include page="../scheduling-software/website-new-footer.jsp" />
 </body>
 </html>

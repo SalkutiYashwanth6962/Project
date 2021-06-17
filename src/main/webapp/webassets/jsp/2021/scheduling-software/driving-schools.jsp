@@ -30,7 +30,6 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 <jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -42,19 +41,15 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"
-		id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
-
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			
 			<img class="img-responsive" alt="Driving Schools Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>To schedule a driving lesson with an instructor, most times, student have to make a phone call. What happens if you are out on the road, trying to teach students how to drive? Many driving instructors are independent contractors with no access to an office, but they run business over their cell phone. For that reason, for a student interested in going to driving school, it may not be convenient to keep calling a driving instructor to make an appointment and not be able to get through. That is why an online appointment scheduling system is important.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is an easy-to-use, comprehensive and advanced appointment scheduling software solution for Auto Consultants and Driving Schools. Picktime allows driving school owners to completely manage their business. It is designed to manage most critical aspects of driving school business. We understand that it is quite challenging to schedule appointments, manage classes, report, and more. Our software is very easy to navigate, and clients with limited computer skills were able to quickly learn the program efficiently. Both young and old users can manage to use many aspects of the software in a matter of minutes.</p>
 			</div>
 			<div class="key_features">
@@ -81,27 +76,25 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Driving School Business</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Student Scheduling</h3>
 			        <p>Student and staff scheduling and resource management is probably one of the most difficult aspects of driving school industry. It often gets quite confusing to refer back on pages to see who is free and who is busy. Not to mention great inefficiency in printing schedules and keeping track of working hours. We are proud to say that Picktime is the most integrated, and has flexible scheduling capability compared to any software in the market.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Appointment Rescheduling</h3>
 			        <p>Easy to use Drag-And-Drop option enables you to quickly reschedule an appointment with the same instructor, or schedule an appointment to another instructor. By dragging an appointment you can automatically change time, date or even instructor. Its that easy.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Integrated Class Schedules</h3>
 			        <p>Picktime Driving School appointment scheduler will also display staff and students scheduled class sessions. Picktime Calendar will display when and which session is being taught by whom, you can eliminate double booking of student, staff and even vehicles.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3 class="service-desc-title">Automatic Email Reminders and Notifications</h3>
 		        	<p>The Greatest benefit of having a web based software is the ability to communicate with students, and staff via email. Our Integrated reminder option will automatically send email and SMS to students, and staffs based on school settings. Picktime can send multiple reminders for each upcoming in-car lesson or class session, or even if there was any class cancellation.</p>
 				</div>
 			</div>
 		</div>
 	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+    <jsp:include page="../scheduling-software/website-new-footer.jsp" />
 </body>
 </html>

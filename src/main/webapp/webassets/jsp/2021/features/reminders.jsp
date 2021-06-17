@@ -28,34 +28,31 @@
 	<meta name="twitter:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/features.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
-		<!--every page  wave-->
-		<section id="industries_services">
-				<div class="container">
-					<div class="main_title" style="color:#8B22E2;"><h1>Reminders</h1></div>
-				</div>
-		</section>
-		<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
-		<!--every page  wave-->
-		<div id="features-body-section" style="margin-bottom: 200px;">
-			<div class="container">
-				<div id="feature_sec">
+	<!--every page  wave-->
+	<section id="industries_services">
+		<div class="container">
+			<div class="main_title" style="color:#8B22E2;"><h1>Reminders</h1></div>
+		</div>
+	</section>
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
+	<!--every page  wave-->
+	<div id="features-body-section" style="margin-bottom: 200px;">
+		<div class="container">
+			<div class="feature_sec">
 				<p>Have you ever faced problems with staff not turning up? Well, most of the customers who have their appointments booked tend to forget that they have an appointment in the first place. This is one of the major reasons why many businesses see a lot of no-shows or late check-in’s.</p>
-		     	</div>
-				<div id="feature_sec">
-		         <p>We also agree that It can be highly inconvenient to keep reminding your customers of their appointments through phone calls and manual messaging. And moreover what is an appointment scheduling software without infused modern technology?</p>
-				</div>
-				<div id="feature_sec">
+	     	</div>
+			<div class="feature_sec">
+	        	 <p>We also agree that It can be highly inconvenient to keep reminding your customers of their appointments through phone calls and manual messaging. And moreover what is an appointment scheduling software without infused modern technology?</p>
+			</div>
+			<div class="feature_sec">
 		         <p>Picktime lets you send automated messages to your clients when an appointment is booked. It is not only limited to that, you as a business owner can customise the way your message looks and when it reaches your customers inbox in you business settings. It is not just limited to sending SMS to your customers, you can send them to your staff as well.</p>
 				 <p>Forget about No-shows and customers arriving at the wrong time with our SMS reminder feature.</p>
-				</div>
-		</div>
+			</div>
+	    </div>
 	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
 </body>
 </html>

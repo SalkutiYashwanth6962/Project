@@ -31,17 +31,16 @@
     <jsp:include page="scheduling-software/website-new-headtag.jsp"/>
 </head>
 <body>
-<jsp:include page="scheduling-software/website-new-navbar.jsp" />
- <section id="banners">
+	<jsp:include page="scheduling-software/website-new-navbar.jsp" />
+	<section class="banners">
 		<div class="container">
-			<div
-				class="col-md-6">
+			<div class="col-md-6">
 				<div class="b-t-y">
-					<h1 style="margin-top: 111px;">Are you always on the go?</h1>
+					<h1 style="margin-top: 70px;">Are you always on the go?</h1>
 				</div>
-				<p class="b-p-y">We got your back. Picktime can be used from Android, ios and Windows as well. Our team has taken extra care to design the app in such a way
-                         that the user can use it anytime and from anywhere.</p>
-				<a  href="/register"><div class="btn-lg text-center">GET STARTED FOR FREE</div></a>
+				<p class="b-p-y">We got your back. Picktime can be used from Android, ios and Windows as well. Our team has taken extra care to design the app in such a way that the user can use it any time and from anywhere.</p>
+				<!-- <a  href="/register"><div class="btn-lg text-center">GET STARTED FOR FREE</div></a> -->
+				<a  href="/register"><button class="btn-lg text-center signup-btn-banner">GET STARTED FOR FREE</button></a>
 			</div>
 			<div class="col-md-6 hidden-sm hidden-xs">
 			    <img src="/webassets/2021/img/mobile-screens/mobile-screen.svg" class="img-responsive" width="auto" alt="Picktime-Mobile-App" id="mobile-main">
@@ -49,7 +48,7 @@
 		</div>
 	</section>
    <!---------------------------------Apps--------------start------->
-  <section id="apps-body">
+	<section id="apps-body">
 		<div class="container appsPage-body">
 			<div class="row">
 				<div class="col-md-6 hidden-md hidden-lg mobile-app-image">
@@ -95,19 +94,7 @@
 			</div>
 		</div>
 	</section>
-<!---------------------------------Apps--------------End------->
-<jsp:include page="scheduling-software/website-new-footer.jsp"/>
- <script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
-<!--aos animation -->
-<script src="/webassets/2021/js/aos.js?_=<%=cache%>"></script>
-<script>
-AOS.init();
-</script>
-<script type="text/javascript">
- $(window).scroll(function(){
-	$('nav').toggleClass('scrolled', $(this).scrollTop() > 500);
-});
-</script>
+	<!---------------------------------Apps--------------End------->
+	<jsp:include page="scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>

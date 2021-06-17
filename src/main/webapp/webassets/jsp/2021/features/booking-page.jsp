@@ -29,34 +29,31 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/features.css?_=<%=cache%>">
 </head>
 <body>
-<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
-<!--every page  wave-->
+	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
+	<!--every page  wave-->
 	<section id="industries_services">
-			<div class="container">
-				<div class="main_title" style="color:#8B22E2;"><h1>Booking Page</h1></div>
-			</div>
+		<div class="container">
+			<div class="main_title" style="color:#8B22E2;"><h1>Booking Page</h1></div>
+		</div>
 	</section>
 	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
-<!--every page  wave-->
+	<!--every page  wave-->
 	<div id="features-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<div id="feature_sec">
-			<p>Don’t have a website to get new leads or create new ones into customers? With Picktime, you can not just create a calendar to look after your business and everyday appointments, you can also create a new booking page for your business and let your clients book appointments online.</p>
+			<div class="feature_sec">
+				<p>Don’t have a website to get new leads or create new ones into customers? With Picktime, you can not just create a calendar to look after your business and everyday appointments, you can also create a new booking page for your business and let your clients book appointments online.</p>
 	     	</div>
-			<div id="feature_sec">
-			<p>Forget hiring somebody to take your appointments on your behalf or  having to take calls by yourself when you are in a busy client meeting. Simply send or share your booking link to your customers and you are all set. You will never have to worry about a phone that constantly rings or a losing customers.</p>
+			<div class="feature_sec">
+				<p>Forget hiring somebody to take your appointments on your behalf or  having to take calls by yourself when you are in a busy client meeting. Simply send or share your booking link to your customers and you are all set. You will never have to worry about a phone that constantly rings or a losing customers.</p>
 			</div>
-			<div id="feature_sec">
-			<p>You can not just let your customers book appointments, you can customise it the way you want. Monitor the times in which you will be available to your clients and how in advance they can take an appointment with you. There also other features which you can add into your booking page like intake forms and customers details. If your customer is a returning customer you can save their details and add in an offer once in awhile.</p>
-			<p>Customise your booking page now and say goodbye to picking up phones during unconventional times and answering client queries. Increase your business scale by leaps and bounds.</p>
+			<div class="feature_sec">
+				<p>You can not just let your customers book appointments, you can customise it the way you want. Monitor the times in which you will be available to your clients and how in advance they can take an appointment with you. There also other features which you can add into your booking page like intake forms and customers details. If your customer is a returning customer you can save their details and add in an offer once in awhile.</p>
+				<p>Customise your booking page now and say goodbye to picking up phones during unconventional times and answering client queries. Increase your business scale by leaps and bounds.</p>
 			</div>
+	   </div>
 	</div>
-	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
+	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>

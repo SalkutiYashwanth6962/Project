@@ -39,5 +39,4 @@
 	<link rel="stylesheet" href="/webassets/2021/css/aos.css?_=<%=cache%>"/>
 	<!--Main CSS File-->  
 	<link rel="stylesheet" type="text/css" href="/webassets/2021/css/website.css?_=<%=cache%>">
-	
 	<script>if (typeof module === 'object') {window.module = module; module = {};}</script>

@@ -29,7 +29,6 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -41,13 +40,12 @@
 			</div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg"id="industries_wave_banner">
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Colleges Scheduling Software"
-				src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<img class="img-responsive" alt="Colleges Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<div class="services_sec">
 				<p>The Internet has obviously been one of the prominent
 					innovations in human history. It has single-handedly cherished
 					hundreds of changes to a variety of industries. It has widened
@@ -61,7 +59,7 @@
 					this incredible technology. For college counseling departments,
 					especially, the benefits have been incredible.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is a free online appointment setting and scheduling
 					software which allows college counselors to set and schedule
 					orientation sessions for freshers, mid-level students, and graduate
@@ -72,7 +70,7 @@
 					for how many students to expect at each session, which can be
 					extremely helpful.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Our fully customizable, fully flexible appointment booking
 					widget embed seamlessly into your website, letting your students
 					browse your upcoming sessions and availability and make their
@@ -102,7 +100,7 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Colleges</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3 class="service-desc-title">Quicker and Efficient
 						Scheduling of Assessment Exams</h3>
 					<p>Picktime can also be extremely helpful for colleges which
@@ -112,7 +110,7 @@
 						and it is especially useful here, exam proctors can assume how
 						many test takers will attend a given exam.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3 class="service-desc-title">Manage Appointments For
 						Counseling Sessions</h3>
 					<p>The power of online administration of appointments and
@@ -123,7 +121,7 @@
 						online scheduling software allows students and counselors to set
 						and track appointments easily.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3 class="service-desc-title">Set and Manage Appointments
 						with Students for any Event</h3>
 					<p>Another useful tool, class booking has the ability to
@@ -132,7 +130,7 @@
 						coordinate and manage schedules with a group of students easily
 						for any event.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3 class="service-desc-title">Always online</h3>
 					<p>With Picktime, you are virtually available for bookings of
 						classes, events, and sessions. Your availability is always
@@ -141,7 +139,7 @@
 						your dashboard lets you know who you are counseling or teaching
 						today.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3 class="service-desc-title">Customized Emails and Calendar</h3>
 					<p>Send fully customizable booking confirmations and reminders
 						to reduce last minute cancellations and no-shows. Picktime can
@@ -161,7 +159,5 @@
 		</div>
 	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 </body>
 </html>

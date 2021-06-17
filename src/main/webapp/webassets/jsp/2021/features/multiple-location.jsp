@@ -29,30 +29,27 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/features.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
-		<!--every page  wave-->
-		<section id="industries_services">
-				<div class="container">
-					<div class="main_title" style="color:#8B22E2;"><h1>Multiple Location Access</h1></div>
-				</div>
-		</section>
-		<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
-		<!--every page  wave-->
-		<div id="features-body-section" style="margin-bottom: 200px;">
-			<div class="container">
-				<div id="feature_sec">
-		        <P>Do you get tired having to shuffle between your branches located at different locations? Our team at Picktime understands the effort you put into shuffling between your business and trying to divide your time between each location.</P>		
-		     	</div>
-				<div id="feature_sec">
-		        <P>Picktime automatically detects your client's location and lets them book appointment in any of your branch location.</P>
-				</div>
+	<!--every page  wave-->
+	<section id="industries_services">
+		<div class="container">
+			<div class="main_title" style="color:#8B22E2;"><h1>Multiple Location Access</h1></div>
 		</div>
-	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
+	</section>
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
+	<!--every page  wave-->
+	<div id="features-body-section" style="margin-bottom: 200px;">
+		<div class="container">
+			<div class="feature_sec">
+	        	<P>Do you get tired having to shuffle between your branches located at different locations? Our team at Picktime understands the effort you put into shuffling between your business and trying to divide your time between each location.</P>		
+	     	</div>
+			<div class="feature_sec">
+	        	<P>Picktime automatically detects your client's location and lets them book appointment in any of your branch location.</P>
+			</div>
+	   	</div>
+   	</div>
+	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>

@@ -29,33 +29,30 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/features.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
-		<!--every page  wave-->
-		<section id="industries_services">
-				<div class="container">
-					<div class="main_title" style="color:#8B22E2;"><h1>Team Management</h1></div>
-				</div>
-		</section>
-		<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
-		<!--every page  wave-->
-		<div id="features-body-section" style="margin-bottom: 200px;">
-			<div class="container">
-				<div id="feature_sec">
-		        <P>Is one of your staff free for that day? With picktime, you can automatically assign a service to that staff. When an appointment is booked, Picktime not only adds the appointment to your business calendar, it also adds it to the personal calendar of your staff. So you don’t have to worry about calling him and keep reminding him of his appointments if your business provides services on the go.</P>
-		     	</div>
-				<div id="feature_sec">
-		        <P>Picktime not only lets you choose the permissions you give to your staff. Easily manage schedules and even better let them manage their schedules themselves.</P>
-				</div>
-				<div id="feature_sec">
-		        <P>Automatically generate reports. Know which staff has provided the best service for that particular week or month. This not only gives you better insights about your staff but also helps your reward them anyway possible. You can also add unlimited staff to your account for no added cost. What are you still waiting for? join on board for free.</P>
-				</div>
-		   </div>
+	<!--every page  wave-->
+	<section id="industries_services">
+		<div class="container">
+			<div class="main_title" style="color:#8B22E2;"><h1>Team Management</h1></div>
 		</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
+	</section>
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
+	<!--every page  wave-->
+	<div id="features-body-section" style="margin-bottom: 200px;">
+		<div class="container">
+			<div class="feature_sec">
+	        	<P>Is one of your staff free for that day? With picktime, you can automatically assign a service to that staff. When an appointment is booked, Picktime not only adds the appointment to your business calendar, it also adds it to the personal calendar of your staff. So you don’t have to worry about calling him and keep reminding him of his appointments if your business provides services on the go.</P>
+	     	</div>
+			<div class="feature_sec">
+	       		 <P>Picktime not only lets you choose the permissions you give to your staff. Easily manage schedules and even better let them manage their schedules themselves.</P>
+			</div>
+			<div class="feature_sec">
+	       		 <P>Automatically generate reports. Know which staff has provided the best service for that particular week or month. This not only gives you better insights about your staff but also helps your reward them anyway possible. You can also add unlimited staff to your account for no added cost. What are you still waiting for? join on board for free.</P>
+			</div>
+	   </div>
+	</div>
+   <jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>

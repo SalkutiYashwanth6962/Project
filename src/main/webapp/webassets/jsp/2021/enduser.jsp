@@ -31,13 +31,11 @@
 </head>
 <body>
 <jsp:include page="scheduling-software/website-new-navbar.jsp" />
-<div id="gdpr" style="margin: 120px 0px 300px 0px;">
-	<div class="container">
-     <h1>End User Page</h1>
-  </div>
-</div>
+	<div id="enduser" style="margin: 120px 0px 300px 0px;">
+		<div class="container">
+	       <h1 class="text-center">End User Page</h1>
+	    </div>
+	</div>
 <jsp:include page="scheduling-software/website-new-footer.jsp"/>
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
 </body>
 </html>

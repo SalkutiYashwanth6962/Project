@@ -29,7 +29,6 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -47,10 +46,10 @@
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Photographers Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>If you are a photographer, concentrating on getting the right shot is very important. Photographers are the key part for any special occasion they capture  moments that will be cherished forever. With selfies becoming the new trend, it's highly unlikely that people would hire an amature to capture your wedding moments or birthday parties. As an artist your main goal is deliver the best of output to your clients. Whether you have a team of assistants and photographers or you run your business alone managing schedules is the key for running your business in a stress free way.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is a free appointment scheduling software for photographers which is made to make your life easy. Our booking software is a free online solution that makes it easy for you to accept and manage bookings for your photography business. Have your calendar up and ready to use today, no programming required, no installation and no contracts! With a office manager it is quite difficult to keep up with everyday appointments because you have to be at many different places in a single day. With picktime a quick glance at the dashboard will give you a overview of your days schedules. Manage staff schedules and appointment slots by updating everything in your booking page. Let your clients know when you are free and when you are busy with our free booking system.</p>
 			</div>
 			<div class="key_features">
@@ -74,31 +73,29 @@
 			</div>
 			<div class="bottom_section">
 				<h2>BENEFITS OF USING PICKTIME</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Online calendar</h3>
 					<p>It doesn't matter if you are busy at other events or wedding photo shoots. Your customers will be able to book available slots with you without having to interfere.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Manage staff</h3>
 					<p>If you have a team working with you at multiple locations, know what they are up to or who is working on that day and who is not with just a look at your dashboard. Make work easy and allow room for creativity and other important administration work with our appointment booking tool.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Book now button</h3>
 					<p>Embedded our code into your website. Use our book now button and turn all your website visitors into customers. Integrate seamlessly with all your Facebook and other social media handles.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Personalised booking page</h3>
 					<p>Don’t have a website? Don’t worry as we create a personalised booking page that will suit the needs of your business.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Maintain customer database</h3>
 					<p>Dump your excel sheets and old school appointment books to keep up with your old customers. With our appointment scheduling software, you can store all your customer information like their names, addresses etc.</p>
 				</div>
 			</div>
 		</div>
 	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+    <jsp:include page="../scheduling-software/website-new-footer.jsp" />
 </body>
 </html>

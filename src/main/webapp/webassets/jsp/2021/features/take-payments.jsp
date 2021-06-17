@@ -29,33 +29,30 @@
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/features.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
-		<!--every page  wave-->
-		<section id="industries_services">
-				<div class="container">
-					<div class="main_title" style="color:#8B22E2;"><h1>Take payments</h1></div>
-				</div>
-		</section>
-		<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
-		<!--every page  wave-->
-		<div id="features-body-section" style="margin-bottom: 200px;">
-			<div class="container">
-			    <div id="feature_sec">
-		        <P>Are you depending on other sources to take care of the finances of your business? Is it costing you a lot of time shuffling between two or three applications? We understand how time consuming this process is.</P>
-		     	</div>
-				<div id="feature_sec">
-		        <P>Forget having to shuffle between apps as with Picktime you don’t have to worry about increasing waiting time of customers and maintaining your company records in a number of applications. We have partnered with Stripe and Paypal to make card transactions easier for you.</P>
-				</div>
-				<div id="feature_sec">
-		         <p>You can also let your customers make payments initially when they are booking an appointment with you so that you don’t have to take the loss of a customer no-show or losing potential customers. If your customer is paying you in cash you can can keep track of your cash inflow as well with the checkout feature and print out bills.</p>
-				</div>
-		    </div>
+	<!--every page  wave-->
+	<section id="industries_services">
+		<div class="container">
+			<div class="main_title" style="color:#8B22E2;"><h1>Take payments</h1></div>
 		</div>
+	</section>
+	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
+	<!--every page  wave-->
+	<div id="features-body-section" style="margin-bottom: 200px;">
+		<div class="container">
+		    <div class="feature_sec">
+	       		 <P>Are you depending on other sources to take care of the finances of your business? Is it costing you a lot of time shuffling between two or three applications? We understand how time consuming this process is.</P>
+	     	</div>
+			<div class="feature_sec">
+	        	 <P>Forget having to shuffle between apps as with Picktime you don’t have to worry about increasing waiting time of customers and maintaining your company records in a number of applications. We have partnered with Stripe and Paypal to make card transactions easier for you.</P>
+			</div>
+			<div class="feature_sec">
+	         	 <p>You can also let your customers make payments initially when they are booking an appointment with you so that you don’t have to take the loss of a customer no-show or losing potential customers. If your customer is paying you in cash you can can keep track of your cash inflow as well with the checkout feature and print out bills.</p>
+			</div>
+   		</div>
+	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
 </body>
 </html>

@@ -26,7 +26,6 @@
 	<meta name="twitter:description" content="Picktime is a free web based appointment class booking software for managing Tuition classes and Coaching Institutes of any type. Lecture scheduling is made easy with the help of our smart Picktime appointment scheduling system." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -43,7 +42,7 @@
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Coaching Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>In the era of advanced modern technologies, aggressive sports
 					people or people who want to undergo coaching for other stuff, love
 					it when they can simply go online and sign up for any class no
@@ -52,9 +51,9 @@
 					are also much more important things like improving your business
 					and strengthening your marketing campaign. With such important
 					things to, you often cannot concentrate on them due to no shows,
-					double bookings and lack of organisation.</p>
+					double bookings and lack of organization.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>With picktime you can let go of all your worries. Picktime is
 					a free web based appointment class booking software for managing
 					Tuition classes and Coaching Institutes of any type. Picktime is
@@ -83,14 +82,14 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Coaching Centers or Individuals</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>A Better System to Manage Your Coaching & Tuition Classes</h3>
 					<p>Time to dump those excel sheets and register books. Now
 						manage your classes with Picktime. The simple and free class
 						scheduling system that has everything you need to manage your
 						Tuition Classes and Coaching Institute.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Recurring Classes</h3>
 					<p>Coaching Services generally requires systematic recurring
 						classes for a period of time in order to progress. With the help
@@ -100,7 +99,7 @@
 						number of recurring days. This way you can easily offer your
 						students a package subscription for any of your classes.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Automatic Reminders</h3>
 					<p>You and your students are busy with work and personal life.
 						And to be honest, keeping all tasks and appointments in mind or
@@ -112,7 +111,7 @@
 						instructor and students so that they won't forget that they have a
 						class.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Individual schedules for trainers/ coaches/ instructors</h3>
 					<p>Managing individual schedules for each coach requires a lot
 						of time that can easily be fixed with Picktime. All you need to do
@@ -123,7 +122,7 @@
 						working hours and bookings without seeing other instructor's
 						schedules.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Avoid Double Bookings</h3>
 					<p>Set the maximum size for each service providers, limiting
 						the number of bookings that can be made at the same time. Set
@@ -135,7 +134,5 @@
 		</div>
 	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
 </body>
 </html>

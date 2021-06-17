@@ -28,7 +28,6 @@
 	<meta name="twitter:description" content="Picktime is a free appointment scheduling software for hair salons, which lets your customers/clients see your open appointments and book their slot for that service in real time. Picktime assists you in managing appointments and staff schedules." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -44,9 +43,8 @@
 	<!--every page  wave-->
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
-			<img class="img-responsive" alt="Hair Salon Scheduling Software"
-				src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<img class="img-responsive" alt="Hair Salon Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
+			<div class="services_sec">
 				<p>Hair Salons are the most visited places after restaurants and
 					hospitals. Every customer wants the best of services. But quite
 					often hair salon and spa owners struggle with managing customers.
@@ -60,7 +58,7 @@
 					solution for all your appointment scheduling problems at a free of
 					cost. No more paid appointment scheduling softwares.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is a free appointment scheduling software for hair
 					salons, which lets your customers/clients see your open
 					appointments and book their slot for that service in real time.
@@ -76,7 +74,7 @@
 					features to help meet your client's needs and improve customer
 					service in a better way.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is a great online appointment scheduling software
 					for salons and other similar service providers that need a way for
 					customers to book appointments in real time.</p>
@@ -100,14 +98,14 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Hair Salon</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Better time management during service:</h3>
 					<p>Many people have reported that using online scheduling
 						softwares allows them to serve their clients better because it
 						lets them spend quality time with them rather than answering the
 						phones.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Staff Management:</h3>
 					<p>If you have multiple service experts working in your
 						business, Picktime allows your clients to see who is working that
@@ -116,19 +114,19 @@
 						expert and they can see their open appointment slots and book
 						right away. Also manage time off, breaks and holidays.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>No double bookings:</h3>
 					<p>Avoid double bookings with our specially designed
 						appointment book for hair stylists. Click and drag to reschedule
 						or delete appointments.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Integrate with your social media handles:</h3>
 					<p>Picktime is designed in a way that is easy to use and
 						maintain. Let your customers book appointments easily through
 						facebook or other social media</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Put your time to better use:</h3>
 					<p>With scheduling chaos, we know that you never have any time
 						or space for yourself. Picktime free salon scheduling software
@@ -140,18 +138,5 @@
 		</div>
 	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script> 
-<script src="/webassets/2021/js/anime.js?_=<%=cache%>"></script>
-
-<!--aos animation -->
-<script src="/webassets/2021/js/aos.js?_=<%=cache%>"></script>
-
-<script src="/webassets/2021/js/main.js?_=<%=cache%>"></script>
-
-<script>
-AOS.init();
-</script>
-
 </body>
 </html>

@@ -26,7 +26,6 @@
 	<meta name="twitter:description" content="Picktime is a free online appointment scheduling software for nail salons that is flexible and easy to use. Picktime is fully customizable for you to work just the way you want. For a business that is associated with direct customer interaction you definitely needs a appointment booking system." />
 	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
-    <link rel="stylesheet" type="text/css" href="/webassets/2021/css/industries.css?_=<%=cache%>">
 </head>
 <body>
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
@@ -44,7 +43,7 @@
 	<div class="industries-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<img class="img-responsive" alt="Nail Salon Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Nail Salons are becoming quite popular like Hair Salons.
 					Nails have become such an important part of beauty regime that
 					People started spending quite a lot of time and money on them.
@@ -60,7 +59,7 @@
 					assistant which kickstarts your day. We have designed an
 					appointment scheduling software just for your business.</p>
 			</div>
-			<div id="services_sec">
+			<div class="services_sec">
 				<p>Picktime is a free online appointment scheduling software for
 					nail salons that is flexible and easy to use. Picktime is fully
 					customizable for you to work just the way you want. For a business
@@ -92,38 +91,36 @@
 			</div>
 			<div class="bottom_section">
 				<h2>Benefits Of Picktime Online Appointment Booking for Nail Salon</h2>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Reminder System:</h3>
 			        <p>Picktime Nail salon appointment software is designed to send out text messages and Email reminders to both the customers and beauty professionals. We understand how annoying it is to have customer no shows. With our specially designed automated reminder system, increase your business by leaps and bounds.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Management:</h3>
 	     		<p>Manage your staff schedules like holidays, breaks etc., and keep them available online. Let your customers book their appointments with their favourite staff at the available time. Create win-win situations and happy workplace environments with our free Nail salon appointment scheduler.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Book now button:</h3>
 		        	<p>Integrate our specially designed book now button into your website. Turn visitors into trusted customers by creating a platform that increases client interaction without causing any problems to your business.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Customer database:</h3>
 		        	<p>Save all your customer details and address in our appointment booking system . This Database helps you connect with your customers at a personal level which is very important for your growing  business.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3>Flexible scheduling:</h3>
 			        <p>Flexible scheduling is another incentive for nail artists to feel more in control of their circumstances. It can also let them build greater following, By building a customer base which has gained your trust.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<h3 class="service-desc-title">Dedicated Service:</h3>
 			         <p>Nail Artists or salon staffs will receive more calls and text messages from their regular customers for appointment booking when they are working. With our powerful and easy to use Nail salon Management software provide the best of your service to your customers and keep your appointment woes at a distance.</p>
 				</div>
-				<div id="services_sec">
+				<div class="services_sec">
 					<p>Are you still using a paper and pen to book your customer’s appointment at your business? Picktime provides a secure way to improve your efficiency and to increase profits. While there is no cost to purchase or rent the appointment management software, it pays off with extra appointments, extra retail sales, and more time for yourself! Register for FREE!</p>
 				</div>
 			</div>
 		</div>
 	</div>
-<jsp:include page="../scheduling-software/website-new-footer.jsp" />
-<script src="/webassets/2021/js/jquery.min.js?_=<%=cache%>"></script>
-<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
+    <jsp:include page="../scheduling-software/website-new-footer.jsp" />
 </body>
 </html>
