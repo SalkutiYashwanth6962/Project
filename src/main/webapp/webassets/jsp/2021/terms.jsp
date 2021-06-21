@@ -72,7 +72,7 @@
     	font-size: 30px;
         color: #141414;
         line-height: 1.6;
-         margin-bottom: 60px;
+        margin-bottom: 60px;
     	}
         #terms-and-conditions h3{
         color: #444;
@@ -91,7 +91,7 @@
 	   #terms-and-conditions p{
 	   font-size: 14px;
        line-height: 1.6;
-       ont-weight: normal;
+       font-weight: normal;
        color: #666;
 	   }
 	   #terms-and-conditions h4{
@@ -104,7 +104,7 @@
 	  #terms-and-conditions ul{
 	   font-size: 14px;
        line-height: 1.6;
-       ont-weight: normal;
+       font-weight: normal;
        color: #777;
 	  } 
 	</style>
@@ -116,7 +116,6 @@
 			<div class="col-sm-8">
 				<section id="terms-and-conditions">
 					<h1>Terms and Conditions </h1>
-					<p>Latest update: May-18-2021</p>
 					<p>These Terms govern</p>
 					<ul>
 						<li>the use of www.picktime.com, and,</li>

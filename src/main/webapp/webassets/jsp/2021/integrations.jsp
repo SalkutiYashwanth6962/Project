@@ -99,7 +99,7 @@
 					<div class="col-md-4 integration-sections">
 						<div class="pic"><img alt="Google-Calendar-integration" src="/webassets/2021/img/apps/6-6Gcal.png"></div>
 						<div class="headings">Google Calendar</div>
-						<p>Be on top of your schedule & view your event details</p>
+						<p>Be on top of your schedule &amp; view your event details</p>
 					</div>
 					<div class="col-md-4 integration-sections">
 						<div class="pic"><img alt="Outlook-Calendar-integration" src="/webassets/2021/img/apps/12-12outlook.png"></div>
@@ -207,7 +207,7 @@
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="iCloud Contacts-integration" src="/webassets/2021/img/apps/icloud.png"></div>
 					<div class="headings">iCloud Contacts</div>
-					<p>Export customers details to your iCloud (Coming soon).</p>
+					<p>Export customers details to your iCloud</p>
 				</div>
 			</div>
 			<div class="i-t-s">ANALYTICS</div>

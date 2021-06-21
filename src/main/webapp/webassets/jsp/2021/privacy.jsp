@@ -65,7 +65,6 @@
 			<div class="col-sm-10">
 				<section id="privacy">
 				<h1><span style="font-weight: normal;">Privacy Policy </span></h1>
-				<p>Updated on May-18-2021</p>
 				<hr>
 				<h2>Personal Data collected for the following purposes and using the following services:</h2>
 				<div class="row">
