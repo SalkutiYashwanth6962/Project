@@ -306,7 +306,7 @@
 					<h4>Fixed-Term Subscriptions</h4>
 					<p>Paid fixed-term subscriptions start on the day the payment is received by the Owner and last for the subscription period chosen by the User or otherwise specified during the purchasing process.</p>
 					<p>Once the subscription period expires, the Product shall no longer be accessible, unless the User renews the subscription by paying the relevant fee.</p>
-					<p>Fixed-term subscriptions may not be terminated prematurely and shall run out upon expiration of the subscription term.</p>
+					<p>Downgrading or cancellation will be effective immediately and you will not be entitled to a refund of any payments</p>
 					<h4>a) Automatic renewal</h4>
 					<p><strong>Subscriptions are automatically renewed through the payment method that the User chose during purchase, unless the User cancels the subscription within the deadlines for termination specified in the relevant section of these Terms and/or www.picktime.com.</strong></p>
 					<p><strong>The renewed subscription will last for a period equal to the original term.</strong></p>

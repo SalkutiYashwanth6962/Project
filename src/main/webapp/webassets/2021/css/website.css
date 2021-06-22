@@ -3613,31 +3613,34 @@ height: 80px;
 /* Integrations-page-End */
 
 /*-Industries-individual-page-Start-*/
-#i-banner {
+.sec-first {
   background-color: #f0f2f8;
-  margin-top: 90px;
+  margin-top: 100px;
+  padding-bottom: 100px;
 }
-#i-banner .col-md-6 .i-b-t-y {
+.sec-first .col-md-6 h1 {
   font: normal normal bold 40px/50px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #312b2b;
   padding-top: 15px;
   margin-top: 100px;
 }
-#i-banner .col-md-6 .i-b-p-y {
+.sec-first .col-md-6 span{
+  color: #8b22e2;	
+}
+.sec-first .col-md-6 p {
   font-size: 20px;
   font-weight: 400;
   padding: 15px 0px;
   line-height: 35px;
 }
-#i-banner .col-md-6 .btn-lg {
+.sec-first .col-md-6 .btn-lg {
   width: 50%;
   padding-top: 15px;
   padding-bottom: 15px;
-  color: #6a3093;
-  font-weight: bold;
+  color: #ffffff;
   letter-spacing: 0.12px;
-  background: #ffffff 0% 0% no-repeat padding-box;
+  background: #8B22E2; 
   border-radius: 25px;
   outline: none;
   border: none;
@@ -3645,187 +3648,198 @@ height: 80px;
   box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
   transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
-#i-banner .col-md-6 img {
+.sec-first .col-md-6 img {
   position: relative;
   width: 100%;
+  padding-top: 50px;
 }
 /*  wave  */
-#i-banner .wave {
+.sec-first .wave {
   margin-top: -48px;
 }
 
 
 /*=========banner==========end========*/
 
-/*=====online calender===start==*/
-
-#i-online-calender {
+.sec-two {
   margin: 60px 0px;
 }
+.sec-two img{
+	width: 80px;
+}
 
-#i-online-calender .i-title {
+.sec-two .i-title {
   font: normal normal 600 20px/24px Raleway;
   margin: 10px 0px;
 }
 
-#i-online-calender p {
+.colums{
+	box-shadow: 0 3px 20px 0px rgb(0 0 0 / 12%);
+    border-radius: 25px;
+    padding: 15px 0px;
+    margin: 15px 0px;
+}
+.sec-two p {
    line-height: 30px;
    font-size: 20px;
    font-weight: 400;
+   margin: 10px 30px;
 }
 
-/*=====online calender===End==*/
+/*=====section three==start==*/
 
-/*=====sync with your favourite calender==start==*/
-
-.sync {
+.sec-three {
   margin: 100px 0px 40px 0px;
 }
 
-.sync .s-w-y-f-c-y-s {
-  font: normal normal bold 20px/24px Samsung Sharp Sans;
-  letter-spacing: 0px;
-  color: #8a2be2;
-  margin: 10px 0px 20px 0px;
-}
-
-.sync .s-w-y-f-c-y-b {
-  font: normal normal bold 35px/44px Samsung Sharp Sans;
-  letter-spacing: 0px;
-  margin: 10px 0px 20px 0px;
-}
-.sync p {
-   line-height: 30px;
-   font-size: 20px;
-   font-weight: 400;
-}
-.sync img {
-  width: 100%;
-}
-
-/*=====sync with your favourite calender==end==*/
-
-/*=====easily view your revenue==start==*/
-
-.statistics {
-  margin: 100px 0px 40px 0px;
-}
-
-.statistics img {
-  width: 100%;
-}
-
-.statistics .s-x-s {
+.sec-three h2 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
   margin: 100px 0px 10px 0px;
 }
 
-.statistics .s-x-b {
+.sec-three h3 {
+  font: normal normal bold 35px/44px Samsung Sharp Sans;
+  letter-spacing: 0px;
+}
+.sec-three p {
+   line-height: 30px;
+   font-size: 20px;
+   font-weight: 400;
+}
+.sec-three img {
+  width: 100%;
+}
+.view-all{
+	padding:15px 80px;
+    color: #fff !important;
+    font-weight: 600;
+    letter-spacing: 0.12px;
+    background: #8b22e2 0% 0% no-repeat padding-box;
+    border-radius: 25px;
+    outline: none;
+    border: none;
+    text-align: center;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
+    transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    margin: 20px 0px;
+}
+/*=====section three==end==*/
+
+/*=====section four==start==*/
+
+.sec-four {
+  margin: 100px 0px 40px 0px;
+}
+
+.sec-four img {
+  width: 100%;
+}
+
+.sec-four h2 {
+  font: normal normal bold 20px/24px Samsung Sharp Sans;
+  letter-spacing: 0px;
+  color: #8a2be2;
+  margin: 100px 0px 10px 0px;
+}
+
+.sec-four h3 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
   margin: 10px 0px 10px 0px;
 }
 
-.statistics p {
+.sec-four p {
    line-height: 30px;
    font-size: 20px;
    font-weight: 400;
 }
 
-/*=====easily view your revenue==end==*/
-
-.Enable {
-  margin: 50px 0px 200px 0px;
+/*=====section four==end==*/
+.sec-sixth{
+    padding: 100px 0px;
+    background: #EFF1F7;
 }
-
-.Enable .e-b-m {
-  font: normal normal bold 35px/44px Samsung Sharp Sans;
-  letter-spacing: 0px;
-  text-align: center;
-}
-
-.Enable .e-p-m {
-   text-align: center;
-   padding: 30px 100px 30px 100px;
-   line-height: 30px;
-   font-size: 20px;
-   font-weight: 400;
-}
-
 @media only screen and (max-width: 991px) {
-  /*===== big titles===768====== */
-  .sync .s-w-y-f-c-y-b,
-  .statistics .s-x-b,
-  .Enable .e-b-m {
+  	/*===== big titles===768====== */
+  	.sec-three h3,
+  	.sec-four h3
+    {
     font: normal normal bold 24px/30px Samsung Sharp Sans;
     text-align: center;
-  }
-  /*========= small titles========= */
-  .sync .s-w-y-f-c-y-s,
-  .statistics .s-x-s {
+  	}
+  	/*========= small titles========= */
+  	.sec-three h2,
+  	.sec-four h2 {
     font: normal normal bold 18px/18px Samsung Sharp Sans;
     text-align: center;
-  }
-  /*=====paragraph======  */
-  .sync p,
-  .statistics p,
-  .Enable .e-p-m {
+    margin: 15px 0px 10px 0px;
+  	}
+  	/*=====paragraph======  */
+  	.sec-three p,
+  	.sec-four p
+   	{
     margin-left: 0px;
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
-  }
-  #i-banner .wave {
+  	}
+	.sec-first .wave {
     margin-top: 30px;
-  }
-  /* banners */
-  #i-banner .col-md-6 img {
+  	}
+  	/* banners */
+	.sec-first .col-md-6 img {
     width: 100%;
     padding-top: 15px;
-  }
-  #i-banner .col-md-6 .i-b-t-y {
+  	}
+ 	.sec-first .col-md-6 h1 {
     font: normal normal bold 20px/30px Samsung Sharp Sans;
     text-align: center;
-  }
-  #i-banner .col-md-6 .btn-lg {
+    margin-top: 30px;
+  	}
+ 	.sec-first .col-md-6 .btn-lg {
     width: 100%;
     padding-top: 15px;
     padding-bottom: 15px;
-  }
-  #i-banner .col-md-6 .i-b-p-y {
+  	}
+	.sec-first .col-md-6 p {
     line-height: 25px;
     letter-spacing: 0.22px;
     text-align: center;
-  }
+  	}
   
- 	 #i-banner{
+ 	.sec-firstr{
  	 margin-top: 30px;
   	}
-  	.sync {
+  	.sec-three {
     margin: 20px 0px 20px 0px;
 	}
-	.statistics {
+	.sec-four {
     margin: 20px 0px 20px 0px;
 	}
-  .Enable {
-    margin: 50px 0px 100px 0px;
+	
+	.sec-three img,
+	.sec-four img {
+    padding: 10px 75px;
+    }
+    .sec-sixth {
+    padding: 20px 0px;
+    background: #EFF1F7;
 	}
+  
 }
 
 @media only screen and (max-width: 452px) {
   /*===== big titles===768====== */
-  .sync .s-w-y-f-c-y-b,
-  .statistics .s-x-b {
+  .sec-three h3,
+  .sec-four h3 {
     font: normal normal bold 20px/24px Samsung Sharp Sans;
-    text-align: center;
   }
   /*========= small titles========= */
-  .sync .s-w-y-f-c-y-s,
-  .statistics .s-x-s {
+  .sec-three h2,
+  .sec-four h2 {
     font: normal normal bold 16px/16px Samsung Sharp Sans;
-    text-align: center;
   }
 }
 /*-Industries-individual---page-End-*/
