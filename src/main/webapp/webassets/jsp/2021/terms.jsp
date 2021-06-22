@@ -314,7 +314,7 @@
 					<h4>b) Termination</h4>
 					<p><strong>Recurring subscriptions may be terminated at any time by sending a clear and unambiguous termination notice to the Owner using the contact details provided in this document, or — if applicable — by using the corresponding controls inside www.picktime.com.</strong></p>
 					<h5>c) Termination notice</h5>
-					<p><strong>If the notice of termination is received by the Owner before the subscription renews, the termination shall take effect as soon as the current period is completed.</strong></p>
+					<p><strong>If the notice of termination is received by the Owner before the subscription renews, the termination will be effective immediately and you will not be entitled to a refund of any payments.</strong></p>
 					<h4>Terms and conditions applying to extra features</h4>
 					<p>Users that have an active subscription may purchase single extra add-ons or features, described in the relevant section of www.picktime.com.<br>
 					   Unless otherwise specified, such extras are subject to the same terms applicable to the main Product, including all provisions of this document.</p>
