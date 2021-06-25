@@ -17,14 +17,15 @@
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image:alt" content="Coaching Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime is a free web based appointment class booking software for managing Tuition classes and Coaching Institutes of any type. Lecture scheduling is made easy with the help of our smart Picktime appointment scheduling system." />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime is a free web based appointment class booking software for managing Tuition classes and Coaching Institutes of any type. Lecture scheduling is made easy with the help of our smart Picktime appointment scheduling system." />
-	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>
 <body>

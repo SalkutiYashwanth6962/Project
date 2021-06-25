@@ -18,7 +18,8 @@
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image:alt" content="Two-Way Calendar Sync - Online Free Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Do you have personal meetings that sync with your Google Calendar or Apple Calendar or Outlook Calendar? Sync your favorite account with your Picktime account and you are all set." />
 	
@@ -26,7 +27,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Do you have personal meetings that sync with your Google Calendar or Apple Calendar or Outlook Calendar? Sync your favorite account with your Picktime account and you are all set." />
-	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>

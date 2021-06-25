@@ -18,7 +18,8 @@
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image:alt" content="Dentists Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime is a free web based appointment scheduling software for dentists with which Dental clinics can book their patient’s appointments and also let their patients book their own appointments online. Picktime offers a comprehensive suite of appointment services for dentist practices of all sizes." />
 	
@@ -26,7 +27,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime is a free web based appointment scheduling software for dentists with which Dental clinics can book their patient’s appointments and also let their patients book their own appointments online. Picktime offers a comprehensive suite of appointment services for dentist practices of all sizes." />
-	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>

@@ -18,7 +18,8 @@
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image:alt" content="Events Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime is a Free Appointment Scheduling Software & Event Management Platform for all business types and sizes. Picktime allows you to manage all your event appointment data in one place. Our online booking system and appointment booking software have been primarily designed to address the most complex business requirements." />
 	
@@ -26,7 +27,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime is a Free Appointment Scheduling Software & Event Management Platform for all business types and sizes. Picktime allows you to manage all your event appointment data in one place. Our online booking system and appointment booking software have been primarily designed to address the most complex business requirements." />
-	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>

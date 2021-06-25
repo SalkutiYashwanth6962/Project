@@ -18,7 +18,8 @@
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image:alt" content="End User License Aggrement - Picktime" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	
@@ -26,15 +27,15 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
-	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="scheduling-software/website-new-headtag.jsp" />
 </head>
 <body>
 <jsp:include page="scheduling-software/website-new-navbar.jsp" />
 	<div id="enduser" style="margin: 120px 0px 300px 0px;">
 		<div class="container">
-	       <h1 class="text-center">End User Page</h1>
-	    </div>
+       		<h1 class="text-center">End User Page</h1>
+    	</div>
 	</div>
 <jsp:include page="scheduling-software/website-new-footer.jsp"/>
 </body>

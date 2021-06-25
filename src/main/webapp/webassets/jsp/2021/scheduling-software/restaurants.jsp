@@ -18,7 +18,8 @@
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image:alt" content="Restaurants Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime is a free web based online booking software for all types of restaurants. You don't have to install any software to access picktime. Picktime can be accessed through any devices(Desktop, laptop, tablet and smartphone) through viable internet connection. Picktime is not only to manage your table bookings, you can even manage your staffs. " />
 	
@@ -26,7 +27,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime is a free web based online booking software for all types of restaurants. You don't have to install any software to access picktime. Picktime can be accessed through any devices(Desktop, laptop, tablet and smartphone) through viable internet connection. Picktime is not only to manage your table bookings, you can even manage your staffs. " />
-	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>

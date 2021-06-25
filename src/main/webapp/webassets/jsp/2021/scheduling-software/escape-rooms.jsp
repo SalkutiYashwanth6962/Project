@@ -17,14 +17,15 @@
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image:alt" content="Escape Rooms Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime is a free browser based appointment scheduling software for Escape rooms and Quest rooms which allows you to manage all your appointments in one place. When setting up the system a good option to use, is Any Room plugin, that allows you to join the room and session, so in fact, the client ONLY needs to choose the session in whatever escape room he prefers to book. " />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime is a free browser based appointment scheduling software for Escape rooms and Quest rooms which allows you to manage all your appointments in one place. When setting up the system a good option to use, is Any Room plugin, that allows you to join the room and session, so in fact, the client ONLY needs to choose the session in whatever escape room he prefers to book. " />
-	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>
 <body>

@@ -18,7 +18,8 @@
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image:alt" content="Sport Items Renting Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime online scheduling system can be used for booking tennis courts, football pitches, volleyball courts, basketball fields, pools, golf clubs, balls, nets, uniforms, roller skates, etc. Furthermore, it can be used for boat renting, yacht renting, bike renting, bicycle renting as well as for booking winter equipment like skis, skates, hockey items, snowboards, protective glasses, helmets, sticks, gloves and any other sports equipment you have." />
 	
@@ -26,7 +27,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime online scheduling system can be used for booking tennis courts, football pitches, volleyball courts, basketball fields, pools, golf clubs, balls, nets, uniforms, roller skates, etc. Furthermore, it can be used for boat renting, yacht renting, bike renting, bicycle renting as well as for booking winter equipment like skis, skates, hockey items, snowboards, protective glasses, helmets, sticks, gloves and any other sports equipment you have." />
-	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>

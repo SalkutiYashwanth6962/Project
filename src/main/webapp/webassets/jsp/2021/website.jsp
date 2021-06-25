@@ -17,7 +17,8 @@
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image:alt" content="Online Free Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	
@@ -25,7 +26,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
-	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="scheduling-software/website-new-headtag.jsp" />
 </head>
@@ -617,7 +618,7 @@
 	          	<!-- secondline -->
 	          	<div class="c-s-l">
 	 		 		<div class="c-s-3">
-	 	 		 		<div class="c-s-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/2-2Square.png" alt="square-integration" title="square-integration"></div></div>
+ 	 		 			<div class="c-s-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/2-2Square.png" alt="square-integration" title="square-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/4-4Hubspot.png" alt="Hubspot-integration" title="Hubspot-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/5-5Wordpress.png" alt="Wordpress-integration" title="Wordpress-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/6-6Gcal.png" alt="Gcal-integration" title="Gcal-integration"></div></div>

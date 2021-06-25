@@ -18,7 +18,8 @@
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta property="og:image:alt" content="Colleges Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime is a free online appointment setting and scheduling software for colleges which allows college counselors to set and schedule orientation sessions for freshers, mid-level students, and graduate students. Our fully customizable, fully flexible appointment booking widget embed seamlessly into your website, letting your students browse your upcoming sessions and availability and make their booking with you." />
 	
@@ -26,7 +27,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime is a free online appointment setting and scheduling software for colleges which allows college counselors to set and schedule orientation sessions for freshers, mid-level students, and graduate students. Our fully customizable, fully flexible appointment booking widget embed seamlessly into your website, letting your students browse your upcoming sessions and availability and make their booking with you." />
-	<meta name="twitter:image" content="/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>
