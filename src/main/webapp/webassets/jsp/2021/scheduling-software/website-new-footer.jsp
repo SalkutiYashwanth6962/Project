@@ -5,7 +5,7 @@
 	<%@page import="java.util.Calendar"%>
 	<section class="pricing-box">
 		<div class="box">
-			<div class="box-title">Pricing?</div>
+			<h2>Pricing?</h2>
 			<P class="box-text">Picktime is a completely free solution. It is
 			simple and extremely easy to use. It is the only scheduling
 			platform where you can manage both your personal and business
@@ -64,7 +64,7 @@
 	</section> 
 	<section id="footer">
 		<div class="container">
-	    	<h1 class="text-center" id="footer-title"><a href="/industries">Businesses we serve</a></h1>
+	    	<h2 class="text-center" id="footer-title"><a href="/industries">Businesses we serve</a></h2>
    			<div class="row">
 	      		<div class="col-lg-2 col-md-4 col-sm-6">
 	        		<ul>
@@ -166,7 +166,10 @@
 			offset: 100,
 			duration: 600,
 		});
-		
+		// carousel auto play
+		 $('#myCarousel').carousel({
+		     interval: 4000
+		  });
 		// carousel
  		$('.carousel[data-type="multi"] .item').each(function() {
 			var next = $(this).next();

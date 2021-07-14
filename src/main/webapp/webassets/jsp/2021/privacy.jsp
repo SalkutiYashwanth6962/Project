@@ -1,3 +1,4 @@
+<%@page import="java.util.Calendar"%>
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -30,28 +31,34 @@
 	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
     <jsp:include page="scheduling-software/website-new-headtag.jsp" />
     <style type="text/css">
-     	#privacy {
+    	.nav-white{
+		color: #262626;
+   		background: #ffffff 0% 0% no-repeat padding-box;
+   		border-bottom: 1px solid #ebebeb;
+       	}
+     	.privacy {
         padding-top: 30px;
+        margin-top: 90px;
     	}
-	  	h2{
+	  	.privacy h2{
 	   	font-size: 18px;
        	color: #141414;
        	line-height: 1.6;
        	font-weight: bold;
 	   	}
-	   	p{
+	   	.privacy p{
 	   	font-size: 14px;
        	line-height: 1.6;
        	font-weight: normal;
        	color: #777;
 	   	}
-	   	h4{
+	   	.privacy h4{
 	   	font-size: 13px;
        	font-weight: bold;
        	padding:0px 0px 10px 0px;
        	margin-bottom: 0;
 	   	}
-	  	ul{
+	  	.privacy ul{
 	   	font-size: 14px;
        	line-height: 1.6;
        	ont-weight: normal;
@@ -60,11 +67,12 @@
 	</style>
 </head>
 <body>
+	<jsp:include page="scheduling-software/website-new-navbar.jsp" />
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-1"></div>
 			<div class="col-sm-10">
-				<section id="privacy">
+				<section class="privacy">
 				<h1><span style="font-weight: normal;">Privacy Policy </span></h1>
 				<hr>
 				<h2>Personal Data collected for the following purposes and using the following services:</h2>
@@ -578,6 +586,7 @@
 			</div>
 			<div class="col-sm-1"></div>
 		</div>
+		<div class="text-center"style="color: #838383; padding:15px;font-size: 12px;">&#169;Copyright <a href="/" class="bottom" style="color:#838383;;">Picktime</a> <%=Calendar.getInstance().get(Calendar.YEAR)%> All rights reserved.</div>
 	</div>
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

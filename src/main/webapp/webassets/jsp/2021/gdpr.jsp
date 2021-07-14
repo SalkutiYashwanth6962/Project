@@ -1,3 +1,4 @@
+<%@page import="java.util.Calendar"%>
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -31,35 +32,43 @@
      
     <jsp:include page="scheduling-software/website-new-headtag.jsp" />
     <style type="text/css">
-	    h1{
+          .nav-white{
+          	color: #262626;
+    		background: #ffffff 0% 0% no-repeat padding-box;
+    		border-bottom: 1px solid #ebebeb;
+          }
+    
+	    .gdpr h1{
 		    font-size: 24px;
 		    color: #141414;
 		    line-height: 1.6;
 		    font-weight: bold;
+		    margin-top: 130px;
 	    }
-	    h3{
+	   .gdpr h3{
 		    font-size: 18px;
 		    font-weight: bold;
 		    padding: 0px 0px 10px 0px;
 		    margin-bottom: 0;
 	    }
-	    p{
+	    .gdpr p{
 		    font-size: 14px;
 		    line-height: 1.6;
 	    }
-	    ul {
+	   .gdpr ul {
 		    padding-left: 15px;
 		}
-	    .media-body h3{
+	    .gdpr .media-body h3{
 	  	    margin-top: 10px;
 	    }
-	    .icon-rating{
+	    .gdpr .icon-rating{
 	    	color: #fff;
 	    }
     </style>
 </head>
 <body>
-	<div id="gdpr">
+	<jsp:include page="scheduling-software/website-new-navbar.jsp" />
+	<div class="gdpr">
 		<div class="container">
 		    <h1 class="text-center">GDPR Compliance Statement</h1>
 		    <p>The Picktime GDPR Compliance Statement is aimed towards making our users understand the nitty-gritty of the GDPR and how we are complying with it</p>
@@ -124,10 +133,8 @@
 		           		</div>
 						<div class="media-body">
 							<h3>Integration with external platforms will not lead to violation of data privacy</h3>
-						 	<p>A Picktime user voluntarily provides us information while scheduling a meeting or an appointment which can be their name, mobile number, email address, location and the email addresses of the other attendees of the meeting.
-						 	</p>
-						 	<p>Users are also allowed to integrate their other calendars such as Google Calendar, Outlook, Microsoft Exchange or Apple Calendars so that we can check the duration and status of the meeting or appointment. However, we do not track or monitor other information such as the names and email addresses of attendees of the meeting or any other details about the meeting in your Google Calendar, Outlook, Microsoft Exchange or Apple Calendars.
-						 	</p>
+						 	<p>A Picktime user voluntarily provides us information while scheduling a meeting or an appointment which can be their name, mobile number, email address, location and the email addresses of the other attendees of the meeting.</p>
+						 	<p>Users are also allowed to integrate their other calendars such as Google Calendar, Outlook, Microsoft Exchange or Apple Calendars so that we can check the duration and status of the meeting or appointment. However, we do not track or monitor other information such as the names and email addresses of attendees of the meeting or any other details about the meeting in your Google Calendar, Outlook, Microsoft Exchange or Apple Calendars.</p>
 						</div>
 		           	</div>
 		   		</div>
@@ -141,8 +148,7 @@
 		             	<div class="media-body">
 			              	<h3>Hide details of your clients and appointments from other customers</h3>
 			              	<p>A Picktime user voluntarily provides us information while scheduling a meeting or an appointment which can be their name, mobile number, email address, location and the email addresses of the other attendees of the meeting.</p>
-			             	<p>Users are also allowed to integrate their other calendars such as Google Calendar, Outlook, Microsoft Exchange or Apple Calendars so that we can check the duration and status of the meeting or appointment. However, we do not track or monitor other information such as the names and email addresses of attendees of the meeting or any other details about the meeting in your Google Calendar, Outlook, Microsoft Exchange or Apple Calendars.
-			             	</p>
+			             	<p>Users are also allowed to integrate their other calendars such as Google Calendar, Outlook, Microsoft Exchange or Apple Calendars so that we can check the duration and status of the meeting or appointment. However, we do not track or monitor other information such as the names and email addresses of attendees of the meeting or any other details about the meeting in your Google Calendar, Outlook, Microsoft Exchange or Apple Calendars.</p>
 		             	</div>
 		           	</div>
 		   		</div>
@@ -168,10 +174,8 @@
 			             </div>
 			             <div class="media-body">
 			              	<h3>View, edit and control the access to your data</h3>
-			              	<p>You can directly view and edit your data and that of your staff and customers through your <a href="/login"> Picktime account. </a>As a data controller, it will be your responsibility to make and abide by your own GDPR-compliant rules to control the access of your data to your staff, clients, and customers.
-			              	</p>
-			              	<p>Picktime has also created a system through which you can limit the access of your staff to your data and control and edit the admin rights. Click here to learn more about how Picktime sets permission levels for your staff if they need to access your<a href="/login"> data.</a>
-			              	</p>
+			              	<p>You can directly view and edit your data and that of your staff and customers through your <a href="/login"> Picktime account. </a>As a data controller, it will be your responsibility to make and abide by your own GDPR-compliant rules to control the access of your data to your staff, clients, and customers.</p>
+			              	<p>Picktime has also created a system through which you can limit the access of your staff to your data and control and edit the admin rights. Click here to learn more about how Picktime sets permission levels for your staff if they need to access your<a href="/login"> data.</a></p>
 			             </div>
 					</div>
 		    	</div>
@@ -184,8 +188,7 @@
 		             	</div>
 		             	<div class="media-body">
 		              		<h3>You have the right to withdraw consent of data processing with our New Cookie Policy</h3>
-		              		<p>The updated<a href="/legal/cookie"> Cookie Policy</a> of Picktime talks about the technologies that are providing us assistance in accessing and storing information through the use of Cookies or other resources on a user’s web or mobile device while these users interact with our website. These technologies are also known as “Trackers”. These Trackers are directly managed by the Owner and are known as First-Party Trackers. Additionally, Picktime also makes use of trackers that enable services provided by a third party.
-		              		</p>
+		              		<p>The updated<a href="/legal/cookie"> Cookie Policy</a> of Picktime talks about the technologies that are providing us assistance in accessing and storing information through the use of Cookies or other resources on a user’s web or mobile device while these users interact with our website. These technologies are also known as “Trackers”. These Trackers are directly managed by the Owner and are known as First-Party Trackers. Additionally, Picktime also makes use of trackers that enable services provided by a third party.</p>
 		              		<p>For some specific purposes, the users might also be asked for consent for sharing their personal information. However, even after consent is given, it can be withdrawn freely at any time. This has been done specifically in consideration of the GDPR so that the personal information of any user is not disclosed with any third-party tracker.</p>
 		             	</div>
 		           </div>
@@ -198,10 +201,8 @@
 		                	<i class="icon-rating" aria-hidden="true"></i>
 		             	</div>
 		             	<div class="media-body">
-		              		<h3>Auto deletion of data after session ends
-		              		</h3>
-		              		<p>We use “technical trackers” for carrying out activities that are mandatory for the operation and delivery of our services. Session Storage permits Picktime to store and access data in a user’s browser but this data gets automatically deleted when the session ends i.e. when the browser tab is closed by the user. Apart from that, using Preference Cookies help Picktime detect and store user preferences such as the time zone and location of the user.
-		              		</p>
+		              		<h3>Auto deletion of data after session ends</h3>
+		              		<p>We use “technical trackers” for carrying out activities that are mandatory for the operation and delivery of our services. Session Storage permits Picktime to store and access data in a user’s browser but this data gets automatically deleted when the session ends i.e. when the browser tab is closed by the user. Apart from that, using Preference Cookies help Picktime detect and store user preferences such as the time zone and location of the user.</p>
 		              		<p>The information about the validity and expiry date of Cookies and other similar trackers vary and depend upon the lifetime set by the Owner or the relevant provider.</p>
 		             	</div>
 		           	</div>
@@ -227,10 +228,8 @@
 		               		<i class="icon-rating" aria-hidden="true"></i>
 		             	</div>
 		             	<div class="media-body">
-			              	<h3>Enhance your security with safe passwords
-			              	</h3>
-			              	<p>We recommend Picktime users to keep their login credentials safe and confidential and therefore we recommend them to use a password that meets the highest standard of security as permitted by us.
-			              	</p>
+			              	<h3>Enhance your security with safe passwords</h3>
+			              	<p>We recommend Picktime users to keep their login credentials safe and confidential and therefore we recommend them to use a password that meets the highest standard of security as permitted by us.</p>
 		             	</div>
 		           </div>
 		       </div>
@@ -259,6 +258,9 @@
 		   <p>Remember that in this case, Picktime is the data processor but you are the data controller. We have put in our best efforts to make sure you and your business are GDPR compliant. But ultimately, as the data controller, it is your responsibility to let us know the amount of personal data you are willing to share with your clients and customers.</p>
 		</div>
 	</div>
+	<hr style="background: #ffffff;">
+    <div class="text-center"style="padding:15px;font-size: 12px;">&#169;Copyright <a href="/" class="bottom" style="color:black;">Picktime</a> <%=Calendar.getInstance().get(Calendar.YEAR)%> All rights reserved.</div>
+	
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

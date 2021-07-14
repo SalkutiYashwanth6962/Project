@@ -98,8 +98,8 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 		<div class="container-fluid">
 			<div class="container">
 				<div class="col-md-6 hidden-xs hidden-sm">
-				    <img src="/webassets/2021/img/Calendars-Sync-section-bg.svg" alt="" class="bg-cal" alt="Sync-with-Google-Calendar-Outlook-Calendar-and-Apple-Calendar-background">
-					<img src="/webassets/2021/img/Calendars-Sync-section.svg" alt="Sync-with-Google-Calendar-Outlook-Calendar-and-Apple-Calendar" class="img-cal" alt="picktime">
+				    <img src="/webassets/2021/img/Calendars-Sync-section-bg.svg" class="bg-cal" alt="Sync-with-Google-Calendar-Outlook-Calendar-and-Apple-Calendar-background">
+					<img src="/webassets/2021/img/Calendars-Sync-section.svg" alt="Sync-with-Google-Calendar-Outlook-Calendar-and-Apple-Calendar" class="img-cal">
 				</div>
 				<div class="col-md-6">
 					<div class="c-s-x"><h2>CALENDAR SYNC</h2></div>
@@ -110,7 +110,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 						No more double bookings or missed meetings.</p>
 				</div>
 				<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
-					<img src="/webassets/2021/img/Calendars-Sync-section.svg" alt="Sync-with-Google-Calendar-Outlook-Calendar-and-Apple-Calendar" class="img-cal" alt="picktime">
+					<img src="/webassets/2021/img/Calendars-Sync-section.svg" alt="Sync-with-Google-Calendar-Outlook-Calendar-and-Apple-Calendar" class="img-cal" >
 				</div>
 			</div>
 		</div>
@@ -235,22 +235,22 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 			<div class="col-lg-6" class="box-section">
 				<div class="box1 aos-init aos-animate" data-aos="flip-left" data-aos-delay="100">
 					<img src="/webassets/2021/img/Features-box1.svg" alt="Manage-Personal-Calendar" class="box1-img">
-					<div class="boxtitle"><h1>PERSONAL CALENDAR</h1></div>
+					<div class="boxtitle"><h3>PERSONAL CALENDAR</h3></div>
 					<P class="box-content">Manage personal calendar along with your business schedule easily</P>
 				</div>
 				<div class="box2 aos-init aos-animate" data-aos="flip-right" data-aos-delay="100">
 					<img src="/webassets/2021/img/Features-box3.svg" alt="Manage-Your-Team" class="box1-img">
-					<div class="boxtitle"><h1>TEAM MANAGEMENT</h1></div>
+					<div class="boxtitle"><h3>TEAM MANAGEMENT</h3></div>
 					<P class="box-content">Notify your clients and don’t worry about no-shows</P>
 				</div>
 				<div class="box3 aos-init aos-animate" data-aos="flip-down" data-aos-delay="100">
 					<img src="/webassets/2021/img/Features-box2.svg" alt="Generate-Monthly-Daily-Reports" class="box1-img">
-					<div class="boxtitle"><h1>REPORTS</h1></div>
+					<div class="boxtitle"><h3>REPORTS</h3></div>
 					<P class="box-content">Easily raise your invoices and keep track of your sales and revenue</P>
 				</div>
 				<div class="box4 aos-init aos-animate" data-aos="flip-up" data-aos-delay="100">
 					<img src="/webassets/2021/img/Features-box4.svg" alt="Customer-Timezone-Conversion" class="box1-img">
-					<div class="boxtitle"><h1>TIMEZONE CONVERSTION</h1></div>
+					<div class="boxtitle"><h3>TIMEZONE CONVERSTION</h3></div>
 					<P class="box-content">No matter where you have your offices, manage them easily.</P>
 				</div>
 			</div>
@@ -325,7 +325,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 										    <div class="s-b-img">
 											   <div class="text-center"><img src="/webassets/2021/img/icons/Beauty-and-Wellness_icon.svg" alt="Beauty-and-Wellness-Scheduling-Software"></div>
 										    </div>
-									     	<div class="s-b-title"><h1><a href="/scheduling-software/beauty-salon">Beauty and Wellness</a></h1></div>
+									     	<div class="s-b-title"><h3><a href="/scheduling-software/beauty-salon">Beauty and Wellness</a></h3></div>
 										    <div class="s-b-par">Spend more time doing what you love the most. Picktime appointment scheduling software has the best features to help you run your business smoothly.</div>
 								        </div>
 						             </div>
@@ -338,7 +338,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 							     			<div class="s-b-img">
 									    		<div class="text-center"><img src="/webassets/2021/img/icons/Photographer_icon.svg" alt="Photographers-Scheduling-Software"></div>
 										     </div>
-										     <div class="s-b-title"><h1><a href="/scheduling-software/photographers">Photographers</a></h1></div>
+										     <div class="s-b-title"><h3><a href="/scheduling-software/photographers">Photographers</a></h3></div>
 										     <div class="s-b-par">We believe that you should have a well-managed business whether you are a freelancer or own a big studio. Schedule meetings, appointments and manage your team with Picktime.</div>
 								         </div>
 						             </div>
@@ -351,7 +351,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 										    <div class="s-b-img">
 										   		<div class="text-center"><img src="/webassets/2021/img/icons/Health-and-Fitness_icon.svg" alt="Health-and-Fitness-Scheduling-Software"></div>
 									    	</div>
-									    	<div class="s-b-title"><h1><a href="/scheduling-software/gyms">Health and Fitness</a></h1></div>
+									    	<div class="s-b-title"><h3><a href="/scheduling-software/gyms">Health and Fitness</a></h3></div>
 								     		<div class="s-b-par">Be a gym trainer or a yoga trainer and manage your class bookings like a pro. Preset the number of places available in your class to avoid overbooking.</div>
 									    </div>
 						            </div>
@@ -364,7 +364,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 										     <div class="s-b-img">
 										    	<div class="text-center"><img src="/webassets/2021/img/icons/Event-management_icon.svg" alt="Event-Management-Scheduling-Software"></div>
 										     </div>
-										     <div class="s-b-title"><h1><a href="/scheduling-software/events">Event Management</a></h1></div>
+										     <div class="s-b-title"><h3><a href="/scheduling-software/events">Event Management</a></h3></div>
 										     <div class="s-b-par">Picktime event management software gives you the right tools to manage your staff, resources and clients for free.</div>
 								        </div>
 						            </div>
@@ -377,7 +377,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 										     <div class="s-b-img">
 											     <div class="text-center"><img src="/webassets/2021/img/icons/Financial-services_icon.svg" alt="Financial-Services-Scheduling-Software"></div>
 										     </div>
-										     <div class="s-b-title"><h1><a href="/scheduling-software/financial-services">Financial Services</a></h1></div>
+										     <div class="s-b-title"><h3><a href="/scheduling-software/financial-services">Financial Services</a></h3></div>
 										     <div class="s-b-par">With the huge responsibilites like managing hard earned finances, it is important to worry less about the clerical work of your business. Enjoy free services with Picktime.</div>
 								        </div>
 						            </div>
@@ -390,7 +390,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 										     <div class="s-b-img">
 											    <div class="text-center"><img src="/webassets/2021/img/icons/legal-services_icon.svg" alt="Legal-Services-Scheduling-Software"></div>
 										     </div>
-										     <div class="s-b-title"><h1><a href="/scheduling-software/legal">Legal Services</a></h1></div>
+										     <div class="s-b-title"><h3><a href="/scheduling-software/legal">Legal Services</a></h3></div>
 										     <div class="s-b-par">Maintaining a steady client base is just as important as maintaining Law. Let your clients know when you are free through our appointment booking service.</div>
 								        </div>
 						            </div>
@@ -403,7 +403,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 										     <div class="s-b-img">
 											    <div class="text-center"><img src="/webassets/2021/img/icons/doctor-medical _icon.svg" alt="Doctors-and-Medical-Clinics-Scheduling-Software"></div>
 										     </div>
-										     <div class="s-b-title"><h1><a href="/scheduling-software/medical">Doctors and Medical Clinics</a></h1></div>
+										     <div class="s-b-title"><h3><a href="/scheduling-software/medical">Doctors and Medical Clinics</a></h3></div>
 										     <div class="s-b-par">User-friendly features and tools that let you have a hassle-free and stress-free day. Start your free account today for scheduling your patient appointments.</div>
 								        </div>
 						            </div>
@@ -416,7 +416,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 										     <div class="s-b-img">
 											    <div class="text-center"><img src="/webassets/2021/img/icons/Education_icon.svg" alt="Education-Scheduling-Software"></div>
 										     </div>
-										     <div class="s-b-title"><h1><a href="/scheduling-software/universities">Education</a></h1></div>
+										     <div class="s-b-title"><h3><a href="/scheduling-software/universities">Education</a></h3></div>
 										     <div class="s-b-par">Do you want to know how many of your students will be attending your class today? Use Picktime for all your class bookings and appoinments. No credit cards required - It's totally free.</div>
 								        </div>
 						            </div>
@@ -429,7 +429,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									    	<div class="s-b-img">
 										   		<div class="text-center"><img src="/webassets/2021/img/icons/Interview_icon.svg" alt="Interview-Scheduling-Software"></div>
 										    </div>
-								     		<div class="s-b-title"><h1><a href="/scheduling-software/interview">Interview Scheduling</a></h1></div>
+								     		<div class="s-b-title"><h3><a href="/scheduling-software/interview">Interview Scheduling</a></h3></div>
 								     		<div class="s-b-par">Everybody wants to put their free time to better use and we understand that. Use our free and smart scheduling software that makes your managing your business faster and smoother.</div>
 						        		</div>
 					            	</div>
@@ -456,7 +456,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/Beauty-and-Wellness_icon.svg" alt="Beauty-and-Wellness-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h1><a href="/scheduling-software/beauty-salon">Beauty and Wellness</a></h1></div>
+											<div class="s-b-title"><h3><a href="/scheduling-software/beauty-salon">Beauty and Wellness</a></h3></div>
 											<div class="s-b-par">Spend more time doing what you love the most. Picktime appointment scheduling software has the best features to help you run your business smoothly.</div>
 										</div> 
 									</div>      
@@ -467,7 +467,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/Photographer_icon.svg" alt="Photographers-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h1><a href="/scheduling-software/photographers">Photographers</a></h1></div>
+											<div class="s-b-title"><h3><a href="/scheduling-software/photographers">Photographers</a></h3></div>
 											<div class="s-b-par">We believe that you should have a well-managed business whether you are a freelancer or own a big studio. Schedule meetings, appointments and manage your team with Picktime.</div>
 										</div> 
 									</div>   
@@ -478,7 +478,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/Health-and-Fitness_icon.svg" alt="Health-and-Fitness-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h1><a href="/scheduling-software/gyms">Health and Fitness</a></h1></div>
+											<div class="s-b-title"><h3><a href="/scheduling-software/gyms">Health and Fitness</a></h3></div>
 											<div class="s-b-par">Be a gym trainer or a yoga trainer and manage your class bookings like a pro. Preset the number of places available in your class to avoid overbooking.</div>
 										</div> 
 									</div>   
@@ -493,7 +493,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/Event-management_icon.svg" alt="Event-Management-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h1><a href="/scheduling-software/events">Event Management</a></h1></div>
+											<div class="s-b-title"><h3><a href="/scheduling-software/events">Event Management</a></h3></div>
 											<div class="s-b-par">Picktime event management software gives you the right tools to manage your staff, resources and clients for free.</div>
 										</div> 
 									</div>         
@@ -504,7 +504,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/Financial-services_icon.svg" alt="Financial-Services-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h1><a href="/scheduling-software/financial-services">Financial Services</a></h1></div>
+											<div class="s-b-title"><h3><a href="/scheduling-software/financial-services">Financial Services</a></h3></div>
 											<div class="s-b-par">With the huge responsibilites like managing hard earned finances, it is important to worry less about the clerical work of your business. Enjoy free services with Picktime.</div>
 										</div> 
 									</div>   
@@ -515,7 +515,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/legal-services_icon.svg" alt="Legal-Services-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h1><a href="/scheduling-software/legal">Legal Services</a></h1></div>
+											<div class="s-b-title"><h3><a href="/scheduling-software/legal">Legal Services</a></h3></div>
 											<div class="s-b-par">Maintaining a steady client base is just as important as maintaining Law. Let your clients know when you are free through our appointment booking service.</div>
 										</div> 
 									</div>   
@@ -530,7 +530,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/doctor-medical _icon.svg" alt="Doctor-and-Medical-Clinics-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h1><a href="/scheduling-software/medical">Doctors and Medical Clinics</a></h1></div>
+											<div class="s-b-title"><h3><a href="/scheduling-software/medical">Doctors and Medical Clinics</a></h3></div>
 											<div class="s-b-par">User-friendly features and tools that let you have a hassle-free and stress-free day. Start your free account today for scheduling your patient appointments.</div>
 										</div> 
 									</div>        
@@ -541,7 +541,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/Education_icon.svg" alt="Education-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h1><a href="/scheduling-software/universities">Education</a></h1></div>
+											<div class="s-b-title"><h3><a href="/scheduling-software/universities">Education</a></h3></div>
 											<div class="s-b-par">Do you want to know how many of your students will be attending your class today? Use Picktime for all your class bookings and appoinments. No credit cards required - It's totally free.</div>
 										</div> 
 									</div>   
@@ -552,7 +552,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/Interview_icon.svg" alt="Interview-Scheduling-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h1><a href="/scheduling-software/interview">Interview Scheduling</a></h1></div>
+											<div class="s-b-title"><h3><a href="/scheduling-software/interview">Interview Scheduling</a></h3></div>
 											<div class="s-b-par">Everybody wants to put their free time to better use and we understand that. Use our free and smart scheduling software that makes your managing your business faster and smoother.</div>
 										</div> 
 									</div>   
@@ -594,12 +594,12 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 	 	 		 		<div class="c-f-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/12jitsi.png" alt="Jitsi-integration" title="Jitsi-integration"></div></div>
 	 	 		 		<div class="c-f-l-pic-19" ><div class="a-picktime-ani"><img src="/webassets/2021/img/apps/13Paypal.png" alt="Paypal-integration" title="Paypal-integration"></div></div>
 	 	 		 		<div class="c-f-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/14Analytics.png" alt="Analytics-integration" title="Analytics-integration"></div></div>
-	 	 		 		<div class="c-f-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/2google-contacts.png" alt="Google-contacts-integration" title="Google-contacts-integration"></div></div>
-	 	 		 		<div class="c-f-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/3Gotomeeting.png" alt="Gotomeeting-integration" title="Gotomeeting-integration"></div></div>
-	 	 		 		<div class="c-f-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/4Drupal.png" alt="Drupal-integration" title="Drupal-integration"></div></div>
-	 	 		 		<div class="c-f-l-pic-19" ><div class="a-picktime-ani"><img src="/webassets/2021/img/apps/5pipedrive.png" alt="Piperdrive-integration" title="Piperdrive-integration"></div></div>
-	 	 		 		<div class="c-f-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/6Google.png" alt="Google-integration" title="Google-integration"></div></div>
-	 	 		 		<div class="c-f-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/7Mailchimp.png" alt="picktime-app-connect" title="picktime-app-connect"></div></div>
+	 	 		 		<div class="c-f-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/icloud.png" alt="icloud-integration" title="icloud-integration"></div></div>
+	 	 		 		<div class="c-f-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/salesforce.png" alt="salesforce-integration" title="salesforce-integration"></div></div>
+	 	 		 		<div class="c-f-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/9-9Weebly.png" alt="weebly-integration" title="weebly-integration"></div></div>
+	 	 		 		<div class="c-f-l-pic-19" ><div class="a-picktime-ani"><img src="/webassets/2021/img/apps/office.png" alt="Office-integration" title="Office-integration"></div></div>
+	 	 		 		<div class="c-f-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/skype.png" alt="Skype-integration" title="Skype-integration"></div></div>
+	 	 		 		<div class="c-f-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/apple.png" alt="Apple-integration" title="Apple-integration"></div></div>
 	 	 		 		<div class="c-f-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/2google-contacts.png" alt="Google-contacts-integration" title="Google-contacts-integration"></div></div>
 	 	 		 	</div>
 	 				<div class="c-f-3">
@@ -613,15 +613,15 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 	 	 		 		<div class="c-f-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/10Zoom.png" alt="Zoom-integration" title="Zoom-integration"></div></div>
 	 	 		 		<div class="c-f-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/11Googlemeet.png" alt="Google-meet-integration" title="Google-meet-integration"></div></div>
 	 	 		 		<div class="c-f-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/12jitsi.png" alt="Jitsi-integration" title="Jitsi-integration"></div></div>
-	 	 		 		<div class="c-f-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/13Paypal.png" alt="Paypal-integration" title="Paypal-integration"></div></div>
+	 	 		 		<div class="c-f-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/13Paypal.png" alt="PayPal-integration" title="PayPal-integration"></div></div>
 	 	 		 		<div class="c-f-l-pic-19" ><div class="a-picktime-ani"><img src="/webassets/2021/img/apps/14Analytics.png" alt="Analytics-integration" title="Analytics-integration"></div></div>
-	 	 		 		<div class="c-f-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/2google-contacts.png" alt="picktime-app-connect" title="picktime-app-connect"></div></div>
+	 	 		 		<div class="c-f-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/2google-contacts.png" alt="Google-contacts-integration" title="Google-contacts-integration"></div></div>
 	 	 		 		<div class="c-f-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/3Gotomeeting.png" alt="Gotomeeting-integration" title="Gotomeeting-integration"></div></div>
 	 	 		 		<div class="c-f-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/4Drupal.png" alt="Drupal-integration" title="Drupal-integration"></div></div>
-	 	 		 		<div class="c-f-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/5pipedrive.png" alt="picktime-app-connect" title="picktime-app-connect"></div></div>
-	 	 		 		<div class="c-f-l-pic-19" ><div class="a-picktime-ani"><img src="/webassets/2021/img/apps/6Google.png" alt="picktime-app-connect" title="picktime-app-connect"></div></div>
-	 	 		 		<div class="c-f-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/7Mailchimp.png" alt="Mailchimp-integration" title="picktime-app-connect"></div></div>
-	 	 		 		<div class="c-f-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/8constant_contact.png" alt="Google-contacts-integration" title="Google-contacts-integration"></div></div>
+	 	 		 		<div class="c-f-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/5pipedrive.png" alt="Piperdrive-integration" title="Piperdrive-integration"></div></div>
+	 	 		 		<div class="c-f-l-pic-19" ><div class="a-picktime-ani"><img src="/webassets/2021/img/apps/6Google.png" alt="Google-integration" title="Google-integration"></div></div>
+	 	 		 		<div class="c-f-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/7Mailchimp.png" alt="Mailchimp-integration" title="Mailchimp-integration"></div></div>
+	 	 		 		<div class="c-f-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/8constant_contact.png" alt="Constant-contact-integration" title="Constant-contact-integration"></div></div>
  	 		 		</div>
  	 		 	</div>
 	          	<!-- secondline -->
@@ -630,7 +630,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
  	 		 			<div class="c-s-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/2-2Square.png" alt="square-integration" title="square-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/4-4Hubspot.png" alt="Hubspot-integration" title="Hubspot-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/5-5Wordpress.png" alt="Wordpress-integration" title="Wordpress-integration"></div></div>
-	 	 		 		<div class="c-s-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/6-6Gcal.png" alt="Gcal-integration" title="Gcal-integration"></div></div>
+	 	 		 		<div class="c-s-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/6-6Gcal.png" alt="Gcal-integration" title="Google Calendar-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="a-picktime-ani"><img src="/webassets/2021/img/apps/7-7Wix.png" alt="wix-integration" title="wix-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/8-8Joomla.png" alt="joomla-integration" title="joomla-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/9-9Weebly.png" alt="weebly-integration" title="weebly-integration"></div></div>
@@ -643,15 +643,15 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 	 	 		 		<div class="c-s-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/3-3teams.png" alt="teams-integration" title="teams-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="a-picktime-ani"><img src="/webassets/2021/img/apps/4-4Hubspot.png" alt="Hubspot-integration" title="Hubspot-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/5-5Wordpress.png" alt="Wordpress-integration" title="Wordpress-integration"></div></div>
-	 	 		 		<div class="c-s-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/6-6Gcal.png" alt="Gcal-integration" title="Gcal-integration"></div></div>
-	 	 		 		<div class="c-s-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/1-1Zapier.png" alt="zapier-integration" title="zapier-integration"></div></div>
+	 	 		 		<div class="c-s-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/6-6Gcal.png" alt="Google-Calendar-integration" title="Google Calendar-integration"></div></div>
+	 	 		 		<div class="c-s-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/microsoft-exchange.png" alt="microsoft-exchange-integration" title="microsoft-exchange-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/2-2Square.png" alt="square-integration" title="square-integration"></div></div>
 	 	 		 	</div>
 	 	 		 	<div class="c-s-3">
-	 	 		 		<div class="c-s-l-pic-19" ><div class="a-picktime-ani"><img src="/webassets/2021/img/apps/3-3teams.png" alt="picktime-app-connect" title="picktime-app-connect"></div></div>
-	 	 		 		<div class="c-s-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/4-4Hubspot.png" alt="Hubspot-integration" title="Hubspot-integration"></div></div>
-	 	 		 		<div class="c-s-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/5-5Wordpress.png" alt="Wordpress-integration" title="Wordpress-integration"></div></div>
-	 	 		 		<div class="c-s-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/6-6Gcal.png" alt="Gcal-integration" title="Gcal-integration"></div></div>
+	 	 		 		<div class="c-s-l-pic-19" ><div class="a-picktime-ani"><img src="/webassets/2021/img/apps/salesforce.png" alt="salesforce-integration" title="salesforce-integration"></div></div>
+	 	 		 		<div class="c-s-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/13Paypal.png" alt="PayPal-integration" title="PayPal-integration"></div></div>
+	 	 		 		<div class="c-s-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/12jitsi.png" alt="Jitsi-integration" title="Jitsi-integration"></div></div>
+	 	 		 		<div class="c-s-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/icloud.png" alt="icloud-integration" title="icloud-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/7-7Wix.png" alt="wix-integration" title="wix-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="a-picktime-ani"><img src="/webassets/2021/img/apps/8-8Joomla.png" alt="joomla-integration" title="joomla-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/9-9Weebly.png" alt="weebly-integration" title="weebly-integration"></div></div>
@@ -659,12 +659,12 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 	 	 		 		<div class="c-s-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/11-11Sqaurespace.png" alt="sqauresspace-integration" title="sqauresspace-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/12-12outlook.png" alt="outlook-integration" title="outlook-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="a-picktime-ani"><img src="/webassets/2021/img/apps/13-13Zoho.png" alt="zoho-integration" title="zoho-integration"></div></div>
-	 	 		 		<div class="c-s-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/1-1Zapier.png" alt="picktime-app-connect" title="picktime-app-connect"></div></div>
+	 	 		 		<div class="c-s-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/1-1Zapier.png" alt="zapier-integration" title="zapier-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/2-2Square.png" alt="square-integration" title="square-integration"></div></div>
-	 	 		 		<div class="c-s-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/3-3teams.png" alt="picktime-app-connect" title="picktime-app-connect"></div></div>
+	 	 		 		<div class="c-s-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/3-3teams.png" alt="teams-integration" title="teams-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/4-4Hubspot.png" alt="Hubspot-integration" title="Hubspot-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="a-picktime-ani"><img src="/webassets/2021/img/apps/5-5Wordpress.png" alt="Wordpress-integration" title="Wordpress-integration"></div></div>
-	 	 		 		<div class="c-s-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/6-6Gcal.png" alt="Gcal-integration" title="Gcal-integration"></div></div>
+	 	 		 		<div class="c-s-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/6-6Gcal.png" alt="Google-Calendar-integration" title="Google Calendar-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/7-7Wix.png" alt="wix-integration" title="wix-integration"></div></div>
 	 	 		 		<div class="c-s-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/8-8Joomla.png" alt="joomla-integration" title="joomla-integration"></div></div>
 	 	 		 	</div>

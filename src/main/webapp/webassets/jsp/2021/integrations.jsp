@@ -115,12 +115,12 @@
 				</div>	
 				<div class="row">	
 					<div class="col-md-4 integration-sections">
-						<div class="pic"><img alt="Google-Calendar-integration" src="/webassets/2021/img/apps/office.png"></div>
+						<div class="pic"><img alt="Office360-Calendar-integration" src="/webassets/2021/img/apps/office.png"></div>
 						<div class="headings">Office 365 Calendar</div>
 						<p>Sync your Picktime calendar and work calendar.</p>
 					</div>
 					<div class="col-md-4 integration-sections">
-						<div class="pic"><img alt="Google-Calendar-integration" src="/webassets/2021/img/apps/microsoft-exchange.png"></div>
+						<div class="pic"><img alt="microsoft-exchange-integration" src="/webassets/2021/img/apps/microsoft-exchange.png"></div>
 						<div class="headings">Microsoft Exchange</div>
 						<p>Connect to your Business Calendar with ease</p>
 					</div>

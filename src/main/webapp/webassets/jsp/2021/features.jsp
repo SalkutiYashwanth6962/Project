@@ -86,7 +86,7 @@
 		      	</div>
       			<div class="col-lg-4 col-md-4 col-sm-4">
 					<div class="f-b-o-h-with-i">
-			          	<img src="/webassets/2021/img/icons/features/Show-open-slots_icon.svg" class="icons" alt="Team-Management">
+			          	<img src="/webassets/2021/img/Features-box3.svg" class="icons" alt="Team-Management">
 			          	<div class="f-b-o-h"><h3><a href="/features/manage-staff">Team Management </a></h3></div>
 			          	<p>Manage your team`s schedule, bookings &amp; day off’s.</p>
 			        </div>
@@ -220,7 +220,7 @@
 					<div class="col-md-6">
 						<div class="media">
 							<div class="media-left">
-								<img alt="Timezone-Conversion" src="/webassets/2021/img/Features-box3.svg">
+								<img alt="Timezone-Conversion" src="/webassets/2021/img/Features-box4.svg">
 							</div>
 							<div class="media-body">
 								<div class="title"><h3><a href="#">Timezone Conversion</a></h3></div>

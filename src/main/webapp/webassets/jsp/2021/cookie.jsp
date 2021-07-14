@@ -1,3 +1,4 @@
+<%@page import="java.util.Calendar"%>
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -59,50 +60,53 @@
 	<meta name="twitter:description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
 	
-     <!--Google Fonts-->  
-	<link rel="preconnect" href="https://fonts.gstatic.com">
-	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700&display=swap" rel="stylesheet">
-	
-	<!--Bootstrap-->  
-	<link rel="stylesheet" href="/webassets/2021/css/bootstrap.min.css?_=<%=cache%>">
+	<jsp:include page="scheduling-software/website-new-headtag.jsp" />
 	<style type="text/css">
-		#cookies {
+		.nav-white{
+          	color: #262626;
+    		background: #ffffff 0% 0% no-repeat padding-box;
+    		border-bottom: 1px solid #ebebeb;
+          }
+		.cookies {
 			padding-top: 10px;
+			margin-top: 100px;
 		}
-		#cookies h2 {
+		.cookies h2 {
 			font-size: 18px;
 			color: #141414;
 			line-height: 1.6;
 			padding-bottom: 15px;
 			font-weight: bold;
 		}
-		p {
+		.cookies p {
 			font-size: 14px;
 			line-height: 1.6;
 			ont-weight: normal;
 			color: #777;
 		}
-		h4 {
+		.cookies h4 {
 			font-size: 13px;
 			font-weight: bold;
 			padding: 10px 0px;
 			margin-bottom: 0;
 			color: #777;
 		}
-		ul {
+		.cookies ul {
 			font-size: 14px;
 			line-height: 1.6;
 			ont-weight: normal;
 			color: #777;
+			padding-left: 15px
 		}
 	</style>
 </head>
 <body>
+	<jsp:include page="scheduling-software/website-new-navbar.jsp" />
     <div class="container">
 		<div class="row">
 			<div class="col-sm-0"></div>
 				<div class="col-sm-12">
-					<section id="cookies">
+					<section class="cookies">
 						<h2>Cookie Policy</h2>
 						<p>This document informs Users about the technologies that help www.picktime.com to achieve the purposes described below. Such technologies allow the Owner to access and store information (for example by using a Cookie) or use resources (for example by running a script) on a User’s device as they interact with www.picktime.com.</p>
 						<p>For simplicity, all such technologies are defined as "Trackers" within this document – unless there is a reason to differentiate.<br>
@@ -422,9 +426,10 @@
 							</div>
 						</div>
 						<hr>
-						<p style="float: right;"><a target="_blank" href="/legal/privacy">Show the complete Privacy Policy</a></p>
+						<p style="float: right;"><a target="_blank" href="/legal/privacy" style="color: #838383;">Show the complete Privacy Policy</a></p>
 					</section>
     			</div>
+    			<div class="text-center"style="color: #838383; padding:15px;font-size: 12px;">&#169;Copyright <a href="/" class="bottom" style="color:#838383;;">Picktime</a> <%=Calendar.getInstance().get(Calendar.YEAR)%> All rights reserved.</div>
     		<div class="col-sm-0"></div>
     	</div>
 	</div>

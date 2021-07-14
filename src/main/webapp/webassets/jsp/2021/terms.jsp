@@ -1,3 +1,4 @@
+<%@page import="java.util.Calendar"%>
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -58,64 +59,66 @@
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
 	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
-	
-     <!--Google Fonts-->  
-	<link rel="preconnect" href="https://fonts.gstatic.com">
-	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700&display=swap" rel="stylesheet">
-	
-	<!--Bootstrap-->  
-	<link rel="stylesheet" href="/webassets/2021/css/bootstrap.min.css?_=<%=cache%>">
+	<jsp:include page="scheduling-software/website-new-headtag.jsp" />
 	<style type="text/css">
-       #terms-and-conditions {
+		.nav-white{
+		color: #262626;
+   		background: #ffffff 0% 0% no-repeat padding-box;
+   		border-bottom: 1px solid #ebebeb;
+       	}
+        .terms-and-conditions {
         padding-top: 10px;
+        margin-top: 100px;
     	}
-    	#terms-and-conditions h1{
+    	.terms-and-conditions h1{
     	font-size: 30px;
         color: #141414;
         line-height: 1.6;
-        margin-bottom: 60px;
+        margin-bottom: 30px;
     	}
-        #terms-and-conditions h3{
+        .terms-and-conditions h3{
         color: #444;
         font-size: 20px;
         font-weight: bold;
         line-height: 1.6;
         margin-bottom: 10px;
         }
-	   #terms-and-conditions h2{
+	   .terms-and-conditions h2{
 	   font-size: 18px;
        color: #141414;
        line-height: 1.6;
        padding-bottom: 15px;
        font-weight: bold;
 	   }
-	   #terms-and-conditions p{
+	   .terms-and-conditions p{
 	   font-size: 14px;
        line-height: 1.6;
        font-weight: normal;
        color: #666;
 	   }
-	   #terms-and-conditions h4{
+	   .terms-and-conditions h4{
 	   font-size: 13px;
        font-weight: bold;
        padding:10px 0px;
        margin-bottom: 0;
        color: #777;
 	   }
-	  #terms-and-conditions ul{
+	  .terms-and-conditions ul{
 	   font-size: 14px;
        line-height: 1.6;
        font-weight: normal;
        color: #777;
+       padding-left: 15px;
 	  } 
 	</style>
 </head>
 <body>
+	<jsp:include page="scheduling-software/website-new-navbar.jsp" />
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-2"></div>
-			<div class="col-sm-8">
-				<section id="terms-and-conditions">
+			<div class="col-sm-1"></div>
+			<div class="col-sm-10">
+				<section class="terms-and-conditions">
 					<h1>Terms and Conditions </h1>
 					<p>These Terms govern</p>
 					<ul>
@@ -450,9 +453,12 @@
 					</div> 
 				</section>
 			</div>
-			<div class="col-sm-2"></div>
+			<div class="col-sm-1"></div>
 		</div>
 	</div>
+	<hr>	
+	<div class="text-center"style="color: #838383; padding:15px;font-size: 12px;">&#169;Copyright <a href="/" class="bottom" style="color:#838383;;">Picktime</a> <%=Calendar.getInstance().get(Calendar.YEAR)%> All rights reserved.</div>
+	
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

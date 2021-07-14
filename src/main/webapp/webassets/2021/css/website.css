@@ -699,7 +699,7 @@ img.what-is-picktime-img{
   margin: 5px 60px 5px 60px;
 }
 
-.feature .col-lg-6 .boxtitle h1 {
+.feature .col-lg-6 .boxtitle h3 {
   text-align: center;
   color: #8a2be2;
   font-weight: bold;
@@ -1725,7 +1725,7 @@ img.what-is-picktime-img{
 	margin-left: auto;
 }
 
-.pick-time-is-for-everyone .items .silder-box .s-b-title h1 {
+.pick-time-is-for-everyone .items .silder-box .s-b-title h3 {
 	color: #9a32e6;
 	font-size: 16px;
 	font-weight: bold;
@@ -1733,7 +1733,7 @@ img.what-is-picktime-img{
 	text-align: center;
 }
 
-.pick-time-is-for-everyone .items .silder-box .s-b-title h1 a {
+.pick-time-is-for-everyone .items .silder-box .s-b-title h3 a {
 	color: #9a32e6;
 }
 
@@ -1863,7 +1863,7 @@ img.what-is-picktime-img{
 	margin-left: auto;
 }
 
-.silder-boxs .s-b-title h1 {
+.silder-boxs .s-b-title h3 {
 	color: #9a32e6;
 	font-size: 18px;
 	font-weight: bold;
@@ -1871,7 +1871,7 @@ img.what-is-picktime-img{
 	text-align: center;
 }
 
-.silder-boxs .s-b-title h1 a {
+.silder-boxs .s-b-title h3 a {
 	color: #9a32e6;
 	font: normal normal bold 18px/24px Samsung Sharp Sans;
 }
@@ -3224,7 +3224,7 @@ height: 80px;
   font-weight: bold;
 }
 
-.pricing-box .box-title {
+.pricing-box h2{
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8b22e2;
@@ -3347,7 +3347,7 @@ height: 80px;
     margin: -38px 20px -170px;
     width: 550px;
   }
-  .pricing-box .box-title {
+  .pricing-box h2{
     font: normal normal bold 24px/30px Samsung Sharp Sans;
   }
   .pricing-box .box .btn-lg {
@@ -3569,7 +3569,7 @@ height: 80px;
     margin: -38px auto -170px;
     width: 550px;
   }
-  .pricing-box .box-title {
+  .pricing-box h2{
     font: normal normal bold 24px/30px Samsung Sharp Sans;
   }
   .pricing-box .box .btn-lg {
@@ -3613,6 +3613,7 @@ height: 80px;
 /* Integrations-page-End */
 
 /*-Industries-individual-page-Start-*/
+
 .sec-first {
   background-color: #f0f2f8;
   margin-top: 100px;
@@ -3635,29 +3636,35 @@ height: 80px;
   line-height: 35px;
 }
 .sec-first .col-md-6 .btn-lg {
-  width: 50%;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  color: #ffffff;
-  letter-spacing: 0.12px;
-  background: #8B22E2; 
-  border-radius: 25px;
-  outline: none;
-  border: none;
-  text-align: center;
-  box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
-  transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    width: 250px;
+    padding: 16px 0px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 0.12px;
+    background: #8b22e2 0% 0% no-repeat padding-box;
+    border-radius: 25px;
+    outline: none;
+    border: none;
+    text-align: center;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
+    transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+.sec-first .col-md-6 .btn-lg:hover{
+	background: #9c48e2 !important;
 }
 .sec-first .col-md-6 img {
   position: relative;
   width: 100%;
   padding-top: 50px;
 }
+.sec-first .nail-extra-small{
+	padding: 50px;
+}
 /*  wave  */
 .sec-first .wave {
   margin-top: -48px;
 }
-
 
 /*=========banner==========end========*/
 
@@ -3668,7 +3675,7 @@ height: 80px;
 	width: 80px;
 }
 
-.sec-two .i-title {
+.sec-two h3 {
   font: normal normal 600 20px/24px Raleway;
   margin: 10px 0px;
 }
@@ -3691,32 +3698,6 @@ height: 80px;
    font-weight: 400;
    margin: 10px 30px;
 }
-
-/*=====section three==start==*/
-
-.sec-three {
-  margin: 100px 0px 40px 0px;
-}
-
-.sec-three h2 {
-  font: normal normal bold 20px/24px Samsung Sharp Sans;
-  letter-spacing: 0px;
-  color: #8a2be2;
-  margin: 100px 0px 10px 0px;
-}
-
-.sec-three h3 {
-  font: normal normal bold 35px/44px Samsung Sharp Sans;
-  letter-spacing: 0px;
-}
-.sec-three p {
-   line-height: 30px;
-   font-size: 20px;
-   font-weight: 400;
-}
-.sec-three img {
-  width: 100%;
-}
 .view-all{
 	padding:15px 80px;
     color: #fff !important;
@@ -3731,6 +3712,36 @@ height: 80px;
     transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     margin: 20px 0px;
 }
+.view-all:hover{
+	background: #9c48e2 !important;
+}
+/*=====section three==start==*/
+
+.sec-three {
+  margin: 100px 0px 40px 0px;
+}
+
+.sec-three h3 {
+  font: normal normal bold 20px/24px Samsung Sharp Sans;
+  letter-spacing: 0px;
+  color: #8a2be2;
+  margin: 100px 0px 10px 0px;
+}
+
+.sec-three h4 {
+  font: normal normal bold 35px/44px Samsung Sharp Sans;
+  letter-spacing: 0px;
+}
+.sec-three p {
+   line-height: 30px;
+   font-size: 20px;
+   font-weight: 400;
+}
+.sec-three img {
+  width: 100%;
+  padding: 0px 30px;
+}
+
 /*=====section three==end==*/
 
 /*=====section four==start==*/
@@ -3741,16 +3752,17 @@ height: 80px;
 
 .sec-four img {
   width: 100%;
+  padding: 0px 30px;
 }
 
-.sec-four h2 {
+.sec-four h3 {
   font: normal normal bold 20px/24px Samsung Sharp Sans;
   letter-spacing: 0px;
   color: #8a2be2;
   margin: 100px 0px 10px 0px;
 }
 
-.sec-four h3 {
+.sec-four h4 {
   font: normal normal bold 35px/44px Samsung Sharp Sans;
   letter-spacing: 0px;
   margin: 10px 0px 10px 0px;
@@ -3763,28 +3775,66 @@ height: 80px;
 }
 
 /*=====section four==end==*/
+
+/*=====section five==start==*/
+.sec-five {
+  margin: 100px 0px 40px 0px;
+}
+
+.sec-five h3 {
+  font: normal normal bold 20px/24px Samsung Sharp Sans;
+  letter-spacing: 0px;
+  color: #8a2be2;
+  margin: 100px 0px 10px 0px;
+}
+
+.sec-five h4 {
+  font: normal normal bold 35px/44px Samsung Sharp Sans;
+  letter-spacing: 0px;
+}
+.sec-five p {
+   line-height: 30px;
+   font-size: 20px;
+   font-weight: 400;
+}
+.sec-five img {
+  width: 100%;
+  padding: 0px 50px;
+}
+
+.sec-five  .extra-small{
+  width: 100%;
+  padding: 0px 80px;
+}
+/*=====section five==End==*/
+
+
+/*=====section four==start==*/
 .sec-sixth{
     padding: 100px 0px;
     background: #EFF1F7;
 }
 @media only screen and (max-width: 991px) {
   	/*===== big titles===768====== */
-  	.sec-three h3,
-  	.sec-four h3
+  	.sec-three h4,
+  	.sec-four h4,
+  	.sec-five h4
     {
     font: normal normal bold 24px/30px Samsung Sharp Sans;
     text-align: center;
   	}
   	/*========= small titles========= */
-  	.sec-three h2,
-  	.sec-four h2 {
+  	.sec-three h3,
+  	.sec-four h3,
+  	.sec-five h3 {
     font: normal normal bold 18px/18px Samsung Sharp Sans;
     text-align: center;
     margin: 15px 0px 10px 0px;
   	}
   	/*=====paragraph======  */
   	.sec-three p,
-  	.sec-four p
+  	.sec-four p,
+  	.sec-five p
    	{
     margin-left: 0px;
     line-height: 25px;
@@ -3800,14 +3850,12 @@ height: 80px;
     padding-top: 15px;
   	}
  	.sec-first .col-md-6 h1 {
-    font: normal normal bold 20px/30px Samsung Sharp Sans;
+    font: normal normal bold 30px/40px Samsung Sharp Sans;
     text-align: center;
     margin-top: 30px;
   	}
  	.sec-first .col-md-6 .btn-lg {
     width: 100%;
-    padding-top: 15px;
-    padding-bottom: 15px;
   	}
 	.sec-first .col-md-6 p {
     line-height: 25px;
@@ -3824,9 +3872,13 @@ height: 80px;
 	.sec-four {
     margin: 20px 0px 20px 0px;
 	}
+	.sec-five {
+    margin: 20px 0px 20px 0px;
+	}
 	
 	.sec-three img,
-	.sec-four img {
+	.sec-four img,
+	.sec-five img {
     padding: 10px 75px;
     }
     .sec-sixth {
@@ -3836,18 +3888,6 @@ height: 80px;
   
 }
 
-@media only screen and (max-width: 452px) {
-  /*===== big titles===768====== */
-  .sec-three h3,
-  .sec-four h3 {
-    font: normal normal bold 20px/24px Samsung Sharp Sans;
-  }
-  /*========= small titles========= */
-  .sec-three h2,
-  .sec-four h2 {
-    font: normal normal bold 16px/16px Samsung Sharp Sans;
-  }
-}
 /*-Industries-individual---page-End-*/
 
 /* Industries-page-start */
