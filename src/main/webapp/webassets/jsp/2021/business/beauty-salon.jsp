@@ -17,7 +17,7 @@
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
 	<meta property="og:title" content="Beauty Salon Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/img/business/.svg" />
+	<meta property="og:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/beauty-salon-cover.png" />
 	<meta property="og:image:alt" content="Beauty Salon Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime is a free online appointment scheduling software for managing beauty salon businesses. It facilitates staff management, managing resources, payments, invoicing and detailed business reporting." />

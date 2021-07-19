@@ -42,180 +42,180 @@
 	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="wave1">
 	<section id="integration-body">
 		<div class="container">
-			<div class="i-t-s">Payments</div>
+			<h2>Payments</h2>
 			<div class="row">
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="PayPal-integration" src="/webassets/2021/img/apps/13Paypal.png"></div>
-					<div class="headings">PayPal</div>
+					<div class="headings"><h3>PayPal</h3></div>
 					<p>Start taking secure online payments from your clients</p>
 				</div>
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Stripe-integration" src="/webassets/2021/img/apps/9Stripe.png"></div>
-					<div class="headings">Stripe</div>
+					<div class="headings"><h3>Stripe</h3></div>
 					<p>Easily manage card payments (Coming soon).</p>
 				</div>
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Square-integration" src="/webassets/2021/img/apps/2-2Square.png"></div>
-					<div class="headings">Square</div>
+					<div class="headings"><h3>Square</h3></div>
 					<p>Raise Invoices and get paid from anywhere (Coming soon).</p>
 				</div>
 			</div>
-			<div class="i-t-s">Video Meetings</div>
+			<h2>Video Meetings</h2>
 				<div class="row">
 					<div class="col-md-4 integration-sections">
 						<div class="pic"><img alt="Google-Meet-integration" src="/webassets/2021/img/apps/11Googlemeet.png"></div>
-						<div class="headings">Google Meet</div>
+						<div class="headings"><h3>Google Meet</h3></div>
 						<p>Secure Virtual meetings with just a few clicks.</p>
 					</div>
 					<div class="col-md-4 integration-sections">
 						<div class="pic"><img alt="Microsoft-Teams-integration" src="/webassets/2021/img/apps/3-3teams.png"></div>
-						<div class="headings">Microsoft Teams</div>
+						<div class="headings"><h3>Microsoft Teams</h3></div>
 						<p>Schedule your virtual work meetings seamlessly</p>
 					</div>
 					<div class="col-md-4 integration-sections">
 						<div class="pic"><img alt="Zoom-integration" src="/webassets/2021/img/apps/10Zoom.png"></div>
-						<div class="headings">Zoom</div>
+						<div class="headings"><h3>Zoom</h3></div>
 						<p>Organize consultations &amp; classes from the comfort of your home</p>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-4 integration-sections">
 						<div class="pic"><img alt="GoToMeeting-integration" src="/webassets/2021/img/apps/3Gotomeeting.png"></div>
-						<div class="headings">GoToMeeting</div>
+						<div class="headings"><h3>GoToMeeting</h3></div>
 						<p>Host Webinars, Classes, and simplify remote training</p>
 					</div>
 					<div class="col-md-4 integration-sections">
 						<div class="pic"><img alt="Skype-integration" src="/webassets/2021/img/apps/skype.png"></div>
-						<div class="headings">Skype</div>
+						<div class="headings"><h3>Skype</h3></div>
 						<p>Stay on track of your virtual meetings</p>
 					</div>
 					<div class="col-md-4 integration-sections">
 						<div class="pic"><img alt="Jitsi-Meet-integration" src="/webassets/2021/img/apps/12jitsi.png"></div>
-						<div class="headings">Jitsi Meet</div>
+						<div class="headings"><h3>Jitsi Meet</h3></div>
 						<p>Automatically generate your Jitsi Meet links</p>
 					</div>
 				</div>
-				<div class="i-t-s">Calendars</div>
+				<h2>Calendars</h2>
 				<div class="row">
 					<div class="col-md-4 integration-sections">
 						<div class="pic"><img alt="Google-Calendar-integration" src="/webassets/2021/img/apps/6-6Gcal.png"></div>
-						<div class="headings">Google Calendar</div>
+						<div class="headings"><h3>Google Calendar</h3></div>
 						<p>Be on top of your schedule &amp; view your event details</p>
 					</div>
 					<div class="col-md-4 integration-sections">
 						<div class="pic"><img alt="Outlook-Calendar-integration" src="/webassets/2021/img/apps/12-12outlook.png"></div>
-						<div class="headings">Outlook Calendar</div>
+						<div class="headings"><h3>Outlook Calendar</h3></div>
 						<p>Never miss out of any of your personal and work events</p>
 					</div>
 					<div class="col-md-4 integration-sections">
 						<div class="pic"><img alt="Apple-Calendar-integration" src="/webassets/2021/img/apps/apple.png"></div>
-						<div class="headings">Apple Calendar</div>
+						<div class="headings"><h3>Apple Calendar</h3></div>
 						<p>Sync your schedule across all your Apple devices.</p>
 					</div>
 				</div>	
 				<div class="row">	
 					<div class="col-md-4 integration-sections">
-						<div class="pic"><img alt="Office360-Calendar-integration" src="/webassets/2021/img/apps/office.png"></div>
-						<div class="headings">Office 365 Calendar</div>
+						<div class="pic"><img alt="Office-365-Calendar-integration" src="/webassets/2021/img/apps/office.png"></div>
+						<div class="headings"><h3>Office 365 Calendar</h3></div>
 						<p>Sync your Picktime calendar and work calendar.</p>
 					</div>
 					<div class="col-md-4 integration-sections">
 						<div class="pic"><img alt="microsoft-exchange-integration" src="/webassets/2021/img/apps/microsoft-exchange.png"></div>
-						<div class="headings">Microsoft Exchange</div>
+						<div class="headings"><h3>Microsoft Exchange</h3></div>
 						<p>Connect to your Business Calendar with ease</p>
 					</div>
 				</div>
-			<div class="i-t-s">Booking Widget</div>
+			<h2>Booking Widget</h2>
 			<div class="row">
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Wordpress-integration" src="/webassets/2021/img/apps/5-5Wordpress.png"></div>
-					<div class="headings">Wordpress</div>
+					<div class="headings"><h3>Wordpress</h3></div>
 					<p>Turn all your potential visitors into customers.</p>
 				</div>
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Weebly-integration" src="/webassets/2021/img/apps/9-9Weebly.png"></div>
-					<div class="headings">Weebly</div>
+					<div class="headings"><h3>Weebly</h3></div>
 					<p>Turn your weebly site into a booking engine.</p>
 				</div>
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Wix-integration" src="/webassets/2021/img/apps/7-7Wix.png"></div>
-					<div class="headings">Wix</div>
+					<div class="headings"><h3>Wix</h3></div>
 					<p>Add your booking widget to Wix and see your calendar fill.</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Joomla-integration" src="/webassets/2021/img/apps/8-8Joomla.png"></div>
-					<div class="headings">Joomla</div>
+					<div class="headings"><h3>Joomla</h3></div>
 					<p>Embed the booking button and let visitors know your availability.</p>
 				</div>
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Squarespace-integration" src="/webassets/2021/img/apps/11-11Sqaurespace.png"></div>
-					<div class="headings">Squarespace</div>
+					<div class="headings"><h3>Squarespace</h3></div>
 					<p>Convert your leads into full time customers.</p>
 				</div>
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Drupal-integration" src="/webassets/2021/img/apps/4Drupal.png"></div>
-					<div class="headings">Drupal</div>
+					<div class="headings"><h3>Drupal</h3></div>
 					<p>Convenient round the clock scheduling for everyone.</p>
 				</div>
 			</div>
-			<div class="i-t-s">Email Marketing</div>
+			<h2>Email Marketing</h2>
 			<div class="row">
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Mailchimp-integration" src="/webassets/2021/img/apps/7Mailchimp.png"></div>
-					<div class="headings">Mailchimp</div>
+					<div class="headings"><h3>Mailchimp</h3></div>
 					<p>Easily market and up sell your services to your customers</p>
 				</div>
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Constant-Contact-integration" src="/webassets/2021/img/apps/8constant_contact.png"></div>
-					<div class="headings">Constant Contact</div>
+					<div class="headings"><h3>Constant Contact</h3></div>
 					<p>Keep your audience engaged and grow your business</p>
 				</div>
 			</div>
-			<div class="i-t-s">CRM</div>
+			<h2>CRM</h2>
 			<div class="row">
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Salesforce-integration" src="/webassets/2021/img/apps/salesforce.png"></div>
-					<div class="headings">Salesforce</div>
+					<div class="headings"><h3>Salesforce</h3></div>
 					<p>Manage sales build engaging experiences for your customers</p>
 				</div>
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Zoho-integration" src="/webassets/2021/img/apps/13-13Zoho.png"></div>
-					<div class="headings">Zoho</div>
+					<div class="headings"><h3>Zoho</h3></div>
 					<p>Create engaging and powerful experiences to your clients</p>
 				</div>
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Pipedrive-integration" src="/webassets/2021/img/apps/5pipedrive.png"></div>
-					<div class="headings">Pipedrive</div>
+					<div class="headings"><h3>Pipedrive</h3></div>
 					<p>Track customer communication and create efficient campaigns</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-4  integration-sections">
 					<div class="pic"><img alt="Hubspot-integration" src="/webassets/2021/img/apps/4-4Hubspot.png"></div>
-					<div class="headings">Hubspot</div>
+					<div class="headings"><h3>Hubspot</h3></div>
 					<p>Easily manage potential leads and turn them into customers</p>
 				</div>
 			</div>
-			<div class="i-t-s">CONTACTS</div>
+			<h2>CONTACTS</h2>
 			<div class="row">
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Google Contacts-integration" src="/webassets/2021/img/apps/2google-contacts.png"></div>
-					<div class="headings">Google Contacts</div>
+					<div class="headings"><h3>Google Contacts</h3></div>
 					<p>Easily access your customer details from your Android device</p>
 				</div>
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="iCloud Contacts-integration" src="/webassets/2021/img/apps/icloud.png"></div>
-					<div class="headings">iCloud Contacts</div>
+					<div class="headings"><h3>iCloud Contacts</h3></div>
 					<p>Export customers details to your iCloud</p>
 				</div>
 			</div>
-			<div class="i-t-s">ANALYTICS</div>
+			<h2>ANALYTICS</h2>
 			<div class="row">
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Google Analytics-integration" src="/webassets/2021/img/apps/14Analytics.png"></div>
-					<div class="headings">Google Analytics</div>
+					<div class="headings"><h3>Google Analytics</h3></div>
 					<p>Get Powerful insights of your booking page</p>
 				</div>
 			</div>

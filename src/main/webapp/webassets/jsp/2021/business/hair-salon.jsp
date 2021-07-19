@@ -18,7 +18,7 @@
 	
 	<meta property="og:title" content="Hair Salon Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="/webassets/2021/img/business/cover-img/hair-salon-cover.png" />
+	<meta property="og:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/hair-salon-cover.png" />
 	<meta property="og:image:alt" content="Hair Salon Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Picktime online appointment scheduling software is a free solution for hair salon management. It serves as a schedule maker to manage and monitor your employee schedules, appointments and revenue generation." />

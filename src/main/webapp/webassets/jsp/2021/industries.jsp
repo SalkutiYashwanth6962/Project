@@ -44,7 +44,7 @@
 	<div class="container" id="industries" style=" margin-top:100px; margin-bottom: 200px;">
 		<div class="row align-items-stretch">
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/beauty-salon">
+				<a href="/business/beauty-salon">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 					  		<span class="icon-wrap"><span class="text-primary icon-autorenew"> <img alt="Beauty-Salon" src="/webassets/2021/img/icons/industries/Beauty-Salon.svg" style="height: 55px;"></span></span>
@@ -57,7 +57,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/hair-salon">
+				<a href="/business/hair-salon">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Hair Salon" src="/webassets/2021/img/icons/Beauty-and-Wellness_icon.svg" style="height: 60px;"></span></span>
@@ -70,7 +70,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/nail-salon">
+				<a href="/business/nail-salon">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"><img alt="Nail Salon" src="/webassets/2021/img/icons/industries/Nail-Spa.svg" style="height: 60px;"></span></span>
@@ -96,7 +96,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/spa">
+				<a href="/business/spa">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Spa" src="/webassets/2021/img/icons/industries/spa-icon.svg" style="height: 50px;"></span></span>
@@ -137,7 +137,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/yoga-trainers">
+				<a href="/business/yoga-trainers">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Yoga Classes" src="/webassets/2021/img/icons/industries/Yoga-Class.svg" style="height: 60px;"></span></span>

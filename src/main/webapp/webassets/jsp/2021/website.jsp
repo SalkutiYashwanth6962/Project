@@ -234,22 +234,22 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 			</div>
 			<div class="col-lg-6" class="box-section">
 				<div class="box1 aos-init aos-animate" data-aos="flip-left" data-aos-delay="100">
-					<img src="/webassets/2021/img/Features-box1.svg" alt="Manage-Personal-Calendar" class="box1-img">
+					<img src="/webassets/2021/img/personal-calender.svg" alt="Manage-Personal-Calendar" class="box1-img">
 					<div class="boxtitle"><h3>PERSONAL CALENDAR</h3></div>
 					<P class="box-content">Manage personal calendar along with your business schedule easily</P>
 				</div>
 				<div class="box2 aos-init aos-animate" data-aos="flip-right" data-aos-delay="100">
-					<img src="/webassets/2021/img/Features-box3.svg" alt="Manage-Your-Team" class="box1-img">
+					<img src="/webassets/2021/img/team-management.svg" alt="Manage-Your-Team" class="box1-img">
 					<div class="boxtitle"><h3>TEAM MANAGEMENT</h3></div>
 					<P class="box-content">Notify your clients and don’t worry about no-shows</P>
 				</div>
 				<div class="box3 aos-init aos-animate" data-aos="flip-down" data-aos-delay="100">
-					<img src="/webassets/2021/img/Features-box2.svg" alt="Generate-Monthly-Daily-Reports" class="box1-img">
+					<img src="/webassets/2021/img/reports.svg" alt="Generate-Monthly-Daily-Reports" class="box1-img">
 					<div class="boxtitle"><h3>REPORTS</h3></div>
 					<P class="box-content">Easily raise your invoices and keep track of your sales and revenue</P>
 				</div>
 				<div class="box4 aos-init aos-animate" data-aos="flip-up" data-aos-delay="100">
-					<img src="/webassets/2021/img/Features-box4.svg" alt="Customer-Timezone-Conversion" class="box1-img">
+					<img src="/webassets/2021/img/timezone-conversion.svg" alt="Customer-Timezone-Conversion" class="box1-img">
 					<div class="boxtitle"><h3>TIMEZONE CONVERSTION</h3></div>
 					<P class="box-content">No matter where you have your offices, manage them easily.</P>
 				</div>
@@ -325,7 +325,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 										    <div class="s-b-img">
 											   <div class="text-center"><img src="/webassets/2021/img/icons/Beauty-and-Wellness_icon.svg" alt="Beauty-and-Wellness-Scheduling-Software"></div>
 										    </div>
-									     	<div class="s-b-title"><h3><a href="/scheduling-software/beauty-salon">Beauty and Wellness</a></h3></div>
+									     	<div class="s-b-title"><h3><a href="/business/beauty-salon">Beauty and Wellness</a></h3></div>
 										    <div class="s-b-par">Spend more time doing what you love the most. Picktime appointment scheduling software has the best features to help you run your business smoothly.</div>
 								        </div>
 						             </div>
@@ -456,7 +456,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/Beauty-and-Wellness_icon.svg" alt="Beauty-and-Wellness-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h3><a href="/scheduling-software/beauty-salon">Beauty and Wellness</a></h3></div>
+											<div class="s-b-title"><h3><a href="/business/beauty-salon">Beauty and Wellness</a></h3></div>
 											<div class="s-b-par">Spend more time doing what you love the most. Picktime appointment scheduling software has the best features to help you run your business smoothly.</div>
 										</div> 
 									</div>      
@@ -597,7 +597,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 	 	 		 		<div class="c-f-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/icloud.png" alt="icloud-integration" title="icloud-integration"></div></div>
 	 	 		 		<div class="c-f-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/salesforce.png" alt="salesforce-integration" title="salesforce-integration"></div></div>
 	 	 		 		<div class="c-f-l-pic-19" ><div class="e-picktime-ani"><img src="/webassets/2021/img/apps/9-9Weebly.png" alt="weebly-integration" title="weebly-integration"></div></div>
-	 	 		 		<div class="c-f-l-pic-19" ><div class="a-picktime-ani"><img src="/webassets/2021/img/apps/office.png" alt="Office-integration" title="Office-integration"></div></div>
+	 	 		 		<div class="c-f-l-pic-19" ><div class="a-picktime-ani"><img src="/webassets/2021/img/apps/office.png" alt="Office-365-integration" title="Office-365-integration"></div></div>
 	 	 		 		<div class="c-f-l-pic-19" ><div class="b-picktime-ani"><img src="/webassets/2021/img/apps/skype.png" alt="Skype-integration" title="Skype-integration"></div></div>
 	 	 		 		<div class="c-f-l-pic-19" ><div class="c-picktime-ani"><img src="/webassets/2021/img/apps/apple.png" alt="Apple-integration" title="Apple-integration"></div></div>
 	 	 		 		<div class="c-f-l-pic-19" ><div class="d-picktime-ani"><img src="/webassets/2021/img/apps/2google-contacts.png" alt="Google-contacts-integration" title="Google-contacts-integration"></div></div>
