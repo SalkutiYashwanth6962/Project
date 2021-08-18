@@ -13,8 +13,9 @@
 <head>
     <title>Embassies and consulates Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="The Picktime appointment software suits both the embassies and the consulates perfectly, because it helps to organize both your appointments and staffs of your business. Picktime for consulates is a great way to manage your appointments">
-    <meta name="keywords" content="Embassy Booking System and Appointment Scheduler, Embassies and consulates Scheduling Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="keywords" content="embassies and consulates appointment scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, 
+    best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, 
+    online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, online booking software, online scheduling tools best online scheduling tool">
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />

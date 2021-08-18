@@ -4386,6 +4386,16 @@ div#industries > div > div {
     margin: 0px;
     font-size: 18px;
     }
+    .pricing-sec .note-sec{
+     font-weight: bold;
+     margin: 30px 0px 10px  0px ;
+     font-size: 18px;
+    }
+    .pricing-sec .note{
+     font-weight: bold;
+     margin: 20px 0px 10px  0px ;
+     font-size: 15px;
+    }
     @media only screen and (max-width: 991px){
      .pricing-header{
     height: 400px;

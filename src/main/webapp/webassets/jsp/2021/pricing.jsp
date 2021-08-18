@@ -42,7 +42,7 @@
 <jsp:include page="scheduling-software/website-new-navbar.jsp" />
 	<section class="pricing-header ">
 		<div class="container">
-    		<h1 class="pricing-h1">Pricing Plans Everyone</h1>
+    		<h2 class="pricing-h1">Pricing Plans Everyone</h2>
 			<p class="pricing-text">upgrade your plan for enhanced features and a richer experience.</p>
 		</div>
 	</section>
@@ -51,8 +51,8 @@
 			<div class="col-md-4">
 				<div class="card mb-5 mb-lg-0">
 					<div class="card-body">
-						<h5 class="card-title text-uppercase">Free</h5>
-						<h6 class="card-price">$0.00<span class="period">/mo</span></h6>
+						<h3 class="card-title text-uppercase">Free</h3>
+						<h4 class="card-price">$0.00<span class="period">/mo</span></h4>
 						<ul>
 							<li>3 Team Members</li>
 							<li>3 Resources</li>
@@ -71,8 +71,8 @@
 			<div class="col-md-4">
 				<div class="card mb-5 mb-lg-0">
 					<div class="card-body">
-						<h5 class="card-title text-uppercase">Starter</h5>
-						<h6 class="card-price">$9.99<span class="period">/mo</span></h6>
+						<h3 class="card-title text-uppercase">Starter</h3>
+						<h4 class="card-price">$9.99<span class="period">/mo</span></h4>
 						<div class="card-bold-text">Everything you get with Free</div>
 						<ul>
 							<li>3 Team Members</li>
@@ -96,8 +96,8 @@
 			<div class="col-md-4">
 				<div class="card mb-5 mb-lg-0">
 					<div class="card-body">
-						<h5 class="card-title text-uppercase">Pro</h5>
-						<h6 class="card-price">$19.99<span class="period">/mo</span></h6>
+						<h3 class="card-title text-uppercase">Pro</h3>
+						<h4 class="card-price">$19.99<span class="period">/mo</span></h4>
 						<div class="card-bold-text">Everything you get with Starter</div>
 						<ul>
 							<li>20 Team Members</li>
@@ -120,7 +120,7 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="comparison">Features Comparison</h5>
+		<h3 class="comparison">Features Comparison</h3>
 		<table  style="width:100%">
 			<tr>
 				<th>Features</th>
@@ -437,6 +437,10 @@
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 		</table>
+		<div class="note-sec">
+			<div>Note:</div> 
+			<div class="note">*Coming soon. Our team is working on bringing these features live as soon as possible.</div>
+		 </div>
 	</div>
 	<jsp:include page="scheduling-software/website-new-footer.jsp"/> 
 </body>
