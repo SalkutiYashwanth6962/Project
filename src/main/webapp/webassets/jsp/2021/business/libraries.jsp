@@ -38,7 +38,7 @@
 				<a href="/register"><button class="btn-lg text-center">GET STARTED</button></a>
 			</div>
 			<div class="col-md-6">
-		    	<img alt="Online doctor appointment scheduling software" src="/webassets/2021/img/business/libraries-hero.svg">
+		    	<img alt="Online Libraries appointment scheduling software" src="/webassets/2021/img/business/libraries-hero.svg">
 			</div>
 	 	</div>
 	</section>
@@ -46,21 +46,21 @@
 		<div class="container text-center">
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		        	<div class="i-img text-center"> <img alt="online doctor booking page" src="/webassets/2021/img/icons/features/Calendar_icon.svg"> </div>
+		        	<div class="i-img text-center"> <img alt="online libraries booking page" src="/webassets/2021/img/icons/features/Calendar_icon.svg"> </div>
 			       	<h3>Online Calendar</h3>
 			       	<p>Check your library operating hours and monitor your scheduled appointments via the online calendar</p>
 			    </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		       		<div class="i-img"> <img alt="appointment notifications to patients" src="/webassets/2021/img/What-is-picktime-rooms-euipment.svg"> </div>
+		       		<div class="i-img"> <img alt="resource management for libraries" src="/webassets/2021/img/What-is-picktime-rooms-euipment.svg"> </div>
 			       	<h3>Resource Management</h3>
 			       	<p>Allocate and manage books, desks, computer systems, and reading rooms from the dashboard</p>
 			      </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="patients can reschedule without calling" src="/webassets/2021/img/icons/features/Multiple-location_icon.svg"> </div>
+	      			<div class="i-img"> <img alt="multiple Locations for libraries" src="/webassets/2021/img/icons/features/Multiple-location_icon.svg"> </div>
 		       		<h3>Multiple Locations</h3>
 		       		<p>A centralized system to handle appointments, staff, and customers at all your library locations</p>
 		       	</div>
@@ -78,14 +78,14 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Monitor work schedules, leaves, and appointments of library staff and assign resources such as computer systems, books, and reading rooms to them through a unified team management system.</p>
 			</div>
 			<div class="col-md-6">
-       			<img alt="Individual doctor booking website" src="/webassets/2021/img/business/hair-salon-team-management.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+       			<img alt="Staff management at Library" src="/webassets/2021/img/business/hair-salon-team-management.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	    	</div>
 		</div>
 	</div>
 	<div class="sec-four">
 		<div class="container">
 			<div class="col-md-6 hidden-xs hidden-sm">
-		   		<img alt="Take advance payments for booking" src="/webassets/2021/img/business/medical-custom-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+		   		<img alt="Online booking page for Library" src="/webassets/2021/img/business/medical-custom-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 			</div>
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PERSONALIZED BOOKING PAGE</h3>
@@ -93,7 +93,7 @@
             	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Send automated reminders via email and SMS on scheduled library appointments and book returns to reduce no-shows and delayed returns.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
-	   			<img alt="Take advance payments for booking" src="/webassets/2021/img/business/medical-custom-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+	   			<img alt="Online booking page for Library" src="/webassets/2021/img/business/medical-custom-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 			</div>
 		</div>
 	</div>
@@ -105,7 +105,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Send automated reminders via email and SMS on scheduled library appointments and book returns to reduce no-shows and delayed returns.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="Book repeated appointments" src="/webassets/2021/img/business/schools-automated-reminders.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="Auttomatic Booking reminder for students" src="/webassets/2021/img/business/schools-automated-reminders.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

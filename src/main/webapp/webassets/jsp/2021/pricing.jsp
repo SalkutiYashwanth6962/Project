@@ -51,9 +51,8 @@
 			<div class="col-md-4">
 				<div class="card mb-5 mb-lg-0">
 					<div class="card-body">
-						<h5 class="card-title text-uppercase text-center">Free</h5>
-						<h6 class="card-price text-center">$0.00<span class="period">/mo</span></h6>
-						<div class="card-bold-text">Everything you get with free</div>
+						<h5 class="card-title text-uppercase">Free</h5>
+						<h6 class="card-price">$0.00<span class="period">/mo</span></h6>
 						<ul>
 							<li>3 Team Members</li>
 							<li>3 Resources</li>
@@ -72,9 +71,9 @@
 			<div class="col-md-4">
 				<div class="card mb-5 mb-lg-0">
 					<div class="card-body">
-						<h5 class="card-title text-uppercase text-center">Starter</h5>
-						<h6 class="card-price text-center">$9.99<span class="period">/mo</span></h6>
-						<div class="card-bold-text">Everything you get with free</div>
+						<h5 class="card-title text-uppercase">Starter</h5>
+						<h6 class="card-price">$9.99<span class="period">/mo</span></h6>
+						<div class="card-bold-text">Everything you get with Free</div>
 						<ul>
 							<li>3 Team Members</li>
 							<li>3 Resources</li>
@@ -97,9 +96,9 @@
 			<div class="col-md-4">
 				<div class="card mb-5 mb-lg-0">
 					<div class="card-body">
-						<h5 class="card-title text-uppercase text-center">Pro</h5>
-						<h6 class="card-price text-center">$19.99<span class="period">/mo</span></h6>
-						<div class="card-bold-text">Everything you get with free</div>
+						<h5 class="card-title text-uppercase">Pro</h5>
+						<h6 class="card-price">$19.99<span class="period">/mo</span></h6>
+						<div class="card-bold-text">Everything you get with Starter</div>
 						<ul>
 							<li>20 Team Members</li>
 							<li>20 Resources</li>
@@ -107,11 +106,11 @@
 							<li>Unlimited Classes</li>
 							<li>Unlimited Appointments</li>
 							<li>Customizable Emails</li>
-							<li>Single sign On</li>
+							<li>Single Sign On</li>
 							<li>Booking Page 20+ Languages</li>
 							<li>Customizable Labels*</li>
 							<li>Courses*</li>
-							<li>Packges*</li>
+							<li>Packages*</li>
 							<li>Vouchers*</li>
 							<li>Discounts*</li>
 							<li>Over 100+ integrations with Zapier*</li>
@@ -155,7 +154,7 @@
 				<td class="hidden-md hidden-lg hidden-sm">ULTD</td>
 			</tr>
 			<tr>
-				<td>Class</td>
+				<td>Classes</td>
 				<td>2</td>
 				<td>5</td>
 				<td class="hidden-xs">Unlimited</td>
@@ -204,7 +203,7 @@
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
-				<td>Custom Email</td>
+				<td>Customizable Emails</td>
 				<td>-</td>
 				<td>-</td>
 				<td><i class="icon-check-mark right-mark"></i></td>

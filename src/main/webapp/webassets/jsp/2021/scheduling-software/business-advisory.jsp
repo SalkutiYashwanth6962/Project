@@ -13,8 +13,9 @@
 <head>
     <title>Business Advisory Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime can be tailored for use in almost any local business advisories and consultants. Schedule all your meetings and appointments using Picktime. As a consultant or business advisory, you can schedule all your virtual meetings easily.">
-    <meta name="keywords" content="Business Advisory Scheduling Software,  Best Business Advisory Booking Software, Free Online Consultant Scheduling Software, Online Booking Software for Business Advisory, Online Booking Software for Consultants, Small Business Scheduling Software for Professionals, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="keywords" content="business advisory scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, 
+    best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, 
+    online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, online booking software, online scheduling tools">
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />

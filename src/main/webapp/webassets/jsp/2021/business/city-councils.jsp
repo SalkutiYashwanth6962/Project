@@ -11,19 +11,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Doctor Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
+    <title>City Councils Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Free online appointment scheduling software designed to help doctors with appointment reminders, consultation fee payment, invoicing, clinic and staff management. ">
     <meta name="keywords" content="Free Doctor Scheduling Software Systems, Doctor Scheduling Software, Best Patient Scheduling Software, Best Doctor Scheduling Software, Appointment Scheduling Software for Doctor Practices, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, Doctor appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	<meta property="og:title" content="Doctor Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
+	<meta property="og:title" content="City Councils Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/city-councils-cover.png" />
-	<meta property="og:image:alt" content="Doctor Appointment Scheduling Software" />
+	<meta property="og:image:alt" content="City Councils Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Free online appointment scheduling software designed to help doctors with appointment reminders, consultation fee payment, invoicing, clinic and staff management. " />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
-	<meta name="twitter:title" content="Doctor Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
+	<meta name="twitter:title" content="City Councils Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Free online appointment scheduling software designed to help doctors with appointment reminders, consultation fee payment, invoicing, clinic and staff management. " />
 	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/city-councils-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
@@ -33,12 +33,12 @@
 	<section class="sec-first">
  		<div class="container">
 			<div class="col-md-6 ">
-				<h1>aaaaaa<span> city-councils</span> Scheduling Software</h1>
-				<p>Free online appointment scheduling software designed to help doctors with appointment reminders, consultation fee payment, invoicing, clinic and staff management. </p>
+				<h1>Online appointment scheduling software for<span> City Councils</span></h1>
+				<p>A free appointment scheduling software for city councils with virtual meetings, appointment reminders, fee payment & staff management to maximize the people's satisfaction.</p>
 				<a href="/register"><button class="btn-lg text-center">GET STARTED</button></a>
 			</div>
 			<div class="col-md-6">
-		    	<img alt="Online doctor appointment scheduling software" src="/webassets/2021/img/business/city-councils-hero.svg">
+		    	<img alt="Online city councils appointment scheduling software" src="/webassets/2021/img/business/city-councils-hero.svg">
 			</div>
 	 	</div>
 	</section>
@@ -46,23 +46,23 @@
 		<div class="container text-center">
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		        	<div class="i-img text-center"> <img alt="online doctor booking page" src="/webassets/2021/img/icons/features/Online-Bookings_icon.svg"> </div>
-			       	<h3>24x7 Online Bookings</h3>
-			       	<p>Allow patients to self-book appointments round the clock from anywhere &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+		        	<div class="i-img text-center"> <img alt="online doctor booking page" src="/webassets/2021/img/icons/features/Calendar_icon.svg"> </div>
+			       	<h3>Online Calendar</h3>
+			       	<p>Track your appointments and simplify the workflow across the council with the online calendar</p>
 			    </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		       		<div class="i-img"> <img alt="appointment notifications to patients" src="/webassets/2021/img/icons/features/aviod-no-show_icon.svg"> </div>
-			       	<h3>Avoid No-shows</h3>
-			       	<p>Notify patients about scheduled appointments via automated email and SMS reminders</p>
+		       		<div class="i-img"> <img alt="Staff Management for city councils" src="/webassets/2021/img/team-management.svg"> </div>
+			       	<h3>Staff Management</h3>
+			       	<p>Efficient staff management system to monitor staff schedule and equip them with resources </p>
 			      </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="patients can reschedule without calling" src="/webassets/2021/img/icons/features/Reports_icon.svg"> </div>
-		       		<h3>Reports &amp; Analytics</h3>
-		       		<p>Generate comprehensive reports on your revenue, staff, and daily appointments &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+	      			<div class="i-img"> <img alt="Multiple Locations for city councils" src="/webassets/2021/img/icons/features/Multiple-location_icon.svg"> </div>
+		       		<h3>Multiple Locations</h3>
+		       		<p>Handle appointments with people at all your council offices using a single dashboard </p>
 		       	</div>
 			</div>
 			<div class="col-md-12" style="margin-top:50px;">
@@ -73,39 +73,39 @@
 	<div class="sec-three">
 		<div class="container">
 			<div class="col-md-6 text-container">
-				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">CUSTOM BOOKING PAGE</h3>
-				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Faster Self-booking experience</h4>
-				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Create a customized online booking page and make it available on your website to allow patients to self-book appointments based on your real-time availability.</p>
+				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PERSONALIZED ONLINE BOOKING PAGE</h3>
+				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Flexible schedulings with a custom-built booking system</h4>
+				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Allow people to self-book appointments with you at any time using an easy-to-use and customizable online booking page. Make the booking button available on your website.</p>
 			</div>
 			<div class="col-md-6">
-       			<img alt="Individual doctor booking website" src="/webassets/2021/img/business/medical-custom-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+       			<img alt="customized booking page for personalized officials" src="/webassets/2021/img/business/medical-custom-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	    	</div>
 		</div>
 	</div>
 	<div class="sec-four">
 		<div class="container">
 			<div class="col-md-6 hidden-xs hidden-sm">
-		   		<img alt="Take advance payments for booking" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+		   		<img alt="schedule virtual meetings" src="/webassets/2021/img/business/gym-virtual-fitness-trainning.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 			</div>
 			<div class="col-md-6 text-container">
-				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ADVANCE PAYMENTS</h3>
-				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Consider Co-Pay for services</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Take copayments from patients for consultations, lab testing, and drug purchases to make medical billings easier.</p>
+				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ONLINE MEETING</h3>
+				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Organize virtual sessions remotely via Zoom/Google Meet</h4>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Schedule virtual appointments with the Zoom/Google Meet integration for the people or other staff seeking services remotely. Include the meeting link in the booking confirmation email.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
-	   			<img alt="Take advance payments for booking" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+	   			<img alt="schedule virtual meetings" src="/webassets/2021/img/business/gym-virtual-fitness-trainning.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 			</div>
 		</div>
 	</div>
 	<div class="sec-five">
 		<div class="container">
 			<div class="col-md-6 text-container">
-				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">RECURRING APPOINTMENTS</h3>
-				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Organize recurring consultations with ease</h4>
-				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Permit your clinic/hospital manager to schedule recurring appointments for patients based on your availability to track their health progress.</p>
+				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">AUTOMATIC REMINDERS</h3>
+				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Avoid no-shows with automated meeting alerts</h4>
+				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Lessen no-shows and avoid double bookings. Send automated meeting reminders to the people through email and SMS to ensure that they arrive at your office on time.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="Book repeated appointments" src="/webassets/2021/img/business/spa-recurring-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="Remainder people and staff about the meeting" src="/webassets/2021/img/business/beauty-salon-reminders.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

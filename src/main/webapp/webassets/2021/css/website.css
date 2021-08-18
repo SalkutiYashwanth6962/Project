@@ -4327,14 +4327,15 @@ div#industries > div > div {
     height: 650px;
     }
     .pricing-sec .card-title{
-   	margin: 10px 15px;
+   	margin: 10px 0px;
     font-size: 30px;
     font-weight: bold;
     }
     .pricing-sec .card-price{
-   	margin: 10px 15px;
+   	margin: 10px 0px;
     font-size: 28px;
     font-weight: bold;
+    margin-bottom: 25px;
     }
     .pricing-sec .period{
      font-size: 15px;

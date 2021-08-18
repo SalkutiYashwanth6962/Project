@@ -13,11 +13,16 @@
 <head>
     <title>Club Events Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Manage club events with this free online appointment scheduling software coupled with payments, invoicing, reminders, success analytics, resource and team management.">
-    <meta name="keywords" content="Free Doctor Scheduling Software Systems, Doctor Scheduling Software, Best Patient Scheduling Software, Best Doctor Scheduling Software, Appointment Scheduling Software for Doctor Practices, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, Doctor appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="keywords" content="club events booking software, events scheduling software, scheduling software for events, manage event scheduling software, free online appointment scheduling software, 
+    free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, 
+    free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, 
+    free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, 
+    online scheduling tools, best online scheduling tool, meeting scheduling software, day planner software, free online booking system for events, meeting booking software, event scheduling app, best meeting scheduling app, 
+    conference scheduling software, free event booking system, meeting booking system, conference booking software, free online meeting scheduling tool, tournament scheduling software, event scheduling tool, event staff scheduling software, 
+    event scheduling software free, event scheduling system">
 	<meta property="og:title" content="Club Events Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/information-tech-cover.png" />
+	<meta property="og:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/club-events-cover.png" />
 	<meta property="og:image:alt" content="Club Events Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Manage club events with this free online appointment scheduling software coupled with payments, invoicing, reminders, success analytics, resource and team management."/>
@@ -25,7 +30,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Club Events Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Manage club events with this free online appointment scheduling software coupled with payments, invoicing, reminders, success analytics, resource and team management."/>
-	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/information-tech-cover.png" />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/club-events-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>
 <body>
