@@ -12,8 +12,12 @@
 <head>
     <title>Cleaning Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime Cleaning Service appointment scheduling Software makes online booking easy for clients and helps you trim your daily scheduling. Your house cleaning business will run at maximum efficiency with Picktime.">
-    <meta name="keywords" content="Cleaning Scheduling Software, Best Cleaning Service Software, Best Maid Service Software,   Cleaning and Maid Service Scheduling Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="keywords" content="cleaning scheduling app, scheduling software for cleaning business, cleaning company scheduling software, cleaning business software, cleaning business software free, online booking system for cleaning service, 
+    cleaning service scheduling software, window cleaning scheduling software, free cleaning service scheduling software, booking system for cleaning service, free scheduling app for cleaning business, scheduling app for cleaning business, maid scheduling software, 
+    cleaning booking software, best scheduling software for cleaning business, janitorial scheduling software, cleaning service booking software, cleaning service booking system, cleaning business scheduling app, free online appointment scheduling software, 
+    free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, 
+    free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, 
+    free online scheduling tool, appointment scheduling app free, online booking software, online scheduling tools, best online scheduling tool">
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
@@ -46,7 +50,7 @@
 				<p>Running a cleaning business is more than a full-time job. it can be hard to find the time to keep your business organized with managerial responsibilities like dispatching cleaners, scheduling jobs and getting new customers . Cleaning service companies are flooded with huge number of service requests making it difficult for them to handle scheduling and dispatching on time. With many services like providing maids, total house clean up etc., picktime lets you switch through them with ease.</p>
 			</div>
 			<div class="services_sec">
-				 <p>Picktime’s user-friendly system is free of cost and we work alongside you to make sure that your cleaning company becomes more organized and efficient. Get rid of all your excel sheets and books with our cleaning service software. It will help you set up your available hours easily and allows your clients to reserve services online. Picktime Cleaning Service Software makes online booking easy for clients and helps you trim your daily scheduling. Your house cleaning business will run at maximum efficiency with Picktime. It takes less than 2 minutes to set up your business to take on a flood of appointments.</p>
+				 <p>Picktime is user friendly appointment scheduling software and we work alongside you to make sure that your cleaning company becomes more organized and efficient. Get rid of all your excel sheets and books with our cleaning service software. It will help you set up your available hours easily and allows your clients to reserve services online. Picktime Cleaning Service Software makes online booking easy for clients and helps you trim your daily scheduling. Your house cleaning business will run at maximum efficiency with Picktime. It takes less than 2 minutes to set up your business to take on a flood of appointments.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -57,9 +61,7 @@
 					<li>Unique Scheduling page for your business</li>
 					<li>Detailed Analytics Reports</li>
 					<li>Book Now Button for your website</li>
-					<li>Add Unlimited Staffs</li>
-					<li>Add Unlimited Services</li>
-					<li>free</li>
+					<li>Add Staffs and Add Services</li>
 					<li>Automatic Appointment Reminders</li>
 					<li>Staff Scheduling</li>
 					<li>Self-Serviced Bookings</li>

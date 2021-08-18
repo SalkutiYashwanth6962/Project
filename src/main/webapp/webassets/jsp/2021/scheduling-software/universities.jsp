@@ -65,9 +65,8 @@
 					<li>Students can book their appointment anytime.</li>
 					<li>Online Calendar</li>
 					<li>Access it from Anywhere</li>
-					<li>No Software cost</li>
-					<li>Add Unlimited Events</li>
-					<li>Add Unlimited Students and Staffs</li>
+					<li>Add Events</li>
+					<li>Add Students and Staffs</li>
 					<li>Unique Booking Page</li>
 					<li>Book Now Button on Your Website</li>
 					<li>Add Multiple Locations</li>

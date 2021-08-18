@@ -12,7 +12,8 @@
 <html lang="en">
 <head>
     <title>Appointment Scheduling | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff.">
+    <meta name="description" content="Free Online Appointment Scheduling Software for every device. Book appointments online 24/7 from anywhere with payments and invoicing . No installation required!
+">
     <meta name="keywords" content="free online appointment scheduling software, Appointment Booking, Appointment Scheduler, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
 	
@@ -21,12 +22,14 @@
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
 	<meta property="og:image:alt" content="Appointment Scheduling - Online Free Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
+	<meta property="og:description" content="Free Online Appointment Scheduling Software for every device. Book appointments online 24/7 from anywhere with payments and invoicing . No installation required!
+" />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
+	<meta name="twitter:description" content="Free Online Appointment Scheduling Software for every device. Book appointments online 24/7 from anywhere with payments and invoicing . No installation required!
+" />
 	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
@@ -48,8 +51,8 @@
 			   <p>Have you ever faced problems with missed appointment books and excel sheets? Well, most of us do on a daily basis. With our appointment scheduling software, you don’t have to worry about such petty issues. Check your appointments set for the day on the go. We have designed our software in such a way that you can use it on any device which has access to the internet. We simplify all the clerical work of your business so that you can concentrate on giving better service to your customers. </p>
 			</div>
 			<div class="feature_sec">
-				<h2>It’s totally free</h2>
-				<p>Yes, you heard it right! Picktime is totally FREE! Add unlimited staff, services and much more. Do you have more than one branch? You can add that to your account as well. You can keep track of what is going on in your location even when you are vacationing on the other side of the world.</p>
+				<h2>Sign Up with Picktime for free</h2>
+				<p>Yes, you heard it right! Register with Picktime for free! Add staff, services and much more. Do you have more than one branch? You can add that to your account as well. You can keep track of what is going on in your location even when you are vacationing on the other side of the world.</p>
 			</div>
 			<div class="feature_sec">
 				<h2>Be available 24X7 </h2>

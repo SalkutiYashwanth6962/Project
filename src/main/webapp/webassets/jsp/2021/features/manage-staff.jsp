@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Team Management | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff.">
+    <meta name="description" content="Free online booking and staff management software! Securely save staff contact info. Monitor staff schedules, leaves and assigned duties in all your office locations. ">
     <meta name="keywords" content=" free online appointment scheduling software, Team management, Staff Management, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
 	
@@ -21,12 +21,12 @@
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
 	<meta property="og:image:alt" content="Team Management - Online Free Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
+	<meta property="og:description" content="Free online booking and staff management software! Securely save staff contact info. Monitor staff schedules, leaves and assigned duties in all your office locations. " />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
+	<meta name="twitter:description" content="Free online booking and staff management software! Securely save staff contact info. Monitor staff schedules, leaves and assigned duties in all your office locations. " />
 	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
@@ -50,7 +50,7 @@
 	       		 <P>Picktime not only lets you choose the permissions you give to your staff. Easily manage schedules and even better let them manage their schedules themselves.</P>
 			</div>
 			<div class="feature_sec">
-	       		 <P>Automatically generate reports. Know which staff has provided the best service for that particular week or month. This not only gives you better insights about your staff but also helps your reward them anyway possible. You can also add unlimited staff to your account for no added cost. What are you still waiting for? join on board for free.</P>
+	       		 <P>Automatically generate reports. Know which staff has provided the best service for that particular week or month. This not only gives you better insights about your staff but also helps your reward them anyway possible. What are you still waiting for? Join on board for free.</P>
 			</div>
 	   </div>
 	</div>

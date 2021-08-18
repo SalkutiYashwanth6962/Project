@@ -13,9 +13,10 @@
 <head>
     <title>Dentists Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime is a free web based appointment scheduling software for dentists with which Dental clinics can book their patient’s appointments and also let their patients book their own appointments online. Picktime offers a comprehensive suite of appointment services for dentist practices of all sizes.">
-    <meta name="keywords" content="Dentists Scheduling Software, Best Dental Appointment Scheduling Software, Dentist practice management system, Online Free Online Dental Appointment Scheduling Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	
+    <meta name="keywords" content="dentist appointment scheduling software, dental appointment scheduling software, dentist appointment software, dentist appointment app, dental appointment management system, appointment scheduling software for dental office, dentist office scheduling software, free dental appointment scheduling software, dental appointment software, dental booking software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
+	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
+	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
+	best online scheduling tool">
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
@@ -75,12 +76,11 @@
 			<div class="services_sec">
 				<p>Picktime, is a great way to get started if you&#39;re not
 					quite ready to pay for appointment software or if you&#39;re not
-					sure you&#39;ll use it more. It allows unlimited appointments,
-					reminders, patients, recalls and everything at free of cost.</p>
+					sure you&#39;ll use it more. Picktime allows you to schedule appointments,
+					reminders, patients, recalls and manage your staffs.</p>
 				<div class="key_features">
 					<h2>Key Features</h2>
 					<ul>
-						<li>Completely Free</li>
 						<li>Staff Scheduling</li>
 						<li>Maintain Patient Records</li>
 						<li>Recurring Appointments</li>
@@ -89,7 +89,7 @@
 						<li>24hrs Email Support</li>
 						<li>Sync with your favourite calendar</li>
 						<li>A personalised booking page for your business</li>
-						<li>Add unlimited users and services</li>
+						<li>Add users and services</li>
 						<li>Multiple location Access</li>
 						<li>Integrate with your facebook page.</li>
 					</ul>

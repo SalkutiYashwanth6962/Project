@@ -13,9 +13,10 @@
 <head>
     <title>Sport Items Renting Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime online scheduling system can be used for booking tennis courts, football pitches, volleyball courts, basketball fields, pools, golf clubs, balls, nets, uniforms, roller skates, etc. Furthermore, it can be used for boat renting, yacht renting, bike renting, bicycle renting as well as for booking winter equipment like skis, skates, hockey items, snowboards, protective glasses, helmets, sticks, gloves and any other sports equipment you have.">
-    <meta name="keywords" content="Online Booking System for Sport Items Renting, Sport Items Renting Scheduling Software, Sports Equipment Rental Management Software Application, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	
+    <meta name="keywords" content="sport item rental scheduling software, sport item rental management, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
+	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
+	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
+	best online scheduling tool">
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
@@ -87,8 +88,7 @@
 					<li>Google, Outlook, Office 365, Exchange and iCloud Calendar Sync</li>
 					<li>No Software or Other Charges</li>
 					<li>Book Now Button on your Website</li>
-					<li>Add Unlimited Services</li>
-					<li>Add Unlimited Staffs</li>
+					<li>Add Services And Add Staffs</li>
 					<li>Reporting Tools</li>
 					<li>24hrs Email Support</li>
 					<li>Multiple location Access</li>

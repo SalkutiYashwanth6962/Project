@@ -12,20 +12,23 @@
 <html lang="en">
 <head>
     <title>Nail Salon Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Picktime is a free online appointment scheduling software and staff management app for nail salons. It meets all your needs from scheduling appointments, service delivery to invoicing and business reporting.">
-    <meta name="keywords" content="Nail Salon Scheduling Software, Free Nail Salon Scheduling Software, Nail Salon App, Nail Salon Appointment Scheduling & Payments Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="description" content="Free online appointment scheduling software designed for nail salons to facilitate online payments, invoicing, business reporting, customer and team management.">
+    <meta name="keywords" content="nail salon appointment app, nail salon booking app, nail salon appointment software, nail salon scheduling software, nail salon booking system, nail salon booking software, 
+    free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, 
+    online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, 
+    online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, 
+    appointment scheduling app free, online booking software, online scheduling tools, best online scheduling tool">
 	<meta property="og:title" content="Nail Salon Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/nail-salon-cover.png" />
 	<meta property="og:image:alt" content="Nail Salon Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a free online appointment scheduling software and staff management app for nail salons. It meets all your needs from scheduling appointments, service delivery to invoicing and business reporting." />
+	<meta property="og:description" content="Free online appointment scheduling software designed for nail salons to facilitate online payments, invoicing, business reporting, customer and team management." />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Nail Salon Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a free online appointment scheduling software and staff management app for nail salons. It meets all your needs from scheduling appointments, service delivery to invoicing and business reporting." />
-	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta name="twitter:description" content="Free online appointment scheduling software designed for nail salons to facilitate online payments, invoicing, business reporting, customer and team management." />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/nail-salon-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>
 <body>
@@ -34,7 +37,7 @@
  		<div class="container">
 			<div class="col-md-6 ">
 			    <h1><span>Nail Salon Management </span> at your fingertips</h1>
-				<p>Free online appointment scheduling software with payments, invoicing, business reporting, customer and team management for your nail salon business.</p>
+				<p>Free online appointment scheduling software designed for nail salons to facilitate online payments, invoicing, business reporting, customer and team management.</p>
 				<a href="/register"><button class="btn-lg text-center">GET STARTED</button></a>
 			</div>
 			<div class="col-md-6">
@@ -89,8 +92,8 @@
 			</div>
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">CALENDAR SYNC</h3>
-				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Stay on top of things</h4>
-           		<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Keep track of all your business and personal events.No more missed appointments or running late to family gatherings.</p>
+				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Avoid Booking Conflicts</h4>
+           		<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Don’t let personal events interfere with client meetings. Just sync your Google/iCloud/Outlook Calendar with Picktime and block off important dates to avoid clashes.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
    				<img alt="Google Outlook iCloud calendar sync" src="/webassets/2021/img/business/nail-salon-calender-sync.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

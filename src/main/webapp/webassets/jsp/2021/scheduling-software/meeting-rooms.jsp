@@ -13,8 +13,10 @@
 <head>
     <title>Meeting Rooms Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime is a free online room booking software with which you can book a meeting room from any part of the world with just an internet connected device. You can schedule a meeting in the room of your choice right from your home screen. Picktime is a fantastic way of making sure your room management system is running smoothly.">
-    <meta name="keywords" content="Meeting Rooms Scheduling Software, Scheduling Software Tools for Coworking Spaces, Best Meeting Room Booking Systems, Best Room Scheduling Software, Meeting Room Booking System, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="keywords" content="meeting rooms scheduling software, meeting rooms booking software, meeting scheduling software free, meeting room scheduling system, meeting room reservation software, room scheduling software for colleges, conference room scheduling software free, room scheduling software outlook integration, meeting room booking software free, 
+    best conference room scheduling software, conference booking software, conference booking systems, best desk booking software, boardroom booking software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, 
+    online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, 
+    appointment scheduling app free, online booking software, online scheduling tools, best online scheduling tool">
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
@@ -53,7 +55,7 @@
 			<div class="key_features">
 				<h2>Key Features</h2>
 				<ul>
-					<li>Fits Everyone&#39;s Budget(Completely Free)</li>
+					<li>Fits Everyone&#39;s Budget</li>
 					<li>Hourly or daily display timetable</li>
 					<li>Meeting Reminder</li>
 					<li>Recurring Bookings</li>
@@ -61,8 +63,6 @@
 					<li>24hrs Email Support</li>
 					<li>Mobile & tablet friendly</li>
 					<li>Staff Management</li>
-					<li>Unlimited users</li>
-					<li>Unlimited Services</li>
 					<li>Customer book meeting rooms on your website</li>
 					<li>A personalised booking page for your business</li>
 					<li>One click book now button for your website</li>

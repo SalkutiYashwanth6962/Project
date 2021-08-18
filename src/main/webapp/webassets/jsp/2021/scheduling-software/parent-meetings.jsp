@@ -58,7 +58,7 @@
 					<li>Easy-to-use online system</li>
 					<li>Google, Outlook, Office 365, Exchange and iCloud calendars integration</li>
 					<li>Always-available online access</li>
-					<li>Add Unlimited teachers and class</li>
+					<li>Add teachers and classes</li>
 					<li>Change schedules to block out certain time slots</li>
 					<li>Reduced human errors (double-bookings, lack of break time, etc)</li>
 					<li>Reduce the number of missed appointments</li>

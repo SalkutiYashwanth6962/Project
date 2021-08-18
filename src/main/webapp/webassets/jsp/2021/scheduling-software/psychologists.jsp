@@ -13,9 +13,10 @@
 <head>
     <title>Psychologists Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime is a free online psychologist appointment scheduling software that allows you to create a unique appointment page for your business so that your patients can book appointments with you directly. Picktime connects to your Google, Outlook, Office 365, Exchange and iCloud calendar and assures that your patients never get double booked.">
-    <meta name="keywords" content="Online Booking System for Psychologists, Psychologists Scheduling Software, Psychologists scheduling software, Therapy appointment scheduling software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	
+    <meta name="keywords" content="psychologist appointment scheduling software,  medical office appointment scheduling software, appointment scheduling software for medical office, Doctor office management software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
+	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
+	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
+	best online scheduling tool">
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
@@ -89,7 +90,7 @@
 					<li>Automated SMS & Email reminders</li>
 					<li>One click book now button for your website</li>
 					<li>Detailed Reports</li>
-					<li>Add Unlimited Services and Practitioners</li>
+					<li>Add Services and Practitioners</li>
 					<li>Add Unlimited Patients</li>
 					<li>Multiple location access</li>
 					<li>Recurring appointments</li>

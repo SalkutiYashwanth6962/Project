@@ -56,8 +56,7 @@
 					<li>Free online storage</li>
 					<li>Add custom fields</li>
 					<li>Website Book Now Widget</li>
-					<li>Add Unlimited Services</li>
-					<li>Add Unlimited Staffs</li>
+					<li>Add Staff and Services</li>
 					<li>Online Booking Calendar</li>
 					<li>Recurrent Appointment Booking</li>
 					<li>Automatic Reminders</li>
@@ -84,7 +83,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Stay on time</h3>
-			        <p>An easy to read appointment schedule is critical to keeping an office on track. With Picktime Appointment scheduler, you can view appointment schedules at a glance on screen or quickly print a report of the day’s appointments. Sharing the scheduling information with more than one computer keeps all staff updated and you can create an unlimited number of staffs as Picktime is a free appointment booking software.</p>
+			        <p>An easy to read appointment schedule is critical to keeping an office on track. With Picktime Appointment scheduler, you can view appointment schedules at a glance on screen or quickly print a report of the day’s appointments. Sharing the scheduling information with more than one computer keeps all staff updated.</p>
 				</div>
 			</div>
 		</div>

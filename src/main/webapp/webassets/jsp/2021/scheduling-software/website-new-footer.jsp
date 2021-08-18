@@ -1,16 +1,22 @@
 	<%@page import="com.picktime.website.Constants"%>
 	<%
 		String cache = Constants.App_version;
+		Boolean isPricingPage = request.getAttribute("isPricingPage") != null ? (Boolean)request.getAttribute("isPricingPage") : false;
 	%>
 	<%@page import="java.util.Calendar"%>
 	<section class="pricing-box">
 		<div class="box">
+			<%if(!isPricingPage){%>
 			<h2>Pricing?</h2>
-			<P class="box-text">Picktime is a completely free solution. It is
+			<%}%>
+			<P class="box-text">Picktime offers a free solution for scheduling needs. It is
 			simple and extremely easy to use. It is the only scheduling
 			platform where you can manage both your personal and business
 			calendars all in one place. Signup now!</P>
 			<a class="btn-lg" href="/register">SIGNUP FOR FREE</a>
+			<%if(!isPricingPage){%>
+			<div style="margin: 15px 0px 0px 0px;"><a class="pricing-link" href="/pricing" style="color:#333; font-weight: 400; font-size: 16px; padding:10px 0px 0px 0px;">View Plans & Pricing</a></div>
+			<%}%>
 		</div>
 	</section>
 	<!------------------Footer-------------------->
@@ -43,7 +49,7 @@
 		         		</div>
 			         	<div class="col-lg-4 col-md-4 col-sm-4">
 			            	<ul>
-			               		<li><a href="https://blog.picktime.com/">Blog</a></li>
+			               		<li><a href="/pricing">Pricing</a></li>
 				               	<li><a href="https://support.picktime.com/">Support</a></li>
 				               	<li><a target="_blank" rel="noreferrer" href="https://go.crisp.chat/chat/embed/?website_id=cffc37e4-7649-45d6-b044-074c60b9dbdc">Chat</a></li>
 				               	<!-- <li><a href="javascript:void(0);">Roadmap</a></li> -->
@@ -51,8 +57,9 @@
 			         	</div>
 			         	<div class="col-lg-4 col-md-4 col-sm-4">
 		            		<ul>
-			               		<li>&nbsp;</li>
+			               		<!-- <li>&nbsp;</li> -->
 								<!--<li><a target="_blank" href="/faqs">FAQs</a></li> -->
+								<li><a href="https://blog.picktime.com/">Blog</a></li>
 				               	<li><a target="_blank" href="/careers">Careers</a></li>
 				               	<li><a target="_blank" href="/legal/gdpr">GDPR</a></li>
 			            	</ul>

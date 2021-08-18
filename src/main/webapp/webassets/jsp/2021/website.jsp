@@ -338,7 +338,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 							     			<div class="s-b-img">
 									    		<div class="text-center"><img src="/webassets/2021/img/icons/Photographer_icon.svg" alt="Photographers-Scheduling-Software"></div>
 										     </div>
-										     <div class="s-b-title"><h3><a href="/scheduling-software/photographers">Photographers</a></h3></div>
+										     <div class="s-b-title"><h3><a href="/business/photographers">Photographers</a></h3></div>
 										     <div class="s-b-par">We believe that you should have a well-managed business whether you are a freelancer or own a big studio. Schedule meetings, appointments and manage your team with Picktime.</div>
 								         </div>
 						             </div>
@@ -351,7 +351,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 										    <div class="s-b-img">
 										   		<div class="text-center"><img src="/webassets/2021/img/icons/Health-and-Fitness_icon.svg" alt="Health-and-Fitness-Scheduling-Software"></div>
 									    	</div>
-									    	<div class="s-b-title"><h3><a href="/scheduling-software/gyms">Health and Fitness</a></h3></div>
+									    	<div class="s-b-title"><h3><a href="/business/gyms">Health and Fitness</a></h3></div>
 								     		<div class="s-b-par">Be a gym trainer or a yoga trainer and manage your class bookings like a pro. Preset the number of places available in your class to avoid overbooking.</div>
 									    </div>
 						            </div>
@@ -364,7 +364,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 										     <div class="s-b-img">
 										    	<div class="text-center"><img src="/webassets/2021/img/icons/Event-management_icon.svg" alt="Event-Management-Scheduling-Software"></div>
 										     </div>
-										     <div class="s-b-title"><h3><a href="/scheduling-software/events">Event Management</a></h3></div>
+										     <div class="s-b-title"><h3><a href="/business/events">Event Management</a></h3></div>
 										     <div class="s-b-par">Picktime event management software gives you the right tools to manage your staff, resources and clients for free.</div>
 								        </div>
 						            </div>
@@ -403,7 +403,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 										     <div class="s-b-img">
 											    <div class="text-center"><img src="/webassets/2021/img/icons/doctor-medical _icon.svg" alt="Doctors-and-Medical-Clinics-Scheduling-Software"></div>
 										     </div>
-										     <div class="s-b-title"><h3><a href="/scheduling-software/medical">Doctors and Medical Clinics</a></h3></div>
+										     <div class="s-b-title"><h3><a href="/business/doctors">Doctors and Medical Clinics</a></h3></div>
 										     <div class="s-b-par">User-friendly features and tools that let you have a hassle-free and stress-free day. Start your free account today for scheduling your patient appointments.</div>
 								        </div>
 						            </div>
@@ -417,7 +417,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											    <div class="text-center"><img src="/webassets/2021/img/icons/Education_icon.svg" alt="Education-Scheduling-Software"></div>
 										     </div>
 										     <div class="s-b-title"><h3><a href="/scheduling-software/universities">Education</a></h3></div>
-										     <div class="s-b-par">Do you want to know how many of your students will be attending your class today? Use Picktime for all your class bookings and appoinments. No credit cards required - It's totally free.</div>
+										     <div class="s-b-par">Do you want to know how many of your students will be attending your class today? Use Picktime for all your class bookings and appoinments. No credit cards required - Sign up for free.</div>
 								        </div>
 						            </div>
 								</div>
@@ -467,7 +467,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/Photographer_icon.svg" alt="Photographers-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h3><a href="/scheduling-software/photographers">Photographers</a></h3></div>
+											<div class="s-b-title"><h3><a href="/business/photographers">Photographers</a></h3></div>
 											<div class="s-b-par">We believe that you should have a well-managed business whether you are a freelancer or own a big studio. Schedule meetings, appointments and manage your team with Picktime.</div>
 										</div> 
 									</div>   
@@ -478,7 +478,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/Health-and-Fitness_icon.svg" alt="Health-and-Fitness-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h3><a href="/scheduling-software/gyms">Health and Fitness</a></h3></div>
+											<div class="s-b-title"><h3><a href="/business/gyms">Health and Fitness</a></h3></div>
 											<div class="s-b-par">Be a gym trainer or a yoga trainer and manage your class bookings like a pro. Preset the number of places available in your class to avoid overbooking.</div>
 										</div> 
 									</div>   
@@ -493,7 +493,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/Event-management_icon.svg" alt="Event-Management-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h3><a href="/scheduling-software/events">Event Management</a></h3></div>
+											<div class="s-b-title"><h3><a href="/business/events">Event Management</a></h3></div>
 											<div class="s-b-par">Picktime event management software gives you the right tools to manage your staff, resources and clients for free.</div>
 										</div> 
 									</div>         
@@ -530,7 +530,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/doctor-medical _icon.svg" alt="Doctor-and-Medical-Clinics-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h3><a href="/scheduling-software/medical">Doctors and Medical Clinics</a></h3></div>
+											<div class="s-b-title"><h3><a href="/business/doctors">Doctors and Medical Clinics</a></h3></div>
 											<div class="s-b-par">User-friendly features and tools that let you have a hassle-free and stress-free day. Start your free account today for scheduling your patient appointments.</div>
 										</div> 
 									</div>        
@@ -542,7 +542,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 												<div class="text-center"><img src="/webassets/2021/img/icons/Education_icon.svg" alt="Education-Scheduling-Software"></div>
 											</div>
 											<div class="s-b-title"><h3><a href="/scheduling-software/universities">Education</a></h3></div>
-											<div class="s-b-par">Do you want to know how many of your students will be attending your class today? Use Picktime for all your class bookings and appoinments. No credit cards required - It's totally free.</div>
+											<div class="s-b-par">Do you want to know how many of your students will be attending your class today? Use Picktime for all your class bookings and appoinments. No credit cards required - Sign up for free.</div>
 										</div> 
 									</div>   
 								</div>

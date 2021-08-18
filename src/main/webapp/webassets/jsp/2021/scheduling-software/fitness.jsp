@@ -13,9 +13,10 @@
 <head>
     <title>Fitness Classes Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime is a free fitness training online appointment and class booking software which lets your customers book their sessions online. you can also customize your business page where your customers can book their appointments online. Your customers can make bookings just the way they want.">
-    <meta name="keywords" content="Fitness Studio Software, Fitness Classes Scheduling Software, Sports and Fitness Appointment Booking Software, Fitness class and gym scheduling software, Gym Scheduling Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	
+	<meta name="keywords" content="fitness class scheduling software, fitness class scheduling app, fitness class software, gym scheduling software, fitness scheduling software, fitness scheduling app, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
+	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
+	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
+	best online scheduling tool">
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
@@ -52,7 +53,7 @@
 				<p>Finding the right and qualified trainer is tough and it is the biggest challenge for customers. Fitness business is one of the booming business in today's market. How do you manage all your trainees or students? How do you manage your trainers schedules in a simple way? How do you handle fitness trainees appointment scheduling?</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime is a free fitness training online appointment and class booking software which lets your customers book their sessions online. you can also customize your business page where your customers can book their appointments online. Your customers can make bookings just the way they want. You can display all your services like one on one training, group classes everything under your personalised business page and moreover, Picktime is a free fitness class scheduling software so there are no hidden charges. You can also set your staff or trainers to all services or only to a particular service and let them handle their own bookings.</p>
+				<p>Picktime is a free fitness training online appointment and class booking software which lets your customers book their sessions online. you can also customize your business page where your customers can book their appointments online. Your customers can make bookings just the way they want. You can display all your services like one on one training, group classes everything under your personalised business page and moreover, Picktime is a free fitness class scheduling software to manage all your appointments and staff schedules. You can also set your staff or trainers to all services or only to a particular service and let them handle their own bookings.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -65,7 +66,7 @@
 					<li>Maintain customer database</li>
 					<li>Recurring appointments</li>
 					<li>Multiple location access</li>
-					<li>Add unlimited services and staff</li>
+					<li>Add services and staff</li>
 				</ul>
 			</div>
 			<div class="bottom_section">

@@ -13,9 +13,10 @@
 <head>
     <title>Chiropractics Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime is a free web based appointment scheduling software for chiropractors which automates the things that are slowing down your office and helps you have a more profitable business and reduce your stress levels, too.">
-    <meta name="keywords" content="Chiropractic Scheduling Software, Top Chiropractic Software, Chiropractor Appointment Scheduling & Booking Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	
+    <meta name="keywords" content="chiropractors appointment scheduling software, chiropractic practice management software, chiropractic scheduling software, chiropractic appointment scheduling software, appointment scheduling software for chiropractors, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
+	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
+	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
+	best online scheduling tool">
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
@@ -74,8 +75,7 @@
 				<div class="services_sec">
 					<p>You don&#39;t have to install any software to use our
 						appointment scheduling software as it is browser based. You can add
-						unlimited number of services and staffs, it's completely free.
-						After booking an appointment, Picktime will automatically notify
+						services and staffs. After booking an appointment, Picktime will automatically notify
 						staff of the appointment, usually through email, while also sending
 						either an email or text message reminder to your patient too.</p>
 				</div>
@@ -85,7 +85,6 @@
 						<li>Automatic Appointment Reminders</li>
 						<li>Patients can book appointment even during non-business hours</li>
 						<li>24hrs Email Support</li>
-						<li>Completely Free</li>
 						<li>Recurring Appointments</li>
 						<li>Maintain patient Database</li>
 						<li>Save time in Creating Patient Appointments</li>
@@ -146,8 +145,7 @@
 					</div>
 					<div class="services_sec">
 						<p>Many Chiropractors can profit from the implementation of
-							Picktime on many levels. The benefits are more, while the cost is
-							completely free. To avail Picktime, Simply sign up with your
+							Picktime on many levels. To avail Picktime, Simply sign up with your
 							contact information and begin customizing your account. Make the
 							first step to an entirely new way of doing business today.</p>
 					</div>

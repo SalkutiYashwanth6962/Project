@@ -12,22 +12,25 @@
 <html lang="en">
 <head>
     <title>Hair Salon Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Picktime online appointment scheduling software is a free solution for hair salon management. It serves as a schedule maker to manage and monitor your employee schedules, appointments and revenue generation.">
-    <meta name="keywords" content="Hair Salon Scheduling Software, Top Salon Software, best salon scheduling software, Salon Scheduling Software for Stylists, Free Salon Software,  free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="description" content="Free online appointment scheduling software for hair salons with perks of online payments, invoicing, sales reporting, customer and team management.">
+    <meta name="keywords" content="hair salon booking systems, hair salon booking app, hair salon booking software, best salon booking system, hair stylist scheduling app, hair scheduling app, hair salon appointment software, hair salon scheduling software, best salon appointment software, 
+    best scheduling app for hairstylist, free hair salon management software, hair salon appointment scheduling software, hair salon appointment app, hair salon booking software, hair salon scheduling software, hair salon appointment software, free online appointment scheduling software, 
+    free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, 
+    online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, 
+    appointment scheduling app free, online booking software, online scheduling tools, best online scheduling tool, free online booking system for salons">
 	
 	<meta property="og:title" content="Hair Salon Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/hair-salon-cover.png" />
 	<meta property="og:image:alt" content="Hair Salon Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime online appointment scheduling software is a free solution for hair salon management. It serves as a schedule maker to manage and monitor your employee schedules, appointments and revenue generation." />
+	<meta property="og:description" content="Free online appointment scheduling software for hair salons with perks of online payments, invoicing, sales reporting, customer and team management." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Hair Salon Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime online appointment scheduling software is a free solution for hair salon management. It serves as a schedule maker to manage and monitor your employee schedules, appointments and revenue generation." />
-	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta name="twitter:description" content="Free online appointment scheduling software for hair salons with perks of online payments, invoicing, sales reporting, customer and team management." />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/hair-salon-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>
 <body>
@@ -36,7 +39,7 @@
  		<div class="container">
 			<div class="col-md-6 ">
 			    <h1>Optimizing <span>Hair Salon Management</span> for FREE</h1>
-				<p>Free online appointment scheduling software with payments, invoicing, sales reporting, customer and team management for your salon business.</p>
+				<p>Free online appointment scheduling software for hair salons with perks of online payments, invoicing, sales reporting, customer and team management.</p>
 				<a href="/register"><button class="btn-lg text-center">GET STARTED</button></a>
 			</div>
 			<div class="col-md-6">
@@ -104,7 +107,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">TEAM MANAGEMENT</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Manage Team Schedule</h4>
-				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Add unlimited staff to your Picktime account for free. Assign services and allocate resources to your employees based on their working hours. Add break hours for each employee.</p>
+				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Add staff to your Picktime account for free. Assign services and allocate resources to your employees based on their working hours. Add break hours for each employee.</p>
 			</div>
 			<div class="col-md-6">
 				<img alt="manage your hair salon staff" src="/webassets/2021/img/business/hair-salon-team-management.svg" class="extra-small aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

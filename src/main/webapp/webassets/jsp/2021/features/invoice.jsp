@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Invoice | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff.">
+    <meta name="description" content="Free Online Appointment Scheduling Software with online payments and one-click Digital Invoice Generation. Send invoices to clients via email. No manual typing needed!">
     <meta name="keywords" content=" free online appointment scheduling software, Generate Invoice, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
 	
@@ -21,12 +21,12 @@
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
 	<meta property="og:image:alt" content="Invoice - Online Free Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff.." />
+	<meta property="og:description" content="Free Online Appointment Scheduling Software with online payments and one-click Digital Invoice Generation. Send invoices to clients via email. No manual typing needed!" />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
+	<meta name="twitter:description" content="Free Online Appointment Scheduling Software with online payments and one-click Digital Invoice Generation. Send invoices to clients via email. No manual typing needed!" />
 	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
@@ -50,7 +50,7 @@
 	        	<P>It is not just limited to generating invoices for the services undertaken, you can also add in discounts, special offer codes etc and it gets automatically updated in the invoice. If you are salon who also sells products, you can add in the products from your inventory to the invoice and give an overall bill to your customer.</P>
 			</div>
 			<div class="feature_sec">
-	        	<p>With Picktime, work gets easier and easier. Spend quality time with your customers and less time on doing administrative work. Another added advantage is you can enjoy all this for free. Yes! You heard it right. Sign-up now and forget unhappy and unsatisfactory business management.</p>
+	        	<p>With Picktime, work gets easier and easier. Spend quality time with your customers and less time on doing administrative work. Sign-up now and forget unhappy and unsatisfactory business management.</p>
 			</div>
 	   </div>
 	</div>

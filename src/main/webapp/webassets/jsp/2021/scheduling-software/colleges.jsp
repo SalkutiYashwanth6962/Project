@@ -96,7 +96,7 @@
 					<li>Book Now button on your Website</li>
 					<li>Unique Appointment Booking Page for your Business</li>
 					<li>Multiple Time Zones</li>
-					<li>Unlimited services, multiple staff members, and events</li>
+					<li>Add services, multiple staff members, and events</li>
 				</ul>
 			</div>
 			<div class="bottom_section">

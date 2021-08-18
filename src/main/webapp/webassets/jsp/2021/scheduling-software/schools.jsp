@@ -63,9 +63,7 @@
 					<li>No installation</li>
 					<li>Email confirmations</li>
 					<li>SMS and Email reminders</li>
-					<li>No Software Cost</li>
-					<li>Unlimited Services</li>
-					<li>Unlimited Staffs</li>
+					<li>Add staff and services</li>
 					<li>All Database at one place</li>
 					<li>Parent group meetings and conferences(Group Bookings)</li>
 					<li>Book appointments with you online</li>

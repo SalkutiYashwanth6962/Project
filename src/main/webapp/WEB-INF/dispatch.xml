@@ -33,6 +33,10 @@
 	    <module>website</module>
 	</dispatch>
 	<dispatch>
+	    <url>*/pricing</url>
+	    <module>website</module>
+	</dispatch>
+	<dispatch>
 	    <url>*/integrations</url>
 	    <module>website</module>
 	</dispatch>

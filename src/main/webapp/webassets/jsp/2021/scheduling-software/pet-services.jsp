@@ -13,8 +13,11 @@
 <head>
     <title>Pet Services Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime allows easy scheduling of appointments and classes for pet care providers and pet owners! Picktime helps you grow your pet sitting business by dramatically reducing time spent on administration and improving client service.">
-    <meta name="keywords" content="Best Pet Sitting Software, Pet Services Scheduling Software, Online Scheduling App for Pet Services, Pet care services scheduling software, Animal Care Management Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="keywords" content="pet services scheduling software, pet sitter scheduling software, pet care management software, pet care industry software, pet care business software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, 
+    free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, 
+    online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, 
+    online scheduling tools, best online scheduling tool">
+    
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
@@ -62,9 +65,8 @@
 					<li>Staff Management</li>
 					<li>Create Custom Reports</li>
 					<li>Contact Management</li>
-					<li>Add Unlimited Staffs</li>
-					<li>Add Unlimited Services</li>
-					<li>No Software Cost</li>
+					<li>Add Staffs</li>
+					<li>Add Services</li>
 					<li>A personalised booking page for your business</li>
 					<li>Multiple location access</li>
 					<li>Recurring appointments</li>

@@ -13,9 +13,10 @@
 <head>
     <title>Gyms Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime is a free online appointment scheduling for gyms and group class booking software which makes your customer book their gym classes online. Customize your business page where customers can book their appointments for their gym training classes.">
-    <meta name="keywords" content="Gyms Scheduling Software, Best Gym Management Software, Fitness Studio Software, Gym Booking Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	
+    <meta name="keywords" content="gym appointment scheduling software, gym scheduling software, gym scheduling app, gym booking software, gym scheduling software free, fitness appointment scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
+	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
+	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
+	best online scheduling tool">
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
@@ -68,9 +69,8 @@
 					classes online. Customize your business page where customers can
 					book their appointments for their gym training classes. You can
 					display all your services like one on one training and group
-					classes everything under your business page and moreover, Picktime
-					is a free appointment scheduling software, there are no hidden
-					charges. You can set your staff or trainers to all services or only
+					classes everything under your business page and moreover,
+					You can set your staff or trainers to all services or only
 					to a particular service. You’ll love how Picktime lets you manage
 					both your group classes & your individual training all in one
 					account. Scheduling is made simple for both you & your customer.
@@ -86,7 +86,7 @@
 					<li>Automatic Appointment Reminders</li>
 					<li>24/7 Email Support</li>
 					<li>Unique URL to for your appointment business page</li>
-					<li>Add unlimited staffs and services</li>
+					<li>Add staffs and services</li>
 					<li>Sync with your favourite account</li>
 					<li>One click Book Now Button on your website</li>
 					<li>A personalised booking page for your business</li>

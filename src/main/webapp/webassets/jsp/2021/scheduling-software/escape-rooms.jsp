@@ -55,9 +55,8 @@
 				<ul>
 				<li>24/7 Online Booking system</li>
 				<li>24hrs Email Support</li>
-				<li>Add Unlimited Sessions(Services)</li>
-				<li>Add Unlimited Staffs</li>
-				<li>No Software Cost</li>
+				<li>Add Sessions(Services)</li>
+				<li>Add Staffs</li>
 				<li>No Software Installation</li>
 				<li>Automatic Reminders</li>
 				<li>Online Calendar</li>

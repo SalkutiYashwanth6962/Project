@@ -13,8 +13,11 @@
 <head>
     <title>Spa Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime is a free online Spa appointment booking software that allows you to manage your team, book appointments for your customers and also lets your customers book their appointments online 24X7.">
-    <meta name="keywords" content="Spa Scheduling Software, Spa Software, Spa Management Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="keywords" content="spa appointment scheduling software, spa scheduling software, spa appointment software, spa appointment booking software, spa booking software, spa and salon management software, online spa booking software, spa online scheduling software, best spa booking software, online spa scheduling software, 
+	free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
+	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
+	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
+	best online scheduling tool">
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
@@ -63,7 +66,7 @@
 					<li>One click book now button for your website.</li>
 					<li>Manage staff schedules</li>
 					<li>Make you social media handles a booking platform</li>
-					<li>Add unlimited staff and services</li>
+					<li>Add staff and services</li>
 				</ul>
 			</div>
 			<div class="bottom_section">
@@ -76,7 +79,7 @@
 				<div class="services_sec">
 					<h3>Let your customers make bookings with their favourite Therapist</h3>
 			         <p>It is quite common to see disappointed customers when they hear that their favourite therapist is not available. This often leads to loosing of customers.
-			           With picktime, you can let your staff manage their own schedules which results in a better working environment and happy customers.</p>
+			           With Picktime, you can let your staff manage their own schedules which results in a better working environment and happy customers.</p>
 				</div>
 				<div class="services_sec">
 					 <h3>Use it Whenever you want</h3>
@@ -91,7 +94,7 @@
 					<h3>Staff Scheduling</h3>
 			           <p>Picktime can manage your staff schedules while accounting for flexible scheduling to keep your staffs happy and organized.</p>
 					<br>
-					<p>Our spa booking software is completely free and easy to use. Register now and up your spa management game.</p>
+					<p>Our spa booking software is simple and free to use. Register now and up your spa management game.</p>
 				</div>
 			</div>
 		</div>

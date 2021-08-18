@@ -11,7 +11,7 @@
 <html lang="en">
 <head>
     <title>Industries | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff.">
+    <meta name="description" content="Picktime online appointment booking management solution is meant for all industries of any size. View the list of industries that can benefit from this scheduling software.">
     <meta name="keywords" content="free online appointment scheduling software, Salon, Medical, Wellness, Gym, School, University, Government, Classes,  free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
 	
@@ -20,12 +20,12 @@
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
 	<meta property="og:image:alt" content="Industries - Online Free Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
+	<meta property="og:description" content="Picktime online appointment booking management solution is meant for all industries of any size. View the list of industries that can benefit from this scheduling software." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
+	<meta name="twitter:description" content="Picktime online appointment booking management solution is meant for all industries of any size. View the list of industries that can benefit from this scheduling software." />
 	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="scheduling-software/website-new-headtag.jsp" />
@@ -83,7 +83,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/medical">
+				<a href="/business/doctors">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"> <img alt="Medical" src="/webassets/2021/img/icons/doctor-medical _icon.svg" style="height: 50px;"></span></span>
@@ -124,7 +124,7 @@
 		</div>
 		<div class="row align-items-stretch">
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/fitness">
+				<a href="/business/fitness">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 					    	<span class="icon-wrap"><span class="text-primary icon-autorenew"><img alt="Fitness Classes" src="/webassets/2021/img/icons/Health-and-Fitness_icon.svg" style="height: 60px;"></span></span>
@@ -163,7 +163,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/chiropractics">
+				<a href="/business/chiropractics">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 					    	<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Chiropractics" src="/webassets/2021/img/icons/industries/Chiropractic.svg" style="height: 60px;"></span></span>
@@ -176,7 +176,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/acupuncture">
+				<a href="/business/acupuncture">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Acupuncture" src="/webassets/2021/img/icons/industries/Acupuncture.svg" style="height: 60px;"></span></span>
@@ -217,7 +217,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/gyms">
+				<a href="/business/gyms">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Gyms" src="/webassets/2021/img/icons/industries/Gym-and-Fitness.svg" style="height: 50px;"></span></span>
@@ -284,7 +284,7 @@
 		</div>
 		<div class="row align-items-stretch">
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/meeting-rooms">
+				<a href="/business/meeting-rooms">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 					    	<span class="icon-wrap"><span class="text-primary icon-autorenew"><img alt="Meeting Rooms" src="/webassets/2021/img/icons/industries/Meetings.svg" style="height: 60px;"></span></span>
@@ -323,7 +323,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/cleaning">
+				<a href="/business/cleaning">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 					   		<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Cleaning" src="/webassets/2021/img/icons/industries/Cleaning.svg" style="height: 55px;"></span></span>
@@ -349,7 +349,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/pet-services">
+				<a href="/business/pet-services">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Pet Services" src="/webassets/2021/img/icons/industries/Pet-Services.svg" style="height: 60px;"></span></span>
@@ -364,7 +364,7 @@
 		</div>
 		<div class="row align-items-stretch">
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/business-event">
+				<a href="/business/business-event">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 					    	<span class="icon-wrap"><span class="text-primary icon-autorenew"><img alt="Business Events" src="/webassets/2021/img/icons/industries/Business-Events.svg" style="height: 60px;"></span></span>
@@ -377,7 +377,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/events">
+				<a href="/business/events">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Events" src="/webassets/2021/img/icons/Event-management_icon.svg" style="height: 55px;"></span></span>
@@ -390,7 +390,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/photographers">
+				<a href="/business/photographers">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"> <img alt="Photographers" src="/webassets/2021/img/icons/Photographer_icon.svg" style="height: 55px;"></span></span>
@@ -416,7 +416,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/art-classes">
+				<a href="/business/art-classes">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Art Classes" src="/webassets/2021/img/icons/industries/Art-classes.svg" style="height: 60px;"></span></span>
@@ -429,7 +429,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/equipement-rental">
+				<a href="/business/equipement-rental">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Equipment rental" src="/webassets/2021/img/icons/industries/Equipment-Rentals.svg" style="height: 60px;"></span></span>
@@ -457,7 +457,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/restaurants">
+				<a href="/business/restaurants">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Restaurants" src="/webassets/2021/img/icons/industries/Restaurants.svg" style="height: 50px;"></span></span>
@@ -470,7 +470,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/call-centers">
+				<a href="/business/call-centers">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"><img alt="Call Centers" src="/webassets/2021/img/icons/industries/Call-centers.svg" style="height: 60px;"></span></span>
@@ -509,7 +509,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/business-advisory">
+				<a href="/business/business-advisory">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Business Advisory" src="/webassets/2021/img/icons/industries/Business-Advisory.svg" style="height: 55px;"></span></span>
@@ -537,7 +537,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/attorney">
+				<a href="/business/attorney">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Attorney" src="/webassets/2021/img/icons/industries/Attorney.svg" style="height: 50px;"></span></span>
@@ -550,7 +550,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/embassies-consulates">
+				<a href="/business/embassies-consulates">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"><img alt="Embassies and consulates" src="/webassets/2021/img/icons/industries/Embassies-and-Consulates.svg" style="height: 50px;"></span></span>
@@ -563,7 +563,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/city-councils">
+				<a href="/business/city-councils">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 					   		<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="City councils" src="/webassets/2021/img/icons/industries/City-Councils.svg" style="height: 50px;"></span></span>
@@ -604,7 +604,7 @@
 		</div>
 		<div class="row align-items-stretch">
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/schools">
+				<a href="/business/schools">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-autorenew"><img alt="Schools" src="/webassets/2021/img/icons/industries/School.svg" style="height: 50px;"></span></span>
@@ -617,7 +617,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/libraries">
+				<a href="/business/libraries">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Libraries" src="/webassets/2021/img/icons/industries/Libraries.svg" style="height: 60px;"></span></span>
@@ -630,7 +630,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/teaching">
+				<a href="/business/teaching">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"><img alt="Teaching" src="/webassets/2021/img/icons/industries/Teaching.svg" style="height: 60px;"></span></span>
@@ -643,7 +643,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/tutoring-lessons">
+				<a href="/business/tutoring-lessons">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Tutoring Lessons" src="/webassets/2021/img/icons/industries/Tutoring-Lessons.svg" style="height: 50px;"></span></span>
@@ -669,7 +669,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/child-care">
+				<a href="/business/child-care">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Child Care" src="/webassets/2021/img/icons/industries/Childcare.svg" style="height: 60px;"></span></span>

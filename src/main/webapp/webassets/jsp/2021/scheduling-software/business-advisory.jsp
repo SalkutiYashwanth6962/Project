@@ -64,7 +64,6 @@
 					<li>24hrs Email Support</li>
 					<li>Automatic Reminders through Email and Text Messages</li>
 					<li>One click "Book Now" button on your Website</li>
-					<li>Free of Cost</li>
 					<li>Multiple location access</li>
 					<li>Staff management</li>
 					<li>Recurring appointments</li>

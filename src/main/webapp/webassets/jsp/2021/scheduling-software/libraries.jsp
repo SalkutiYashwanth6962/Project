@@ -61,7 +61,6 @@
 					<li>Recurring appointments</li>
 					<li>Integrate with your social media handles</li>
 					<li>Multiple location access</li>
-					<li>Totally free</li>
 				</ul>
 			</div>
 			<div class="bottom_section">

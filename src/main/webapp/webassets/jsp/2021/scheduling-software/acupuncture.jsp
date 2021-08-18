@@ -13,9 +13,10 @@
 <head>
     <title>Acupuncture Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime is a free web based acupuncture appointment management software which allows patients to book appointments for their treatments online. ">
-    <meta name="keywords" content="Online Free Acupuncture Scheduling Software, Online Booking Software for Acupuncture, Practice Management, Acupuncture Scheduling Software,  free online appointment scheduling software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	
+    <meta name="keywords" content="acupuncture appointment scheduling software, acupuncture practice management software, acupuncture scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
+	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
+	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
+	best online scheduling tool">
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
@@ -56,8 +57,7 @@
 		            <li>Automatic Appointment Reminders system</li>
 					<li>Store Patient data at one place</li>
 					<li>24hrs Email Support</li>
-					<li>Add Unlimited Staffs and Services</li>
-					<li>Free of Cost</li>
+					<li>Add Staffs and Services</li>
 					<li>Multiple location access</li>
 					<li>Recurring appointments</li>
 					<li>A personalised booking page for your business</li>

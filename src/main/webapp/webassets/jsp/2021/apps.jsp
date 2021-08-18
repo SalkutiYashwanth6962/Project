@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Download Picktime App | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Download Picktime App in Apple App Store and Google Play Store. Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff.">
+    <meta name="description" content="Picktime is compatible with Android, iOS and Windows devices and offers 24/7 online booking management for clients and admins across all your office locations.">
     <meta name="keywords" content="Picktime Android App, Picktime Apple App, Picktime Desktop App, free online appointment scheduling software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
 	
@@ -21,12 +21,12 @@
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
 	<meta property="og:image:alt" content="Download Picktime App - Online Free Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Download Picktime App in Apple App Store and Google Play Store. Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
+	<meta property="og:description" content="Picktime is compatible with Android, iOS and Windows devices and offers 24/7 online booking management for clients and admins across all your office locations." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Download Picktime App in Apple App Store and Google Play Store. Picktime is a free online appointment scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff." />
+	<meta name="twitter:description" content="Picktime is compatible with Android, iOS and Windows devices and offers 24/7 online booking management for clients and admins across all your office locations." />
 	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="scheduling-software/website-new-headtag.jsp"/>

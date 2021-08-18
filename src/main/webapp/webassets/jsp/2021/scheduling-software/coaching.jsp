@@ -13,8 +13,10 @@
 <head>
     <title>Coaching Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime is a free web based appointment class booking software for managing Tuition classes and Coaching Institutes of any type. Lecture scheduling is made easy with the help of our smart Picktime appointment scheduling system.">
-    <meta name="keywords" content="Best Appointment Booking Service for Coaches, Coaching Scheduling Software, Class Booking Software, Online Scheduling App for Coaching, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="keywords" content="Coaching Scheduling Software, coach booking software, coaching class scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, 
+    free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, 
+    online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, online booking software, online scheduling tools, 
+    best online scheduling too">
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
@@ -78,7 +80,7 @@
 					<li>Integrated Smart Calendar.</li>
 					<li>Class or Solo Coaching booking.</li>
 					<li>24hrs Email Support.</li>
-					<li>Add Unlimited Services and Staffs.</li>
+					<li>Add Services and Staffs.</li>
 				</ul>
 			</div>
 			<div class="bottom_section">

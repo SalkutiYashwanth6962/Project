@@ -62,15 +62,14 @@
 					<li>Automatic Reminders</li>
 					<li>Staff Management</li>
 					<li>Table Management</li>
-					<li>Add Unlimited Tables and Services</li>
-					<li>Add Unlimited Staffs</li>
+					<li>Add Tables and Services</li>
+					<li>Add Staffs</li>
 					<li>Calendar Sync with Google, Outlook, Office 365, Exchange and iCloud and more</li>
 					<li>Recurring Bookings</li>
 					<li>Access Anytime, Anywhere</li>
 					<li>Booking Widget</li>
 					<li>Manage in-house reservations just like online reservations</li>
 					<li>No Software Installation</li>
-					<li>Lifetime Free</li>
 					<li>A personalised booking page for your business</li>
 					<li>One click book now button for your website</li>
 	      	 </ul>

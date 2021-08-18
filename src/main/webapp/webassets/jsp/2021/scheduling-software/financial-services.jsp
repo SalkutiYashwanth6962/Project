@@ -57,8 +57,7 @@
 				<ul>
 					<li>Online Calendar</li>
 					<li>24hrs Email Support</li>
-					<li>Unlimited Staffs</li>
-					<li>Unlimited Services</li>
+					<li>Add Users and Services</li>
 					<li>Unlimited Appointment Bookings</li>
 					<li>Group Bookings</li>
 					<li>Customized Reports</li>

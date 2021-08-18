@@ -27,7 +27,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Yoga Trainers Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Picktime online appointment scheduling software is a free solution for scheduling Yoga trainers and yoga classes. It serves as a schedule maker to manage and monitor your class schedules, appointments and revenue generation." />
-	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/yoga-trainer-cover.png" />
      
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>
@@ -36,8 +36,8 @@
 	<section class="sec-first">
  		<div class="container">
 			<div class="col-md-6 ">
-			    <h1>Optimizing <span>Yoga Trainers Management</span> for FREE</h1>
-				<p>Free online appointment scheduling software with payments, invoicing, sales reporting, customer and team management for yoga classes.</p>
+			    <h1>Aligning<span> Yoga Classes </span>made easy</h1>
+				<p>Free online appointment scheduling software with advanced online payments, invoicing, sales reporting, customer and team management for maintaining your yoga classes.</p>
 				<a href="/register"><button class="btn-lg text-center">GET STARTED</button></a>
 			</div>
 			<div class="col-md-6">

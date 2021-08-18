@@ -13,8 +13,10 @@
 <head>
     <title>Photographers Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime is a free appointment scheduling software for photographers which is made to make your life easy. Our booking software is a free online solution that makes it easy for you to accept and manage bookings for your photography business.">
-    <meta name="keywords" content="Photographers Scheduling Software, Online Booking App for Photographers, Free Online Photography Scheduling Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="keywords" content="photography booking software, photography scheduling app, mini session booking software, online booking system for photographers, scheduling app for photographers, booking software for photographers, free online booking system for photographers, 
+    free mini session booking software, photographers scheduling software, photography scheduling software free, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, 
+    best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, 
+    free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools, best online scheduling tool">
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
@@ -58,7 +60,7 @@
 				<ul>
 					<li>An online booking system</li>
 					<li>One click book now button for your website</li>
-					<li>Add unlimited staff and services</li>
+					<li>Add staff and services</li>
 					<li>Maintain customer database</li>
 					<li>Manage staff schedules</li>
 					<li>Recurring appointments</li>
@@ -69,7 +71,6 @@
 					<li>Multiple location access</li>
 					<li>Class bookings</li>
 					<li>Integrate with your Facebook page</li>
-					<li>Totally free for lifetime</li>
 				</ul>
 			</div>
 			<div class="bottom_section">

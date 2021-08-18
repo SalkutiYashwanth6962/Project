@@ -78,7 +78,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Drag and drop</h3>
-			         <p>Reschedule appointments easily by just dragging and dropping them. make your appointments hassle free. Colour code your services for easier management.</p>
+			         <p>Reschedule appointments easily by just dragging and dropping them. Make your appointments hassle free. Colour code your services for easier management.</p>
 				</div>
 				<div class="services_sec">
 					<h3>A personalised booking page</h3>

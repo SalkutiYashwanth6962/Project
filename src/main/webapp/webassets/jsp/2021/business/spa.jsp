@@ -12,20 +12,23 @@
 <html lang="en">
 <head>
     <title>Spa Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Picktime online appointment scheduling software is a free solution for spa businesses. Rejuvenate your spa business with easy team management, service scheduling and customer billings along with providing detailed business reports.">
-    <meta name="keywords" content="Spa Scheduling Software, Spa Software, Spa Management Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="description" content="Free online appointment scheduling software meant for your spa business with online payments, invoicing, business reporting, customer and team management.">
+    <meta name="keywords" content="spa appointment scheduling software, spa scheduling software, spa appointment software, spa appointment booking software, spa booking software, spa and salon management software, online spa booking software, spa online scheduling software, best spa booking software, online spa scheduling software, 
+	free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
+	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
+	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
+	best online scheduling tool">
 	<meta property="og:title" content="Spa Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/spa-cover.png" />
 	<meta property="og:image:alt" content="Spa Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime online appointment scheduling software is a free solution for spa businesses. Rejuvenate your spa business with easy team management, service scheduling and customer billings along with providing detailed business reports." />
+	<meta property="og:description" content="Free online appointment scheduling software meant for your spa business with online payments, invoicing, business reporting, customer and team management." />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Spa Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime online appointment scheduling software is a free solution for spa businesses. Rejuvenate your spa business with easy team management, service scheduling and customer billings along with providing detailed business reports." />
-	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
+	<meta name="twitter:description" content="Free online appointment scheduling software meant for your spa business with online payments, invoicing, business reporting, customer and team management." />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/spa-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>
 <body>
@@ -34,7 +37,7 @@
  		<div class="container">
 			<div class="col-md-6 ">
 			    <h1>Rejuvenating <span>Spa Management </span>for FREE</h1>
-				<p>Free online appointment scheduling software with payments, invoicing, business reporting, customer and team management for your spa business.</p>
+				<p>Free online appointment scheduling software meant for your spa business with online payments, invoicing, business reporting, customer and team management.</p>
 				<a href="/register"><button class="btn-lg text-center">GET STARTED</button></a>
 			</div>
 			<div class="col-md-6">
@@ -101,8 +104,8 @@
 		<div class="container">
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS</h3>
-				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Facilitate Teams &amp; Rooms</h4>
-				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">There’s no need to rely on a cashier to manage your revenue. Take payments from your customers directly through integrated payment processors or credit cards and debit cards.</p>
+				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Secure online payments </h4>
+				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">There’s no need to rely on a cashier to manage your revenue. Take payments from your clients/customers directly through integrated payment processors or credit cards and debit cards.</p>
 			</div>
 			<div class="col-md-6">
 				<img alt="spa booking payments" src="/webassets/2021/img/business/spa-payments.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

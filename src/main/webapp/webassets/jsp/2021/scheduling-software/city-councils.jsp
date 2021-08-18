@@ -46,13 +46,12 @@
 				<p>All over the world, cities, towns and villages are maintained by government organizations with the structured process that provide a variety of services to improve people's lives and society growth. These government offices get a huge flow of requests and applications from people to solve their day to day issues. Normally City councils will have various departments to solve people's problems but the problem is handling those applications. Scheduling tasks to multiple city council staffs is another difficult situation. To handle all those applications and assign tasks to multiple staffs, the city council could start with an online scheduling system. Meeting and appointment scheduling software that helps you save time, increase customer satisfaction and be more competitive.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime scheduling software helps government departments simplify their complicated, high-volume engagement requirements. Picktime scheduling software is proven to improve citizen experience and create staff process efficiencies. Powerful reporting enables management to easily maximize staff and resource utilization. our free online appointment booking software for government officials can be accessed without installation as it is web based appointment scheduling software. It can be used without the need for training or classes, and accessed via any web browser, even on tablets and mobile phones. It will reduce the workload for those doing the scheduling, but it will also reduce stress, disappointment, and loss of productivity caused by scheduling errors and risks.</p>
+				<p>Picktime scheduling software helps government departments simplify their complicated, high-volume engagement requirements. Picktime scheduling software is proven to improve citizen experience and create staff process efficiencies. Powerful reporting enables management to easily maximize staff and resource utilization. Our free online appointment booking software for government officials can be accessed without installation as it is web based appointment scheduling software. It can be used without the need for training or classes, and accessed via any web browser, even on tablets and mobile phones. It will reduce the workload for those doing the scheduling, but it will also reduce stress, disappointment, and loss of productivity caused by scheduling errors and risks.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
 				<ul>
-					<li>Add Unlimited Staffs</li>
-					<li>Add Unlimited Services</li>
+					<li>Add staff and services</li>
 					<li>Available 24/7 online to book appointments</li>
 					<li>Preset your working hours</li>
 					<li>Recurring Appointments</li>

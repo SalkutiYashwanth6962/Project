@@ -59,11 +59,8 @@
 				<h2>Key Features</h2>
 				<ul>
 					<li>24hrs Email Support</li>
-					<li>Completely Free</li>
-					<li>Unlimited Users</li>
-					<li>Unlimited Services</li>
+					<li>Add Users and Services</li>
 					<li>Unlimited Bookings</li>
-					<li>Ads Free</li>
 					<li>Different Types of Reports</li>
 					<li>Recurring Bookings</li>
 					<li>Separate Staff Login</li>
@@ -87,7 +84,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Don&#39;t have your own website?</h3>
-			        <p>With every account, Picktime provides a unique business URL that you can use to create your own booking page. And do you know the best part of it? It’s completely FREE!</p>
+			        <p>With every account, Picktime provides a unique business URL that you can use to create your own booking page.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Rescheduling</h3>

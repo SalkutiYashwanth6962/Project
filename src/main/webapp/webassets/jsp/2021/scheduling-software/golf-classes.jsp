@@ -13,9 +13,10 @@
 <head>
     <title>Golf Classes Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime is a easy-to-use online booking system for Golf classes to manage appointments and bookings in the most effective way. Have your calendar fully booked without your phone ringing once.">
-    <meta name="keywords" content="Golf Classes Scheduling Software, Golf Lesson Appointment & Scheduling Software,  Online Booking System for Golf Classes, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	
+    <meta name="keywords" content="golf classes scheduling software, golf lesson scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
+	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
+	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
+	best online scheduling tool">
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
@@ -79,7 +80,7 @@
 					<li>No Software to install</li>
 					<li>Change instructor availability on the fly</li>
 					<li>A detailed view of your golf lesson appointments</li>
-					<li>Add Unlimited Lessons and instructors</li>
+					<li>Add Lessons and instructors</li>
 					<li>Group Class Bookings.</li>
 					<li>Team Management.</li>
 					<li>Unlimited reports.</li>

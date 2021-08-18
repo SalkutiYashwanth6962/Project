@@ -63,8 +63,7 @@
 					<li>Detailed Analytic Reports</li>
 					<li>Automatic Appointment Reminders</li>
 					<li>Staff Management</li>
-					<li>Add Unlimited Staffs</li>
-					<li>Add Unlimited Services</li>
+					<li>Add staff and services</li>
 					<li>24/7 Email Support</li>
 					<li>Book Now Website Widget</li>
 					<li>All contacts at one place</li>

@@ -13,8 +13,11 @@
 <head>
     <title>Hair Salon Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime is a free appointment scheduling software for hair salons, which lets your customers/clients see your open appointments and book their slot for that service in real time. Picktime assists you in managing appointments and staff schedules.">
-    <meta name="keywords" content="Hair Salon Scheduling Software, Top Salon Software, best salon scheduling software, Salon Scheduling Software for Stylists, Free Salon Software,  free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="keywords" content="hair salon booking systems, hair salon booking app, hair salon booking software, best salon booking system, hair stylist scheduling app, hair scheduling app, hair salon appointment software, hair salon scheduling software, best salon appointment software, 
+    best scheduling app for hairstylist, free hair salon management software, hair salon appointment scheduling software, hair salon appointment app, hair salon booking software, hair salon scheduling software, hair salon appointment software, free online appointment scheduling software, 
+    free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, 
+    online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, 
+    appointment scheduling app free, online booking software, online scheduling tools, best online scheduling tool, free online booking system for salons">
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
@@ -57,7 +60,7 @@
 					appointment scheduling unorganized? Are you using paid salon
 					software but not seeing any improvement in your business? We have a
 					solution for all your appointment scheduling problems at a free of
-					cost. No more paid appointment scheduling softwares.</p>
+					cost.</p>
 			</div>
 			<div class="services_sec">
 				<p>Picktime is a free appointment scheduling software for hair

@@ -13,8 +13,9 @@
 <head>
     <title>Counseling Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime for counselors is a great way to manage your appointments. It allows for the automated appointment reminders via email or text message. Picktime is a free appointment scheduling software that enables paperless procedure workflows, as well as online contact data storage.">
-    <meta name="keywords" content="Free Online Counseling Scheduling Software, Therapy Appointment Scheduling Software, Mental Health Software Patient Scheduling Software, Free Therapy and Counseling Appointment Scheduling App, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="keywords" content="counseling scheduling software, counseling appointment scheduling software, scheduling software for counseling, therapy appointment software, online booking system for therapists, best scheduling software for therapists, free online appointment scheduling software, free appointment scheduler, 
+    free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, 
+    online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, online booking software, online scheduling tools, best online scheduling tool">
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
@@ -82,7 +83,6 @@
 					<li>Online Appointment Booking</li>
 					<li>Recurring Appointments</li>
 					<li>24hrs Email Support</li>
-					<li>Free of Cost</li>
 					<li>All contacts at one place</li>
 					<li>Access it from anywhere</li>
 					<li>Automatic Reminders</li>

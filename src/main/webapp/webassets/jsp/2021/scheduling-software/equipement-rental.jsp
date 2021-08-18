@@ -13,8 +13,9 @@
 <head>
     <title>Equipment Rental Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime is a free web based rental equipment booking software which allows you to manage all your equipment at one place. It covers all aspects of your business from Equipment booking management, Business Intelligence, ad-hoc reporting, and automatic reminders for your entire company and clients.">
-    <meta name="keywords" content="Equipment Rental Scheduling Software, Online Scheduling Software for Equipment Rental, Rental Booking Software, Rental Management Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="keywords" content="equipment rental scheduling software, equipment rental software, equipment rental software free, equipment rental booking software, equipment rental software programs, rental scheduling software, equipment rental company software, free equipment rental booking software, free online appointment scheduling software, 
+    free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, 
+    online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools, best online scheduling tool">
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
@@ -55,14 +56,13 @@
 			<div class="key_features">
 				<h2>Key Features</h2>
 				<ul>
-					<li>Free Online Booking Software</li>
 					<li>Automatic Email and SMS reminders</li>
 					<li>Recurring Booking Option</li>
 					<li>Book Now Button on your Website</li>
 					<li>Unique & Customisable Business Page for bookings</li>
 					<li>No Software Installation</li>
-					<li>Add Unlimited Equipment</li>
-					<li>Add Unlimited Staffs</li>
+					<li>Add Equipment</li>
+					<li>Add Staffs</li>
 					<li>Online Booking Calendar</li>
 					<li>Calendar Sync(Google, Outlook, Office 365, Exchange and iCloud calendars)</li>
 					<li>Staff Scheduling</li>
@@ -78,10 +78,6 @@
 				<div class="services_sec">
 					<h3>Responsiveness</h3>
 					<p>Our online booking tool is 100% made compatible for mobiles. Every screen is built on a responsive design so that it perfectly fits your smartphone, tablet or any other device you might own.</p>
-				</div>
-				<div class="services_sec">
-					<h3>Free</h3>
-					<p>Our booking tool is an amazingly simple and convenient to use. It is offered absolutely at free of cost, with no catches and no premium memberships. Picktime is unlimited! We place no restrictions on the number of bookings or customers you might have. Let your clients choose your available slots and services by themselves.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Embeddable</h3>

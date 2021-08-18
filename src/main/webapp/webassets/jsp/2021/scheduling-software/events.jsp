@@ -62,8 +62,7 @@
 					<li>24hrs Email Support</li>
 					<li>Real-Time calendar availability</li>
 					<li>Mobile & tablet friendly</li>
-					<li>Unlimited users</li>
-					<li>Unlimited Services</li>
+					<li>Add users and Services</li>
 					<li>One click book now button on your website</li>
 					<li>Multiple Location access</li>
 					<li>Staff management</li>

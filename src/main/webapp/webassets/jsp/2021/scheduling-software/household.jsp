@@ -13,8 +13,9 @@
 <head>
     <title>Household Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime is a free web based appointment scheduling software for Household service providers which allows you to manage your appointments and staffs in an easy way. If you don't have a website, don’t worry. Picktime provides a unique appointment booking page for your business where your clients can book their appointments.">
-    <meta name="keywords" content="Household Scheduling Software, Best Field Service Management Software, Online Booking Systems for Your Home Service, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
+    <meta name="keywords" content="household services scheduling software, home services scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, 
+    free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, 
+    online booking software, online scheduling tools, best online scheduling tool">
 	
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
@@ -63,8 +64,8 @@
 					<li>Activity Dashboard</li>
 					<li>Online Bookings</li>
 					<li>Automated Appointment Reminders</li>
-					<li>Add Unlimited Services</li>
-					<li>Add Unlimited Staff</li>
+					<li>Add Services</li>
+					<li>Add Staff</li>
 					<li>No Software Cost</li>
 					<li>Recurring Appointments</li>
 					<li>Book Now Button on Your Website</li>

@@ -59,7 +59,7 @@
 					<li>Staff scheduling</li>
 					<li>Maintain client database</li>
 					<li>Automated SMS and email reminders</li>
-					<li>Add unlimited staff and services</li>
+					<li>Add staff and services</li>
 					<li>24 hours email support</li>
 					<li>Reduce no shows</li>
 					<li>Turn your Facebook page into a booking system</li>
