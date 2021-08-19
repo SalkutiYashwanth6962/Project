@@ -43,7 +43,7 @@
 	<section class="pricing-header ">
 		<div class="container">
     		<h2 class="pricing-h1">Pricing Plans Everyone</h2>
-			<p class="pricing-text">upgrade your plan for enhanced features and a richer experience.</p>
+			<p class="pricing-text">Upgrade your plan for enhanced features and a richer experience.</p>
 		</div>
 	</section>
 	<div class="container pricing-sec">
@@ -86,7 +86,7 @@
 							<li>Two way sync</li>
 							<li>Automatic Timezone Conversion</li>
 							<li>Attendance</li>
-							<li>SMS Remimders*</li>
+							<li>SMS Reminders*</li>
 							<li>Over 15+ powerful Integrations</li>
 						</ul>
 						<!--  <a class="btn btn-block text-uppercase">UPGRADE</a> -->

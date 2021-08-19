@@ -140,12 +140,12 @@
 							lead to confusion and inaccuracy. Storing customer data,
 							schedules, and employee profiles online eliminates the risk of
 							outdated records being shared due to repetition. With our online
-							booking software, you save a lot of time, Money and use your time
+							booking software, you save a lot of time, money and use your time
 							for more valuable things.</p>
 					</div>
 					<div class="services_sec">
 						<p>Many Chiropractors can profit from the implementation of
-							Picktime on many levels. To avail Picktime, Simply sign up with your
+							Picktime on many levels. To avail Picktime, simply sign up with your
 							contact information and begin customizing your account. Make the
 							first step to an entirely new way of doing business today.</p>
 					</div>

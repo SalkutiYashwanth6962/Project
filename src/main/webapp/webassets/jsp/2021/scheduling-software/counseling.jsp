@@ -113,7 +113,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Personalized Booking Page</h3>
-					<p>provide your client with a unique customized(with your
+					<p>Provide your client with a unique customized(with your
 						brand) URL to book their appointments.</p>
 				</div>
 				<div class="services_sec">

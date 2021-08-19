@@ -71,7 +71,7 @@
 				<h2>Benefits of Picktime for Personal Trainers</h2>
 				<div class="services_sec">
 					<h3>Online Booking</h3>
-			         <p>Schedule your classes at the speed of light when your customers walk in. Activities, locations, and durations are all set to personal defaults. a few taps and the next class is scheduled with no typing needed. Your customer receives an  automated email confirmation right away, also when  the appointment is rescheduled or cancelled. It does not matter if you are on the beach or in the park.</p>
+			         <p>Schedule your classes at the speed of light when your customers walk in. Activities, locations, and durations are all set to personal defaults. A few taps and the next class is scheduled with no typing needed. Your customer receives an  automated email confirmation right away, also when  the appointment is rescheduled or cancelled. It does not matter if you are on the beach or in the park.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Appointment Reminders</h3>

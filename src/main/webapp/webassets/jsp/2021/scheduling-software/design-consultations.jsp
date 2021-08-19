@@ -50,7 +50,7 @@
 				<p>For Design Consultancies, online scheduling is a vital lead generation tool. For many people, finding the perfect design for their houses, offices, and even website design is the biggest challenge. Design consultancy plays an important role in cornering their issues, providing the right advice and solving them. Having your appointment booking online is really a good idea for your business growth.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime is a free web based appointment scheduling software where you can manage your appointments, staff, services and clients. In the age of millennials, appointment scheduling through phone calls and messages is mossy. Your customers can book appointments online with our appointment booking system. It helps you lock-in a phone call, which is valuable in turning every lead into a client. Picktime can be accessed from anywhere as it is a browser based appointment scheduling software. it reduces your appointment management errors.</p>
+				<p>Picktime is a free web based appointment scheduling software where you can manage your appointments, staff, services and clients. In the age of millennials, appointment scheduling through phone calls and messages is mossy. Your customers can book appointments online with our appointment booking system. It helps you lock-in a phone call, which is valuable in turning every lead into a client. Picktime can be accessed from anywhere as it is a browser based appointment scheduling software. It reduces your appointment management errors.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>

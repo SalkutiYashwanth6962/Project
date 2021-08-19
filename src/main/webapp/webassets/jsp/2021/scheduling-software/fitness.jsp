@@ -53,7 +53,7 @@
 				<p>Finding the right and qualified trainer is tough and it is the biggest challenge for customers. Fitness business is one of the booming business in today's market. How do you manage all your trainees or students? How do you manage your trainers schedules in a simple way? How do you handle fitness trainees appointment scheduling?</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime is a free fitness training online appointment and class booking software which lets your customers book their sessions online. you can also customize your business page where your customers can book their appointments online. Your customers can make bookings just the way they want. You can display all your services like one on one training, group classes everything under your personalised business page and moreover, Picktime is a free fitness class scheduling software to manage all your appointments and staff schedules. You can also set your staff or trainers to all services or only to a particular service and let them handle their own bookings.</p>
+				<p>Picktime is a free fitness training online appointment and class booking software which lets your customers book their sessions online. You can also customize your business page where your customers can book their appointments online. Your customers can make bookings just the way they want. You can display all your services like one on one training, group classes everything under your personalised business page and moreover, Picktime is a free fitness class scheduling software to manage all your appointments and staff schedules. You can also set your staff or trainers to all services or only to a particular service and let them handle their own bookings.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -81,7 +81,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Available 24/7</h3>
-			        <p>It is quite a task to call back all your customers who have called during your training sessions. But there is an easier way to do this. our  business management software will have all the relevant details on your website. Customers can see your availability before making appointments, which will get updated into your calendar right away. You will always receive notification of new appointments or class bookings, so you can plan your day accordingly.</p>
+			        <p>It is quite a task to call back all your customers who have called during your training sessions. But there is an easier way to do this. Our  business management software will have all the relevant details on your website. Customers can see your availability before making appointments, which will get updated into your calendar right away. You will always receive notification of new appointments or class bookings, so you can plan your day accordingly.</p>
 				</div>
 				<div class="services_sec">
 					 <h3>Automatic Appointment Reminders</h3>

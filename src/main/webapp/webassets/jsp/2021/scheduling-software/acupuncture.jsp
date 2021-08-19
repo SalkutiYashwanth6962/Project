@@ -86,7 +86,7 @@
 				   <p>Most of the customers have to be reminded of their everyday appointments. Picktime sends automated reminders to all your booked customers at a time you have specified in your booking preferences.</p>
 				</div>
 				<div class="services_sec">
-		           <h3>Let your customers do the wor</h3>
+		           <h3>Let your customers do the work</h3>
 				   <p>Forget you appointment scheduling troubles if you don’t have a person at your front desk. Keep your working times and services online and let your customers book their appointments on your own. Our online booking system helps you Maintain better client relationships with them by making them feel important.</p>
 				</div>
 				

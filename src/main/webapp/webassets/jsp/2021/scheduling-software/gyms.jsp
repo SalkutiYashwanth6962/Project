@@ -59,7 +59,7 @@
 					first-timers and regulars alike can benefit from an easy and
 					convenient way to schedule their next class or personal training
 					session using Picktime scheduling software. New trainees can book
-					appointments online While your regular customer, the one you know
+					appointments online. While your regular customer, the one you know
 					on a first name basis, can break the monotony of a long-standing
 					routine and easily put himself in spin class to get some variety.</p>
 			</div>
@@ -69,7 +69,7 @@
 					classes online. Customize your business page where customers can
 					book their appointments for their gym training classes. You can
 					display all your services like one on one training and group
-					classes everything under your business page and moreover,
+					classes everything under your business page and moreover.
 					You can set your staff or trainers to all services or only
 					to a particular service. You’ll love how Picktime lets you manage
 					both your group classes & your individual training all in one
