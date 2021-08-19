@@ -62,8 +62,8 @@
 						the what the size or structure of your business is.</p>
 				</div>
 				<div class="services_sec">
-					<p>Picktime can offer a solution to all these challenges at a
-						free of cost. That staggering number of appointments hold a lot of
+					<p>Picktime can offer a solution to all these challenges.
+					    That staggering number of appointments hold a lot of
 						wasted time, that could easily be automated. Picktime is designed
 						to make your office less stressful, more efficient, and (most
 						importantly) more profitable. Picktime is a free web based

@@ -13,9 +13,11 @@
 <head>
     <title>Teaching Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="Picktime is an online appointment scheduling software for teaching which helps you schedule classes, meetings and events so that your students can meet up with you when you are available. Sign up with Picktime and set up your account. Make your available time slots visible in your booking page and simply share your link.">
-    <meta name="keywords" content="Teaching Scheduling Software, Education Scheduling Software and Booking System, Free School Scheduling Software For Teachers, Class Scheduling Software for Private Teachers, Scheduling Software for Teachers and Educators, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
-	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-	
+   <meta name="keywords" content="teacher scheduling software free, free teacher scheduling software, music teacher scheduling software, teacher scheduling software, class teacher scheduling software, piano teacher scheduling software, 
+    free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, 
+    online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, 
+    online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, 
+    online booking software, online scheduling tools">
 	<meta property="og:title" content="Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />

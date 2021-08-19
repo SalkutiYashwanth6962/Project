@@ -13,10 +13,9 @@
 <head>
     <title>Parent Meeting Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
     <meta name="description" content="A free 24/7 online appointment scheduling software for parent-teacher meetings with staff management, automated reminders, and downloadable reports.">
-  	<meta name="keywords" content="personal training appointment scheduler, personal trainer appointment app, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
-	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
-	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
-	best online scheduling tool">
+  	<meta name="keywords" content="Parent meetings Scheduling Software, schedule parent-teacher meetings using an easy software, best online scheduling tool, online parent teacher meeting, online tools for parent teacher meeting, virtual parent teacher meeting, web tools for parent teacher meeting, parent-teacher conferences, 
+    free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, 
+    online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, online booking software, online scheduling tools">
 	<meta property="og:title" content="Parent Meeting Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/parent-meeting-cover.png" />

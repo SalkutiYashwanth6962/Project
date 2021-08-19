@@ -36,7 +36,7 @@
 	<section class="sec-first">
  		<div class="container">
 			<div class="col-md-6 ">
-				<h1>Online Appointment Scheduling Software for the<span>IT Industry</span></h1>
+				<h1>Online Appointment Scheduling Software for the<span> IT Industry</span></h1>
 				<p>Free online appointment scheduling software for the information technology industry with reminders, payments, invoices, business reports, and staff management.</p>
 				<a href="/register"><button class="btn-lg text-center">GET STARTED</button></a>
 			</div>

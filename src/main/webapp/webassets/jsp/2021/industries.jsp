@@ -656,7 +656,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/parent-meetings">
+				<a href="/business/parent-meetings">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Parent meetings" src="/webassets/2021/img/icons/industries/Parent-Meetings.svg" style="height: 50px;"></span></span>

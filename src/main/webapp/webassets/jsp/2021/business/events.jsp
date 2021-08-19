@@ -33,7 +33,7 @@
 	<section class="sec-first">
  		<div class="container">
 			<div class="col-md-6 ">
-				<h1>Easy<span>Event management </span>for everlasting experiences</h1>
+				<h1>Easy<span> Event management </span>for everlasting experiences</h1>
 				<p>Seamless event management guaranteed with this free online appointment scheduling software including payments, invoicing, event analysis, audience and team management.</p>
 				<a href="/register"><button class="btn-lg text-center">GET STARTED</button></a>
 			</div>

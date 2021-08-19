@@ -65,9 +65,9 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="Club Events Staff Management" src="/webassets/2021/img/icons/features/Manage-customer_icon.svg"> </div>
+	      			<div class="i-img"> <img alt="Club Events Staff Management" src="/webassets/2021/img/team-management.svg"> </div>
 		       		<h3>Staff Management</h3>
-		       		<p>Add and manage unlimited staff schedules and assign duties to them</p>
+		       		<p>Add and manage staff schedules and assign duties to them</p>
 		       	</div>
 			</div>
 			<div class="col-md-12" style="margin-top:50px;">

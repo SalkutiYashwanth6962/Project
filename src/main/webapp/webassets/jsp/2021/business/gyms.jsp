@@ -80,7 +80,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Offer virtual gym sessions using the Zoom and Google Meet integration to clients even if they are unable to physically attend classes. Send the meeting link to the trainers and the clients via email and SMS.</p>
 			</div>
 			<div class="col-md-6">
-       			<img alt="virtual gym class managements" src="/webassets/2021/img/business/tutoring-lessons-zoom-and-google.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+       			<img alt="virtual gym class managements" src="/webassets/2021/img/business/gym-group-fitness-classes.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	    	</div>
 		</div>
 	</div>
@@ -107,7 +107,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Conduct gym training classes with numerous clients to encourage peer teaching and enhance client retention. Set specific duration and slot limit to your group classes.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="group gym classes" src="/webassets/2021/img/business/spa-recurring-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="group gym classes" src="/webassets/2021/img/business/gyms-virtual-fitness-training.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

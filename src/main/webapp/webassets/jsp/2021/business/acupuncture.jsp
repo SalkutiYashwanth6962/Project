@@ -87,7 +87,7 @@
 	<div class="sec-four">
 		<div class="container">
 			<div class="col-md-6 hidden-xs hidden-sm">
-		   		<img alt="Take copay or advance payments" src="/webassets/2021/img/business/photographer-Payments-Invoices.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+		   		<img alt="Take copay or advance payments" src="/webassets/2021/img/business/photographer-Payments-Invoices.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100" style="margin-top: 80px;">
 			</div>
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ADVANCE PAYMENTS</h3>
