@@ -63,7 +63,7 @@
 					with Physiologists online through any Web-connected device. They
 					can typically access Picktime through a “Book Now” button found on
 					your website or page, or from an URL provided to them by the
-					Physiologists. You appointments get automatically booked without
+					Physiologists. Your appointments get automatically booked without
 					any staff interaction needed. In addition to online scheduling,
 					Picktime also comes equipped with other beneficial features like
 					automated e-mail and text message reminders, which the system sends

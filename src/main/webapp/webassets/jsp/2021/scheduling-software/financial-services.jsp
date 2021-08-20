@@ -66,7 +66,7 @@
 					<li>Customized Reports</li>
 					<li>Automatic Email and Text Reminders</li>
 					<li>Unique Business Page for Scheduling</li>
-					<li>Book Now Button on your Web site</li>
+					<li>Book Now Button on your Website</li>
 					<li>Recurring Appointments</li>
 				</ul>
 			</div>
@@ -82,10 +82,10 @@
 				</div>
 				<div class="services_sec">
 					<h3>Free Client Scheduling Page</h3>
-		        	<p>If you don’t have a web site, never fear! Your Picktime account comes with a free Client Scheduling Page. It's separate appointment booking page for your business and you can customize it as you want.</p>
+		        	<p>If you don’t have a website, never fear! Your Picktime account comes with a free Client Scheduling Page. It's separate appointment booking page for your business and you can customize it as you want.</p>
 				</div>
 				<div class="services_sec">
-					<h3>Web site Integration</h3>
+					<h3>Website Integration</h3>
 		            <p>Grow your client list while you sleep. Add a Get Picktime Booking button to your existing website and make your customers book their appointments hassle free.</p>
 				</div>
 				<div class="services_sec">

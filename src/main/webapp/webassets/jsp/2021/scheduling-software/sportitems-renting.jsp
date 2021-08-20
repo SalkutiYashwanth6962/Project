@@ -120,7 +120,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Get a Book now button</h3>
-					<p>Place Book Now on your website and make it easy for your
+					<p>Place Book Now button on your website and make it easy for your
 						clients to book. You have your own beautiful booking website with
 						the pictures of your items and a nice calendar with available and
 						booked slots. With Picktime you are always there to take bookings
