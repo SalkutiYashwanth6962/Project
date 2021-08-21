@@ -80,7 +80,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Automated Reminders</h3>
-			        <p>reminders can be printed when scheduling the appointment or emailed/sent as an SMS afterward/a few hours before the appointment. It also prevents double booking of the same time slot by requests from different channels.</p>
+			        <p>Reminders can be printed when scheduling the appointment or emailed/sent as an SMS afterward/a few hours before the appointment. It also prevents double booking of the same time slot by requests from different channels.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Picktime Anywhere</h3>

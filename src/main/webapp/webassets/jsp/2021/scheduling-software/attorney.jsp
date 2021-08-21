@@ -89,7 +89,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Recurring appointments</h3>
-		          	<p>Don’t worry about manually writing down repeated appointments, with picktime you can automatically use the recurring appointment option book all your appointments with a click.</p>
+		          	<p>Don’t worry about manually writing down repeated appointments, with Picktime you can automatically use the recurring appointment option book all your appointments with a click.</p>
 				</div>
 				<div class="services_sec">
 					<h3>No more no shows</h3>

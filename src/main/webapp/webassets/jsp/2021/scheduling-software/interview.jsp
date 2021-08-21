@@ -82,7 +82,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>One click book now button</h3>
-			        <p>put our book now button in your website and turn visitors into clients.</p>
+			        <p>Put our book now button in your website and turn visitors into clients.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Don&#39;t have your own website?</h3>

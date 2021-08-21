@@ -71,7 +71,7 @@
 			<div class="bottom_section">
 				<h2>Benefits of Picktime for Design Consultants:</h2>
 				<div class="services_sec">
-					<h3>appointment scheduling made easy</h3>
+					<h3>Appointment scheduling made easy</h3>
 			         <p>Picktime has been optimized for all mobile devices so you and your employees can manage your appointments while on the road in a quick and easy fashion and even better. If you postpone or cancel an appointment, your customer will automatically be notified of the changes via text or e-mail.</p>
 				</div>
 				<div class="services_sec">

@@ -19,7 +19,7 @@
 	best online scheduling tool">
 	<meta property="og:title" content="Chiropractic Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/restaurants-cover.png" />
+	<meta property="og:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/chiropractics-cover.png" />
 	<meta property="og:image:alt" content="Chiropractic Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Free online appointment scheduling software for doctors, including appointment reminders, consultation fee payment, invoicing, metrics on practice efficiency, and clinic and staff management." />
@@ -27,7 +27,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Chiropractic Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
 	<meta name="twitter:description" content="Free online appointment scheduling software for doctors, including appointment reminders, consultation fee payment, invoicing, metrics on practice efficiency, and clinic and staff management." />
-	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/restaurants-cover.png" />
+	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/chiropractics-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>
 <body>
