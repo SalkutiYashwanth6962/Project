@@ -107,6 +107,7 @@
 							<li>Unlimited Appointments</li>
 							<li>Customizable Emails</li>
 							<li>Booking Page 20+ Languages</li>
+							<li>Captcha Verification Online Booking</li>
 							<li>Courses*</li>
 							<li>Packages*</li>
 							<li>Vouchers*</li>
