@@ -50,7 +50,7 @@
 				<p>The rising trend in freelancers working from shared offices is one that is changing the face of business, and there are also more businesses than ever before saving money by using shared facilities and resources. For business incubators, our meeting room booking software is very useful, and it offers much more than just booking systems.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime is a free online room booking software with which you can book a meeting room from any part of the world with just an internet connected device. You can schedule a meeting in the room of your choice right from your home screen. Picktime is a fantastic way of making sure your room management system is running smoothly. Our meeting room management software comes with lots of features for your business. The weekly dashboard shows room availability instantly and users can book a meeting room in just a few clicks. For recurrent meetings, we offer an advanced booking screen as well for attendees. Meeting room management is the main goal of our Picktime booking software.</p>
+				<p>Picktime is a free online room booking software with which you can book a meeting room from any part of the world with just an internet connected device. You can schedule a meeting in the room of your choice right from your home screen. Picktime is a fantastic way of making sure your room management system is running smoothly. Our meeting <a href="/" target="_blank">room management software</a> comes with lots of features for your business. The weekly dashboard shows room availability instantly and users can book a meeting room in just a few clicks. For recurrent meetings, we offer an advanced booking screen as well for attendees. Meeting room management is the main goal of our Picktime booking software.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -80,7 +80,7 @@
 				</div>
 				<div class="services_sec">
 					<h3 class="service-desc-title">Online Bookings</h3>
-			        <p>Online meeting room bookings can be enabled for your staffs, removing hours of administration time. Once you choose to give them access, they can sign in and have fun making bookings with our frictionless and intuitive approach. Availability is shown on the main booking calendar and bookings are made in only a few clicks.</p>
+			        <p>Online meeting room bookings can be enabled for your staffs, removing hours of administration time. Once you choose to give them access, they can sign in and have fun making bookings with our frictionless and intuitive approach. Availability is shown on the main <a href="/features/online-calendar" target="_blank">booking calendar</a> and bookings are made in only a few clicks.</p>
 				</div>
 				<div class="services_sec">
 					<h3 class="service-desc-title">Fully Customizable</h3>

@@ -76,7 +76,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Convenience</h3>
-					<p>Customers can book appointments anytime from anywhere with Picktime escape room booking software. You can also book appointments to escape rooms present at any time zone.</p>
+					<p>Customers can book appointments anytime from anywhere with Picktime <a href="/" target="_blank">escape room booking software.</a> You can also book appointments to escape rooms present at any time zone.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Data collection</h3>
@@ -88,7 +88,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Tracking and reporting</h3>
-					<p>Picktime provides you the detailed analytics report of all your appointments and staff tasks. The ability to adapt marketing and operations strategies in real time gives you a competitive advantage.</p>
+					<p>Picktime provides you the detailed <a href="/features/reports" target="_blank">analytics report</a> of all your appointments and staff tasks. The ability to adapt marketing and operations strategies in real time gives you a competitive advantage.</p>
 				</div>
 			</div>
 		</div>

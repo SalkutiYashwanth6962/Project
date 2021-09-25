@@ -53,7 +53,7 @@
 				<p>If you are a photographer, concentrating on getting the right shot is very important. Photographers are the key part for any special occasion they capture  moments that will be cherished forever. With selfies becoming the new trend, it's highly unlikely that people would hire an amature to capture your wedding moments or birthday parties. As an artist your main goal is deliver the best of output to your clients. Whether you have a team of assistants and photographers or you run your business alone managing schedules is the key for running your business in a stress free way.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime is a free appointment scheduling software for photographers which is made to make your life easy. Our booking software is a free online solution that makes it easy for you to accept and manage bookings for your photography business. Have your calendar up and ready to use today, no programming required, no installation and no contracts! With a office manager it is quite difficult to keep up with everyday appointments because you have to be at many different places in a single day. With picktime a quick glance at the dashboard will give you a overview of your days schedules. Manage staff schedules and appointment slots by updating everything in your booking page. Let your clients know when you are free and when you are busy with our free booking system.</p>
+				<p>Picktime is a free appointment scheduling software for photographers which is made to make your life easy. Our booking software is a free online solution that makes it easy for you to accept and manage bookings for your photography business. Have your calendar up and ready to use today, no programming required, no installation and no contracts! With a office manager it is quite difficult to keep up with everyday appointments because you have to be at many different places in a single day. With picktime a quick glance at the dashboard will give you a overview of your days schedules. <a href="/features/manage-staff" target="_blank">Manage staff schedules</a> and appointment slots by updating everything in your booking page. Let your clients know when you are free and when you are busy with our free booking system.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -81,7 +81,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Manage staff</h3>
-					<p>If you have a team working with you at multiple locations, know what they are up to or who is working on that day and who is not with just a look at your dashboard. Make work easy and allow room for creativity and other important administration work with our appointment booking tool.</p>
+					<p>If you have a team working with you at multiple locations, know what they are up to or who is working on that day and who is not with just a look at your dashboard. Make work easy and allow room for creativity and other important administration work with our <a href="/" target="_blank">appointment booking tool.</a></p>
 				</div>
 				<div class="services_sec">
 					<h3>Book now button</h3>

@@ -53,7 +53,7 @@
 				<p>Everything around us is Art. For students  who want to develop these skills or want Art to be their profession, you are the person who can help and assist their needs. It is always a difficult task to arrange all the stuff that is needed to run a creative and an interesting class. When you are focussed on giving your students the best experience, taking large number of appointments can often get tiresome. Make class bookings easier and automatic with picktime.</p>
 			</div>
 			<div class="services_sec">
-				<p>With Picktime you can create individual and group classes, where your students can book classes online. You can also set a limit of how many can attend a class. Students nowadays search online for classes available before anything else. Using Picktime, you can setup your Art Activities like Exhibits, Workshops or Special Classes. Picktime can be a great online assistant for your business. You can set automatic reminders for classes through texts or emails to your students and yourself. Your Picktime dashboard lets you know what appointments are coming up. You can access and manage your staff’s account and keep track of what’s going on.</p>
+				<p>With Picktime you can create individual and group classes, where your students can <a href="/" target="_blank">book classes online.</a> You can also set a limit of how many can attend a class. Students nowadays search online for classes available before anything else. Using Picktime, you can setup your Art Activities like Exhibits, Workshops or Special Classes. Picktime can be a great online assistant for your business. You can set automatic reminders for classes through texts or emails to your students and yourself. Your Picktime dashboard lets you know what appointments are coming up. You can access and manage your staff’s account and keep track of what’s going on.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -79,7 +79,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Class bookings</h3>
-					<p>Picktime has all the tools you need for your art classes! Create a class and set a number of how many can attend it. Review your analytics and see which classes are doing well and what other classes aren’t.</p>
+					<p>Picktime has all the tools you need for your art classes! Create a class and set a number of how many can attend it. <a href="/features/reports" target="_blank">Review your analytics</a> and see which classes are doing well and what other classes aren’t.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Make bookings Any time, any where</h3>

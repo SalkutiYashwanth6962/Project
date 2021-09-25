@@ -47,7 +47,7 @@
 		<div class="container">
 			<img class="img-responsive" alt="Design Consultations Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div class="services_sec">
-				<p>For Design Consultancies, online scheduling is a vital lead generation tool. For many people, finding the perfect design for their houses, offices, and even website design is the biggest challenge. Design consultancy plays an important role in cornering their issues, providing the right advice and solving them. Having your appointment booking online is really a good idea for your business growth.</p>
+				<p>For Design Consultancies, online scheduling is a vital lead generation tool. For many people, finding the perfect design for their houses, offices, and even website design is the biggest challenge. Design consultancy plays an important role in cornering their issues, providing the right advice and solving them. Having your <a href="/" target="_blank">appointment booking online</a> is really a good idea for your business growth.</p>
 			</div>
 			<div class="services_sec">
 				<p>Picktime is a free web based appointment scheduling software where you can manage your appointments, staff, services and clients. In the age of millennials, appointment scheduling through phone calls and messages is mossy. Your customers can book appointments online with our appointment booking system. It helps you lock-in a phone call, which is valuable in turning every lead into a client. Picktime can be accessed from anywhere as it is a browser based appointment scheduling software. It reduces your appointment management errors.</p>
@@ -88,7 +88,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Online appointment booking through your website</h3>
-			        <p>Speed up your direct business! With Picktime, you offer your customers the possibility to access all available appointments online and book one right away. You can integrate the Picktime online booking widget(Book Now Button) into your website.</p>
+			        <p>Speed up your direct business! With Picktime, you offer your customers the possibility to access all available appointments online and book one right away. You can integrate the <a href="/features/booking-widget" target="_blank">Picktime online booking widget</a>(Book Now Button) into your website.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Data security</h3>

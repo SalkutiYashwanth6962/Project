@@ -52,7 +52,7 @@
 				<p>Teaching is one the most challenging and satisfying professions of all. Moulding little brains and giving students support to help them come out with flying colours is not easy. You have to put all your effort and hard work into being the best teacher they ever had. But it is not always possible to give your students the time they want with all other things you have to do, Like spending time with your family and meeting up with other important people. This may make you feel like you are not doing justice to your job when you are not able to cater to your students.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime is an online appointment scheduling software which helps you schedule classes, meetings and events so that your students can meet up with you when you are available. Sign up with Picktime and set up your account. Make your available time slots visible in your booking page and simply share your link. That's it! You are all set to meet your students and clarify their doubts or talk to parents about their child’s progress. Our booking software reduces the time and effort you put into meeting your students post classes and schedules your appointments around your personal meetings.</p>
+				<p>Picktime is an <a href="/" target="_blank">online appointment scheduling software</a> which helps you schedule classes, meetings and events so that your students can meet up with you when you are available. Sign up with Picktime and set up your account. Make your available time slots visible in your booking page and simply share your link. That's it! You are all set to meet your students and clarify their doubts or talk to parents about their child’s progress. Our booking software reduces the time and effort you put into meeting your students post classes and schedules your appointments around your personal meetings.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -84,7 +84,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>A personalised booking page</h3>
-			        <p>Don't have a website? Picktime creates a booking page for you which you can easily customise. Add your services and available times and make them visible online.</p>
+			        <p>Don't have a website? Picktime creates a <a href="/features/booking-widget" target="_blank">booking page</a> for you which you can easily customise. Add your services and available times and make them visible online.</p>
 				</div>
 			</div>
 		</div>

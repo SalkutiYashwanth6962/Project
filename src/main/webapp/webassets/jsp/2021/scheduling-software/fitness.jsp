@@ -53,7 +53,7 @@
 				<p>Finding the right and qualified trainer is tough and it is the biggest challenge for customers. Fitness business is one of the booming business in today's market. How do you manage all your trainees or students? How do you manage your trainers schedules in a simple way? How do you handle fitness trainees appointment scheduling?</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime is a free fitness training online appointment and class booking software which lets your customers book their sessions online. You can also customize your business page where your customers can book their appointments online. Your customers can make bookings just the way they want. You can display all your services like one on one training, group classes everything under your personalised business page and moreover, Picktime is a free fitness class scheduling software to manage all your appointments and staff schedules. You can also set your staff or trainers to all services or only to a particular service and let them handle their own bookings.</p>
+				<p>Picktime is a free fitness training online appointment and class booking software which lets your customers book their sessions online. You can also customize your business page where your customers can book their appointments online. Your customers can make bookings just the way they want. You can display all your services like one on one training, group classes everything under your personalised business page and moreover, Picktime is a free fitness <a href="/" target="_blank">class scheduling software</a> to manage all your appointments and staff schedules. You can also set your staff or trainers to all services or only to a particular service and let them handle their own bookings.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -93,7 +93,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Recurring appointments</h3>
-			      	<p>Now you don’t have to undergo through the tiresome task of rebooking customers every time. Just use our recurring appointment tool and book your customer's schedule in advance. This way neither you nor your customer has to worry about anything which creates a better customer owner relationship.</p>
+			      	<p>Now you don’t have to undergo through the tiresome task of rebooking customers every time. Just use our <a href="/features/recurring-appointments" target="_blank">recurring appointment tool</a> and book your customer's schedule in advance. This way neither you nor your customer has to worry about anything which creates a better customer owner relationship.</p>
 					<br>
 					<p>Use our Picktime online appointment scheduling software and keep your customer management and booking worries at a distance. Register for free!</p>
 				</div>

@@ -3660,6 +3660,9 @@ height: 80px;
   width: 100%;
   padding-top: 50px;
 }
+.sec-first .col-md-6 .P-top{
+	padding-top: 110px;
+}
 .sec-first .nail-extra-small{
 	padding: 50px;
 }
@@ -3851,6 +3854,9 @@ height: 80px;
     width: 100%;
     padding-top: 15px;
   	}
+  	.sec-first .col-md-6 .P-top{
+	padding-top: 15px;
+	}
  	.sec-first .col-md-6 h1 {
     font: normal normal bold 30px/40px Samsung Sharp Sans;
     text-align: center;
@@ -4074,6 +4080,17 @@ margin-top: 100px;
 	font-weight: 400;
 	padding: 15px 0px;
 	line-height: 35px;
+}
+.industries-body-section p a{
+  color:#333;
+}
+
+.industries-body-section p a:hover{
+  text-decoration: none;
+}
+
+.industries-body-section p a:focus{
+  text-decoration: none;
 }
 
 .industries-body-section .services_sec {

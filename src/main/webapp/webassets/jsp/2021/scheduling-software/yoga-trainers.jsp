@@ -76,7 +76,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Great Integration with Official Websites</h3>
-			        <p>When you start using Picktime for the management of your yoga studio, it becomes much easier for you to keep your official website quite up-to-date. Basically, our Picktime yoga studio appointment management software will integrate with your official website easily so that you do don’t have to update your website periodically.</p>
+			        <p>When you start using Picktime for the management of your yoga studio, it becomes much easier for you to keep your official website quite up-to-date. Basically, our Picktime yoga studio <a href="/" target="_blank">appointment management software</a> will integrate with your official website easily so that you do don’t have to update your website periodically.</p>
 				</div>
 				<div class="services_sec">
 					<h3>No installation and networking costs</h3>
@@ -88,7 +88,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Set boundaries to your work life:</h3>
-		         	<P>Yoga trainers are fully packed with yoga classes and their day job. With such hectic schedules it very difficult to draw lines between personal life and work life. Using our appointment booking calendar have an organised lifestyle.</P>
+		         	<P>Yoga trainers are fully packed with yoga classes and their day job. With such hectic schedules it very difficult to draw lines between personal life and work life. Using our <a href="/features/online-calendar" target="_blank">appointment booking calendar</a> have an organised lifestyle.</P>
 				</div>
 				<div class="services_sec">
 					<h3>Managing schedules, especially in the summer months:</h3>

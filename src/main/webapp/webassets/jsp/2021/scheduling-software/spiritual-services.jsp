@@ -48,7 +48,7 @@
 				<p>Growth, fulfillment, and happiness require a daily spiritual practice, along with taking care of ourselves and loving others. Unfortunately, while our culture encourages daily exercise for the body, it does not always encourage daily exercise for the spirit. If you run a Spiritual service business, you provide a variety of services and ritual assistance to help your clients be on their life path. Whether you provide spiritual consultations for couples, pastoral care services, chaplains services for various faiths, Sunday schools, medium, guidance or any other type of spiritual services, you deal with appointments on a daily basis and having a simple and efficient tool that will arrange your availability and accept bookings 24/7 is a great benefit worth to consider.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime is a free web-based spiritual services appointment booking and class booking software which solves all your appointment booking issues. It can be tailored for use in almost any spiritual related services. It can be accessed without installation as it is a web based appointment scheduling software. It can be used without the need for meeting you. It reduces the workload, stress, disappointment, and loss of productivity for those doing the scheduling caused by scheduling errors and risks. Get a separate Booking page and calendar to follow-up with your students at free of cost. Easily create your classes and meetings, define their class slot availability and you will have both old and new students signing up 24/7 from their desktop or mobile devices whether it is for one on one meeting or group class or recurring classes.</p>
+				<p>Picktime is a free web-based spiritual services appointment booking and class booking software which solves all your appointment booking issues. It can be tailored for use in almost any spiritual related services. It can be accessed without installation as it is a <a href="/" target="_blank">web based appointment scheduling software.</a> It can be used without the need for meeting you. It reduces the workload, stress, disappointment, and loss of productivity for those doing the scheduling caused by scheduling errors and risks. Get a separate Booking page and calendar to follow-up with your students at free of cost. Easily create your classes and meetings, define their class slot availability and you will have both old and new students signing up 24/7 from their desktop or mobile devices whether it is for one on one meeting or group class or recurring classes.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -71,7 +71,7 @@
 				<h2>Benefits of Picktime for Spiritual Services</h2>
 				<div class="services_sec">
 					<h3 class="service-desc-title">Booking Website</h3>
-		        	<p>With Picktime, you can create your own spiritual services booking page with a unique URL where everyone can book your services or you can also add booking functionality to your existing website to motivate people reserving the time online.</p>
+		        	<p>With Picktime, you can create your own spiritual services <a href="/features/booking-page" target="_blank">booking page</a> with a unique URL where everyone can book your services or you can also add booking functionality to your existing website to motivate people reserving the time online.</p>
 				</div>
 				<div class="services_sec">
 					<h3 class="service-desc-title">Booking Calendar</h3>

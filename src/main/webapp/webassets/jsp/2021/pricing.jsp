@@ -86,7 +86,7 @@
 							<li>Two way sync</li>
 							<li>Automatic Timezone Conversion</li>
 							<li>Attendance</li>
-							<li>SMS Reminders*</li>
+							<li>SMS Notifications &amp; Reminders</li>
 							<li>Over 15+ powerful Integrations</li>
 						</ul>
 						<!--  <a class="btn btn-block text-uppercase">UPGRADE</a> -->
@@ -106,9 +106,7 @@
 							<li>Unlimited Classes</li>
 							<li>Unlimited Appointments</li>
 							<li>Customizable Emails</li>
-							<li>Single Sign On</li>
 							<li>Booking Page 20+ Languages</li>
-							<li>Customizable Labels*</li>
 							<li>Courses*</li>
 							<li>Packages*</li>
 							<li>Vouchers*</li>
@@ -197,7 +195,13 @@
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
-				<td>SMS Reminders*</td>
+				<td>SMS Notifications</td>
+				<td>-</td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+			</tr>
+			<tr>
+				<td>SMS Reminders</td>
 				<td>-</td>
 				<td><i class="icon-check-mark right-mark"></i></td>
 				<td><i class="icon-check-mark right-mark"></i></td>
@@ -215,9 +219,9 @@
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
-				<td>Single Sign On</td>
+				<td>Booking Additional Fields</td>
 				<td>-</td>
-				<td>-</td>
+				<td><i class="icon-check-mark right-mark"></i></td>
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
@@ -258,12 +262,6 @@
 			</tr>
 			<tr>
 				<td>Discounts*</td>
-				<td>-</td>
-				<td>-</td>
-				<td><i class="icon-check-mark right-mark"></i></td>
-			</tr>
-			<tr>
-				<td>Custom Labels*</td>
 				<td>-</td>
 				<td>-</td>
 				<td><i class="icon-check-mark right-mark"></i></td>

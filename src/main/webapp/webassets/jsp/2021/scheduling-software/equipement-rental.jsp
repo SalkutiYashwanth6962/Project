@@ -77,7 +77,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Responsiveness</h3>
-					<p>Our online booking tool is 100% made compatible for mobiles. Every screen is built on a responsive design so that it perfectly fits your smartphone, tablet or any other device you might own.</p>
+					<p>Our <a href="/" target="_blank">online booking tool</a> is 100% made compatible for mobiles. Every screen is built on a responsive design so that it perfectly fits your smartphone, tablet or any other device you might own.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Embeddable</h3>
@@ -89,7 +89,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Email Notifications</h3>
-					<p>Our booking system is designed in such a way that cancellations and appointment reminders sent via SMS and email.</p>
+					<p>Our booking system is designed in such a way that cancellations and <a href="/features/email-alerts" target="_blank">appointment reminders</a> sent via SMS and email.</p>
 					<br>
 					<p>Care to give it a try? Register a free account and see what Picktime can do for your rental business.</p>
 				</div>

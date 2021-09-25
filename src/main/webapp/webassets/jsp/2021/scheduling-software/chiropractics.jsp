@@ -100,7 +100,7 @@
 					<div class="services_sec">
 						<h3>Stay on time</h3>
 						<p>An easy to read appointment schedule is critical for keeping
-							an office on track. With Picktime Appointment scheduler, you can
+							an office on track. With <a href="/" target="_blank">Picktime Appointment scheduler,</a> you can
 							view appointments schedules at-a-glance on screen or quickly print
 							a report of the day&#39;s appointments. Sharing the scheduling
 							information with more than one computer keeps all staff
@@ -130,7 +130,7 @@
 							stolen. There&#39;s no way to encrypt a piece of paper to protect
 							the privacy of your patients and staffs. And there&#39;s no way to
 							update that paper from an office on the other side of the country
-							or any other location. Managing schedules and customer data online
+							or any other location. <a href="/features/manage-customers" target="_blank">Managing schedules and customer data</a> online
 							is faster, more secure, and much more reliable.</p>
 					</div>
 					<div class="services_sec">

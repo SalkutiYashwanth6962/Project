@@ -77,7 +77,7 @@
 				<h2>Benefits of Picktime for Schools</h2>
 				<div class="services_sec">
 					<h3>A modern campus for modern students</h3>
-			        <p>When it comes to configuring the scheduling process, the Picktime appointment scheduling system is structured to accommodate a comprehensive range of needs. With a user-friendly interface and automatic system, it is specifically designed to cater to the way you work, however that is. We have experience providing appointment scheduling systems for many schools and have refined the process to include a number of advanced features such as automatic text reminders and even time zone integration for language schools.</p>
+			        <p>When it comes to configuring the scheduling process, the Picktime <a href="/" target="_blank">appointment scheduling system</a> is structured to accommodate a comprehensive range of needs. With a user-friendly interface and automatic system, it is specifically designed to cater to the way you work, however that is. We have experience providing appointment scheduling systems for many schools and have refined the process to include a number of advanced features such as automatic text reminders and even time zone integration for language schools.</p>
 				</div>
 				<div class="services_sec">
 					<h3>User-Friendly With Plenty of Functional Options</h3>
@@ -85,7 +85,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Flawless Website Integration</h3>
-			        <p>If you don't have a website, get a new, mobile-friendly booking website that is customized to match the rest of your marketing. Your website gives important information about your services and updates in real-time based on class availability. We provide you light weight embed code to place Picktime Book Now button on your website. Your website is always open, even for those parents who want to register at 2 AM. You improve your cash flow and can start taking online payment immediately with your own merchant account.</p>
+			        <p>If you don't have a website, get a new, mobile-friendly booking website that is customized to match the rest of your marketing. Your website gives important information about your services and updates in real-time based on class availability. We provide you light weight embed code to place Picktime Book Now button on your website. Your website is always open, even for those parents who want to register at 2 AM. You improve your cash flow and can start taking <a href="/features/take-payments" target="_blank">online payment</a> immediately with your own merchant account.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Accessibility</h3>

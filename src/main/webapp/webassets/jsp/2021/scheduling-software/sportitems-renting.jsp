@@ -62,7 +62,7 @@
 					available for rental. No more cluttered Post-it notes!</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime online scheduling system can be used for booking
+				<p>Picktime <a href="/" target="_blank">online scheduling</a> system can be used for booking
 					tennis courts, football pitches, volleyball courts, basketball
 					fields, pools, golf clubs, balls, nets, uniforms, roller skates,
 					etc. Furthermore, it can be used for boat renting, yacht renting,
@@ -130,7 +130,7 @@
 				<div class="services_sec">
 					<h3>Available everywhere</h3>
 					<p>You can create several locations if you offer sports item
-						renting in several places. Since your appointment calendar is
+						renting in several places. Since your <a href="/features/online-calendar" target="_blank">appointment calendar</a> is
 						online, you can view it at work, at home or even if you are on a
 						vacation half way across the globe.</p>
 				</div>

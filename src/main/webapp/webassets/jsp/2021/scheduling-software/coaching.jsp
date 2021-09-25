@@ -88,13 +88,13 @@
 				<div class="services_sec">
 					<h3>A Better System to Manage Your Coaching & Tuition Classes</h3>
 					<p>Time to dump those excel sheets and register books. Now
-						manage your classes with Picktime. The simple and free class
-						scheduling system that has everything you need to manage your
+						manage your classes with Picktime. The simple and <a href="/" target="_blank">free class
+						scheduling system</a> that has everything you need to manage your
 						Tuition Classes and Coaching Institute.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Recurring Classes</h3>
-					<p>Coaching Services generally requires systematic recurring
+					<p>Coaching Services generally requires <a href="/features/recurring-appointments" target="_blank">systematic recurring</a>
 						classes for a period of time in order to progress. With the help
 						of Picktime, your students do not have to click twelve times to
 						sign up for each class three times a week for a month. You can

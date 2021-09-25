@@ -79,7 +79,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Booking page</h3>
-		        	<p>Don’t own a website? Worry not as picktime creates a personalised booking page for your business where all your available times, locations and classes offered can be put up for your clients to see.</p>
+		        	<p>Don’t own a website? Worry not as picktime creates a <a href="/features/booking-widget" target="_blank">personalised booking page</a> for your business where all your available times, locations and classes offered can be put up for your clients to see.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Class Booking</h3>
@@ -99,7 +99,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Sync with your calendar</h3>
-			        <p>With picktime schedule all your classes around your personal meetings and schedules. Reduce waiting times and frustrated customers with our free online class booking software.</p>
+			        <p>With picktime schedule all your classes around your personal meetings and schedules. Reduce waiting times and frustrated customers with our <a href="/" target="_blank">free online class booking software.</a></p>
 				</div>
 			</div>
 		</div>

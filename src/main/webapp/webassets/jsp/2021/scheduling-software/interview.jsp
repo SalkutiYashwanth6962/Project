@@ -55,7 +55,7 @@
 				<p>With the Picktime online interview scheduling software system, you can make scheduling task easier. Get top of the line appointment scheduling with an array of features that will benefit you and your business day after day.</p>
 			</div>
 			<div class="services_sec">
-				<p>With Picktime interview scheduling software, spend more time with your candidates and less time in interview scheduling. Picktime is a free online appointment booking software that can be used to schedule interviews and manage your staffs. Email threads trying to book a large number of appointments can quickly become confusing and trying to mark off available and booked time slots on a piece of paper is not favorable for improvements and changes to plans. If you are interviewing multiple applicants during a day or a few days then what you would want to do is mark these particular days as available for the interview and then give your Picktime business page link to your candidates. Applicants will only be able to book in the time frame that you allowed, they will select a time and the interview will be automatically booked. As soon as a slot is booked by one candidate it will not be available anymore to other candidates. In this case, everything is happening automatically and your calendar gets filled up with appointments without any further action on your part.</p>
+				<p>With Picktime <a href="/" target="_blank">interview scheduling software,</a> spend more time with your candidates and less time in interview scheduling. Picktime is a free online appointment booking software that can be used to schedule interviews and manage your staffs. Email threads trying to book a large number of appointments can quickly become confusing and trying to mark off available and booked time slots on a piece of paper is not favorable for improvements and changes to plans. If you are interviewing multiple applicants during a day or a few days then what you would want to do is mark these particular days as available for the interview and then give your Picktime business page link to your candidates. Applicants will only be able to book in the time frame that you allowed, they will select a time and the interview will be automatically booked. As soon as a slot is booked by one candidate it will not be available anymore to other candidates. In this case, everything is happening automatically and your calendar gets filled up with appointments without any further action on your part.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -98,7 +98,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Automatic Interview Reminders</h3>
-		        	<p>Email and sms notifications are sent to candidates after the booking is made and right before the interview as selected by your management staff.</p>
+		        	<p><a href="/features/email-alerts" target="_blank">Email and sms notifications </a>are sent to candidates after the booking is made and right before the interview as selected by your management staff.</p>
 		        	<p>So if you need a really simple and easy to use interview scheduling software give Picktime a try. You will be glad you did.</p>
 				</div>
 			</div>

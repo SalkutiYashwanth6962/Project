@@ -66,7 +66,7 @@
 				<p>Picktime is a free appointment scheduling software for hair
 					salons, which lets your customers/clients see your open
 					appointments and book their slot for that service in real time.
-					Picktime assists you in managing appointments and staff schedules.
+					Picktime assists you in <a href="/features/manage-staff" target="_blank">managing appointments and staff schedules.</a>
 					Even if you have to shuffle multiple appointments at multiple
 					locations, Picktime keeps you upto date. We have kept in mind all
 					the difficulties that occur with paper based appointment system and
@@ -133,7 +133,7 @@
 				<div class="services_sec">
 					<h3>Put your time to better use:</h3>
 					<p>With scheduling chaos, we know that you never have any time
-						or space for yourself. Picktime free salon scheduling software
+						or space for yourself. Picktime free salon <a href="/" target="_blank">scheduling software</a>
 						keeps you free of such petty worries and allows you to have more
 						free time for yourself. We certainly do understand how important
 						having personal time is for yourself.</p>

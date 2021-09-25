@@ -50,7 +50,7 @@
 				<p>Running a cleaning business is more than a full-time job. It can be hard to find the time to keep your business organized with managerial responsibilities like dispatching cleaners, scheduling jobs and getting new customers . Cleaning service companies are flooded with huge number of service requests making it difficult for them to handle scheduling and dispatching on time. With many services like providing maids, total house clean up etc., picktime lets you switch through them with ease.</p>
 			</div>
 			<div class="services_sec">
-				 <p>Picktime is user friendly appointment scheduling software and we work alongside you to make sure that your cleaning company becomes more organized and efficient. Get rid of all your excel sheets and books with our cleaning service software. It will help you set up your available hours easily and allows your clients to reserve services online. Picktime Cleaning Service Software makes online booking easy for clients and helps you trim your daily scheduling. Your house cleaning business will run at maximum efficiency with Picktime. It takes less than 2 minutes to set up your business to take on a flood of appointments.</p>
+				 <p>Picktime is user friendly appointment scheduling software and we work alongside you to make sure that your cleaning company becomes more organized and efficient. Get rid of all your excel sheets and books with our <a href="/" target="_blank">cleaning service software.</a> It will help you set up your available hours easily and allows your clients to reserve services online. Picktime Cleaning Service Software makes online booking easy for clients and helps you trim your daily scheduling. Your house cleaning business will run at maximum efficiency with Picktime. It takes less than 2 minutes to set up your business to take on a flood of appointments.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -81,7 +81,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Stay on top of your schedule</h3>
-			        <p>Never miss another cleaning appointment. sync with your Google calendar and all your bookings will be transferred and blocked in Picktime calendar.</p>
+			        <p>Never miss another cleaning appointment. sync with your <a href="/features/two-way-calendar" target="_blank">Google calendar</a> and all your bookings will be transferred and blocked in Picktime calendar.</p>
 				</div>
 				<div class="services_sec">
 					 <h3>Stay connected to employees in the field</h3>

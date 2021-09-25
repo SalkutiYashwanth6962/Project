@@ -52,11 +52,9 @@
 			</div>
 			<div class="services_sec">
 				<p>Picktime can be tailored for use in almost any local business. It can be accessed without installation as it is web based appointment scheduling software. It can be used without the need for training or classes, and accessed via any web browser, even on tablets and mobile phones. It will reduce the workload for those doing the scheduling, but it will also reduce stress, disappointment, and loss of productivity caused by scheduling errors and risks.</p>
-				<p>Picktime can benefit a variety of businesses, from restaurants and hair salons to plumbers, freelance, and lawn maintenance services. Picktime can be used to make reservations, schedule appointments, request services, or schedule repairs online without the phone call. Using Picktime you can gather customer contact information, to add to your marketing database. Keep a record of customers and staffs, so that complaints or praise can be credited to the appropriate staff.</p>
+				<p>Picktime can benefit a variety of businesses, from restaurants and hair salons to plumbers, freelance, and lawn maintenance services. Picktime can be used to make reservations, schedule appointments, request services, or schedule repairs online without the phone call. Using Picktime you can gather customer contact information, to add to your marketing database. <a href="/features/dashboard" target="_blank">Keep a record of customers and staffs,</a> so that complaints or praise can be credited to the appropriate staff.</p>
 			</div>
-			<div class="services_sec">
-				<p>Picktime can benefit a variety of businesses, from restaurants and hair salons to plumbers, freelance, and lawn maintenance services. Picktime can be used to make reservations, schedule appointments, request services, or schedule repairs online without the phone call. Using Picktime you can gather customer contact information, to add to your marketing database. Keep a record of customers and staffs, so that complaints or praise can be credited to the appropriate staff.</p>
-			</div>
+			
 			<div class="key_features">
 				<h2>Key Features</h2>
 				<ul>
@@ -88,7 +86,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Ditch the medieval methods</h3>
-		        	<p>If you are still using old school techniques for booking appointments your business will grow only at a snail’s pace. You will find many no-shows without proper appointment reminders. With our free appointment scheduling software say bye to excel sheets and hello to online booking.</p>
+		        	<p>If you are still using old school techniques for booking appointments your business will grow only at a snail’s pace. You will find many no-shows without proper appointment reminders. With our free <a href="/" target="_blank">appointment scheduling</a> software say bye to excel sheets and hello to online booking.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Maintenance of client contacts</h3>

@@ -50,7 +50,7 @@
 				<p>Most of the libraries function with the help of spreadsheets, excel sheets and books to manage staff and books. These methods though effective often cause quite a lot of confusion. Maintaining a library not only includes managing staff schedules, it means undertaking a difficult task like keeping records of all the books available, which books are reserved and which books need to be kept back into their respective positions. effective scheduling and introducing new ways to manage your library is the right way to keep your library organised with meagre budgets.most of the library administrative staff find it difficult to manage staff properly with a lot of other important work to do. Amp up your modernisation to next level.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime is a free online scheduling software specially designed for libraries to make your scheduling tasks effective and easier. Easily reschedule and assign shifts to staff at multiple locations. Avoid scheduling chaos and know who is working at what time from anywhere at anytime. Track who is on leave and who is on break even when you are miles away! Manage</p>
+				<p>Picktime is a <a href="/" target="_blank">free online scheduling software</a> specially designed for libraries to make your scheduling tasks effective and easier. Easily reschedule and assign shifts to staff at multiple locations. Avoid scheduling chaos and know who is working at what time from anywhere at anytime. Track who is on leave and who is on break even when you are miles away! Manage</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -85,7 +85,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Multiple location access</h3>
-			        <p>If your services are available at multiple locations, easily organise all your data you store from a centralised system. Reduce the revenue you spend on hiring multiple librarians for maintaining records.</p>
+			        <p>If your services are available at <a href="/features/multiple-location" target="_blank">multiple locations,</a> easily organise all your data you store from a centralised system. Reduce the revenue you spend on hiring multiple librarians for maintaining records.</p>
 				</div>
 			</div>
 		</div>

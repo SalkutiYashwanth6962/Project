@@ -103,7 +103,7 @@
 					</div>
 					<div class="services_sec">
 						<h3>Book now button for your website</h3>
-						<p>Patients can typically access the online scheduling system
+						<p>Patients can typically access the <a href="/" target="_blank">online scheduling system</a>
 							through a “Book Now” button on a Practice or Doctor office Web
 							site or page, or from a URL provided to them by the Picktime.
 							Once a date and time are selected, Picktime will automatically
@@ -126,7 +126,7 @@
 					<div class="services_sec">
 						<h3>Sync with your favourite calendar</h3>
 						<p>Book all your patient appointments around your personal
-							meetings. Sync with your favourite calendar. You don’t have to
+							meetings. <a href="/features/two-way-calendar" target="_blank">Sync with your favourite calendar.</a> You don’t have to
 							worry about running late to meetings or not doing justice to your
 							appointments with our dental practise management software.</p>
 					</div>

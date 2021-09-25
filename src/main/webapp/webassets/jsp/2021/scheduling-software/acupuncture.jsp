@@ -71,7 +71,7 @@
 				</div>
 				<div class="services_sec">
 		           <h3>Staff Management</h3>
-				   <p>It is quite a task to manage your staff if your business is at multiple locations. This will most likely cause double-bookings because of staffs mismanagement. Centralise your staffs schedules with our appointment booking software.</p>
+				   <p>It is quite a task to manage your staff if your business is at multiple locations. This will most likely cause double-bookings because of staffs mismanagement. Centralise your staffs schedules with our <a href="/" target="_blank">appointment booking software.</a></p>
 				</div>
 				<div class="services_sec">
 		           <h3>Online Appointment Booking</h3>
@@ -83,7 +83,7 @@
 				</div>
 				<div class="services_sec">
 		           <h3>Avoid No-shows and Double Bookings</h3>
-				   <p>Most of the customers have to be reminded of their everyday appointments. Picktime sends automated reminders to all your booked customers at a time you have specified in your booking preferences.</p>
+				   <p>Most of the customers have to be reminded of their everyday appointments. Picktime sends <a href="/features/reminders " target="_blank">automated reminders</a> to all your booked customers at a time you have specified in your booking preferences.</p>
 				</div>
 				<div class="services_sec">
 		           <h3>Let your customers do the work</h3>

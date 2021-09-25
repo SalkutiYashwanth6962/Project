@@ -419,12 +419,12 @@
 	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
 	  <priority>0.80</priority>
 	</url>
-		<url>
+	<url>
 	  <loc>https://www.picktime.com/business/nail-salon</loc>
 	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
 	  <priority>0.80</priority>
 	</url>
-		<url>
+	<url>
 	  <loc>https://www.picktime.com/business/spa</loc>
 	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
 	  <priority>0.80</priority>
@@ -464,7 +464,6 @@
 	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
 	  <priority>0.80</priority>
 	</url>
-	
 	<url>
 	  <loc>https://www.picktime.com/business/cleaning</loc>
 	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
@@ -575,4 +574,94 @@
 	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
 	  <priority>0.80</priority>
 	</url>
+	<url>
+	  <loc>https://www.picktime.com/business/personal-trainers</loc>
+	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  <priority>0.80</priority>
+	</url>
+	<url>
+	  <loc>https://www.picktime.com/business/dentists</loc>
+	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  <priority>0.80</priority>
+	</url>
+	<url>
+	  <loc>https://www.picktime.com/business/physiologists</loc>
+	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  <priority>0.80</priority>
+	</url>
+	<url>
+	  <loc>https://www.picktime.com/business/golf-classes</loc>
+	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  <priority>0.80</priority>
+	</url>
+	<url>
+	  <loc>https://www.picktime.com/business/psychologists</loc>
+	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  <priority>0.80</priority>
+	</url>
+	<url>
+	  <loc>https://www.picktime.com/business/coaching</loc>
+	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  <priority>0.80</priority>
+	</url>
+	<url>
+	  <loc>https://www.picktime.com/business/counseling</loc>
+	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  <priority>0.80</priority>
+	</url>
+	<url>
+	  <loc>https://www.picktime.com/business/sportitems-renting</loc>
+	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  <priority>0.80</priority>
+	</url>
+	<url>
+	  <loc>https://www.picktime.com/business/design-consultations</loc>
+	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  <priority>0.80</priority>
+	</url>
+	<url>
+	  <loc>https://www.picktime.com/business/spiritual-services</loc>
+	  <lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  <priority>0.80</priority>
+	</url>
+	<url>
+	  	<loc>https://www.picktime.com/business/household</loc>
+	  	<lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  	<priority>0.80</priority>
+	</url>
+	<url>
+  		<loc>https://www.picktime.com/business/driving-schools</loc>
+	  	<lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  	<priority>0.80</priority>
+	</url>
+<!--<url>
+  		<loc>https://www.picktime.com/business/escape-rooms</loc>
+	  	<lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  	<priority>0.80</priority>
+	</url>
+	<url>
+  		<loc>https://www.picktime.com/business/financial-services</loc>
+	  	<lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  	<priority>0.80</priority>
+	</url>
+	<url>
+  		<loc>https://www.picktime.com/business/interview</loc>
+	  	<lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  	<priority>0.80</priority>
+	</url>
+	<url>
+  		<loc>https://www.picktime.com/business/legal</loc>
+	  	<lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  	<priority>0.80</priority>
+	</url>
+	<url>
+  		<loc>https://www.picktime.com/business/colleges</loc>
+	  	<lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  	<priority>0.80</priority>
+	</url>
+	<url>
+  		<loc>https://www.picktime.com/business/universities</loc>
+	  	<lastmod>2021-05-19T15:44:13+00:00</lastmod>
+	  	<priority>0.80</priority>
+	</url> -->
 </urlset>

@@ -61,7 +61,7 @@
 					a number of nail technicians specified for different services in
 					your salon or you are the only expert. Everybody needs a flexible
 					assistant which kickstarts your day. We have designed an
-					appointment scheduling software just for your business.</p>
+					<a href="/" target="_blank">appointment scheduling software</a> just for your business.</p>
 			</div>
 			<div class="services_sec">
 				<p>Picktime is a free online appointment scheduling software for
@@ -100,7 +100,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Management:</h3>
-	     		<p>Manage your staff schedules like holidays, breaks etc., and keep them available online. Let your customers book their appointments with their favourite staff at the available time. Create win-win situations and happy workplace environments with our free Nail salon appointment scheduler.</p>
+	     		<p><a href="/features/manage-staff" target="_blank">Manage your staff schedules</a> like holidays, breaks etc., and keep them available online. Let your customers book their appointments with their favourite staff at the available time. Create win-win situations and happy workplace environments with our free Nail salon appointment scheduler.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Book now button:</h3>

@@ -54,7 +54,7 @@
 				<p>As a business owner, there’s nothing worse than missed telephone calls when you are busy with personal stuff. Equally there’s nothing worse than a call not being answered when you are trying to book a restaurant! Working closely with restaurants business, Picktime (specialized for many businesses) joined forces in order to improve the dining experience for both customers and staff.</p>
 			</div>
 			<div class="services_sec">
-				<p>We have developed a restaurant booking system that allows you to meet your customer's demand for booking 24/7 and gives you more control over managing your tables and staffs. No matter the size of your business, the cost savings and efficiencies you can drive with our restaurant booking system and it will ensure that you and your staff can focus solely on your diners. You have a restaurant and want to allow your clients to book tables online. This is in fact quite an easy task to solve and you can use our appointment and scheduling software to manage all your table bookings and staffs at one place.</p>
+				<p>We have developed a restaurant booking system that allows you to meet your customer's demand for booking 24/7 and gives you more control over managing your tables and staffs. No matter the size of your business, the cost savings and efficiencies you can drive with our restaurant booking system and it will ensure that you and your staff can focus solely on your diners. You have a restaurant and want to allow your clients to book tables online. This is in fact quite an easy task to solve and you can use our <a href="/" target="_blank">appointment and scheduling software</a> to manage all your table bookings and staffs at one place.</p>
 			</div>
 			<div class="services_sec">
 				<p>Picktime is a free web based online booking software for all types of restaurants. You don't have to install any software to access picktime. Picktime can be accessed through any devices(Desktop, laptop, tablet and smartphone) through viable internet connection. Picktime is not only to manage your table bookings, you can even manage your staffs. By using Picktime, you can reduce staffing requirements between each service. It is a two way solution that makes sure you never over or double book again, making sure that tables are managed and turned quickly and efficiently at busy times. Clients who have adopted this service have not only seen an increase in the level of customer service from their team but have benefited from increase in booking volume due a significant reduction in missed opportunities. If you have a group of restaurants we provide you with a point of contact for all restaurants maximising on staffing and consistency of customer service.</p>
@@ -94,7 +94,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Online Booking Calendar</h3>
-		        	<p>Real time availability is clearly identified and communicated to your customers, while your bookings get automatically added to your Picktime online calendar.</p>
+		        	<p>Real time availability is clearly identified and communicated to your customers, while your bookings get automatically added to your <a href="/features/online-calendar" target="_blank">Picktime online calendar.</a></p>
 				</div>
 				<div class="services_sec">
 					<h3>Customer and Booking Data</h3>

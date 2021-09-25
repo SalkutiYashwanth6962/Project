@@ -109,7 +109,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/personal-trainers">
+				<a href="/business/personal-trainers">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Personal Trainers" src="/webassets/2021/img/icons/industries/Personal-Trainer.svg" style="height: 60px;"></span></span>
@@ -150,7 +150,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/dentists">
+				<a href="/business/dentists">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"><img alt="Dentists" src="/webassets/2021/img/icons/industries/Dentist.svg" style="height: 60px;"></span></span>
@@ -189,7 +189,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/physiologists">
+				<a href="/business/physiologists">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Physiologists" src="/webassets/2021/img/icons/industries/Physiologist.svg" style="height: 50px;"></span></span>
@@ -204,7 +204,7 @@
 		</div>
 		<div class="row align-items-stretch">
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/psychologists">
+				<a href="/business/psychologists">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-autorenew"><img alt="Psychologists" src="/webassets/2021/img/icons/industries/Psychologist.svg" style="height: 60px;"></span></span>
@@ -230,7 +230,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/golf-classes">
+				<a href="/business/golf-classes">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"><img alt="Golf Classes" src="/webassets/2021/img/icons/industries/Golf-Classes.svg" style="height: 60px;"></span></span>
@@ -243,7 +243,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/sportitems-renting">
+				<a href="/business/sportitems-renting">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 					    	<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Sport Items Renting" src="/webassets/2021/img/icons/industries/Sport-items-Renting.svg" style="height: 60px;"></span></span>
@@ -256,7 +256,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/counseling">
+				<a href="/business/counseling">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Counseling" src="/webassets/2021/img/icons/industries/Counseling.svg" style="height: 50px;"></span></span>
@@ -269,7 +269,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/coaching">
+				<a href="/business/coaching">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Coaching" src="/webassets/2021/img/icons/industries/Coaching.svg" style="height: 50px;"></span></span>
@@ -297,7 +297,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/spiritual-services">
+				<a href="/business/spiritual-services">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Spiritual Services" src="/webassets/2021/img/icons/industries/Spiritual-services.svg" style="height: 55px;"></span></span>
@@ -310,7 +310,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/design-consultations">
+				<a href="/business/design-consultations">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"><img alt="Design Consultations" src="/webassets/2021/img/icons/industries/design-consultation.svg" style="height: 60px;"></span></span>
@@ -336,7 +336,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/household">
+				<a href="/business/household">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Household" src="/webassets/2021/img/icons/industries/Household.svg" style="height: 55px;"></span></span>
@@ -403,7 +403,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/driving-schools">
+				<a href="/business/driving-schools">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Driving Schools" src="/webassets/2021/img/icons/industries/Driving-Classes.svg" style="height: 60px;"></span></span>
@@ -444,7 +444,7 @@
 		</div>
 		<div class="row align-items-stretch">
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/escape-rooms">
+				<a href="/business/escape-rooms">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-autorenew"><img alt="Escape rooms" src="/webassets/2021/img/icons/industries/Escape-room.svg" style="height: 60px;"></span></span>
@@ -483,7 +483,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/interview">
+				<a href="/business/interview">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Interview Scheduling" src="/webassets/2021/img/icons/Interview_icon.svg" style="height: 60px;"></span></span>
@@ -496,7 +496,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/financial-services">
+				<a href="/business/financial-services">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Financial Services" src="/webassets/2021/img/icons/Financial-services_icon.svg" style="height: 60px;"></span></span>
@@ -524,7 +524,7 @@
 		</div>
 		<div class="row align-items-stretch">
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/scheduling-software/legal">
+				<a href="/business/legal">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-autorenew"><img alt="Legal" src="/webassets/2021/img/icons/legal-services_icon.svg" style="height: 60px;"></span></span>
@@ -576,7 +576,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/scheduling-software/universities">
+				<a href="/business/universities">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Universities" src="/webassets/2021/img/icons/industries/Universities.svg" style="height: 60px;"></span></span>
@@ -589,7 +589,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/scheduling-software/colleges">
+				<a href="/business/colleges">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
 							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Colleges" src="/webassets/2021/img/icons/industries/Collage.svg" style="height: 50px;"></span></span>
@@ -663,7 +663,7 @@
 						</div>
 						<div>
 							<h1>Parent meetings</h1>
-							<p  style="margin-bottom: 50px;">Usually, a couple of times a year parents(and often child as well) will have the opportunity to have meeting with the teacher and talk about the learning progress of their child.</p>
+							<p style="margin-bottom: 50px;">Usually, a couple of times a year parents(and often child as well) will have the opportunity to have meeting with the teacher and talk about the learning progress of their child.</p>
 						</div>
 					</div>
 				</a>

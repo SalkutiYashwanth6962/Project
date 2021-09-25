@@ -83,7 +83,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Automated SMS and email reminders:</h3>
-			       <p>The main cause for no shows and missed appointments is patients forgetting about their appointments. With our reminder system send SMS and emails at a preset time before the appointment time so that no appointments are missed and see a increase in your revenue.</p>
+			       <p>The main cause for no shows and missed appointments is patients forgetting about their appointments. With our <a href="/features/reminders" target="_blank">reminder system</a> send SMS and emails at a preset time before the appointment time so that no appointments are missed and see a increase in your revenue.</p>
 				</div>
 				<div class="services_sec">
 					 <h3>Manage staff:</h3>
@@ -95,7 +95,7 @@
 				</div>
 				<div class="services_sec">
 					<h3 class="service-desc-title">No more Waiting Time:</h3>
-		        	<p>Wait times have always been, and always will be, an issue because of poor scheduling. According to patients, the waiting period is usually the worst part of the doctor's visit. With our appointment booking system make Visits to the doctor a better experience for your patients.</p>
+		        	<p>Wait times have always been, and always will be, an issue because of poor scheduling. According to patients, the waiting period is usually the worst part of the doctor's visit. With our <a href="/" target="_blank">appointment booking</a> system make Visits to the doctor a better experience for your patients.</p>
 		     		<br>
 		     		<p>Have you been considering web based medical appointment scheduling software for your Medical practice? Picktime can provide those services and more for your practice!</p>
 		     	</div>

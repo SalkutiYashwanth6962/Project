@@ -64,8 +64,8 @@
 			<div class="services_sec">
 				<p>Picktime for counselors is a great way to manage your
 					appointments. It allows for the automated appointment reminders via
-					email or text message. Picktime is a free appointment scheduling
-					software that enables paperless procedure workflows, as well as
+					email or text message. Picktime is a <a href="/" target="_blank">free appointment scheduling
+					software</a> that enables paperless procedure workflows, as well as
 					online contact data storage. Streamline your client appointment
 					booking process with our secure appointment scheduling software for
 					counselors. As it is browser based, you and your clients can access
@@ -120,7 +120,7 @@
 					<h3>Group Sessions</h3>
 					<p>If you provide informative lectures or group sessions and
 						special events, you can manage class size through Picktime's
-						customizable Class Booking tool. Set the specifications and
+						customizable <a href="/features/class-bookings" target="_blank">Class Booking tool.</a> Set the specifications and
 						Picktime tracks the progress of class enrollments.</p>
 				</div>
 				<div class="services_sec">

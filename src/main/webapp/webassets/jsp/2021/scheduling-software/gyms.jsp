@@ -64,8 +64,8 @@
 					routine and easily put himself in spin class to get some variety.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime is a free online appointment scheduling and group
-					class booking software which makes your customer book their gym
+				<p>Picktime is a free online appointment scheduling and <a href="/" target="_blank">group
+					class booking software</a> which makes your customer book their gym
 					classes online. Customize your business page where customers can
 					book their appointments for their gym training classes. You can
 					display all your services like one on one training and group
@@ -113,7 +113,7 @@
 				<div class="services_sec">
 					<h3>Stay on time</h3>
 					<p>An easy to read schedule is critical to keeping an office on
-						track. With Picktime Appointment Calendar, you can view
+						track. With <a href="/features/online-calendar" target="_blank">Picktime Appointment Calendar,</a> you can view
 						appointments at a glance on screen or quickly print a report of
 						the day’s appointments. Share the scheduling information with more
 						than one computer and keep everyone up-to-date.</p>

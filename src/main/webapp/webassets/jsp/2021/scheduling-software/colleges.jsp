@@ -73,8 +73,8 @@
 					extremely helpful.</p>
 			</div>
 			<div class="services_sec">
-				<p>Our fully customizable, fully flexible appointment booking
-					widget embed seamlessly into your website, letting your students
+				<p>Our fully customizable, fully flexible <a href="/features/booking-widget" target="_blank">appointment booking
+					widget</a> embed seamlessly into your website, letting your students
 					browse your upcoming sessions and availability and make their
 					booking with you. Picktime online booking system has been built
 					from the ground up for colleges of all shapes and sizes. Whether
@@ -128,7 +128,7 @@
 						with Students for any Event</h3>
 					<p>Another useful tool, class booking has the ability to
 						coordinate meetings between large groups of people. The Picktime
-						online appointment software makes it easy for the administrator to
+						<a href="/" target="_blank">online appointment software</a> makes it easy for the administrator to
 						coordinate and manage schedules with a group of students easily
 						for any event.</p>
 				</div>

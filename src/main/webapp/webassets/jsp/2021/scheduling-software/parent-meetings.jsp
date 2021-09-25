@@ -45,7 +45,7 @@
 		<div class="container">
 			<img class="img-responsive" alt="Parent meetings Scheduling Software" src="/webassets/2021/img/industries/<%=request.getAttribute("pageName") != null ? request.getAttribute("pageName") : ""%>-min.png">
 			<div class="services_sec">
-				<p>Usually, a couple of times a year parents (and often child as well) will have the opportunity to have meeting with the teacher and talk about the learning progress of their child. Have you ever noticed just how stressful a parent-teacher meeting really is? Parents often automatically think that the teacher is out to get their children. The teacher almost always thinks that parents have it in for them. Well the children mostly are caught in the middle and think that everyone is out to get them. Reduce this stress by taking some time to begin organizing for a parent-teacher meeting. By preparing yourself beforehand, you can help ensure that everything goes a lot smoother for everyone involved. An easy solution to this problem is to set up a Parents Teacher meeting scheduling software such as Picktime.</p>
+				<p>Usually, a couple of times a year parents (and often child as well) will have the opportunity to have meeting with the teacher and talk about the learning progress of their child. Have you ever noticed just how stressful a parent-teacher meeting really is? Parents often automatically think that the teacher is out to get their children. The teacher almost always thinks that parents have it in for them. Well the children mostly are caught in the middle and think that everyone is out to get them. Reduce this stress by taking some time to begin organizing for a parent-teacher meeting. By preparing yourself beforehand, you can help ensure that everything goes a lot smoother for everyone involved. An easy solution to this problem is to set up a Parents Teacher <a href="/" target="_blank">meeting scheduling software</a> such as Picktime.</p>
 			</div>
 			<div class="services_sec">
 				<p>Scheduling meetings is very time taking and burdensome to administrative staff. So much of time and effort is put into making feasible schedules for parents. First letters and forms are sent home. Then students and parents need to be reminded to select a meeting time. Finally, the administration needs to work out conflicting schedules to satisfy everyone's busy itineraries. This often causes inconvenience and stress to the staff scheduling and planning up these meetings.</p>
@@ -87,7 +87,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Book Now Widget</h3>
-			         <p>Your Picktime account comes with Book Now Widget Embed code which you can place on your website to accept parent meeting bookings. Parents can book their meeting appointments without leaving your website. If you don't have a website, then picktime provides you a unique booking page which you can customize and add logo then it will be your business page to accept meeting bookings.</p>
+			         <p>Your Picktime account comes with <a href="/features/booking-widget" target="_blank">Book Now Widget</a> Embed code which you can place on your website to accept parent meeting bookings. Parents can book their meeting appointments without leaving your website. If you don't have a website, then picktime provides you a unique booking page which you can customize and add logo then it will be your business page to accept meeting bookings.</p>
 				</div>
 			</div>
 		</div>

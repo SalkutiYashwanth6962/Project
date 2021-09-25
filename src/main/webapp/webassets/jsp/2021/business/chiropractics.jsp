@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Chiropractic Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software for doctors, including appointment reminders, consultation fee payment, invoicing, metrics on practice efficiency, and clinic and staff management. ">
+    <meta name="description" content="This free online appointment scheduling software has got your back! Handle patients, take payments, generate invoices, and analyze your chiropractic business.">
     <meta name="keywords" content="chiropractors appointment scheduling software, chiropractic practice management software, chiropractic scheduling software, chiropractic appointment scheduling software, appointment scheduling software for chiropractors, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
 	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
 	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
@@ -22,11 +22,11 @@
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/chiropractics-cover.png" />
 	<meta property="og:image:alt" content="Chiropractic Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Free online appointment scheduling software for doctors, including appointment reminders, consultation fee payment, invoicing, metrics on practice efficiency, and clinic and staff management." />
+	<meta property="og:description" content="This free online appointment scheduling software has got your back! Handle patients, take payments, generate invoices, and analyze your chiropractic business." />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Chiropractic Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Free online appointment scheduling software for doctors, including appointment reminders, consultation fee payment, invoicing, metrics on practice efficiency, and clinic and staff management." />
+	<meta name="twitter:description" content="This free online appointment scheduling software has got your back! Handle patients, take payments, generate invoices, and analyze your chiropractic business." />
 	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/chiropractics-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>

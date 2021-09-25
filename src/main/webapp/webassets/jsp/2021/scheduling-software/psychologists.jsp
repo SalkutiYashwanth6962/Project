@@ -113,8 +113,8 @@
 					<p>You can easily manage, edit, create and cancel bookings from
 						your picktime calendar 24/7. This function will help you to
 						control your appointments at any time. You can even specify the
-						duration and the type of appointments you prefer to take. Group
-						bookings are ideal for classes or family sessions where more than
+						duration and the type of appointments you prefer to take. <a href="/features/class-bookings" target="_blank">Group
+						bookings</a> are ideal for classes or family sessions where more than
 						one client is attending. As it is a web-based appointment
 						scheduling software, you can access it from laptops, smartphones,
 						and tablets through the internet. Our Picktime appointment
@@ -140,8 +140,8 @@
 					<h3>Appointment Booking on your Website</h3>
 					<p>Your website can work for you in more ways than simply being
 						an online support for your clients. Your website can also cut down
-						on some of the administrative work and also act as an appointment
-						scheduling tool for your practice. Just place an embed code of
+						on some of the administrative work and also act as an <a href="/" target="_blank">appointment
+						scheduling tool</a> for your practice. Just place an embed code of
 						your appointment scheduling page on your website. Now your website
 						displays "Book Now" button on your website which allows your
 						patients to book their appointments from your website.</p>

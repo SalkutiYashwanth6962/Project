@@ -63,7 +63,7 @@
 					click. As Picktime is online salon appointment book, you and your
 					clients can easily access it through any device which is connected
 					to the internet. Picktime also allows you to manage your staffs and
-					experts and store customer database.</p>
+					experts and store <a href="/features/manage-customers" target="_blank">customer database.</a></p>
 			</div>
 			<div class="services_sec">
 				<p>Picktime helps you run your business as smooth as butter.
@@ -98,7 +98,7 @@
 						adding all your services and staff to your personalised booking
 						page. Let your staff manage their appointments on their own. You
 						don’t have to worry about double bookings as your salon’s calendar
-						is visible to customers and they can book appointments whenever
+						is visible to customers and they can<a href="/" target="_blank"> book appointments</a> whenever
 						they want. Dump all you excel sheets and appointments books and
 						get updated to a whole new way of scheduling appointments.</p>
 				</div>

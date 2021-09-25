@@ -52,7 +52,7 @@
 				<p>Have you ever noticed how many business events take place every week or every day? It can be business related workshops, training, conferences, networking, seminars and much more. If you are going to operate your own business events, then you probably need a user-friendly and easy to use booking system that will allow your future clients to find your company easily and make a booking.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime Online event scheduling software will definitely suit your needs! It allows you to create as many services as you need and multiple service providers. Your clients will only need to pick a date, choose a service, and time and confirm the booking. It is a free online appointment scheduler designed specifically for B2B events, workshops and meetings. It’s a fast, effective way for all participants to meet the right people and book appointments with each other.</p>
+				<p>Picktime Online event scheduling software will definitely suit your needs! It allows you to create as many services as you need and multiple service providers. Your clients will only need to pick a date, choose a service, and time and confirm the booking. It is a <a href="/" target="_blank">free online appointment scheduler</a> designed specifically for B2B events, workshops and meetings. It’s a fast, effective way for all participants to meet the right people and book appointments with each other.</p>
 			</div>
 			<div class="services_sec">
 				<p>Picktime is the solution for all your event scheduling and staff management issues. It is a great looking, professional interface to the booking system for your event business, organization or welfare. It can be accessed from any internet device with the browser (Desktops, Laptops, Tablets, Smartphones and even in Smart TVs). Picktime can also sync with your calendar, ensuring you never get double booked and allowing for each meeting that’s scheduled in Picktime to appear on your calendar.</p>
@@ -81,7 +81,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Clients Can Book From Your Website</h3>
-					<p>Using Picktime, clients can book their appointments directly from your website. You can embed a Picktime booking widget or button on your website, or add a booking button to your email so clients can easily request appointments based on your availability. By placing Book Now button on your website, your clients can book their slots 24/7 online.</p>
+					<p>Using Picktime, clients can book their appointments directly from your website. You can embed a <a href="/features/booking-widget" target="_blank">Picktime booking widget</a> or button on your website, or add a booking button to your email so clients can easily request appointments based on your availability. By placing Book Now button on your website, your clients can book their slots 24/7 online.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Reduce Volume of Appointment Calls and Increase Profits</h3>

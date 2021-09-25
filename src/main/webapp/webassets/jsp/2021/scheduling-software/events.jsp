@@ -51,7 +51,7 @@
 				<p>The special events industry has grown enormously in the past decade. Event planners can work from anywhere and at any time. Whether you are a large event planning business or solo entrepreneur, you have to be organized in Event planning business. Whether you're doing event planning for companies, charities or smaller local events your online presence is vital. Starting from managing booking schedules and task management you have to be organized to make your business more profitable.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime is a Free Appointment Scheduling Software & Event Management Platform for all business types and sizes. Picktime allows you to manage all your event appointment data in one place. Our online booking system and appointment booking software have been primarily designed to address the most complex business requirements. Picktime allows you to automate and customize the scheduling process for events, appointments, meetings and classes. If you are looking for an online booking software for events, activities, or training, we will provide your clients with a complete solution that will give them the ability to browse, select and book for your sessions within a real-time and securely that will take their user experience to the next level. Our online booking software is ideal for event management agencies. If you need a  highly flexible, feature-rich booking, and powerful software solution that will address your biggest challenges and help create opportunities, then Picktime is what you are looking for.</p>
+				<p>Picktime is a Free Appointment Scheduling Software & Event Management Platform for all business types and sizes. Picktime allows you to manage all your event appointment data in one place. Our online booking system and appointment booking software have been primarily designed to address the most complex business requirements. Picktime allows you to automate and customize the scheduling process for events, appointments, meetings and classes. If you are looking for an <a href="/" target="_blank">online booking software</a> for events, activities, or training, we will provide your clients with a complete solution that will give them the ability to browse, select and book for your sessions within a real-time and securely that will take their user experience to the next level. Our online booking software is ideal for event management agencies. If you need a  highly flexible, feature-rich booking, and powerful software solution that will address your biggest challenges and help create opportunities, then Picktime is what you are looking for.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -81,7 +81,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Automated Reminders</h3>
-					<p>Automated reminders and confirmations will reduce up to 70% of the back and forth discussions for scheduling an appointment, reduce the time your team spend on the phone by 40% as well as decrease no-shows percentage.</p>
+					<p><a href="/features/reminders" target="_blank">Automated reminders and confirmations</a> will reduce up to 70% of the back and forth discussions for scheduling an appointment, reduce the time your team spend on the phone by 40% as well as decrease no-shows percentage.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Avoid Double Booking</h3>

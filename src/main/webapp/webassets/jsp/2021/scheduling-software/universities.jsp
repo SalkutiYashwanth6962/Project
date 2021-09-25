@@ -52,7 +52,7 @@
 				<p>University life is so busy both for staff and students and good online scheduling software like Picktime can become a great relief for everybody. Handling applicant interviews, meeting with students, event management and examination timetabling are hectic jobs for university management people. With so many university activities, it is important for students to know when they can discuss their academic paper, thesis or other things. As a staff, you may need to let your students obtain your calendar and book an appointment with you so as to avoid constant calls, emails and making notes.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime Online Appointment Scheduler dramatically simplifies all kinds of scheduling tasks for Universities. By providing your staff and students with sturdy yet easy to use web scheduling tools, Picktime eliminates many phone calls otherwise needed to register students for tests, interviews, counselor sessions, workshops, and classes. Picktime is a secure browser-based online scheduling application. It does not require anything from your IT department. No new software is needed, and no additional hardware is required. Picktime can be accessed from any computer connected to the Internet, both off-campus and on-campus. It is fast, reliable, and available to you and your students 24 hours a day, 7 days a week.</p>
+				<p>Picktime <a href="/" target="_blank">Online Appointment Scheduler</a> dramatically simplifies all kinds of scheduling tasks for Universities. By providing your staff and students with sturdy yet easy to use web scheduling tools, Picktime eliminates many phone calls otherwise needed to register students for tests, interviews, counselor sessions, workshops, and classes. Picktime is a secure browser-based online scheduling application. It does not require anything from your IT department. No new software is needed, and no additional hardware is required. Picktime can be accessed from any computer connected to the Internet, both off-campus and on-campus. It is fast, reliable, and available to you and your students 24 hours a day, 7 days a week.</p>
 			</div>
 			<div class="services_sec">
 				<p>Picktime is a free online scheduling software which can be used as an internal system, allowing only your authorized staff members to access schedules, registrations and students record or it can be opened up for students, so that they can self-register for certain academic tasks, such as exams or seminars. Better yet, Picktime can be used in two ways. One to provide restricted access to professor schedules only for professors themselves and second to make the exam and test registrations available for students, professors, and administrative staff.</p>
@@ -85,7 +85,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Group appointments</h3>
-		         	<p>Picktime simplifies group event scheduling for organizers and students. It is used for scheduling appointments with multiple students at a time, perfect for workshops, new student orientations, tutoring sessions, campus tours, testing center exams, etc.</p>
+		         	<p>Picktime simplifies <a href="/features/class-bookings" target="_blank">group event scheduling</a> for organizers and students. It is used for scheduling appointments with multiple students at a time, perfect for workshops, new student orientations, tutoring sessions, campus tours, testing center exams, etc.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Stay Organised</h3>

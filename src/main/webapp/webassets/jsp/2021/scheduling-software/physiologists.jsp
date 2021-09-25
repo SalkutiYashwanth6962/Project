@@ -120,7 +120,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Security and confidentiality of all client data</h3>
-					<p>The security of our patient management software is without
+					<p>The security of our <a href="/" target="_blank">patient management software</a> is without
 						any doubt of highest standards because we never display your
 						patient's details to anyone except you. It does not replace user's
 						own security procedures but enhances Picktime data security by
@@ -135,7 +135,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Reduce No shows</h3>
-					<p>By sending automatic reminders through email and SMS help
+					<p>By <a href="/features/reminders" target="_blank">sending automatic reminders</a> through email and SMS help
 						your patients to keep their appointments and increase your
 						revenue. It's a proven strategy to reduce no-shows by up to 70%.
 						Reminding your patients involves them actively in the decision to

@@ -75,7 +75,7 @@
 				<h2>Benefits of Picktime for Household Services</h2>
 				<div class="services_sec">
 					<h3>Don’t Lose Business When You’re Off The Clock</h3>
-		        	<p>Sometimes clients have work schedules that extend beyond your business hours. They want to get in touch with you to schedule appointments. With our appointment scheduling software, you don't have to attend appointment calls at irregular times. If you have clients who want to schedule when you’re not available for phone calls, they’ll be able to book 24/7 right from your website. They’ll only be able to book within the hours you’ve set up, so you won’t have to take appointments when you don’t want them.</p>
+		        	<p>Sometimes clients have work schedules that extend beyond your business hours. They want to get in touch with you to <a href="/features/appointment-scheduling" target="_blank">schedule appointments.</a> With our appointment scheduling software, you don't have to attend appointment calls at irregular times. If you have clients who want to schedule when you’re not available for phone calls, they’ll be able to book 24/7 right from your website. They’ll only be able to book within the hours you’ve set up, so you won’t have to take appointments when you don’t want them.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Need a Client's Address? We've Got It</h3>
@@ -97,7 +97,7 @@
 					<h3>Automated Appointment Reminders</h3>
 			        <p>Picktime improves your profits through efficient scheduling. Remind your clients of booked services. Allot cancelled services for new bookings.</p>
 				    <br>
-				    <p>Picktime understands that your time is valuable and has developed a Scheduling Software system for busy Home Inspectors to help reduce the load of administrative work, increase communication and organization within the business, and assist in making your business a more efficient and profitable place.</p>
+				    <p>Picktime understands that your time is valuable and has developed a <a href="/" target="_blank">Scheduling Software system</a> for busy Home Inspectors to help reduce the load of administrative work, increase communication and organization within the business, and assist in making your business a more efficient and profitable place.</p>
 				</div>
 			</div>
 		</div>

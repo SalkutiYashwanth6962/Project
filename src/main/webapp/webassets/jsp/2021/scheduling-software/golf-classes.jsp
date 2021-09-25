@@ -57,7 +57,7 @@
 					fine tune our software to perfection.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime is a easy-to-use online booking system for Golf
+				<p>Picktime is a easy-to-use <a href="/" target="_blank">online booking system</a> for Golf
 					classes to manage appointments and bookings in the most effective
 					way. Have your calendar fully booked without your phone ringing
 					once. What we can promise you with Picktime is that we have taken
@@ -98,7 +98,7 @@
 					<p>Picktime connects you with each of your customer's personal
 						profiles, providing you with useful information such as personal
 						details, booking details etc. Every student has his own personal
-						file within your online calendar, where you can manage their
+						file within your <a href="/features/online-calendar" target="_blank">online calendar,</a> where you can manage their
 						scheduling easily and they will get notified for their current
 						appointments.</p>
 				</div>

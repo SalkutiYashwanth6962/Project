@@ -20,7 +20,7 @@
 	<meta property="og:title" content="Real Estate Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/real-state-cover.png" />
-	<meta property="og:image:alt" content="Doctor Appointment Scheduling Software" />
+	<meta property="og:image:alt" content="Real Estate Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
 	<meta property="og:description" content="Free online appointment scheduling software for real estate agencies. Includes payments, invoicing, reminders, business reporting, and team management tools." />
     <!-- for Twitter -->          

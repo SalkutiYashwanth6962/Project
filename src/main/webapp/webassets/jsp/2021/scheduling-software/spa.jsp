@@ -51,7 +51,7 @@
 				<p>Maintaining a spa industry is not a piece of cake. The Spa Industry has risen so much in the past 15 years that it has become a necessity for most of the people. With increasing stress levels and extremely busy daily lives, people tend to see spa’s as their only getaways for a relaxing hour or two. A good massage or treatment in your spa might just brighten the mood of your customer. With challenging  tasks in hand, interfering customers and constant telephone ringing can sidetrack your concentration resulting in poor service and unhappy customers. Catering to all your customers and Managing appointments does become crazier as your customer base keeps growing. Another added problem is letting your customer choose their favourite staff member for the service they need.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime is a free online Spa appointment booking software that allows you to manage your team, book appointments for your customers and also lets your customers book their appointments online 24X7. Picktime has completely changed the way spas schedule and manage their appointments. It is so easily accessible that customers can book appointments on their own. With our spa scheduling software, let customers make bookings with their favourite therapist and much more. Picktime is designed in such a way that it is easily accessible from any part of the world. You just need an internet connection and a mobile or a laptop. Unless a spa is open and staffed 24 hours a day, there is a limited opportunity for individuals to book their appointments. Break such time related barriers as your salon will be virtually available to take appointments through our spa booking software.</p>
+				<p>Picktime is a free online Spa appointment booking software that allows you to manage your team, book appointments for your customers and also lets your customers book their <a href="/features/booking-page" target="_blank">appointments online 24X7.</a> Picktime has completely changed the way spas schedule and manage their appointments. It is so easily accessible that customers can book appointments on their own. With our spa scheduling software, let customers make bookings with their favourite therapist and much more. Picktime is designed in such a way that it is easily accessible from any part of the world. You just need an internet connection and a mobile or a laptop. Unless a spa is open and staffed 24 hours a day, there is a limited opportunity for individuals to book their appointments. Break such time related barriers as your salon will be virtually available to take appointments through our spa booking software.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -94,7 +94,7 @@
 					<h3>Staff Scheduling</h3>
 			           <p>Picktime can manage your staff schedules while accounting for flexible scheduling to keep your staffs happy and organized.</p>
 					<br>
-					<p>Our spa booking software is simple and free to use. Register now and up your spa management game.</p>
+					<p>Our spa <a href="/" target="_blank">booking software</a> is simple and free to use. Register now and up your spa management game.</p>
 				</div>
 			</div>
 		</div>

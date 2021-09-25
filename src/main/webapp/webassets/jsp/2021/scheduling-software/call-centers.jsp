@@ -51,7 +51,7 @@
 				<p>When it comes to the level of effort it takes to manage your hourly staff correctly, planning and managing schedules for call center staff is probably the top of the list. Having quality support staff is astonishingly important to the success of a company and making sure that you always have enough staff scheduled to handle customer calls is one of the main aspects of scheduling in this industry. What makes organizing schedules for call centers especially hard is that most businesses need to have a call center personnel available 24 hours a day, seven days a week. Not having people scheduled correctly can lead to a lot of problems for your company. When you aren’t able to provide proper support for your customers, you lose business. When customers are not able to get their questions answered in a timely manner, they become frustrated and irritated.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime online scheduling software is the one stop answer to your call center problems. Customer recommendations and requests have driven the design of the application, so it meets your needs. The interface is simple and straightforward so your staffs can get in, set an appointment, and get onto the next call. This online scheduling software allows easy access for your clients or your staff to schedule time with them. And Picktime sends email or text reminders so that appointments aren’t missed. This easy form of communication keeps everyone informed. Picktime is a free online appointment scheduling software which eliminates the back and forth of old school sales scheduling so you can get back to business.</p>
+				<p>Picktime <a href="/" target="_blank">online scheduling software</a> is the one stop answer to your call center problems. Customer recommendations and requests have driven the design of the application, so it meets your needs. The interface is simple and straightforward so your staffs can get in, set an appointment, and get onto the next call. This online scheduling software allows easy access for your clients or your staff to schedule time with them. And Picktime sends email or text reminders so that appointments aren’t missed. This easy form of communication keeps everyone informed. Picktime is a free online appointment scheduling software which eliminates the back and forth of old school sales scheduling so you can get back to business.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -92,7 +92,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Manage Your Bookings and staffs</h3>
-		        	<p>Picktime allows you to manage bookings across multiple teams and organizational structures. Manage all your appointments with our online calendar. Know how occupied your staff is with a glance at your calendar.</p>
+		        	<p>Picktime allows you to <a href="/features/manage-staff" target="_blank">manage bookings</a> across multiple teams and organizational structures. Manage all your appointments with our online calendar. Know how occupied your staff is with a glance at your calendar.</p>
 				</div>
 			</div>
 		</div>

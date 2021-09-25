@@ -48,7 +48,7 @@
 				<p>Why would a law practice be interested in an online booking system? Appointments with clients, opposing counsel, and colleagues are the lifeblood of your practice. It can also be very tedious. That's why we recommend a powerful online booking system for your legal firm. Your online booking system should allow your potential clients to choose the day and time that is right for them (and that works for you too, of course) and also, optionally, choose which attorney in your practice is available for them to meet.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime is the best free appointment management for law firms and legal services. Be prepared to be blown away by how much Picktime is giving away for free. Naturally, as most legal appointment scheduling softwares, Picktime helps you with managing appointments, managing your juniors, finding new clients and maintain relationships with existing ones. Picktime lets you schedule appointments and, because your time is so valuable, our online calendars come with flexible access rights, so one designated office manager could be managing schedules for multiple lawyers. You can specify different hourly rates for different lawyers or paralegals or job types inside Picktime. Tasks come with time tracking and reports too.</p>
+				<p>Picktime is the best <a href="/" target="_blank">free appointment management</a> for law firms and legal services. Be prepared to be blown away by how much Picktime is giving away for free. Naturally, as most legal appointment scheduling softwares, Picktime helps you with managing appointments, managing your juniors, finding new clients and maintain relationships with existing ones. Picktime lets you schedule appointments and, because your time is so valuable, our online calendars come with flexible access rights, so one designated office manager could be managing schedules for multiple lawyers. You can specify different hourly rates for different lawyers or paralegals or job types inside Picktime. Tasks come with time tracking and reports too.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -84,7 +84,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Stay on time</h3>
-			        <p>An easy to read appointment schedule is critical to keeping an office on track. With Picktime Appointment scheduler, you can view appointment schedules at a glance on screen or quickly print a report of the day’s appointments. Sharing the scheduling information with more than one computer keeps all staff updated.</p>
+			        <p>An easy to read appointment schedule is critical to keeping an office on track. With Picktime Appointment scheduler, you can view <a href="/features/dashboard" target="_blank">appointment schedules</a> at a glance on screen or quickly print a report of the day’s appointments. Sharing the scheduling information with more than one computer keeps all staff updated.</p>
 				</div>
 			</div>
 		</div>

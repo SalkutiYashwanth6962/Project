@@ -53,7 +53,7 @@
 				<p>Picktime helps financial organizations to save their own time as well as their customers time. Managing appointments with customers is one of the key priorities in any bank, insurance company or accountancy firm. In order to plan a meeting accurately, the receptionist has to consider the customer's schedule as well as the working hours of the financial service provider, but in a company with dozens of staff members, it can become tedious to handle. As a result, companies need to hire several receptionists when we can offer a better and more efficient solution.</p>
      		</div>
 			<div class="services_sec">
-				<p>Picktime is a free online appointment scheduling for all financial services where you can manage your appointment schedules and staff tasks. With Picktime, stay personally connected with customers. Be compliant while eliminating the hassle of scheduling customer meetings. Letting your customers know you are available when they want to meet allows you to stay personally connected and increases loyalty. With Picktime online appointment scheduling software, eliminate the back and forth requirement to schedule meetings. It can be accessed from anywhere and anytime as it is browser based appointment software.</p>
+				<p>Picktime is a <a href="/" target="_blank">free online appointment scheduling</a> for all financial services where you can manage your appointment schedules and staff tasks. With Picktime, stay personally connected with customers. Be compliant while eliminating the hassle of scheduling customer meetings. Letting your customers know you are available when they want to meet allows you to stay personally connected and increases loyalty. With Picktime online appointment scheduling software, eliminate the back and forth requirement to schedule meetings. It can be accessed from anywhere and anytime as it is browser based appointment software.</p>
 			</div>
 			<div class="key_features">
 				<h2>Key Features</h2>
@@ -86,7 +86,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Website Integration</h3>
-		            <p>Grow your client list while you sleep. Add a Get Picktime Booking button to your existing website and make your customers book their appointments hassle free.</p>
+		            <p>Grow your client list while you sleep. Add a Get <a href="/features/booking-widget" target="_blank">Picktime Booking button</a> to your existing website and make your customers book their appointments hassle free.</p>
 				</div>
 				<div class="services_sec">
 					<h3 class="service-desc-title">Improve Productivity</h3>

@@ -51,7 +51,7 @@
 				<p>A career as an attorney is an extraordinary calling. However, becoming an attorney is an enormous undertaking in terms of time commitment and financial investment. They are autonomous and have the ability to make their own hours, set their own fees and choose their own clients and practice areas. Millions of people search for attorney and lawyer-related keywords on Google every month, so it should come as no surprise that your prospective clients are online, looking for you. You’ve just gotta find a way to be there when they’re ready to pull the trigger and hire an attorney. There are countless strategies, online lawyer and legal case management softwares, but nothing like picktime.</p>
 			</div>
 			<div class="services_sec">
-				<p>Picktime is an online appointment booking system that is designed to make your life stress free by creating a platform through which your clients can schedule their
+				<p>Picktime is an <a href="/" target="_blank">online appointment booking system</a> that is designed to make your life stress free by creating a platform through which your clients can schedule their
 				appointments directly. It, not only schedules your clients, but also helps you manage your schedules. Allocate particular services to specified staff with respect to their designations and create a well functioning work environment. If your office
 				has more than one lawyer or attorney working, add them into your picktime account and let your clients see who is available at what time. Make time for people who really long you.</p>
 			</div>
@@ -89,7 +89,7 @@
 				</div>
 				<div class="services_sec">
 					<h3>Recurring appointments</h3>
-		          	<p>Don’t worry about manually writing down repeated appointments, with Picktime you can automatically use the recurring appointment option book all your appointments with a click.</p>
+		          	<p>Don’t worry about manually writing down repeated appointments, with Picktime you can automatically use the <a href="/features/recurring-appointments" target="_blank">recurring appointment</a> option book all your appointments with a click.</p>
 				</div>
 				<div class="services_sec">
 					<h3>No more no shows</h3>

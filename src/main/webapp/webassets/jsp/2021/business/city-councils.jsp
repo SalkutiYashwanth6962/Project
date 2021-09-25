@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>City Councils Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software designed to help doctors with appointment reminders, consultation fee payment, invoicing, clinic and staff management. ">
+    <meta name="description" content="A free appointment scheduling software for city councils with virtual meetings, appointment reminders, fee payment & staff management to maximize the people's satisfaction.">
     <meta name="keywords" content="city councils scheduling software, City council appointment booking software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, 
     free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, 
     online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, 
@@ -22,11 +22,11 @@
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/city-councils-cover.png" />
 	<meta property="og:image:alt" content="City Councils Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Free online appointment scheduling software designed to help doctors with appointment reminders, consultation fee payment, invoicing, clinic and staff management. " />
+	<meta property="og:description" content="A free appointment scheduling software for city councils with virtual meetings, appointment reminders, fee payment & staff management to maximize the people's satisfaction." />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="City Councils Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Free online appointment scheduling software designed to help doctors with appointment reminders, consultation fee payment, invoicing, clinic and staff management. " />
+	<meta name="twitter:description" content="A free appointment scheduling software for city councils with virtual meetings, appointment reminders, fee payment & staff management to maximize the people's satisfaction." />
 	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/city-councils-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>
@@ -87,7 +87,7 @@
 	<div class="sec-four">
 		<div class="container">
 			<div class="col-md-6 hidden-xs hidden-sm">
-		   		<img alt="schedule virtual meetings" src="/webassets/2021/img/business/gym-virtual-fitness-trainning.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+		   		<img alt="schedule virtual meetings" src="/webassets/2021/img/business/gym-virtual-fitness-trainning.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100" style="margin-top: 65px;">
 			</div>
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ONLINE MEETING</h3>
