@@ -59,6 +59,7 @@
 							<li>2 Locations</li>
 							<li>2 Classes</li>
 							<li>Unlimited Appointments</li>
+							<li>Import Contacts</li>
 							<li>Email Notifications</li>
 							<li>Online Booking Page</li>
 							<li>Payments with PayPal</li>
@@ -73,20 +74,20 @@
 					<div class="card-body">
 						<h3 class="card-title text-uppercase">Starter</h3>
 						<h4 class="card-price">$9.99<span class="period">/mo</span></h4>
-						<div class="card-bold-text">Everything you get with Free</div>
 						<ul>
 							<li>3 Team Members</li>
 							<li>3 Resources</li>
 							<li>2 Locations</li>
 							<li>5 Classes</li>
 							<li>Unlimited Appointments</li>
+							<li>Import Contacts</li>
 							<li>Email Notifications &amp; Reminders</li>
 							<li>Payments with PayPal &amp; Stripe*</li>
 							<li>Recurring Bookings</li>
 							<li>Two way sync</li>
 							<li>Automatic Timezone Conversion</li>
 							<li>Attendance</li>
-							<li>SMS Notifications &amp; Reminders</li>
+							<li>SMS Notifications &amp; Reminders**</li>
 							<li>Over 15+ powerful Integrations</li>
 						</ul>
 						<!--  <a class="btn btn-block text-uppercase">UPGRADE</a> -->
@@ -104,7 +105,6 @@
 							<li>20 Resources</li>
 							<li>Unlimited Locations</li>
 							<li>Unlimited Classes</li>
-							<li>Unlimited Appointments</li>
 							<li>Customizable Emails</li>
 							<li>Booking Page 20+ Languages</li>
 							<li>Captcha Verification Online Booking</li>
@@ -119,6 +119,13 @@
 				</div>
 			</div>
 		</div>
+		
+		<div  class="for-more">
+			<div class="for-more-title">For More Team Members & Resources <a href="https://support.picktime.com/form" target="_blank" class="for-support">Contact Our Support</a></div>
+		</div>
+		<!-- <div class="for-link">
+			<a href="https://support.picktime.com/form" class="for-support">Contact Our Support</a>
+		</div> -->
 		<h3 class="comparison">Features Comparison</h3>
 		<table  style="width:100%">
 			<tr>
@@ -196,13 +203,13 @@
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
-				<td>SMS Notifications</td>
+				<td>SMS Notifications**</td>
 				<td>-</td>
 				<td><i class="icon-check-mark right-mark"></i></td>
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
-				<td>SMS Reminders</td>
+				<td>SMS Reminders**</td>
 				<td>-</td>
 				<td><i class="icon-check-mark right-mark"></i></td>
 				<td><i class="icon-check-mark right-mark"></i></td>
@@ -228,6 +235,12 @@
 			<tr>
 				<td>Merge Contacts</td>
 				<td>-</td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+			</tr>
+			<tr>
+				<td>Import Contacts</td>
+				<td><i class="icon-check-mark right-mark"></i></td>
 				<td><i class="icon-check-mark right-mark"></i></td>
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
@@ -439,6 +452,7 @@
 		<div class="note-sec">
 			<div>Note:</div> 
 			<div class="note">*Coming soon. Our team is working on bringing these features live as soon as possible.</div>
+			<div class="note">**Check our <a href="https://support.picktime.com/article/show/139175-sms-fair-usage-policy" target="_blank" style="color: #333; text-decoration: underline;">SMS fair usage policy</a></div>
 		 </div>
 	</div>
 	<jsp:include page="scheduling-software/website-new-footer.jsp"/> 
