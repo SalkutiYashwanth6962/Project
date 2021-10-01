@@ -123,9 +123,12 @@
 		<div  class="for-more">
 			<div class="for-more-title">For More Team Members & Resources <a href="https://support.picktime.com/form" target="_blank" class="for-support">Contact Our Support</a></div>
 		</div>
-		<!-- <div class="for-link">
-			<a href="https://support.picktime.com/form" class="for-support">Contact Our Support</a>
-		</div> -->
+	
+		<div class="note-sec">
+			<div>Note:</div> 
+			<div class="note">*Coming soon. Our team is working on bringing these features live as soon as possible.</div>
+			<div class="note">**Check our <a href="https://support.picktime.com/article/show/139175-sms-policy" target="_blank" style="color: gray; text-decoration: underline;">SMS policy</a></div>
+		 </div>
 		<h3 class="comparison">Features Comparison</h3>
 		<table  style="width:100%">
 			<tr>
@@ -449,11 +452,6 @@
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 		</table>
-		<div class="note-sec">
-			<div>Note:</div> 
-			<div class="note">*Coming soon. Our team is working on bringing these features live as soon as possible.</div>
-			<div class="note">**Check our <a href="https://support.picktime.com/article/show/139175-sms-fair-usage-policy" target="_blank" style="color: #333; text-decoration: underline;">SMS fair usage policy</a></div>
-		 </div>
 	</div>
 	<jsp:include page="scheduling-software/website-new-footer.jsp"/> 
 </body>

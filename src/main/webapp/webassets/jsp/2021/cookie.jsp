@@ -91,6 +91,9 @@
 			margin-bottom: 0;
 			color: #777;
 		}
+		.cookies h4 a:hover{
+			color: #777;
+		}
 		.cookies ul {
 			font-size: 14px;
 			line-height: 1.6;
@@ -227,6 +230,8 @@
 						  		</div>
 							</div>
 						</div> 
+						
+						
 						<div class="panel-group" id="accordion">
 							<div class="panel panel-default">
 							    <div class="panel-heading">
@@ -236,11 +241,22 @@
 							    </div>
 							    <div id="Interaction" class="panel-collapse collapse">
 						      		<div class="panel-body">
-							       		<p>Place of processing: United States – Privacy Policy; Ireland – Privacy Policy.</p>
 							       		<p>The interaction and information obtained through www.picktime.com are always subject to the User’s privacy settings for each social network.</p>
 							       		<p>This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.</p>
 							       		<p>It is recommended to log out from the respective services in order to make sure that the processed data on www.picktime.com isn’t being connected back to the User’s profile.</p>
-							       		<h4>PayPal button and widgets (PayPal Inc.)</h4>
+									</div>
+						   		</div>
+							</div>
+						</div>
+						<div class="panel-group" id="accordion">
+							<div class="panel panel-default">
+							    <div class="panel-heading">
+						       		<h4 class="panel-title">
+						         		<a data-toggle="collapse" data-parent="#accordion" href="#paypal">PayPal button and widgets (PayPal Inc.)</a>
+							       </h4>
+							    </div>
+							    <div id="paypal" class="panel-collapse collapse">
+						      		<div class="panel-body">
 							       		<p>The PayPal button and widgets are services allowing interaction with the PayPal platform provided by PayPal Inc.</p>
 							       		<p>Personal Data processed: Tracker and Usage Data.</p>
 							       		<p>Place of processing: See the PayPal privacy policy – <a target="_blank" href="https://www.paypal.com/webapps/mpp/ua/privacy-full">Privacy Policy.</a> </p>
@@ -248,6 +264,8 @@
 						   		</div>
 							</div>
 						</div> 
+						
+						
 						<h4>Measurement</h4>
 						<p>www.picktime.com uses Trackers to measure traffic and analyze User behavior with the goal of improving the Service.</p>
 						<div class="panel-group" id="accordion">
