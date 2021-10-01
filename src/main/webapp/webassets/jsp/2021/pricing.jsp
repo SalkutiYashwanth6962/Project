@@ -218,18 +218,6 @@
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
-				<td>Customizable Emails</td>
-				<td>-</td>
-				<td>-</td>
-				<td><i class="icon-check-mark right-mark"></i></td>
-			</tr>
-			<tr>
-				<td>Online Booking Page in 20+ Languages</td>
-				<td>-</td>
-				<td>-</td>
-				<td><i class="icon-check-mark right-mark"></i></td>
-			</tr>
-			<tr>
 				<td>Booking Additional Fields</td>
 				<td>-</td>
 				<td><i class="icon-check-mark right-mark"></i></td>
@@ -248,10 +236,22 @@
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
-				<td>Booking Commission</td>
-				<td><i class="icon-check-mark right-mark"></i></td>
-				<td><i class="icon-check-mark right-mark"></i></td>
+				<td>Zero Booking Commission</td>
 				<td>-</td>
+				<td>-</td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+			</tr>
+			<tr>
+				<td>Customizable Emails</td>
+				<td>-</td>
+				<td>-</td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+			</tr>
+			<tr>
+				<td>Online Booking Page in 20+ Languages</td>
+				<td>-</td>
+				<td>-</td>
+				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
 				<td>Verify Captcha</td>
@@ -279,12 +279,6 @@
 			</tr>
 			<tr>
 				<td>Discounts*</td>
-				<td>-</td>
-				<td>-</td>
-				<td><i class="icon-check-mark right-mark"></i></td>
-			</tr>
-			<tr>
-				<td>Over 100+ integrations with Zapier*</td>
 				<td>-</td>
 				<td>-</td>
 				<td><i class="icon-check-mark right-mark"></i></td>
@@ -449,6 +443,12 @@
 				<td>Google Analytics</td>
 				<td><i class="icon-check-mark right-mark"></i></td>
 				<td><i class="icon-check-mark right-mark"></i></td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+			</tr>
+			<tr>
+				<td>Over 100+ integrations with Zapier*</td>
+				<td>-</td>
+				<td>-</td>
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 		</table>
