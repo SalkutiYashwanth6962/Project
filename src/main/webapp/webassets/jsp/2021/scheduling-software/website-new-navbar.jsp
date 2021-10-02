@@ -1,3 +1,13 @@
+<%
+Boolean loggedInUser = false;
+String userKey = (String) request.getSession().getAttribute("userKey");
+String accountKey = (String) request.getSession().getAttribute("accountKey");
+if(userKey != null && accountKey != null)
+{
+	loggedInUser = true;
+}
+%>
+
 	<section id="navigation">
 		<nav class="navbar navbar-default navbar-fixed-top nav-white">
 			<div class="container">
@@ -14,8 +24,12 @@
 						<li><a href="/features">Features</a></li>
 						<li><a href="/integrations">Integrations</a></li>
 						<!-- <li><a href="/pricing">Pricing</a></li> -->
+						<%if(loggedInUser) {%>
+						<li style="height: 100px;"><a class="btn dashbaordbtn signup-btn-banner" href="/app">DASHBOARD</a></li>
+						<%}else {%>
 						<li><a href="/login">Login</a></li>
 						<li style="height: 100px;"><a class="btn signup-btn-banner" href="/register">SIGNUP</a></li>
+						<%}%>
 					</ul>
 				</div>
 			</div>
