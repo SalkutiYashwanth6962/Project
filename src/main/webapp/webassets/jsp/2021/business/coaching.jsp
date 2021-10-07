@@ -87,7 +87,7 @@
 	<div class="sec-four">
 		<div class="container">
 			<div class="col-md-6 hidden-xs hidden-sm">
-		   		<img alt="manage coaching class" src="/webassets/2021/img/business/gym-virtual-fitness-trainning.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100" style="margin-top: 65px;">
+		   		<img alt="manage coaching class" src="/webassets/2021/img/business/coaching-class-management.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100" style="margin-top: 65px;">
 			</div>
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">COACHING CLASS MANAGEMENT</h3>
@@ -95,7 +95,7 @@
             	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Create different classes based on time slots and add your students. Manage your student information, online & offline classes, accept fee payment and control class capacity using an integrated class management solution.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
-	   			<img alt="manage coaching class" src="/webassets/2021/img/business/gym-virtual-fitness-trainning.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+	   			<img alt="manage coaching class" src="/webassets/2021/img/business/coaching-class-management.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 			</div>
 		</div>
 	</div>

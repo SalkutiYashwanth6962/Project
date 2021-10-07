@@ -3810,7 +3810,9 @@ height: 80px;
   width: 100%;
   padding: 0px 50px;
 }
-
+.sec-five .p-top {
+  padding-top: 110px;
+}
 .sec-five  .extra-small{
   width: 100%;
   padding: 0px 80px;
@@ -3897,6 +3899,9 @@ height: 80px;
     padding: 20px 0px;
     background: #EFF1F7;
 	}
+	.sec-five .p-top {
+     padding-top: 10px;
+}
   
 }
 

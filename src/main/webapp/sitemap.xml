@@ -634,7 +634,7 @@
 	  	<lastmod>2021-05-19T15:44:13+00:00</lastmod>
 	  	<priority>0.80</priority>
 	</url>
-<!--<url>
+	<url>
   		<loc>https://www.picktime.com/business/escape-rooms</loc>
 	  	<lastmod>2021-05-19T15:44:13+00:00</lastmod>
 	  	<priority>0.80</priority>
@@ -663,5 +663,5 @@
   		<loc>https://www.picktime.com/business/universities</loc>
 	  	<lastmod>2021-05-19T15:44:13+00:00</lastmod>
 	  	<priority>0.80</priority>
-	</url> -->
+	</url>
 </urlset>
