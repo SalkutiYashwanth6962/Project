@@ -25,7 +25,7 @@ if(userKey != null && accountKey != null)
 						<li><a href="/integrations">Integrations</a></li>
 						<!-- <li><a href="/pricing">Pricing</a></li> -->
 						<%if(loggedInUser) {%>
-						<li style="height: 100px;"><a class="btn dashbaordbtn signup-btn-banner" href="/app">DASHBOARD</a></li>
+						<li><a href="/app" id="goto-dashboard">Go to Dashboard</a></li>
 						<%}else {%>
 						<li><a href="/login">Login</a></li>
 						<li style="height: 100px;"><a class="btn signup-btn-banner" href="/register">SIGNUP</a></li>

@@ -54,7 +54,13 @@ a:hover {
   font-weight: bold;
   border: 2px solid rgb(240 242 248 / 0%);
 }
-
+#goto-dashboard{
+  color: #8a2be2 !important;
+  height: 70px;
+}
+#goto-dashboard:hover{
+  text-decoration: underline;
+}
 .navbar-nav .signup-btn-banner {
   color: #fff !important;
   border: 2px solid #8b22e2;
@@ -74,7 +80,6 @@ a:hover {
   background: #9c48e2 !important;
   border-radius: 27px;
 }
-
 .navbar-nav li a:hover {
   /* background: F0F2F8 !important;  */
   /* border: 2px solid #8B22E2; */
