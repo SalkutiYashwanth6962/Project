@@ -80,7 +80,7 @@
 							<li>2 Locations</li>
 							<li>5 Classes</li>
 							<li>Unlimited Appointments</li>
-							<li>Import Contacts</li>
+							<li>Merge Contacts</li>
 							<li>Email Notifications &amp; Reminders</li>
 							<li>Payments with PayPal &amp; Stripe*</li>
 							<li>Recurring Bookings</li>
@@ -108,6 +108,7 @@
 							<li>Customizable Emails</li>
 							<li>Booking Page 20+ Languages</li>
 							<li>Captcha Verification Online Booking</li>
+							<li>SSO***</li>
 							<li>Courses*</li>
 							<li>Packages*</li>
 							<li>Vouchers*</li>
@@ -128,6 +129,7 @@
 			<div>Note:</div> 
 			<div class="note">*Coming soon. Our team is working on bringing these features live as soon as possible.</div>
 			<div class="note">**Check our <a href="https://support.picktime.com/article/show/139175-sms-policy" target="_blank" style="color: gray; text-decoration: underline;">SMS policy</a></div>
+		 	<div class="note">***Enabled automatically for businesses with 100+ team members.</div>
 		 </div>
 		<h3 class="comparison">Features Comparison</h3>
 		<table  style="width:100%">
