@@ -234,7 +234,7 @@
 					</p>
 					<p>Once the subscription period expires, the Product shall no longer be accessible, unless the User renews the subscription by paying the relevant fee.
 					</p>
-					<p>Downgrading or cancellation will be effective immediately and you will not be entitled to a refund of any payments
+					<p>Downgrading* or cancellation will be effective immediately and you will not be entitled to a refund of any payments
 					</p>
 					<h3 style="font-size: 15px;">a) Automatic renewal</h3>
 					<p>Subscriptions are automatically renewed through the payment method that the User chose during purchase, unless the User cancels the subscription within the deadlines for termination specified in the relevant section of these Terms and/or platform.
@@ -483,7 +483,7 @@
 					<p>We thank you and appreciate your purchase with us. Please read the policy, conditions and process carefully as they will give you important information and guidelines about your rights and obligations as our customer, concerning any purchase you make through us unless specifically stated otherwise on our service sale pages or readers offer advertisements.  The policy with regard to processing of refund, shall be in accordance with the clauses as set forth:
 					</p>
 					<h3 style="font-size: 15px;">1. PROCESSING OF REFUND</h3>
-					<p>We do not provide refunds for payments towards the subscription plans made on the Platform. You can downgrade from the paid plan at any time. Downgrading or cancellation will be effective immediately and you will not be entitled to a refund of any payments
+					<p>We do not provide refunds for payments towards the subscription plans made on the Platform. You can downgrade* from the paid plan at any time. Downgrading* or cancellation will be effective immediately and you will not be entitled to a refund of any payments
 					</p>
 					<h3 style="font-size: 15px;">2. CANCELLATION</h3>
 					<p>The Platform at its sole discretion may cancel any order(s):</p>
@@ -496,6 +496,8 @@
 					</ul>
 					<p>We maintain a negative list of all fraudulent transactions and non-complying users, and reserve the right to deny access to such users at any time or cancel any orders placed by them in future.
 					</p>
+					<br><br>
+					<p>Note: *The following scenarios are considered as downgrade, Moving from yearly to monthly billing cycle, Moving from higher pricing plan to lower pricing plan, Moving from paid plan to free plan</p>
 				</section>
 			</div>
 			<div class="col-sm-1"></div>
