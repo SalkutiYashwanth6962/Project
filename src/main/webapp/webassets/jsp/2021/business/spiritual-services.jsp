@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Spiritual Services Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Use Picktime appointment scheduling software to provide spiritual services appointment bookings. Accept 24/7 bookings with payments & invoicing, manage staff & get progress reports. ">
+    <meta name="description" content="We provide a more straightforward, safe, and effective system for churches, ministries, and other spiritual services  to simplify the scheduling and management of appointments for teaching, healing, or giving spiritual guidance.">
     <meta name="keywords" content="spiritual services scheduling software, spiritual services appointment booking, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, 
     online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, 
     free online scheduling tool, appointment scheduling app free, online booking software, online scheduling tools, best online scheduling tool">	
@@ -54,7 +54,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		       		<div class="i-img"> <img alt="manage clients securely" src="/webassets/2021/img/team-management.svg"> </div>
+		       		<div class="i-img"> <img alt="manage clients securely" src="/webassets/2021/img/icons/features/Manage-customer_icon.svg"> </div>
 			       	<h3>Customer Management</h3>
 			       	<p>Streamline your client bookings and payments with a unified client management solution</p>
 			      </div> 	

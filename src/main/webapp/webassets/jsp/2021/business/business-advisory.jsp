@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Business Advisory Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software crafted for business advisors, including automated reminders, fee payment, invoicing, revenue reporting, and staff management">
+    <meta name="description" content="Stop using manual spreadsheets and wasted time! Picktime is your complete solution for generating better availability, booking meetings faster, and improving communication. Getting work done within the scheduling is never easy, but it can be more comfortable if you have the right tools.">
     <meta name="keywords" content="business advisory scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, 
     best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, 
     online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, online booking software, online scheduling tools">
@@ -61,7 +61,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="Business Advisors Staff Management" src="/webassets/2021/img/team-management.svg"> </div>
+	      			<div class="i-img"> <img alt="Business Advisors Staff Management" src="/webassets/2021/img/icons/features/staff_icon.svg"> </div>
 		       		<h3>Staff Management</h3>
 		       		<p>Get a centralized staff management system for monitoring your employee’s schedules, leaves, and appointments.</p>
 		       	</div>
@@ -79,7 +79,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Go digital with appointment scheduling and booking management for consultations. Craft a custom-built online booking page to allow clients to self-book appointments based on the advisor’s availability.</p>
 			</div>
 			<div class="col-md-6">
-       			<img alt="Booking page for your consultant bookings" src="/webassets/2021/img/business/medical-custom-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+       			<img alt="Booking page for your consultant bookings" src="/webassets/2021/img/business/attorny-online-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	    	</div>
 		</div>
 	</div>
@@ -114,7 +114,3 @@
 	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>
-
-
-1.Learn React Native 
- props, state,  jsx,  think-react, life-cycle

@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Beauty Salon Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software for your salon business with benefits of online payments, invoicing, sales reporting, customer and team management.">
+    <meta name="description" content="Don't take the risk of missing appointments. Make sure you've got a great booking system in place. Beauty salons that use beauty salon software streamline their business and save money on marketing expenses.">
     <meta name="keywords" content="beauty salon scheduling software, beauty salon software, beauty salon appointment software, beauty salon scheduling app, hair salon booking app, beauty salon management software, beauty salon booking app, free online appointment scheduling software, 
     free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, 
     free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app,

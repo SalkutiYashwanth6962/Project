@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Sports items Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Use Picktime online scheduling software for renting sports items. Manage your customer bookings, equipment, payments, invoicing & get insightful business reports.">
+    <meta name="description" content="Picktime can manage sports item rental businesses in multiple facilities, making scheduling and asset management fast and easy. It reduces manual processes and speeds up your business onboarding process considerably.">
     <meta name="keywords" content="sport item rental scheduling software, sport item rental management, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
 	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
 	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
@@ -55,7 +55,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		       		<div class="i-img"> <img alt="manage rental customers" src="/webassets/2021/img/team-management.svg"> </div>
+		       		<div class="i-img"> <img alt="manage rental customers" src="/webassets/2021/img/icons/features/Manage-customer_icon.svg"> </div>
 			       	<h3>Customer Management</h3>
 			       	<p>A holistic customer management system for monitoring your customer data, rental bookings,  payments & reminders</p>
 			      </div> 	

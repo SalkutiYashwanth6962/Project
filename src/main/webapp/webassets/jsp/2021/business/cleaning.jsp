@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>cleaning Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software for cleaning service businesses with online payments, invoicing, sales reporting, customer and team management.">
+    <meta name="description" content="Picktime is the most potent booking tool for cleaning service agencies, carpet cleaners, and painting contractors. Picktime allows your customers to book, manage and cancel appointments through a customized booking page.">
    	<meta name="keywords" content="cleaning scheduling app, scheduling software for cleaning business, cleaning company scheduling software, cleaning business software, cleaning business software free, online booking system for cleaning service, 
     cleaning service scheduling software, window cleaning scheduling software, free cleaning service scheduling software, booking system for cleaning service, free scheduling app for cleaning business, scheduling app for cleaning business, maid scheduling software, 
     cleaning booking software, best scheduling software for cleaning business, janitorial scheduling software, cleaning service booking software, cleaning service booking system, cleaning business scheduling app, free online appointment scheduling software, 

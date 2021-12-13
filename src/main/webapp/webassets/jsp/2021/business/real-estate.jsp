@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Real Estate Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software for real estate agencies. Includes payments, invoicing, reminders, business reporting, and team management tools.">
+    <meta name="description" content="Simple, smart solution for real estate agents to get your appointments booked faster. Picktime has explicitly been created as a best-in-class appointment booking and meeting scheduling software for real estate, property management, and other industries where appointments drive sales.">
     <meta name="keywords" content="real estate agent appointment booking software, real estate agent meeting booking software, real estate agent meeting management software, free online appointment scheduling software, 
     free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, 
     free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, 
@@ -80,7 +80,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Organize virtual meetings with your clients on Zoom and Google Meet for a virtual tour of their dream properties. Clients will receive the meeting link in their booking confirmation email.</p>
 			</div>
 			<div class="col-md-6">
-       			<img alt="conduct online meetings with clients" src="/webassets/2021/img/business/gym-virtual-fitness-trainning.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+       			<img alt="conduct online meetings with clients" src="/webassets/2021/img/business/gym-virtual-fitness-trainning.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	    	</div>
 		</div>
 	</div>
@@ -107,7 +107,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Picktime streamlines team management. You can save your teammate’s contact data, handle their work schedules and leaves, assign them tasks, and permit them to use office resources.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="manage all your staffs" src="/webassets/2021/img/business/meeting-rooms-staff-management.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="manage all your staffs" src="/webassets/2021/img/business/household-customer-management.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

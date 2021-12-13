@@ -3669,11 +3669,16 @@ height: 80px;
   width: 100%;
   padding-top: 50px;
 }
+
 .sec-first .col-md-6 .P-top{
 	padding-top: 110px;
 }
 .sec-first .nail-extra-small{
 	padding: 50px;
+}
+.sec-first .magicians-pt{
+	padding: 0px 60px;
+	padding-top: 0px !important;
 }
 /*  wave  */
 .sec-first .wave {
@@ -3755,6 +3760,9 @@ height: 80px;
   width: 100%;
   padding: 0px 30px;
 }
+.sec-three .mr-t {
+	margin-top: 50px;
+}
 
 /*=====section three==end==*/
 
@@ -3814,6 +3822,9 @@ height: 80px;
 .sec-five img {
   width: 100%;
   padding: 0px 50px;
+}
+.sec-five .mr-t {
+  margin-top: 60px;
 }
 .sec-five .p-top {
   padding-top: 110px;
@@ -3900,6 +3911,12 @@ height: 80px;
 	.sec-five img {
     padding: 10px 75px;
     }
+    .sec-five .mr-t {
+  	margin-top: 10px;
+	}
+    .sec-three .mr-t {
+	margin-top: 10px;
+	}
     .sec-sixth {
     padding: 20px 0px;
     background: #EFF1F7;
@@ -4242,7 +4259,12 @@ div#industries > div > div {
     margin-bottom: 40px;
     /* padding: 0px 15px; */
 }
-
+div#industries > div > div a:hover{
+	text-decoration: none;
+}
+div#industries > div > div a:focus{
+	text-decoration: none;
+}
 /* wave start */
 #industries_services {
 	margin-top: -27px;

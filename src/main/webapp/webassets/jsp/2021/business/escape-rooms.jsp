@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Escape Rooms Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="A comprehensive solution to escape rooms management with 24x7 bookings, payments, invoicing, staff management & business reports. No credit cards required!">
+    <meta name="description" content="No need to keep track of who, when, or where you booked! Keep your calendars up to date. Picktime is an easy, reliable, and time-efficient booking software for escape room venues. The one-stop-shop for securing and managing your escape room business.">
     <meta name="keywords" content="escape rooms scheduling software, escape room booking software, escape room booking system, best escape room booking software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, 
     free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, online booking software, 
     online scheduling tools best online scheduling tool">	
@@ -54,7 +54,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		       		<div class="i-img"> <img alt="escape room customer management" src="/webassets/2021/img/team-management.svg"> </div>
+		       		<div class="i-img"> <img alt="escape room customer management" src="/webassets/2021/img/icons/features/Manage-customer_icon.svg"> </div>
 			       	<h3>Customer Management</h3>
 			       	<p>Get a single system to manage the customer data and also save their booking history in the cloud.</p>
 			      </div> 	
@@ -86,7 +86,7 @@
 	<div class="sec-four">
 		<div class="container">
 			<div class="col-md-6 hidden-xs hidden-sm">
-		   		<img alt="manage all your escape room" src="/webassets/2021/img/business/tutoring-lessons-zoom-and-google.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100" style="margin-top: 65px;">
+		   		<img alt="manage all your escape room" src="/webassets/2021/img/business/escape-room-management.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100" style="margin-top: 65px;">
 			</div>
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ESCAPE ROOM MANAGEMENT</h3>
@@ -94,7 +94,7 @@
             	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Get a robust escape room management system for taking care of rooms, machineries, and games inside the rooms. Show the available slots for each of your escape rooms and make your staff in charge of different escape rooms according to their shift.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
-	   			<img alt="manage all your escape room" src="/webassets/2021/img/business/tutoring-lessons-zoom-and-google.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+	   			<img alt="manage all your escape room" src="/webassets/2021/img/business/escape-room-management.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 			</div>
 		</div>
 	</div>

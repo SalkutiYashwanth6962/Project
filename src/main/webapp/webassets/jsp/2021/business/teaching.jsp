@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Teaching Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="A free online appointment scheduling software that enables parents and students to self-book classes at any time. Includes class reminders, fee payment & staff management.">
+    <meta name="description" content="Picktime helps schools organize class schedules and rosters so teachers can focus on teaching. Centralize your class scheduling with a system that will allow you to both streamline and automate this complicated process.">
     <meta name="keywords" content="teacher scheduling software free, free teacher scheduling software, music teacher scheduling software, teacher scheduling software, class teacher scheduling software, piano teacher scheduling software, 
     free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, 
     online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, 
@@ -81,7 +81,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Add your whole teaching and management staff to the admin account dashboard. Monitor and control their working hours, leaves, and class bookings.</p>
 			</div>
 			<div class="col-md-6">
-       			<img alt="Manage online classes" src="/webassets/2021/img/business/meeting-rooms-staff-management.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+       			<img alt="Manage staff for online classes" src="/webassets/2021/img/business/household-customer-management.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	    	</div>
 		</div>
 	</div>

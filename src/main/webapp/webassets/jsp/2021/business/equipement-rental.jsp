@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
 	<title>Equipment Rental Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software for equipment rental businesses including rent payment, invoicing, business reporting, resource and staff management.">
+    <meta name="description" content="Making Equipment rental booking management easier. Picktime is the perfect tool for the renting process. Our cloud-based platform is transforming the equipment rental industry with refined business processes and customer-focused initiatives.">
     <meta name="keywords" content="equipment rental scheduling software, equipment rental software, equipment rental software free, equipment rental booking software, equipment rental software programs, rental scheduling software, equipment rental company software, free equipment rental booking software, free online appointment scheduling software, 
     free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, 
     online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools, best online scheduling tool">
@@ -50,21 +50,21 @@
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 		        	<div class="i-img text-center"> <img alt="online Equipment Rental booking Calendar" src="/webassets/2021/img/icons/features/Calendar_icon.svg"> </div>
 			       	<h3>Online Calendar</h3>
-			       	<p>Lorem Allow patients to self-book appointments round the clock from anywhere &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			       	<p>Check your scheduled appointments and booking status from the online calendar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 			    </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 		       		<div class="i-img"> <img alt="Advance Payment for Equipment Rental" src="/webassets/2021/img/icons/features/Take-payments_icon.svg"> </div>
 			       	<h3>Advance Payment</h3>
-			       	<p>Lorem Notify patients about scheduled appointments via automated email and SMS reminders </p>
+			       	<p>Customers can initiate pre-payments using credit cards, PayPal, Stripe or Square while booking appointments</p>
 			      </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	      			<div class="i-img"> <img alt="Equipment Management " src="/webassets/2021/img/What-is-picktime-rooms-euipment.svg"> </div>
 		       		<h3>Resource Management</h3>
-		       		<p>Lorem Generate comprehensive reports on your revenue, staff, and  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+		       		<p>Assign and manage handing of office equipment to staff through a simple resource management system</p>
 		       	</div>
 			</div>
 			<div class="col-md-12" style="margin-top:50px;">
@@ -87,7 +87,7 @@
 	<div class="sec-four">
 		<div class="container">
 			<div class="col-md-6 hidden-xs hidden-sm">
-		   		<img alt="Free equipment rental booking page" src="/webassets/2021/img/business/medical-custom-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+		   		<img alt="Free equipment rental booking page" src="/webassets/2021/img/business/attorny-online-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 			</div>
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PERSONALIZED BOOKING PAGE</h3>
@@ -95,7 +95,7 @@
             	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Design a customized online booking page for taking appointments from customers. The booking page will be shareable via email and SMS, and can be made available on your website to take instant bookings.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
-	   			<img alt="Free equipment rental booking page" src="/webassets/2021/img/business/medical-custom-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+	   			<img alt="Free equipment rental booking page" src="/webassets/2021/img/business/attorny-online-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 			</div>
 		</div>
 	</div>

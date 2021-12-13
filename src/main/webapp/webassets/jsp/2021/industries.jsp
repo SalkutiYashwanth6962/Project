@@ -51,7 +51,7 @@
 						</div>
 						<div>
 							<h1>Beauty Salon</h1>
-							<p>Looking good has become a priority for a majority of people in this world. Beauty salons see a lot of people come in everyday. Everybody wants to be updated with latest fashion and hair trends.</p>
+							<p>Don't take the risk of missing appointments. Make sure you've got a great booking system in place. Beauty salons that use beauty salon software streamline their business and save money on marketing expenses.</p>
 						</div>
 				   	</div>
 				</a>
@@ -64,7 +64,7 @@
 						</div>
 						<div>
 						 	<h1>Hair Salon</h1>
-							<p>Hair Salons are the most visited places after restaurants and hospitals. Every customer wants the best of services.  But quite often hair salon and spa owners struggle with managing customers.</p>
+							<p>Picktime allows your clients to book stylists through a customized booking page to access salon information, services provided, and stylist availability. Give your hairstylists what they need to be productive and efficient.</p>
 						</div>
 					</div>
 				</a>
@@ -77,7 +77,7 @@
 						</div>
 						<div>
 							<h1>Nail Salon</h1>
-							<p style="margin-bottom: 10px;" >Nail Salons are becoming quite popular like Hair Salons. Nails have become such an important part of beauty regime that People started spending quite a lot of time and money on them.</p>
+							<p>Nail salon business owners can now manage their business effectively with Picktime, which lets them efficiently manage time availability and appointments. It will help develop more customer loyalty, reach, revenue, and more!</p>
 						</div>
 					</div>
 				</a>
@@ -90,7 +90,7 @@
 						</div>
 						<div>
 							<h1>Medical</h1>
-							<p>Doctors are real life superheroes who save tens and hundreds of lives everyday. But to be a successful and a renowned doctor in your locality, gaining your patient’s trust is very important.</p>
+							<p style="margin-bottom: 30px;">Picktime helps doctors organize patient data, schedule appointments, generate bills, and provide online appointment booking facilities to patients. Our medical practice management system can help doctor's office run fuss free.</p>
 						</div>
 				   </div>
 				</a>
@@ -103,7 +103,7 @@
 						</div>
 						<div>
 							<h1>Spa</h1>
-							<p style="margin-bottom: 30px;">Maintaining a spa industry is not a piece of cake. The Spa Industry has risen so much in the past 15 years that it has become a necessity for most of the people.</p>
+							<p style="margin-bottom: 30px;">Picktime is a web-based spa appointment scheduling software system for your business management needs. Grow your loyal customer base by making scheduling appointments easy.</p>
 						</div>
 					</div>
 				</a>
@@ -116,7 +116,7 @@
 						</div>
 						<div>
 						 	<h1>Personal Trainers</h1>
-							<p style="margin-bottom: 30px;">As a certified personal trainer, you are in the business of improving people’s health and lives. It is rewarding and refreshing, but also comes with difficulties.</p>
+							<p>Picktime helps personal trainers to grow their training business by providing an online booking system, payment gateway, and with all your favorite apps. Stay focused on your clients while your business management is automated.</p>
 						</div>
 					</div>
 				</a>
@@ -131,7 +131,7 @@
 						</div>
 						<div>
 							<h1>Fitness Classes</h1>
-							<p style="margin-bottom: 10px;" >As much as we'd like to believe that Ice creams and chocolate cakes are elixirs for a long and healthy life, we know that's not the case. </p>
+							<p style="margin-bottom: 50px;">Scheduling fitness classes is not easy, but it doesn't have to be complicated. Find the right fitness class management solution for your gym or studio. See your fitness classes fill automatically</p>
 						</div>
 					</div>
 				</a>
@@ -144,7 +144,7 @@
 						</div>
 						<div>
 							<h1>Yoga Classes</h1>
-		                	<p>Yoga is the art and science of wellness and healing and as more people find the multiple health benefits of yoga, there exists a continuous need for qualified yoga trainers.</p>
+		                	<p>Picktime is a cloud-based yoga class management solution that helps studios attract new customers, manage yoga class bookings efficiently and take advance payments. Picktime helps you eliminate time-consuming paperwork and streamline your day-to-day operations.</p>
 						</div>
 					</div>
 				</a>
@@ -157,7 +157,7 @@
 						</div>
 						<div>
 						<h1>Dentists</h1>
-					   		<p>The modern dental practice has developed drastically over the past few years. Most dentists use ledger cards and paper appointment books to track the appointments.</p>
+					   		<p style="margin-bottom: 30px;">User friendly and intuitive appointment booking and management solution for your dental practice. Picktime allows dentists to manage their online presence, multiple offices, staff, and patient appointments from one dashboard.</p>
 						</div>
 					</div>
 				</a>
@@ -170,7 +170,7 @@
 						</div>
 						<div>
 							<h1>Chiropractics</h1>
-							<p>Whether you are a Chiropractor who runs a single staff business or a part of a larger enterprise, there are unique challenges to the profession in regard to generating more revenue or more appointments.</p>
+							<p>Chiropractic business management software allows you to manage your practice from a single dashboard. Picktime is one of the most comprehensive and user-friendly chiropractic practice management software on the market.</p>
 						</div>
 					</div>
 				</a>
@@ -183,7 +183,7 @@
 						</div>
 						<div>
 							<h1>Acupuncture</h1>
-							<p style="margin-bottom: 50px;">Acupuncture has been around for thousands of years, and people are still arguing its benefits.</p>
+							<p>Picktime helps clinics organize, schedule patient appointments to optimize the daily operations. With a customized booking page, make your patients go through a professional booking process.  Simplify scheduling to drive your practice.</p>
 						</div>
 					</div>
 				</a>
@@ -196,7 +196,7 @@
 						</div>
 						<div>
 						 	<h1>Physiologists</h1>
-							<p style="margin-bottom: 50px;">While patient growth certainly has its benefits, it also creates new difficulties for Physiologists and their staff. </p>
+							<p>Picktime is the all-in-one software solution for physio offices, relieving you of tedious physiologist administrative tasks. It helps physiologists manage their practices in many facets of their appointment booking process.</p>
 					    </div>
 					</div>
 				</a>
@@ -211,7 +211,7 @@
 						</div>
 						<div>
 							<h1>Psychologists</h1>
-							<p style="margin-bottom: 30px;">In this mechanical world, people lead a rather stressful routine and busy way of life, where a regular interview with a professional psychologist often becomes part of it.</p>
+							<p style="margin-bottom: 50px;">Picktime is the best appointment & practice management software in the market to streamline your daily front desk tasks. It helps you run your practice in an organized, stress-free manner and saves valuable time.</p>
 						</div>
 					</div>
 				</a>
@@ -224,7 +224,7 @@
 						</div>
 						<div>
 						 	<h1>Gyms</h1>
-							<p style="margin-bottom: 50px;" >When a person joins the gym for the first time, going to the gym can be an intimidating experience.</p>
+							<p>Picktime offers flexible gym management software for small to medium-sized businesses. Manage your classes, memberships, invoicing, and billing effortlessly using our system. You can run a healthy and profitable business while still offering your customers excellent service.</p>
 						</div>
 					</div>
 				</a>
@@ -237,7 +237,7 @@
 						</div>
 						<div>
 						 	<h1>Golf Classes</h1>
-							<p>Online scheduling is a great way to improve profitability for Golf classes. Do you offer training and classes? In this case, you should check out the Picktime golf class scheduling software.</p>
+							<p style="margin-bottom: 50px;">Picktime is a simple way to offer convenient golf class booking for your business. And best of all, no software installation is required! It gives golf pros the ability to run their class booking online 24/7.</p>
 						</div>
 					</div>
 				</a>
@@ -250,7 +250,7 @@
 						</div>
 						<div>
 							<h1>Sport Items Renting</h1>
-							<p style="margin-bottom: 30px;">Managing your best rental sports related items can be complicated, particularly if you are still using old fashioned methods like written journals.</p>
+							<p>Picktime can manage sports item rental businesses in multiple facilities, making scheduling and asset management fast and easy. It reduces manual processes and speeds up your business onboarding process considerably.</p>
 						</div>
 					</div>
 				</a>
@@ -263,7 +263,7 @@
 						</div>
 						<div>
 						 	<h1>Counseling</h1>
-							<p style="margin-bottom: 70px;" >For every type of human struggle, there is a type of counselor to helps us work through it.</p>
+							<p style="margin-bottom: 50px;">Use our counseling meeting management software that helps therapists keep track of their schedule, patients, appointments, designed to help counselors stay stress free.</p>
 						</div>
 					</div>
 				</a>
@@ -276,7 +276,7 @@
 						</div>
 						<div>
 							<h1>Coaching</h1>
-							<p>In the era of advanced modern technologies, aggressive sports people or people who want to undergo coaching for other stuff, love it when they can simply go online and sign up for any class.</p>
+							<p>Picktime is a complete web-based solution specially designed for coaching institutes to streamline their operations and monitor student progress. It helps teachers & trainers to run their classes and create their booking page.</p>
 						</div>
 					</div>
 				</a>
@@ -291,7 +291,7 @@
 						</div>
 						<div>
 							<h1>Meeting Rooms</h1>
-							<p>The rising trend in freelancers working from shared offices is one that is changing the face of business, and there are also more businesses than ever before saving money by using shared facilities and resources.</p>
+							<p>Picktime is the easiest way to manage meeting rooms bookings. Book rooms in departments, offices, or buildings with one click. It's never been easier to book meeting rooms.  We keep your booking system up-to-date on the cloud with a user-friendly interface.</p>
 						</div>
 					</div>
 				</a>
@@ -304,7 +304,7 @@
 						</div>
 						<div>
 							<h1>Spiritual Services</h1>
-							<p style="margin-bottom: 50px;" >Growth, fulfillment, and happiness require a daily spiritual practice, along with taking care of ourselves and loving others.</p>
+							<p style="margin-bottom: 30px;">We provide a more straightforward, safe, and effective system for churches, ministries, and other spiritual services  to simplify the scheduling and management of appointments for teaching, healing, or giving spiritual guidance.</p>
 						</div>
 					</div>
 				</a>
@@ -317,7 +317,7 @@
 						</div>
 						<div>
 							<h1>Design Consultations</h1>
-							<p>For Design Consultancies, online scheduling is a vital lead generation tool. For many people, finding the perfect design for their houses, offices, and even website design is the biggest challenge. </p>
+							<p style="margin-bottom: 30px;">Picktime is the meetings-management cloud software for design firms and agencies, from a simple one-on-one meeting to a full-day ideation session. Offer the convenience of online booking to customers and end time consuming email exchanges and phone calls.</p>
 						</div>
 					</div>
 				</a>
@@ -330,7 +330,7 @@
 						</div>
 						<div>
 							<h1>Cleaning</h1>
-							<p>Running a cleaning business is more than a full-time job. it can be hard to find the time to keep your business organized with managerial responsibilities like scheduling jobs and getting new customers.</p>
+							<p>Picktime is the most potent booking tool for cleaning service agencies, carpet cleaners, and painting contractors. Picktime allows your customers to book, manage and cancel appointments through a customized booking page.</p>
 						</div>
 					</div>
 				</a>
@@ -343,7 +343,7 @@
 						</div>
 						<div>
 							<h1>Household</h1>
-							<p> Whether you're a home service provider, using an online scheduling system will keep all of your clients’ addresses in one location that you can access 24/7 right from your Laptop or smartphone.</p>
+							<p>Picktime helps you book, manage, and automate your household services such as windows cleaning, floor cleaning, laundry, etc. Spend less time on administrative work and more time providing the best service to your clients.</p>
 				   		</div>
 					</div>
 				</a>
@@ -356,7 +356,7 @@
 						</div>
 						<div>
 							<h1>Pet Services</h1>
-							<p style="margin-bottom: 50px;" >Most people with careers in the pet industry follow their dream of working with animals, and they love it.</p>
+							<p>Picktime allows you to manage all aspects of your pet care business! From marketing and scheduling to automating billing and tracking your team's time. Get the most out of the money and time you invest in your pet care business with Picktime.</p>
 						</div>
 					</div>
 				</a>
@@ -371,7 +371,7 @@
 						</div>
 						<div>
 						 	<h1>Business Events</h1>
-						 	<p>Have you ever noticed how many business events take place every week or every day? It can be business related workshops, training, conferences, networking, seminars and much more.</p>
+						 	<p>Picktime offers a unique and simple way to book business events. Our software allows venue owners and hosts to manage event bookings in the cloud. We are a leading provider of secure online booking management for event organizers.</p>
 						</div>
 					</div>
 				</a>
@@ -384,7 +384,7 @@
 						</div>
 						<div>
 						 	<h1>Events</h1>
-							<p style="margin-bottom: 30px;" >The special events industry has grown enormously in the past decade. Event planners can work from anywhere and at any time.</p>
+							<p style="margin-bottom: 30px;">Picktime helps events & activities organizers to manage their events. Clients can book your events quickly with your clean and intuitive booking page. Picktime brings safety & convenience to organize events for groups!</p>
 						</div>
 					</div>
 				</a>
@@ -397,7 +397,7 @@
 						</div>
 						<div>
 							<h1>Photographers</h1>
-						    <p style="margin-bottom: 65px;">If you are a photographer, concentrating on getting the right shot is very important.</p>
+						    <p style="margin-bottom: 30px;">Picktime is simple, affordable photographers appointment booking software used by small to medium-sized studios, wedding photographers, and other creative firms to simplify client services & staffing efficiencies.</p>
 						</div>
 					</div>
 				</a>
@@ -410,7 +410,7 @@
 						</div>
 						<div>
 						 	<h1>Driving Schools</h1>
-							<p style="margin-bottom: 30px;">To schedule a driving lesson with an instructor, most times, student have to make a phone call.</p>
+							<p>Picktime is the all-in-one business management software for driving schools, offering cloud-based lesson scheduling, online booking & payment processing. It is designed to help you set up and manage your driving school efficiently.</p>
 						</div>
 					</div>
 				</a>
@@ -423,7 +423,7 @@
 						</div>
 						<div>
 							<h1>Art Classes</h1>
-							<p>Everything around us is Art. For students who want to develop these skills or want Art to be their profession, you are the person who can help and assist their needs.</p>
+							<p style="margin-bottom: 30px;">Picktime helps art studios to manage their classes schedules & Students receive payments online & print Receipts. Picktime makes booking art classes easy, making it simple for anyone to take their first art class.</p>
 						</div>
 					</div>
 				</a>
@@ -436,7 +436,7 @@
 						</div>
 						<div>
 							<h1>Equipment rental</h1>
-							<p style="margin-bottom: 30px;">The equipment rental, sales and service industry faces unique operational and reporting challenges.</p>
+							<p>Making Equipment rental booking management easier. Picktime is the perfect tool for the renting process. Our cloud-based platform is transforming the equipment rental industry with refined business processes and customer-focused initiatives.</p>
 						</div>
 					</div>
 				</a>
@@ -451,7 +451,7 @@
 						</div>
 					<div>
 						<h1>Escape rooms</h1>
-					    <p style="margin-bottom: 30px;" >Making the decision to open your own escape room is scary but interesting. You have played other escape games and enjoyed them.</p>		
+					    <p style="margin-bottom: 30px;">No need to keep track of who, when, or where you booked! Keep your calendars up to date. Picktime is an easy, reliable, and time-efficient booking software for escape room venues. The one-stop-shop for securing and managing your escape room business.</p>		
 					</div>
 					</div>
 				</a>
@@ -464,7 +464,7 @@
 						</div>
 						<div>
 							<h1>Restaurants</h1>
-							<p style="margin-bottom: 30px;" >As a business owner, there’s nothing worse than missed telephone calls when you are busy with personal stuff. </p>
+							<p style="margin-bottom: 30px;">Restaurant table booking software for bustling restaurants. Letting customers book tables online while your staff availability is mirrored automatically on the online booking engine. Run your restaurant smoothly while taking more bookings with Picktime.</p>
 						</div>
 					</div>
 				</a>
@@ -477,7 +477,7 @@
 						</div>
 						<div>
 							<h1>Call Centers</h1>
-			             	<p>When it comes to the level of effort it takes to manage your hourly staff correctly, planning and managing schedules for call center staff is probably the top of the list. </p>
+			             	<p>No more calls for meetings at random times. Schedule meetings for meaningful chats with your team, clients, and prospects. Picktime is a fully integrated call center scheduling and workforce management software that enables organizations to minimize costs and maximize productivity.</p>
 						</div>
 					</div>
 				</a>
@@ -490,7 +490,7 @@
 						</div>
 						<div>
 							<h1>Interview Scheduling</h1>
-							<p style="margin-bottom: 30px;">Interviews are a vital part of the hiring process, and also one of the most logistically challenging.</p>
+							<p style="margin-bottom: 30px;">Picktime brings you a perfect solution for managing interviews with candidates. Picktime allows you to schedule interviews, manage scheduling conflicts and give you visibility on the interviewer's availability across your organization.</p>
 						</div>
 					</div>
 				</a>
@@ -503,7 +503,7 @@
 						</div>
 						<div>
 							<h1>Financial Services</h1>
-							<p style="margin-bottom: 30px;">The challenge for financial companies is competing with new incumbents that has never been greater.</p>
+							<p style="margin-bottom: 50px;">Picktime enables managers to plan confidently, manage and control the client meetings in their financial service business. It allows staff to manage daily meetings, events, and staff training schedules with ease.</p>
 						</div>
 					</div>
 				</a>
@@ -516,7 +516,7 @@
 						</div>
 						<div>
 						 	<h1>Business Advisory</h1>
-							<p>Are you hesitant to pay for an extra staff just to book appointments on your behalf? We understand scheduling hassles can wreak havoc with your customer retention efforts.</p>
+							<p>Stop using manual spreadsheets and wasted time! Picktime is your complete solution for generating better availability, booking meetings faster, and improving communication. Getting work done within the scheduling is never easy, but it can be more comfortable if you have the right tools.</p>
 						</div>
 					</div>
 				</a>
@@ -531,7 +531,7 @@
 						</div>
 						<div>
 							<h1>Legal</h1>
-							<p>Why would a law practice be interested in an online booking system? Appointments with clients, opposing counsel, and colleagues are the lifeblood of your practice.</p>
+							<p>Picktime makes meeting booking as easy as booking a hotel room. A web-based legal meeting booking software for attorneys, legal advisors, and clients. Your clients can book directly from your simple, user-friendly, and personalized booking page.</p>
 						</div>
 					</div>
 				</a>
@@ -544,7 +544,7 @@
 						</div>
 						<div>
 							<h1>Attorney</h1>
-							<p>A career as an attorney is an extraordinary calling. However, becoming an attorney is an enormous undertaking in terms of time commitment and financial investment.</p>
+							<p style="margin-bottom: 30px;">Picktime replaces the old system where lawyers had to call, leave a message, and hope someone would call you back. Picktime is the best attorney meeting booking software for a law firm of any size.</p>
 						</div>
 					</div>
 				</a>
@@ -557,7 +557,7 @@
 						</div>
 						<div>
 						 	<h1>Embassies and consulates</h1>
-							<p>Embassies and consulates around the world are affording various services for immigrants of their countries, who are usually visiting or staying abroad.</p>
+							<p>Picktime offers a complete booking workflow for your embassy or consulate meeting, saving time and money, making it quicker and easier to organise sessions at the embassy. Picktime is a flexible and secure booking system that's simple to implement and use.</p>
 						</div>
 					</div>
 				</a>
@@ -570,7 +570,7 @@
 						</div>
 						<div>
 							<h1>City councils</h1>
-							<p>All over the world, cities, towns and villages are maintained by government organizations with the structured process that provide a variety of services to improve people's lives and society growth. </p>
+							<p>Picktime allows bookings to be made online by council members, citizens, and visitors. It's easy to use for any council, at any level of government. Easily manage your city council meetings online so you can focus on the issues that matter most to you.</p>
 						</div>
 					</div>
 				</a>
@@ -583,7 +583,7 @@
 						</div>
 						<div>
 							<h1>Universities</h1>
-							<p style="margin-bottom: 30px;">University life is so busy both for staff and students and good online scheduling software like Picktime can become a great relief for everybody.</p>
+							<p>Class schedules are never easy to manage, especially on university campuses where classes, instructors, and registration deadlines constantly change. Picktime makes  it easier for both professors and students to schedule and manage their classes.</p>
 						</div>
 					</div>
 				</a>
@@ -596,7 +596,7 @@
 						</div>
 						<div>
 						 	<h1>Colleges</h1>
-						 	<p style="margin-bottom: 30px;" >The Internet has obviously been one of the prominent innovations in human history. It has single-handedly cherished hundreds of changes to a variety of industries.</p>
+						 	<p>Picktime is a fully automated end-to-end solution that empowers colleges, universities, and institutes to offer a seamless booking experience with robust administrative tools. Help your students find open slots for their class sessions and book instantly. </p>
 						</div>
 					</div>
 				</a>
@@ -611,7 +611,7 @@
 						</div>
 					  	<div>
 							<h1>Schools</h1>
-							<p style="margin-bottom: 50px;">Today’s school industry plays a vital role in the country's educational growth. </p>
+							<p>Picktime helps your school run smoothly and increases revenue through a fully managed web class booking system. Each school has different needs, and you can customize your class booking page to your requirements.</p>
 					  	</div>
 					</div>
 				</a>
@@ -624,7 +624,7 @@
 						</div>
 						<div>
 						 	<h1>Libraries</h1>
-							<p style="margin-bottom: 30px;">Most of the libraries function with the help of spreadsheets, excel sheets and books to manage staff and books.</p>
+							<p>Maximize availability of resources. Save time on circulation tasks. Increase students' and teachers' satisfaction by automating your library with centralized library scheduling and management software.</p>
 						</div>
 					</div>
 				</a>
@@ -637,7 +637,7 @@
 						</div>
 						<div>
 							<h1>Teaching</h1>
-		              		<p>Teaching is one the most challenging and satisfying professions of all. Moulding little brains and giving students support to help them come out with flying colours is not easy. </p>
+		              		<p>Picktime helps schools organize class schedules and rosters so teachers can focus on teaching. Centralize your class scheduling with a system that will allow you to both streamline and automate this complicated process.</p>
 						</div>
 					</div>
 				</a>
@@ -650,7 +650,7 @@
 						</div>
 						<div>
 				 			<h1>Tutoring Lessons</h1>
-							<p>Over the past several years, online booking of tutoring lessons has been gaining prominence. Many parents are starting to choose online tutoring lessons booking over traditional ways of tutoring admission at learning centers.</p>
+							<p>Let our scheduling software handle your tutoring classes, workshops, or any other appointments.  Picktime simplifies and automates the process of scheduling and attending tutoring classes. It also allows the administration to manage the tutors more efficiently.</p>
 						</div>
 					</div>
 				</a>
@@ -663,7 +663,7 @@
 						</div>
 						<div>
 							<h1>Parent meetings</h1>
-							<p style="margin-bottom: 50px;">Usually, a couple of times a year parents(and often child as well) will have the opportunity to have meeting with the teacher and talk about the learning progress of their child.</p>
+							<p style="margin-bottom: 50px;">A cloud-based app for scheduling parent-teacher conferences in your school or college. Picktime eliminates the hassle of scheduling teacher meetings by allowing parents to book their ideal slots.</p>
 						</div>
 					</div>
 				</a>
@@ -676,11 +676,403 @@
 						</div>
 						<div>
 							<h1>Child Care</h1>
-							<p style="margin-bottom: 90px;">Finding the right child care is one of the toughest tasks parents face these days.</p>
+							<p style="margin-bottom: 50px;">We help you run a successful child care business. It gives you modern cloud software business tools that you need to run your day-to-day operation, scheduling, billing, and staff management.</p>
 						</div>
 					</div>
 				</a>
 			</div>
+			<!--  new cards start  -->
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+				<a href="/business/information-technology">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Information Technology" src="/webassets/2021/img/icons/industries/information_technology.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+				 			<h1>Information Technology</h1>
+							<p style="margin-bottom: 30px;">Picktime is a free helpdesk and service booking software for IT and end-user clients. It has a simple, easy-to-use interface and helps you provide reliable services. Powerful web-based software for managing IT services, booking appointments with clients.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+				<a href="/business/real-estate">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Real Estate" src="/webassets/2021/img/icons/industries/real_Estate.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+							<h1>Real Estate</h1>
+							<p>Simple, innovative solution for real estate agents to get your appointments booked faster. Picktime has been explicitly created as a best-in-class appointment booking and meeting scheduling software for real estate, property management, and other industries where appointments drive sales.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+				<a href="/business/government">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Government" src="/webassets/2021/img/icons/industries/government.svg" style="height: 60px;"></span></span>
+						</div>
+						<div>
+							<h1>Government</h1>
+							<p style="margin-bottom: 30px;">Picktime is a cloud-based application that optimizes the paperless process of making government appointments. We make it possible for government officials to schedule and manage appointments online with the public.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+				<a href="/business/club-events">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Club Event" src="/webassets/2021/img/icons/industries/club-events.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+				 			<h1>Club Event</h1>
+							<p>Picktime is a club event booking software that helps you easily organize and manage your event bookings, venues, and staff. With Picktime, you can keep track of your bookings intuitively and clearly.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+				<a href="/business/auto-services">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Auto Services" src="/webassets/2021/img/icons/industries/auto-service.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+							<h1>Auto Service</h1>
+							<p style="margin-bottom: 30px;">Customers can schedule an appointment with your automotive shop or even book a simple oil change online. An easy way to manage a car service business.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+				<a href="/business/florist">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Florist" src="/webassets/2021/img/icons/industries/florist.svg" style="height: 60px;"></span></span>
+						</div>
+						<div>
+							<h1>Florist</h1>
+							<p style="margin-bottom: 30px;">Florist booking software is a much-needed upgrade for flower shops to help them control their shop and boost revenue through decor service bookings.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+				<a href="/business/charity">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Charity" src="/webassets/2021/img/icons/industries/charity.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+				 			<h1>Charity</h1>
+							<p>Get started with managing your charity's appointments, events, and campaigns with an online meeting scheduling program. Our software will help you manage all aspects of your charity management needs.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+				<a href="/business/community-services">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Community Services" src="/webassets/2021/img/icons/industries/community-services.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+							<h1>Community Services</h1>
+							<p>Community management software gives you control and visibility over everything that happens in your community.  Train your volunteers to be more effective by managing their time.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+				<a href="/business/dance-classes">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Dance Classes" src="/webassets/2021/img/icons/industries/dance-class.svg" style="height: 60px;"></span></span>
+						</div>
+						<div>
+							<h1>Dance Classes</h1>
+							<p>Managing a dance studio from the ground up doesn't have to be complicated. It can be easy with the right class management tool, and Picktime makes running a dance studio business easy peasy.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+				<a href="/business/landscaping-services">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Landscaping Services" src="/webassets/2021/img/icons/industries/landscaping-services.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+				 			<h1>Landscaping services</h1>
+							<p style="margin-bottom: 30px;">Landscapers can improve their work efficiency and run a more profitable business with better management of landscaping projects. Picktime helps you scale your business.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+				<a href="/business/dermatologists">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Dermatogists" src="/webassets/2021/img/icons/industries/dematologist.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+							<h1>Dermatologist</h1>
+							<p>Dermatology practice management has never been easier!  Implementing Picktime will improve your revenue cycle management as well as enhance your patient appointment booking process.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+				<a href="/business/electricians">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Electricians" src="/webassets/2021/img/icons/industries/electricians.svg" style="height: 60px;"></span></span>
+						</div>
+						<div>
+							<h1>Electricians</h1>
+							<p>New generation customers expect a hands-on experience. Keep up by managing your appointments, creating invoices, and accepting payments on your phone using appointment booking software.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+				<a href="/business/eyelash-parlour">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Eyeslash parlour" src="/webassets/2021/img/icons/industries/eyelash-parlour.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+				 			<h1>Eyelash Parlour</h1>
+							<p>The Eyelash Parlour Appointment Software has been specially designed for those offering eyelash services, beauty services, and cosmetic procedures, as well as seasonal salons. Take your eyelash business to the next level.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+				<a href="/business/fashion-designer">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Fashion Designer" src="/webassets/2021/img/icons/industries/fashion-designer.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+							<h1>Fashion Designer</h1>
+							<p style="margin-bottom: 30px;">Confidently secure online bookings for your fashion business with our appointment booking software. Make it convenient for clients to view your entire business portfolio and schedule meeting in one place.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+				<a href="/business/gymnastic-classes">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Gymnastics Classes" src="/webassets/2021/img/icons/industries/gymnastics.svg" style="height: 60px;"></span></span>
+						</div>
+						<div>
+							<h1>Gymnastics Classes</h1>
+							<p style="margin-bottom: 30px;">Picktime is the one-stop solution to manage your gymnastics business. It saves you time by managing gymnastic classes and helps you focus on providing the best service possible to your customers.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+				<a href="/business/healing-center">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Healing Center" src="/webassets/2021/img/icons/industries/healing-center.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+				 			<h1>Healing Center</h1>
+							<p>With the right front office management software, a healing center can run efficiently and provide a better experience for clients. Invest your saved offering the best of your services.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+				<a href="/business/home-repair">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Home Repair services" src="/webassets/2021/img/icons/industries/home-repair.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+							<h1>Home Repair</h1>
+							<p>Today's home improvement and remodeling businesses need clarity and intelligence when it comes to managing their business. Make it easy for your clients to find your services and book them.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+				<a href="/business/hr-consultancy">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="HR Consultancy" src="/webassets/2021/img/icons/industries/hr-consultancy.svg" style="height: 60px;"></span></span>
+						</div>
+						<div>
+							<h1>HR Consultancy</h1>
+							<p>An interview scheduler will help you save time, thus helping you focus on other projects better. Using interview scheduling software means you'll end up with fewer bad hires in your company.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+				<a href="/business/insurance">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Insurance" src="/webassets/2021/img/icons/industries/insurance.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+				 			<h1>Insurance</h1>
+							<p style="margin-bottom: 30px;">Our insurance management system saves time and reduces the stress of managing your insurance agents by automating, streamlining, and integrating many of your day-to-day business functions.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+				<a href="/business/lawn-maintenance-services">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="lawn-maintenance-services" src="/webassets/2021/img/icons/industries/lawn-maintenance-services.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+							<h1>Lawn Maintenance Services</h1>
+							<p style="margin-bottom: 30px;">Optimize your customer's lawn care booking experience and increase revenue with Picktime. People are willing to spend money on lawn care services if they're easy to find and book.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+				<a href="/business/live-events">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="live-events" src="/webassets/2021/img/icons/industries/live-events.svg" style="height: 60px;"></span></span>
+						</div>
+						<div>
+							<h1>Live Events</h1>
+							<p>Make a more intelligent choice in event booking software with your new calendar plans in place. Make it easy to schedule, register and attend your events. Event scheduling software can automate your workload, get paid faster, and more.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+				<a href="/business/magicians">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="magicians" src="/webassets/2021/img/icons/industries/magicians.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+				 			<h1>Magicians</h1>
+							<p>With the magician booking app, you can manage your recurring show date and customer information, allow payments, and schedule tasks for your assistants with just one app. Send automated reminder emails, invoices and accept all types of card payments.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+				<a href="/business/meditation">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="meditation" src="/webassets/2021/img/icons/industries/meditation.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+							<h1>Meditation</h1>
+							<p style="margin-bottom: 50px;">Successful meditation studios and businesses use scheduling software to streamline their business operations and increase revenue. Booking systems make running a meditation coaching class business smooth and easy.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+				<a href="/business/modelling-agencies">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="modelling-agencies" src="/webassets/2021/img/icons/industries/modeling-agencies.svg" style="height: 60px;"></span></span>
+						</div>
+						<div>
+							<h1>Modelling Agencies</h1>
+							<p style="margin-bottom: 30px;">Picktime allows you to see everything happening in your agency with just a few clicks. All the tools you need to manage all aspects of your modeling agency are in one place and set yourself apart from competitors and scale your business.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+				<a href="/business/moving-truck-rental">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="moving-truck-rental" src="/webassets/2021/img/icons/industries/moving-truck-rental.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+				 			<h1>Moving Truck rental</h1>
+							<p style="margin-bottom: 50px;">Picktime is a tool that makes booking much easier for your customers and less work for you. Why worry about managing reservations when you can have Picktime handle all the truck and staff management.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+				<a href="/business/music-classes">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Music Classes" src="/webassets/2021/img/icons/industries/music-classes.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+							<h1>Music Classes</h1>
+							<p style="margin-bottom: 50px;">Get the music lesson scheduling software for your music school to easily manage students' lesson schedules and payments. Schedule Music Class Registrations with our powerful booking software!</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+				<a href="/business/ngo">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="NGO" src="/webassets/2021/img/icons/industries/ngo.svg" style="height: 60px;"></span></span>
+						</div>
+						<div>
+							<h1>NGO</h1>
+							<p>Meetings are essential to nail down decisions and work together as a team. Our NGO meeting scheduling software lets you get the most out of your meetings with an easy prep workflow. Save time with the ability to collaborate effectively with any meeting or event.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+				<a href="/business/nursing">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Nursing" src="/webassets/2021/img/icons/industries/nursing.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+				 			<h1>Nursing</h1>
+							<p>Schedule nursing appointments more efficiently, reduce no-shows, improve customer service, decrease costs. Our software securely stores all information so medical staff can access it quickly.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+				<a href="/business/nutrition">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Nutrition" src="/webassets/2021/img/icons/industries/nutritionist.svg" style="height: 50px;"></span></span>
+						</div>
+						<div>
+							<h1>Nutrition</h1>
+							<p>Nutrition industry is ever-growing business, and it's often hard to schedule appointments on time. If you're a dietician, try out this web-based scheduler for scheduling appointments and managing staff.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<!-- <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+				<a href="/business/government">
+					<div class="unit-4 d-block">
+						<div class="unit-4-icon mb-3">
+							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="EXTRA" src="/webassets/2021/img/icons/industries/florist.svg" style="height: 60px;"></span></span>
+						</div>
+						<div>
+							<h1>EXTRA</h1>
+							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+						</div>
+					</div>
+				</a>
+			</div> -->
+			<!--  new cards end -->
 		</div>
 	</div>
 	<jsp:include page="scheduling-software/website-new-footer.jsp"/>

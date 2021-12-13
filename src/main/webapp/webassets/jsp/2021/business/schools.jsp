@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>School Appointment And Class Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software for school management with class scheduling, fee collection, invoicing, productivity reporting, and staff management.">
+    <meta name="description" content="Picktime helps your school run smoothly and increases revenue through a fully managed web class booking system. Each school has different needs, and you can customize your class booking page to your requirements.">
     <meta name="keywords" content="schools scheduling software, scheduling software for schools,  scheduling software for schools free, scheduling software for driving schools, high school scheduling software, 
     class booking software, online classes booking software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, 
     free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, 

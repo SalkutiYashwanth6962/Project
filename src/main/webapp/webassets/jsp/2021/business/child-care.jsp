@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Child Care Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software for childcare management with staff handling, attendance tracking, payments, invoicing, reminders, and business reporting.">
+    <meta name="description" content="We help you run a successful child care business. It gives you modern cloud software business tools that you need to run your day-to-day operation, scheduling, billing, and staff management.">
     <meta name="keywords" content="child care scheduling software, child care staff scheduling software, child care employee scheduling software, child care schedule software, free child care scheduling software, 
     free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, 
     online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, 
@@ -63,7 +63,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="Child care Staff Management" src="/webassets/2021/img/team-management.svg"> </div>
+	      			<div class="i-img"> <img alt="Child care Staff Management" src="/webassets/2021/img/icons/features/staff_icon.svg"> </div>
 		       		<h3>Staff Management</h3>
 		       		<p>An organized staff management system for handling staff schedules, leaves, and salary calculations</p>
 		       	</div>

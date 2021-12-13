@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Embassies and Consulates Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="A free 24/7 appointment scheduling software for embassies and consulates to serve the people better. Includes meeting reminders, fee payment, invoicing & staff management.">
+    <meta name="description" content="Picktime offers a complete booking workflow for your embassy or consulate meeting, saving time and money, making it quicker and easier to organise sessions at the embassy. Picktime is a flexible and secure booking system that's simple to implement and use.">
     <meta name="keywords" content="embassies and consulates appointment scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, 
     best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, 
     online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, online booking software, online scheduling tools best online scheduling tool">	
@@ -54,7 +54,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		       		<div class="i-img"> <img alt="embassies staff management" src="/webassets/2021/img/team-management.svg"> </div>
+		       		<div class="i-img"> <img alt="embassies staff management" src="/webassets/2021/img/icons/features/staff_icon.svg"> </div>
 			       	<h3>Staff Management</h3>
 			       	<p>Add your staff to the business account, track their availability and allocate resources for services</p>
 			      </div> 	

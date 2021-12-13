@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Universities Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="An online appointment scheduling software designed for universities to reduce admin work, schedule classes, accept payments, manage staff & send class reminders. ">
+    <meta name="description" content="Class schedules are never easy to manage, especially on university campuses where classes, instructors, and registration deadlines constantly change. Picktime makes  it easier for both professors and students to schedule and manage their classes.">
     <meta name="keywords" content="universities scheduling software, scheduling software for universities, course scheduling software for universities, university scheduling software free, university course scheduling software, university class scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, 
     free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, 
     free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, online booking software, online scheduling tools best online scheduling tool">	
@@ -54,14 +54,14 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		       		<div class="i-img"> <img alt="university staff management" src="/webassets/2021/img/team-management.svg"> </div>
+		       		<div class="i-img"> <img alt="university staff management" src="/webassets/2021/img/icons/features/staff_icon.svg"> </div>
 			       	<h3>Staff Management</h3>
 			       	<p>Manage personal data, booking history, fees payments and work schedule of staff through one holistic system</p>
 			      </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="Personalized booking page for university staffs" src="/webassets/2021/img/icons/features/Booking-Froms_icon.svg"> </div>
+	      			<div class="i-img"> <img alt="Personalized booking page for university staffs" src="/webassets/2021/img/icons/features/Online-Bookings_icon.svg"> </div>
 		       		<h3>Custom Online Booking Page</h3>
 		       		<p>Allow self-scheduling of classes for students through the custom-built online booking page of your university</p>
 		       	</div>
@@ -106,7 +106,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Download detailed reports from your dashboard on total classes booked, student attendance, staff performance, and student performance level.  You can also export, print and email these reports.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="online class attendess reports" src="/webassets/2021/img/business/beauty-salon-reports.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="online class attendess reports" src="/webassets/2021/img/business/beauty-salon-reports.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

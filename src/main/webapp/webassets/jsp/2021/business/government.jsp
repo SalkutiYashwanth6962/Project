@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Government Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software designed for government officials, including virtual meetings, payments, invoicing, reminders, and staff management.">
+    <meta name="description" content="Picktime is a cloud-based application that optimizes the paperless process of making government appointments. Picktime makes it possible for government officials to schedule and manage appointments online with the public.">
     <meta name="keywords" content="government officials appointment booking software, government officials management software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
 	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
 	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, online booking software, online scheduling tools best online scheduling tool">
@@ -61,7 +61,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="Government Staff Management" src="/webassets/2021/img/team-management.svg"> </div>
+	      			<div class="i-img"> <img alt="Government Staff Management" src="/webassets/2021/img/icons/features/staff_icon.svg"> </div>
 		       		<h3>Staff Management</h3>
 		       		<p>Monitor your employees' schedules and empower them with tools for providing quicker service</p>
 		       	</div>
@@ -79,7 +79,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Offer virtual appointments to people/clients via Zoom and Google Meet for understanding their concerns and avoiding overcrowding at offices. People will receive the meeting link in the booking confirmation email.</p>
 			</div>
 			<div class="col-md-6">
-       			<img alt="virtual meetings with officials" src="/webassets/2021/img/business/gym-virtual-fitness-trainning.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+       			<img alt="virtual meetings with officials" src="/webassets/2021/img/business/gym-virtual-fitness-trainning.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	    	</div>
 		</div>
 	</div>

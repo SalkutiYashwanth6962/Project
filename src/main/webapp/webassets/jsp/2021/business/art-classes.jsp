@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Art Classes Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software for art classes packed with benefits of group and private class bookings, automated class reminders, fee payment, invoicing, attendance tracking, performance reporting, student and staff management.">
+    <meta name="description" content="Picktime helps art studios to manage their classes schedules & Students receive payments online & print Receipts. Picktime makes booking art classes easy, making it simple for anyone to take their first art class.">
     <meta name="keywords" content="Art Classes Scheduling Software, classroom management software, online class management software, course management software, class attendance software, online class management system, coaching institute management software, free classroom management software, 
     software product management course, coaching class management software, class management app, best classroom management software, free online classroom management system, online classroom management system, best coaching class management software, coaching institute management system, 
     free class management software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, 
@@ -63,7 +63,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="Staff Management for Art classes" src="/webassets/2021/img/team-management.svg"> </div>
+	      			<div class="i-img"> <img alt="Staff Management for Art classes" src="/webassets/2021/img/icons/features/staff_icon.svg"> </div>
 		       		<h3>Staff Management</h3>
 					<p>Maintain your employee’s database and work schedule with a simple staff management system</p>
 		       	</div>

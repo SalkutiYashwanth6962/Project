@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Financial Services Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="An all-rounder online appointment scheduling app with calendar services, payments, invoicing, automated reminders and team management for financial service providers">
+    <meta name="description" content="Picktime enables managers to plan confidently, manage and control the client meetings in their financial service business. It allows staff to manage daily meetings, events, and staff training schedules with ease.">
     <meta name="keywords" content="financial services scheduling software, online appointment scheduling for financial services, insurance companies, Financial Scheduling Software, banking scheduling software, bank appointment scheduling software, 
     scheduling tool financial, scheduling software financial advisors, free scheduling software for call centers, best call center scheduling software, call center scheduling and forecasting software, free online appointment scheduling software, 
     free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, 
@@ -56,14 +56,14 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		       		<div class="i-img"> <img alt="manage your financial clients" src="/webassets/2021/img/team-management.svg"> </div>
+		       		<div class="i-img"> <img alt="manage your financial clients" src="/webassets/2021/img/icons/features/Manage-customer_icon.svg"> </div>
 			       	<h3>Customer Management</h3>
 			       	<p>Safely store your customer data & booking and payment history using our booking management app</p>
 			      </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="create virtual meetings" src="/webassets/2021/img/icons/features/Booking-Froms_icon.svg"> </div>
+	      			<div class="i-img"> <img alt="create virtual meetings" src="/webassets/2021/img/icons/features/Virtual-meetings_icon.svg"> </div>
 		       		<h3>Virtual Meetings</h3>
 		       		<p>Advise clients remotely through video conferencing platform integrations like Zoom and Google Meet</p>
 		       	</div>
@@ -88,7 +88,7 @@
 	<div class="sec-four">
 		<div class="container">
 			<div class="col-md-6 hidden-xs hidden-sm">
-		   		<img alt="manage all your staff in one software" src="/webassets/2021/img/business/gym-virtual-fitness-trainning.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100" style="margin-top: 65px;">
+		   		<img alt="manage all your staff in one software" src="/webassets/2021/img/business/meeting-rooms-staff-management.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100" style="margin-top: 65px;">
 			</div>
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">STAFF MANAGEMENT</h3>
@@ -96,7 +96,7 @@
             	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Sync your online calendar with your staff’s calendar to stay in the loop with their schedule, and save their contact data and appointment history in the cloud using a single staff & appointment management system.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
-	   			<img alt="manage all your staff in one software" src="/webassets/2021/img/business/gym-virtual-fitness-trainning.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+	   			<img alt="manage all your staff in one software" src="/webassets/2021/img/business/meeting-rooms-staff-management.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 			</div>
 		</div>
 	</div>
@@ -108,7 +108,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Want to know about your monthly or weekly performance and progress? Download, export, print and email insightful reports on your financial services from your dashboard.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="Generate appointments booking reports" src="/webassets/2021/img/business/beauty-salon-reminders.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="Generate appointments booking reports" src="/webassets/2021/img/business/tutoring-lessons-reports.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

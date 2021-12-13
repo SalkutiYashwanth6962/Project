@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Fitness Classes Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Picktime is a free fitness training online appointment and class booking software which lets your customers book their sessions online. you can also customize your business page where your customers can book their appointments online. Your customers can make bookings just the way they want.">
+    <meta name="description" content="Scheduling fitness classes is not easy, but it doesn't have to be complicated. Find the right fitness class management solution for your gym or studio. See your fitness classes fill automatically">
 	<meta name="keywords" content="fitness class scheduling software, fitness class scheduling app, fitness class software, gym scheduling software, fitness scheduling software, fitness scheduling app, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
 	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
 	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,

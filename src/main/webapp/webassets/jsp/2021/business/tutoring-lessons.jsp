@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Tutoring Lessons Appointment  Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software for tutoring businesses summed up with reminders, fee collection, invoicing, performance metrics, and student management.">
+    <meta name="description" content="Let our scheduling software handle your tutoring classes, workshops, or any other appointments.  Picktime simplifies and automates the process of scheduling and attending tutoring classes. It also allows the administration to manage the tutors more efficiently.">
     <meta name="keywords" content="Tutoring Lessons Scheduling Software, Tutor Scheduling Software for tutoring business, Tutoring Lessons Appointment Scheduler, Best Tutoring Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
 	<meta property="og:title" content="Tutoring-class Appointment  Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>
@@ -78,7 +78,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Schedule online tutoring lessons via the Zoom and Google Meet integration for students who are out of town.Students will receive their online class link in their booking confirmation email.</p>
 			</div>
 			<div class="col-md-6">
-       			<img alt="schedule Tutoring virtual classes" src="/webassets/2021/img/business/gym-virtual-fitness-trainning.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+       			<img alt="schedule Tutoring virtual classes" src="/webassets/2021/img/business/gym-virtual-fitness-trainning.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	    	</div>
 		</div>
 	</div>

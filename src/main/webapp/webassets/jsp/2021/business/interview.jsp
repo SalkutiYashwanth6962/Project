@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Interview scheduling Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="An online appointment scheduling software with calendar service for recruiters to schedule interviews, monitor resources and staff schedule & send meeting reminders.">
+    <meta name="description" content="Picktime brings you a perfect solution for managing interviews with candidates. Picktime allows you to schedule interviews, manage scheduling conflicts and give you visibility on the interviewer's availability across your organization.">
     <meta name="keywords" content="interview scheduling software, interview scheduling, interview schedule tool, interview scheduling tools, interview scheduling tool, interview scheduling software free, interview scheduling app, best interview scheduling software, online interview scheduling software, 
     automated interview scheduling software, interview scheduling platform, free online interview scheduling software, top interview scheduling software, hr interview scheduling software, interview scheduling apps, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, 
     free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, 
@@ -50,14 +50,14 @@
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 		        	<div class="i-img text-center"> <img alt="schedule all your interviews in online calender" src="/webassets/2021/img/icons/features/Calendar_icon.svg"> </div>
 			       	<h3>Online Calendar</h3>
-			       	<p>Schedule interviews right from your calendar and monitor your interviewer's availability</p>
+			       	<p>Schedule interviews right from your calendar and monitor your interviewer's availability &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 			    </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		       		<div class="i-img"> <img alt="manage all your interview candidates " src="/webassets/2021/img/team-management.svg"> </div>
+		       		<div class="i-img"> <img alt="manage all your interview candidates " src="/webassets/2021/img/icons/features/Manage-customer_icon.svg"> </div>
 			       	<h3>Candidate Management</h3>
-			       	<p>Store unlimited candidate information and manage their bookings using a single system</p>
+			       	<p>Store unlimited candidate information and manage their bookings using a single system &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 			      </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">

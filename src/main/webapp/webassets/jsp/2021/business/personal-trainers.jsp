@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Personal Trainers Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="An appointment scheduling software for personal trainers with class bookings, student & staff management, alerts, fee payment & invoicing. No installation needed! ">
+    <meta name="description" content="Picktime helps personal trainers to grow their training business by providing an online booking system, payment gateway, and with all your favorite apps. Stay focused on your clients while your business management is automated.">
     <meta name="keywords" content="personal training appointment scheduler, personal trainer appointment app, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
 	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
 	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
@@ -55,7 +55,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		       		<div class="i-img"> <img alt="personal trainer online class management" src="/webassets/2021/img/team-management.svg"> </div>
+		       		<div class="i-img"> <img alt="personal trainer online class management" src="/webassets/2021/img/What-is-picktime-group-booking.svg"> </div>
 			       	<h3>Class Management</h3>
 			       	<p>Organize regular training classes and coordinate bookings with instructors and students in one place</p>
 			      </div> 	

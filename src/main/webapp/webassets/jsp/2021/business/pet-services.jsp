@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Pet Services Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software for pet service businesses with customer and staff management, online payments, invoicing, and business reporting.">
+    <meta name="description" content="Picktime allows you to manage all aspects of your pet care business! From marketing and scheduling to automating billing and tracking your team's time. Get the most out of the money and time you invest in your pet care business with Picktime.">
     <meta name="keywords" content="pet services scheduling software, pet sitter scheduling software, pet care management software, pet care industry software, pet care business software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, 
     free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, 
     online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, 
@@ -62,7 +62,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="Pet Services Staff Management" src="/webassets/2021/img/team-management.svg"> </div>
+	      			<div class="i-img"> <img alt="Pet Services Staff Management" src="/webassets/2021/img/icons/features/staff_icon.svg"> </div>
 		       		<h3>Staff Management</h3>
 		       		<p>A holistic staff management system for handling staff contact details, work schedules, and assigned jobs</p>
 		       	</div>
@@ -107,7 +107,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Allow customers to make advanced online payments with credit/debit cards or payment processors like PayPal, or Stripe. Generate digital invoices in a click and email them to your customers.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="Generate invoice and take payments online" src="/webassets/2021/img/business/spa-payments.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="Generate invoice and take payments online" src="/webassets/2021/img/business/spa-payments.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

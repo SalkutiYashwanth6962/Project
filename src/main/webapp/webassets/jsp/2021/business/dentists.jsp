@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Dentist Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="An appointment scheduling software designed for dentists to help with patient appointment bookings and clinic management. Includes reminders, fee payment & invoicing. No installation needed!">
+    <meta name="description" content="User friendly and intuitive appointment booking and management solution for your dental practice. Picktime allows dentists to manage their online presence, multiple offices, staff, and patient appointments from one dashboard.">
     <meta name="keywords" content="dentist appointment scheduling software, dental appointment scheduling software, dentist appointment software, dentist appointment app, dental appointment management system, appointment scheduling software for dental office, dentist office scheduling software, free dental appointment scheduling software, dental appointment software, dental booking software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
 	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
 	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
@@ -107,7 +107,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">While you focus on patient satisfaction, set up automated email and text appointment reminders to ensure that your patients do not miss any appointments.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="automatic patient reminders" src="/webassets/2021/img/business/acupuncture-reminders.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="automatic patient reminders" src="/webassets/2021/img/business/acupuncture-reminders.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

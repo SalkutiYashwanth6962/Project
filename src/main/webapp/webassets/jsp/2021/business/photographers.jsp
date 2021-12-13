@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Photographers Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software for photographers, including payments, invoicing, business analytics, studio schedules, team and customer management.">
+    <meta name="description" content="Picktime is simple, affordable photographers appointment booking software used by small to medium-sized studios, wedding photographers, and other creative firms to simplify client services & staffing efficiencies.">
     <meta name="keywords" content="photography booking software, photography scheduling app, mini session booking software, online booking system for photographers, scheduling app for photographers, booking software for photographers, free online booking system for photographers, 
     free mini session booking software, photographers scheduling software, photography scheduling software free, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, 
     best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, 

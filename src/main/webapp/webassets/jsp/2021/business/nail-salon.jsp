@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Nail Salon Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software designed for nail salons to facilitate online payments, invoicing, business reporting, customer and team management.">
+    <meta name="description" content="Nail salon business owners can now manage their business effectively with Picktime, which lets them efficiently manage time availability and appointments. It will help develop more customer loyalty, reach, revenue, and more!">
     <meta name="keywords" content="nail salon appointment app, nail salon booking app, nail salon appointment software, nail salon scheduling software, nail salon booking system, nail salon booking software, 
     free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, 
     online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, 

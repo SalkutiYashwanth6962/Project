@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Parent Meeting Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="A free 24/7 online appointment scheduling software for parent-teacher meetings with staff management, automated reminders, and downloadable reports.">
+    <meta name="description" content="A cloud-based app for scheduling parent-teacher conferences in your school or college. Picktime eliminates the hassle of scheduling teacher meetings by allowing parents to book their ideal slots.">
   	<meta name="keywords" content="Parent meetings Scheduling Software, schedule parent-teacher meetings using an easy software, best online scheduling tool, online parent teacher meeting, online tools for parent teacher meeting, virtual parent teacher meeting, web tools for parent teacher meeting, parent-teacher conferences, 
     free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, 
     online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, online booking software, online scheduling tools">
@@ -61,7 +61,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="Staff Management for Parent meetings" src="/webassets/2021/img/team-management.svg"> </div>
+	      			<div class="i-img"> <img alt="Staff Management for Parent meetings" src="/webassets/2021/img/icons/features/staff_icon.svg"> </div>
 		       		<h3>Staff Management</h3>
 		       		<p>A comprehensive staff management system for monitoring staff work schedules and leaves</p>
 		       	</div>

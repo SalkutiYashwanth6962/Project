@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Spa Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software meant for your spa business with online payments, invoicing, business reporting, customer and team management.">
+    <meta name="description" content="Picktime is a web-based spa appointment scheduling software system for your business management needs. Grow your loyal customer base by making scheduling appointments easy.">
     <meta name="keywords" content="spa appointment scheduling software, spa scheduling software, spa appointment software, spa appointment booking software, spa booking software, spa and salon management software, online spa booking software, spa online scheduling software, best spa booking software, online spa scheduling software, 
 	free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
 	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
@@ -108,7 +108,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">There’s no need to rely on a cashier to manage your revenue. Take payments from your clients/customers directly through integrated payment processors or credit cards and debit cards.</p>
 			</div>
 			<div class="col-md-6">
-				<img alt="spa booking payments" src="/webassets/2021/img/business/spa-payments.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+				<img alt="spa booking payments" src="/webassets/2021/img/business/spa-payments.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
    			</div>
 		</div>
 	</div>

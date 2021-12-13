@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>physiologists Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Online appointment scheduling software for physiologists to handle patients, staff & clinic. Includes perks of reminders, payments & invoicing for easy work management.">
+    <meta name="description" content="Picktime is the all-in-one software solution for physio offices, relieving you of tedious physiologist administrative tasks. It helps physiologists manage their practices in many facets of their appointment booking process.">
     <meta name="keywords" content="physiologist appointment scheduling software, medical office appointment scheduling software, appointment scheduling software for medical office, Doctor office management software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
 	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
 	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
@@ -55,7 +55,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		       		<div class="i-img"> <img alt="automatic reminders for patients" src="/webassets/2021/img/icons/features/aviod-no-show_icon.svg"> </div>
+		       		<div class="i-img"> <img alt="appointment notifications to patients" src="/webassets/2021/img/icons/features/aviod-no-show_icon.svg"> </div>
 			       	<h3>Avoid No-shows</h3>
 			       	<p>Send automatic emails and SMS reminders to patients to reduce appointment cancellations and no-shows</p>
 			      </div> 	
@@ -107,7 +107,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">No matter where you are located, effortlessly manage your staff schedules, appointments, payments, and clinical equipment at all your office locations through a single dashboard!</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="manage multiple location clinics" src="/webassets/2021/img/business/hair-salon-multiple-location-management.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="manage multiple location clinics" src="/webassets/2021/img/business/hair-salon-multiple-location-management.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

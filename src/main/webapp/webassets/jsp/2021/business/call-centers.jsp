@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Call Centers Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software for call centers with automated reminders, payments, invoicing, revenue reporting, and team management.">
+    <meta name="description" content="No more calls for meetings at random times. Schedule meetings for meaningful chats with your team, clients, and prospects. Picktime is a fully integrated call center scheduling and workforce management software that enables organizations to minimize costs and maximize productivity.">
     <meta name="keywords" content="call centers scheduling software, call center management software, call center scheduler, call center scheduling software, scheduling software for call centers, 
     call center system software, call center scheduling tools, call center scheduling software free, call center staffing software, call center employee scheduling software, free scheduling software for call centers, 
     best call center scheduling software, call center scheduling and forecasting software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, 
@@ -53,19 +53,19 @@
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 		        	<div class="i-img text-center"> <img alt="Online Calendar for call centers" src="/webassets/2021/img/icons/features/Calendar_icon.svg"> </div>
 			       	<h3>Online Calendar</h3>
-			       	<p>Use the online calendar to view your work schedule, appointments, and availability</p>
+			       	<p>Use the online calendar to view your work schedule, appointments, and availability &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 			    </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 		       		<div class="i-img"> <img alt="Public booking Page for call centers" src="/webassets/2021/img/icons/features/Online-Bookings_icon.svg"> </div>
-			       	<h3>Public booking Page</h3>
+			       	<h3>Public Booking Page</h3>
 			       	<p>Customers can make appointments through a customizable 24/7 online booking page</p>
 			      </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="call centers Staff Management" src="/webassets/2021/img/team-management.svg"> </div>
+	      			<div class="i-img"> <img alt="call centers Staff Management" src="/webassets/2021/img/icons/features/staff_icon.svg"> </div>
 		       		<h3>Staff Management</h3>
 		       		<p>A holistic staff management system for tracking your employee’s shifts, leaves, and assigned services with their bookings</p>
 		       	</div>

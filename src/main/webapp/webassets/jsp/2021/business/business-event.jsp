@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Business Events Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Plan business events with this free online appointment scheduling software, that includes seat booking, reminders, payments, invoices, resource and team management.">
+    <meta name="description" content="Picktime offers a unique and simple way to book business events. Our software allows venue owners and hosts to manage event bookings in the cloud. We are a leading provider of secure online booking management for event organizers.">
      <meta name="keywords" content="business events booking management software, business event scheduling software, events scheduling software, scheduling software for events, manage event scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, 
     online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, 
     online booking software, online scheduling tools, best online scheduling tool, meeting scheduling software, day planner software, free online booking system for events, meeting booking software, event scheduling app, best meeting scheduling app, conference scheduling software, free event booking system, meeting booking system, conference booking software, free online meeting scheduling tool, tournament scheduling software, event scheduling tool, 
@@ -57,13 +57,13 @@
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 		       		<div class="i-img"> <img alt="Public booking Page for Business events" src="/webassets/2021/img/icons/features/Online-Bookings_icon.svg"> </div>
-			       	<h3>Public booking Page</h3>
+			       	<h3>Public Booking Page</h3>
 			       	<p>Let interested people self-book seats via your customized online booking page</p>
 			      </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="Business Events Staff Management" src="/webassets/2021/img/team-management.svg"> </div>
+	      			<div class="i-img"> <img alt="Business Events Staff Management" src="/webassets/2021/img/icons/features/staff_icon.svg"> </div>
 		       		<h3>Staff Management</h3>
 		       		<p>An easy-to-use staff management tool for managing staff schedules and availability</p>
 		       	</div>
@@ -108,7 +108,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Visitors can make advanced online payments through credit/debit cards, or payment processors such as PayPal, Stripe, or Square for booking seats at your event.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="Take event booking payments" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="Take event booking payments" src="/webassets/2021/img/business/medical-advance-payment.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

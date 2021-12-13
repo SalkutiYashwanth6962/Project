@@ -35,7 +35,49 @@
      
     <jsp:include page="scheduling-software/website-new-headtag.jsp" />
     <style type="text/css">
-   
+	   .billing-cycle{
+			display: inline-block;
+		    border: solid 1px #ccc;
+		    line-height: 14px;
+		    border-radius: 3px;
+		    cursor: pointer !important;
+		    position: absolute;
+		    margin-top: 7px;
+		    margin-left: 5px;
+		}
+		.billing-cycle-month.pro, .billing-cycle-month.starter{
+		    line-height: 22px;
+		    display: inline-block;
+		    /* width: 25px; */
+		    text-align: center;
+		    padding: 0px 5px 0px 5px;
+		}
+		.billing-cycle-year.pro, .billing-cycle-year.starter{
+			line-height: 22px;
+		    display: inline-block;
+		    /* width: 25px; */
+		    text-align: center;
+		    padding: 0px 5px 0px 5px;
+		}
+		.selected-cycle{
+			background: #6d5687;
+		    color: #fff;
+		    cursor: pointer;
+		}
+		.non-selected-cycle{
+			background: none;
+		    color: #929292;
+		    cursor: pointer;
+		}
+		.strike-price{
+		 	font-size: 20px;
+			text-decoration-color:red;
+			text-decoration-line:line-through;
+		}
+		.non-strike-price{
+			text-decoration-color:none;
+			text-decoration-line:none;
+		}
     </style>
 </head>
 <body>
@@ -52,7 +94,7 @@
 				<div class="card mb-5 mb-lg-0">
 					<div class="card-body">
 						<h3 class="card-title text-uppercase">Free</h3>
-						<h4 class="card-price">$0.00<span class="period">/mo</span></h4>
+						<h4 class="card-price">$0.00<span class="period"></span></h4>
 						<ul>
 							<li>3 Team Members</li>
 							<li>3 Resources</li>
@@ -73,7 +115,19 @@
 				<div class="card mb-5 mb-lg-0">
 					<div class="card-body">
 						<h3 class="card-title text-uppercase">Starter</h3>
-						<h4 class="card-price">$9.99<span class="period">/mo</span></h4>
+						<!-- <h4 class="card-price">$9.99<span class="period">/mo</span></h4> -->
+						<div class="rupess">
+							<b>
+								<label class='plan-price rupess' style="font-size: 25px;font-weight: bold;">
+									<span class='starter-price' ></span>
+									<span class='starter-discount-price' >&#36; 9.99</span>
+								</label>/
+								<span class="billing-cycle" >
+									<span class="billing-cycle-month starter mo selected-cycle" onclick="changeCycle('startermonth')" >month</span>
+									<span class="billing-cycle-year starter mo non-selected-cycle" onclick="changeCycle('starteryear')" >year</span>
+								</span>
+							</b>
+						</div>
 						<ul>
 							<li>3 Team Members</li>
 							<li>3 Resources</li>
@@ -98,7 +152,19 @@
 				<div class="card mb-5 mb-lg-0">
 					<div class="card-body">
 						<h3 class="card-title text-uppercase">Pro</h3>
-						<h4 class="card-price">$19.99<span class="period">/mo</span></h4>
+						<!-- <h4 class="card-price">$19.99<span class="period">/mo</span></h4> -->
+						<div class="rupess">
+							<b>
+								<label class='plan-price rupess' style="font-size: 25px;font-weight: bold;">
+									<span class='pro-price'></span>
+									<span class='pro-discount-price'>&#36; 19.99</span>
+								</label>/
+								<span class="billing-cycle" >
+									<span class="billing-cycle-month pro mo selected-cycle" onclick="changeCycle('promonth')" >month</span>
+									<span class="billing-cycle-year pro mo non-selected-cycle" onclick="changeCycle('proyear')" >year</span>
+								</span>
+							</b>
+						</div>
 						<div class="card-bold-text">Everything you get with Starter</div>
 						<ul>
 							<li>20 Team Members</li>
@@ -457,4 +523,82 @@
 	</div>
 	<jsp:include page="scheduling-software/website-new-footer.jsp"/> 
 </body>
+<script type="text/javascript">
+
+function changeCycle(cycle)
+{
+	if(cycle == 'starteryear')
+	{
+		var yearElement = document.getElementsByClassName("billing-cycle-year starter mo non-selected-cycle")[0];
+		yearElement.classList.remove("non-selected-cycle");
+		yearElement.classList.add("selected-cycle");
+		
+		var monthElement = document.getElementsByClassName("billing-cycle-month starter mo selected-cycle")[0];
+		monthElement.classList.remove("selected-cycle");
+		monthElement.classList.add("non-selected-cycle");
+		
+		var starterDiscountPriceElement = document.getElementsByClassName("starter-discount-price")[0];
+		var starterPriceElement = document.getElementsByClassName("starter-price")[0];
+		
+		starterDiscountPriceElement.innerHTML = '&#36; 99.90';
+		starterPriceElement.innerHTML = '&#36; 119.88';
+		starterPriceElement.classList.remove("non-strike-price");
+		starterPriceElement.classList.add("strike-price");
+	}
+	else if(cycle == 'startermonth')
+	{
+		var monthElement = document.getElementsByClassName("billing-cycle-month starter mo non-selected-cycle")[0];
+		monthElement.classList.remove("non-selected-cycle");
+		monthElement.classList.add("selected-cycle");
+		
+		var yearElement = document.getElementsByClassName("billing-cycle-year starter mo selected-cycle")[0];
+		yearElement.classList.remove("selected-cycle");
+		yearElement.classList.add("non-selected-cycle");
+		
+		var starterDiscountPriceElement = document.getElementsByClassName("starter-discount-price")[0];
+		var starterPriceElement = document.getElementsByClassName("starter-price")[0];
+		
+		starterDiscountPriceElement.innerHTML = '&#36; 9.99';
+		starterPriceElement.innerHTML = '';
+		starterPriceElement.classList.remove("strike-price");
+		starterPriceElement.classList.add("non-strike-price");
+	}
+	else if(cycle == 'proyear')
+	{
+		var yearElement = document.getElementsByClassName("billing-cycle-year pro mo non-selected-cycle")[0];
+		yearElement.classList.remove("non-selected-cycle");
+		yearElement.classList.add("selected-cycle");
+		
+		var monthElement = document.getElementsByClassName("billing-cycle-month pro mo selected-cycle")[0];
+		monthElement.classList.remove("selected-cycle");
+		monthElement.classList.add("non-selected-cycle");
+		
+		var starterDiscountPriceElement = document.getElementsByClassName("pro-discount-price")[0];
+		var starterPriceElement = document.getElementsByClassName("pro-price")[0];
+		
+		starterDiscountPriceElement.innerHTML = '&#36; 199.90';
+		starterPriceElement.innerHTML = '&#36; 239.88';
+		starterPriceElement.classList.remove("non-strike-price");
+		starterPriceElement.classList.add("strike-price");
+	}
+	else if(cycle == 'promonth')
+	{
+		var monthElement = document.getElementsByClassName("billing-cycle-month pro mo non-selected-cycle")[0];
+		monthElement.classList.remove("non-selected-cycle");
+		monthElement.classList.add("selected-cycle");
+		
+		var yearElement = document.getElementsByClassName("billing-cycle-year pro mo selected-cycle")[0];
+		yearElement.classList.remove("selected-cycle");
+		yearElement.classList.add("non-selected-cycle");
+		
+		var starterDiscountPriceElement = document.getElementsByClassName("pro-discount-price")[0];
+		var starterPriceElement = document.getElementsByClassName("pro-price")[0];
+		
+		starterDiscountPriceElement.innerHTML = '&#36; 19.99';
+		starterPriceElement.innerHTML = '';
+		starterPriceElement.classList.remove("strike-price");
+		starterPriceElement.classList.add("non-strike-price");
+	}
+}
+</script>
 </html>

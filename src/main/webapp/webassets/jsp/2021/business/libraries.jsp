@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Libraries Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="A free 24/7 online appointment scheduling & booking management software for libraries with customer & staff management, payments, invoicing, automated return reminders.">
+    <meta name="description" content="Maximize availability of resources. Save time on circulation tasks. Increase students' and teachers' satisfaction by automating your library with centralized library scheduling and management software.">
     <meta name="keywords" content="library management system, online library management system, library management system software, library management system website, free library management system, digital library management system, 
     web based library management system, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, 
     online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, 

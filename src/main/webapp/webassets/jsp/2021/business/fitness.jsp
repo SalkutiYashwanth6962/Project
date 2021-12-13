@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Fitness Class Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Book fitness classes online with this free online appointment scheduling software with features of fee payment, invoicing, business reporting, and trainer management.">
+    <meta name="description" content="Scheduling fitness classes is not easy, but it doesn't have to be complicated. Find the right fitness class management solution for your gym or studio. See your fitness classes fill automatically">
     <meta name="keywords" content="fitness class scheduling software, fitness class scheduling app, fitness class software, gym scheduling software, fitness scheduling software, fitness scheduling app, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
 	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
 	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
@@ -35,7 +35,7 @@
 	<section class="sec-first">
  		<div class="container">
 			<div class="col-md-6 ">
-				<h1>Worked out solutions for easy <span>fitness class management</span></h1>
+				<h1>Worked out solutions for easy <span>fitness class </span>management</h1>
 				<p>Book fitness classes online with this free online appointment scheduling software with features of fee payment, invoicing, business reporting, and trainer management.</p>
 				<a href="/register"><button class="btn-lg text-center">GET STARTED</button></a>
 			</div>
@@ -48,8 +48,8 @@
 		<div class="container text-center">
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		        	<div class="i-img text-center"> <img alt="schedule fitness classes" src="/webassets/2021/img/What-is-picktime-appointment.svg"> </div>
-			       	<h3>Online Class Schedule</h3>
+		        	<div class="i-img text-center"> <img alt="schedule fitness classes" src="/webassets/2021/img/icons/features/real-time-availability_icon.svg"> </div>
+			       	<h3>Real-time Availability</h3>
 			       	<p>Enable students to self-schedule classes based on the trainer’s real-time availability </p>
 			    </div> 	
 			</div>
@@ -107,7 +107,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Let your students pay fees while scheduling classes via credit/debit cards as well as payment processors like PayPal, Stripe and Square.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="take payments for fitness class bookings" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="take payments for fitness class bookings" src="/webassets/2021/img/business/medical-advance-payment.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

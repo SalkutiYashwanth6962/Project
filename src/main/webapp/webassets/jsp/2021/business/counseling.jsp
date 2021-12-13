@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Counseling Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="An online appointment scheduling software crafted for therapists to organize their counseling sessions. Includes patient management, reminders, payments & invoicing.">
+    <meta name="description" content="Use our counseling meeting management software that helps therapists keep track of their schedule, patients, appointments, designed to help counselors stay stress free.">
     <meta name="keywords" content="counseling scheduling software, counseling appointment scheduling software, scheduling software for counseling, therapy appointment software, online booking system for therapists, best scheduling software for therapists, free online appointment scheduling software, free appointment scheduler, 
     free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, 
     online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, online booking software, online scheduling tools, best online scheduling tool">	
@@ -47,14 +47,14 @@
 		<div class="container text-center">
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		        	<div class="i-img text-center"> <img alt="online doctor booking page" src="/webassets/2021/img/icons/features/Calendar_icon.svg"> </div>
+		        	<div class="i-img text-center"> <img alt="online counseling booking page" src="/webassets/2021/img/icons/features/Calendar_icon.svg"> </div>
 			       	<h3>Online Calendar</h3>
 			       	<p>Use the online calendar to view your time team availability & stay updated with your daily scheduled appointments</p>
 			    </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		       		<div class="i-img"> <img alt="manage multiple location centers" src="/webassets/2021/img/icons/features/aviod-no-show_icon.svg"> </div>
+		       		<div class="i-img"> <img alt="manage multiple location centers" src="/webassets/2021/img/icons/features/Multiple-location_icon.svg"> </div>
 			       	<h3>Multiple Location</h3>
 			       	<p>Track appointments, booking history & staff schedule at all your office locations with a single dashboard </p>
 			      </div> 	
@@ -79,7 +79,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Create a personalized online booking page with your brand logo, theme and booking form. Make the booking page available on your website and allow clients to directly self-book appointments through it.</p>
 			</div>
 			<div class="col-md-6">
-       			<img alt="custom appointment booking page for counselors" src="/webassets/2021/img/business/medical-custom-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+       			<img alt="custom appointment booking page for counselors" src="/webassets/2021/img/business/attorny-online-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	    	</div>
 		</div>
 	</div>

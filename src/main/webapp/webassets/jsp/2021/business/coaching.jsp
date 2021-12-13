@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Coaching Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Easy class scheduling for trainers through a 24/7 online appointment scheduling software. Simplify fee collection, reminders, invoicing, assignments & progress reporting.">
+    <meta name="description" content="Picktime is a complete web-based solution specially designed for coaching institutes to streamline their operations and monitor student progress. It helps teachers & trainers to run their classes and create their booking page.">
     <meta name="keywords" content="Coaching Scheduling Software, coach booking software, coaching class scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, 
     free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, 
     online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, online booking software, online scheduling tools, 
@@ -80,7 +80,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Students can view available class slots and self-schedule classes using a customized online booking page according to the teacher's availability. You can add the booking button on your website.</p>
 			</div>
 			<div class="col-md-6">
-       			<img alt="custom booking page for trainers" src="/webassets/2021/img/business/medical-custom-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+       			<img alt="custom booking page for trainers" src="/webassets/2021/img/business/attorny-online-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	    	</div>
 		</div>
 	</div>

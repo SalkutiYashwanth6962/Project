@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Attorney Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software for attorneys with virtual appointments, automated reminders, fee payment, invoicing, income reports, and staff management.">
+    <meta name="description" content="Picktime replaces the old system where lawyers had to call, leave a message, and hope someone would call you back. Picktime is the best attorney meeting booking software for a law firm of any size.">
     <meta name="keywords" content="law firm appointment scheduling software, attorney appointment scheduling software, online attorney appointment scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, 
     free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment 
     scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, online booking software, online scheduling tools best online scheduling tool">
@@ -61,7 +61,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="Attorney Staff Management" src="/webassets/2021/img/team-management.svg"> </div>
+	      			<div class="i-img"> <img alt="Attorney Staff Management" src="/webassets/2021/img/icons/features/staff_icon.svg"> </div>
 		       		<h3>Staff Management</h3>
 		       		<p>Tab on your staff schedules and set app permissions for them with a few clicks</p>
 		       	</div>
@@ -79,7 +79,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Eliminate the hassle of answering phone calls for scheduling appointments. Build a customized and shareable online booking page to let clients self-schedule appointments according to your availability.</p>
 			</div>
 			<div class="col-md-6">
-       			<img alt="Take booking from personalized attorney booking page." src="/webassets/2021/img/business/medical-custom-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+       			<img alt="Take booking from personalized attorney booking page." src="/webassets/2021/img/business/attorny-online-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	    	</div>
 		</div>
 	</div>

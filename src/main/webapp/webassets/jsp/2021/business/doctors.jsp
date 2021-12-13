@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Doctor Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software designed to help doctors with appointment reminders, consultation fee payment, invoicing, clinic and staff management. ">
+    <meta name="description" content="Picktime helps doctors organize patient data, schedule appointments, generate bills, and provide online appointment booking facilities to patients. Our medical practice management system can help doctor's office run fuss free.">
     <meta name="keywords" content="medical appointment scheduling software, medical appointment scheduler, medical appointment scheduling, medical office appointment scheduling software, appointment scheduling software for medical office, 
     medical appointment scheduling system, free medical appointment scheduling software, appointment scheduling software programs for medical offices, how to schedule medical appointments, medical scheduling software, 
     medical office appointment scheduling software, doctor scheduling software, medical patient scheduling software, medical office scheduling software, medical appointment software, doctor appointment software, 
@@ -39,7 +39,7 @@
  		<div class="container">
 			<div class="col-md-6 ">
 				<h1>Seamless<span> Doctor's Appointment</span> Scheduling Software</h1>
-				<p>Free online appointment scheduling software designed to help doctors with appointment reminders, consultation fee payment, invoicing, clinic and staff management. </p>
+				<p>Free online appointment scheduling software designed to help doctors with appointment reminders, consultation fee payment, invoicing, clinic and staff management.</p>
 				<a href="/register"><button class="btn-lg text-center">GET STARTED</button></a>
 			</div>
 			<div class="col-md-6">
@@ -110,7 +110,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Permit your clinic/hospital manager to schedule recurring appointments for patients based on your availability to track their health progress.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="Book repeated appointments" src="/webassets/2021/img/business/spa-recurring-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="Book repeated appointments" src="/webassets/2021/img/business/spa-recurring-booking.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

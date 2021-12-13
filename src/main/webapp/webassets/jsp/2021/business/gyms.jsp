@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Gyms Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Free online appointment scheduling software for gym classes offering class bookings, fee payment, invoicing, business reporting, equipment and staff management.">
+    <meta name="description" content="Picktime offers flexible gym management software for small to medium-sized businesses. Manage your classes, memberships, invoicing, and billing effortlessly using our system. You can run a healthy and profitable business while still offering your customers excellent service.">
   	<meta name="keywords" content="gym appointment scheduling software, gym scheduling software, gym scheduling app, gym booking software, gym scheduling software free, fitness appointment scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
 	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
 	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
@@ -62,7 +62,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="Gyms Trainer Management" src="/webassets/2021/img/icons/features/Show-open-slots_icon.svg"> </div>
+	      			<div class="i-img"> <img alt="Gyms Trainer Management" src="/webassets/2021/img/team-management.svg"> </div>
 		       		<h3>Trainer Management</h3>
 		       		<p>Simplified system of managing the appointment schedules, attendance and performance tracking of trainers</p>
 		       	</div>
@@ -107,7 +107,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Conduct gym training classes with numerous clients to encourage peer teaching and enhance client retention. Set specific duration and slot limit to your group classes.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="group gym classes" src="/webassets/2021/img/business/gyms-virtual-fitness-training.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="group gym classes" src="/webassets/2021/img/business/gyms-virtual-fitness-training.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

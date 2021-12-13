@@ -377,7 +377,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 										     <div class="s-b-img">
 											     <div class="text-center"><img src="/webassets/2021/img/icons/Financial-services_icon.svg" alt="Financial-Services-Scheduling-Software"></div>
 										     </div>
-										     <div class="s-b-title"><h3><a href="/scheduling-software/financial-services">Financial Services</a></h3></div>
+										     <div class="s-b-title"><h3><a href="/business/financial-services">Financial Services</a></h3></div>
 										     <div class="s-b-par">With the huge responsibilites like managing hard earned finances, it is important to worry less about the clerical work of your business. Enjoy free services with Picktime.</div>
 								        </div>
 						            </div>
@@ -390,7 +390,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 										     <div class="s-b-img">
 											    <div class="text-center"><img src="/webassets/2021/img/icons/legal-services_icon.svg" alt="Legal-Services-Scheduling-Software"></div>
 										     </div>
-										     <div class="s-b-title"><h3><a href="/scheduling-software/legal">Legal Services</a></h3></div>
+										     <div class="s-b-title"><h3><a href="/business/legal">Legal Services</a></h3></div>
 										     <div class="s-b-par">Maintaining a steady client base is just as important as maintaining Law. Let your clients know when you are free through our appointment booking service.</div>
 								        </div>
 						            </div>
@@ -416,7 +416,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 										     <div class="s-b-img">
 											    <div class="text-center"><img src="/webassets/2021/img/icons/Education_icon.svg" alt="Education-Scheduling-Software"></div>
 										     </div>
-										     <div class="s-b-title"><h3><a href="/scheduling-software/universities">Education</a></h3></div>
+										     <div class="s-b-title"><h3><a href="/business/universities">Education</a></h3></div>
 										     <div class="s-b-par">Do you want to know how many of your students will be attending your class today? Use Picktime for all your class bookings and appoinments. No credit cards required - Sign up for free.</div>
 								        </div>
 						            </div>
@@ -429,7 +429,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									    	<div class="s-b-img">
 										   		<div class="text-center"><img src="/webassets/2021/img/icons/Interview_icon.svg" alt="Interview-Scheduling-Software"></div>
 										    </div>
-								     		<div class="s-b-title"><h3><a href="/scheduling-software/interview">Interview Scheduling</a></h3></div>
+								     		<div class="s-b-title"><h3><a href="/business/interview">Interview Scheduling</a></h3></div>
 								     		<div class="s-b-par">Everybody wants to put their free time to better use and we understand that. Use our free and smart scheduling software that makes your managing your business faster and smoother.</div>
 						        		</div>
 					            	</div>
@@ -504,7 +504,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/Financial-services_icon.svg" alt="Financial-Services-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h3><a href="/scheduling-software/financial-services">Financial Services</a></h3></div>
+											<div class="s-b-title"><h3><a href="/business/financial-services">Financial Services</a></h3></div>
 											<div class="s-b-par">With the huge responsibilites like managing hard earned finances, it is important to worry less about the clerical work of your business. Enjoy free services with Picktime.</div>
 										</div> 
 									</div>   
@@ -515,7 +515,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/legal-services_icon.svg" alt="Legal-Services-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h3><a href="/scheduling-software/legal">Legal Services</a></h3></div>
+											<div class="s-b-title"><h3><a href="/business/legal">Legal Services</a></h3></div>
 											<div class="s-b-par">Maintaining a steady client base is just as important as maintaining Law. Let your clients know when you are free through our appointment booking service.</div>
 										</div> 
 									</div>   
@@ -541,7 +541,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/Education_icon.svg" alt="Education-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h3><a href="/scheduling-software/universities">Education</a></h3></div>
+											<div class="s-b-title"><h3><a href="/business/universities">Education</a></h3></div>
 											<div class="s-b-par">Do you want to know how many of your students will be attending your class today? Use Picktime for all your class bookings and appoinments. No credit cards required - Sign up for free.</div>
 										</div> 
 									</div>   
@@ -552,7 +552,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 											<div class="s-b-img">
 												<div class="text-center"><img src="/webassets/2021/img/icons/Interview_icon.svg" alt="Interview-Scheduling-Scheduling-Software"></div>
 											</div>
-											<div class="s-b-title"><h3><a href="/scheduling-software/interview">Interview Scheduling</a></h3></div>
+											<div class="s-b-title"><h3><a href="/business/interview">Interview Scheduling</a></h3></div>
 											<div class="s-b-par">Everybody wants to put their free time to better use and we understand that. Use our free and smart scheduling software that makes your managing your business faster and smoother.</div>
 										</div> 
 									</div>   

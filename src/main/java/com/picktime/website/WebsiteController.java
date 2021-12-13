@@ -99,7 +99,22 @@ public class WebsiteController {
 			return "2021/404";
 		}
 	}
-	
+
+	/* task-page-start */
+	@RequestMapping(value="/Task/{pageName}")
+	public String TaskPages(HttpServletRequest request,HttpServletResponse response,@PathVariable("pageName") String pageName) throws IOException
+	{
+		String view = "2021/Task/"+pageName;
+		if(isViewExists(view))
+		{
+			return view;
+		}
+		else
+		{
+			return "2021/404";
+		}
+	}
+	/* task-page-end */
 	@RequestMapping(value="/business/{pageName}")
 	public String landingPages(HttpServletRequest request,HttpServletResponse response,@PathVariable("pageName") String pageName) throws IOException
 	{
@@ -166,7 +181,9 @@ public class WebsiteController {
 	@RequestMapping(value="/legal/enduser")
 	public String enduser(HttpServletRequest request,HttpServletResponse response) throws IOException
 	{
-		return "2021/enduser";
+		response.sendRedirect("/legal/terms");
+		return null;
+//		return "2021/enduser";
 	}
 	@RequestMapping(value="/legal/gdpr")
 	public String gdpr(HttpServletRequest request,HttpServletResponse response) throws IOException

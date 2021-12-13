@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Household Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="No more calls! Behold an online appointment scheduling software for simplifying household services bookings. Enable customers to self-book appointments with payments & invoicing.">
+    <meta name="description" content="Picktime helps you book, manage, and automate your household services such as windows cleaning, floor cleaning, laundry, etc. Spend less time on administrative work and more time providing the best service to your clients.">
     <meta name="keywords" content="household services scheduling software, home services scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, 
     free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, appointment scheduling app free, 
     online booking software, online scheduling tools, best online scheduling tool">	
@@ -47,7 +47,7 @@
 		<div class="container text-center">
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		        	<div class="i-img text-center"> <img alt="online calendar for spiritual services" src="/webassets/2021/img/icons/features/Calendar_icon.svg"> </div>
+		        	<div class="i-img text-center"> <img alt="online calendar for household" src="/webassets/2021/img/icons/features/Calendar_icon.svg"> </div>
 			       	<h3>Online Calendar</h3>
 			       	<p>Access the admin calendar to track appointments & check your team availability. Create, reschedule and cancel bookings for any staff from one calendar.</p>
 			    </div> 	
@@ -56,14 +56,14 @@
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 		       		<div class="i-img"> <img alt="manage multiple location centers" src="/webassets/2021/img/icons/features/Multiple-location_icon.svg"> </div>
 			       	<h3>Multiple Locations</h3>
-			       	<p>Manage your team's schedule with a click at all your office locations from a single system.</p>
+			       	<p>Manage your team's schedule with a click at all your office locations from a single system. Streamline you multiple location management with ease.</p>
 			      </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	      			<div class="i-img"> <img alt="daily and monthly appointment reports" src="/webassets/2021/img/icons/features/Reports_icon.svg"> </div>
 		       		<h3>Reports and Analytics</h3>
-		       		<p>Get hold of analytical reports from your dashboard to measure business growth & calculate revenue</p>
+		       		<p>Get hold of analytical reports from your dashboard to measure business growth & &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; calculate revenue. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 		       	</div>
 			</div>
 			<div class="col-md-12" style="margin-top:50px;">
@@ -79,7 +79,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Cut down on the time wasted to answer phone calls for manually booking appointments. Allow your customers to self-scheduled appointments at their leisure through a personalized online booking page.</p>
 			</div>
 			<div class="col-md-6">
-       			<img alt="custom appointment booking page " src="/webassets/2021/img/business/medical-custom-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+       			<img alt="custom appointment booking page " src="/webassets/2021/img/business/attorny-online-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	    	</div>
 		</div>
 	</div>

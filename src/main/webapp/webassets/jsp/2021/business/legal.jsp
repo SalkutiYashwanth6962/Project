@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Legal Services Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="An online appointment scheduling software that empowers clients to schedule meetings, helps lawyers manage their legal team and automates payments, invoicing & reminders. ">
+    <meta name="description" content="Picktime makes meeting booking as easy as booking a hotel room. A web-based legal meeting booking software for attorneys, legal advisors, and clients. Your clients can book directly from your simple, user-friendly, and personalized booking page.">
     <meta name="keywords" content="legal appointment scheduling software, law firm appointment scheduling software, legal appointment booking software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, 
     online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, 
     appointment scheduling app free, online booking software, online scheduling tools">	
@@ -54,7 +54,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		       		<div class="i-img"> <img alt="Manage all your clients at one place" src="/webassets/2021/img/team-management.svg"> </div>
+		       		<div class="i-img"> <img alt="Manage all your clients at one place" src="/webassets/2021/img/icons/features/Manage-customer_icon.svg"> </div>
 			       	<h3>Client Management</h3>
 			       	<p>Securely save client contact details, booking history and manage payments through one admin account</p>
 			      </div> 	

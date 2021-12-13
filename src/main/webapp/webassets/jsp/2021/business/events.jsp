@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Events Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Seamless event management guaranteed with this free online appointment scheduling software including payments, invoicing, event analysis, audience and team management.">
+    <meta name="description" content="Picktime helps events & activities organizers to manage their events. Clients can book your events quickly with your clean and intuitive booking page. Picktime brings safety & convenience to organize events for groups!">
     <meta name="keywords" content="Activity and Event Scheduling Software, Event Planning and Management, Event Management Tools for Planners, Events Scheduling Software, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
 	<meta property="og:title" content="Events Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime"></meta>

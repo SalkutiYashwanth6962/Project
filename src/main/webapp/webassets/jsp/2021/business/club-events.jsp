@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Club Events Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Manage club events with this free online appointment scheduling software coupled with payments, invoicing, reminders, success analytics, resource and team management.">
+    <meta name="description" content="Picktime is a club event booking software that helps you easily organize and manage your event bookings, venues, and staff. With Picktime, you can keep track of your bookings intuitively and clearly.">
     <meta name="keywords" content="club events booking software, events scheduling software, scheduling software for events, manage event scheduling software, free online appointment scheduling software, 
     free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, 
     free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, 
@@ -43,7 +43,7 @@
 				<a href="/register"><button class="btn-lg text-center">GET STARTED</button></a>
 			</div>
 			<div class="col-md-6">
-		    	<img alt="Club Events Online appointment scheduling software" src="/webassets/2021/img/business/club-events-hero.svg">
+		    	<img alt="Club Events Online appointment scheduling software" src="/webassets/2021/img/business/club-events-hero.svg" class="P-top">
 			</div>
 	 	</div>
 	</section>
@@ -65,7 +65,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-	      			<div class="i-img"> <img alt="Club Events Staff Management" src="/webassets/2021/img/team-management.svg"> </div>
+	      			<div class="i-img"> <img alt="Club Events Staff Management" src="/webassets/2021/img/icons/features/staff_icon.svg"> </div>
 		       		<h3>Staff Management</h3>
 		       		<p>Add and manage staff schedules and assign duties to them</p>
 		       	</div>
@@ -110,11 +110,11 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Evaluate the success of your club events, your revenue, staff performance and service quality through auto-generated detailed reports from your dashboard. Download or print these reports for decision-making.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="Generate club events booking reports" src="/webassets/2021/img/business/beauty-salon-reports.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="Generate club events booking reports" src="/webassets/2021/img/business/beauty-salon-reports.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>
 	<jsp:include page="../business/business-before-footer-page.jsp"/>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
-</html>
+</html>         

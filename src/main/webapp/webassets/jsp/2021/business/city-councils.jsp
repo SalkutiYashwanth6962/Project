@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>City Councils Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="A free appointment scheduling software for city councils with virtual meetings, appointment reminders, fee payment & staff management to maximize the people's satisfaction.">
+    <meta name="description" content="Picktime allows bookings to be made online by council members, citizens, and visitors. It's easy to use for any council, at any level of government. Easily manage your city council meetings online so you can focus on the issues that matter most to you.">
     <meta name="keywords" content="city councils scheduling software, City council appointment booking software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, 
     free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, 
     online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, 
@@ -48,14 +48,14 @@
 		<div class="container text-center">
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		        	<div class="i-img text-center"> <img alt="online doctor booking page" src="/webassets/2021/img/icons/features/Calendar_icon.svg"> </div>
+		        	<div class="i-img text-center"> <img alt="online city councils booking calendar" src="/webassets/2021/img/icons/features/Calendar_icon.svg"> </div>
 			       	<h3>Online Calendar</h3>
 			       	<p>Track your appointments and simplify the workflow across the council with the online calendar</p>
 			    </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		       		<div class="i-img"> <img alt="Staff Management for city councils" src="/webassets/2021/img/team-management.svg"> </div>
+		       		<div class="i-img"> <img alt="Staff Management for city councils" src="/webassets/2021/img/icons/features/staff_icon.svg"> </div>
 			       	<h3>Staff Management</h3>
 			       	<p>Efficient staff management system to monitor staff schedule and equip them with resources </p>
 			      </div> 	
@@ -80,7 +80,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Allow people to self-book appointments with you at any time using an easy-to-use and customizable online booking page. Make the booking button available on your website.</p>
 			</div>
 			<div class="col-md-6">
-       			<img alt="customized booking page for personalized officials" src="/webassets/2021/img/business/medical-custom-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+       			<img alt="customized booking page for personalized officials" src="/webassets/2021/img/business/attorny-online-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	    	</div>
 		</div>
 	</div>

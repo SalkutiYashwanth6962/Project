@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Driving Schools Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Manage your driving school effortlessly via our online appointment booking software. Enable 24/7 online bookings with reminders, payments, invoicing & business reports. ">
+    <meta name="description" content="Picktime is the all-in-one business management software for driving schools, offering cloud-based lesson scheduling, online booking & payment processing. It is designed to help you set up and manage your driving school efficiently.">
     <meta name="keywords" content="Picktime is an easy-to-use, comprehensive and advanced appointment scheduling software solution for Auto Consultants and Driving Schools. Picktime allows driving school owners to completely manage their business. It is designed to manage most critical aspects of driving school business.">
     <meta name="keywords" content="driving school scheduling software, scheduling software for driving schools, driving school software, software for driving school, driving school booking software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, 
     free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, 
@@ -62,7 +62,7 @@
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-		       		<div class="i-img"> <img alt="manage clients securely" src="/webassets/2021/img/team-management.svg"> </div>
+		       		<div class="i-img"> <img alt="manage clients securely" src="/webassets/2021/img/icons/features/Manage-customer_icon.svg"> </div>
 			       	<h3>Customer Management</h3>
 			       	<p>Get a dedicated customer management system to update, save & manage client records & appointments details</p>
 			      </div> 	

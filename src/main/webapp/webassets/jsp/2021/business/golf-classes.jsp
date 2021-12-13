@@ -12,7 +12,7 @@
 <html lang="en">
 <head>
     <title>Golf classes Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="A comprehensive online appointment scheduling software made for golf tutors to streamline class & staff management, sending reminders, accepting payments & invoicing.">
+    <meta name="description" content="Picktime is a simple way to offer convenient golf class booking for your business. And best of all, no software installation is required! It gives golf pros the ability to run their class booking online 24/7.">
     <meta name="keywords" content="golf classes scheduling software, golf lesson scheduling software, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, free appointment scheduling software, free online scheduling software, best free appointment scheduling software,
 	online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool,
 	free online scheduling calendar, online appointment scheduling software, free appointment booking app, free online scheduling tool, online patient scheduling software, appointment scheduling app free, online booking software, online scheduling tools,
@@ -40,7 +40,7 @@
 				<a href="/register"><button class="btn-lg text-center">GET STARTED</button></a>
 			</div>
 			<div class="col-md-6">
-		    	<img alt="golf lesson scheduling software" src="/webassets/2021/img/business/golf-classes-hero.svg">
+		    	<img alt="golf lesson scheduling software" src="/webassets/2021/img/business/golf-classes-hero.svg" class="nail-extra-small">
 			</div>
 	 	</div>
 	</section>
@@ -80,7 +80,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Build your own personalized online booking page and add it to your website so that students can directly self-book appointments instead of having to make calls for scheduling appointments.</p>
 			</div>
 			<div class="col-md-6">
-       			<img alt="custom appointment booking page for golf trainers" src="/webassets/2021/img/business/medical-custom-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+       			<img alt="custom appointment booking page for golf trainers" src="/webassets/2021/img/business/attorny-online-booking.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	    	</div>
 		</div>
 	</div>
@@ -107,7 +107,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">No need to hire appointment managers for your different office locations. Easily manage your staff schedules, classes, payments, and sports equipment at all your office locations with a single dashboard!</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="manage multiple location golf courts" src="/webassets/2021/img/business/hair-salon-multiple-location-management.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="manage multiple location golf courts" src="/webassets/2021/img/business/hair-salon-multiple-location-management.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>
