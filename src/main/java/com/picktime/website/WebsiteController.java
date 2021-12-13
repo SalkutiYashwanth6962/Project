@@ -100,21 +100,6 @@ public class WebsiteController {
 		}
 	}
 
-	/* task-page-start */
-	@RequestMapping(value="/Task/{pageName}")
-	public String TaskPages(HttpServletRequest request,HttpServletResponse response,@PathVariable("pageName") String pageName) throws IOException
-	{
-		String view = "2021/Task/"+pageName;
-		if(isViewExists(view))
-		{
-			return view;
-		}
-		else
-		{
-			return "2021/404";
-		}
-	}
-	/* task-page-end */
 	@RequestMapping(value="/business/{pageName}")
 	public String landingPages(HttpServletRequest request,HttpServletResponse response,@PathVariable("pageName") String pageName) throws IOException
 	{
