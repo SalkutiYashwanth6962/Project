@@ -4493,13 +4493,9 @@ div#industries > div > div a:focus{
     
     
 	/* 	snow flake     */
-	.snowflakes{
-	    width: 100%;
-	    position: fixed;
-	    height: 100%;
-	    top: 0px;
-	    left: 0px;
-	    overflow: hidden;
+	.banners{
+	   position: relative;
+	   overflow: hidden;
 	}
 	.snowflake {
 	  color: #8a2be2;
