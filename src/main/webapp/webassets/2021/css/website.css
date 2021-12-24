@@ -87,8 +87,14 @@ a:hover {
 }
 
 .navbar-brand img {
-  margin: 10px 0px 0px 0px;
+ /*  margin: 10px 0px 0px 0px;
   width: 220px;
+  padding: 0px; */
+  
+  /* santa-cap-css  */
+  
+  margin: 0px 0px 0px 0px;
+  width: 180px;
   padding: 0px;
 }
 
@@ -2776,7 +2782,7 @@ margin-left: 26px;
   .navbar-brand img {
     margin: 0px 0px 0px 0px;
     /* width: 130px; */
-    margin-top: -20px;
+    margin-top: -40px;
   }
   .navbar-nav li a{
     
