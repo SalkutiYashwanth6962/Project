@@ -1,3 +1,4 @@
+<%@ taglib uri="http://htmlcompressor.googlecode.com/taglib/compressor" prefix="compress" %> <compress:html enabled="true" removeComments="true" removeIntertagSpaces="true" compressCss="true">
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -64,7 +65,7 @@
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	      			<div class="i-img"> <img alt="Automatic Landscape service booking reminders" src="/webassets/2021/img/icons/features/Reminder_icon.svg"> </div>
 		       		<h3>Automatic Reminders</h3>
-		       		<p>Reduce missed appointments by sending automated email and text reminders to increase the business revenue</p>
+		       		<p>Reduce missed appointments by sending automated email and text reminders to clients</p>
 		       	</div>
 			</div>
 			<div class="col-md-12" style="margin-top:50px;">
@@ -115,3 +116,4 @@
 	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>
+</compress:html>

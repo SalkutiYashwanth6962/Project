@@ -1,3 +1,4 @@
+<%@ taglib uri="http://htmlcompressor.googlecode.com/taglib/compressor" prefix="compress" %> <compress:html enabled="true" removeComments="true" removeIntertagSpaces="true" compressCss="true">
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -50,14 +51,14 @@
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 		        	<div class="i-img text-center"> <img alt="Online Calendar for music class schedules" src="/webassets/2021/img/icons/features/Calendar_icon.svg"> </div>
 			       	<h3>Online Calendar</h3>
-			       	<p>Securely create, manage, and save student information. Allow students to book slots based on their schedules.</p>
+			       	<p>Easily keep track of your team's daily schedules and upcoming appointments with a free online calendar.</p>
 			    </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 		       		<div class="i-img"> <img alt="Manage Music Class Students bookings" src="/webassets/2021/img/icons/features/student-management.svg"> </div>
 			       	<h3>Students Management</h3>
-			       	<p>Securely save client data & booking history in the cloud to ease recurring appointments and to apply discounts for the regular clients</p>
+			       	<p>Securely create, manage, and save student information. Allow students to book slots based on their schedules.</p>
 			      </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">
@@ -115,3 +116,4 @@
 	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>
+</compress:html>

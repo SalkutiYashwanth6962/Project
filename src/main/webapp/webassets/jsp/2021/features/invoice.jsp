@@ -1,3 +1,4 @@
+<%@ taglib uri="http://htmlcompressor.googlecode.com/taglib/compressor" prefix="compress" %> <compress:html enabled="true" removeComments="true" removeIntertagSpaces="true" compressCss="true">
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -47,7 +48,7 @@
 	        	<p>Manually typing in all services your customer has undergone and producing a bill kills a lot of time and needs your complete attention. Simply choose the type of payment your customer chooses to pay you in and simply click on check out. Going back and forth on a number of applications is old-fashioned and time consuming.</p>
 	      	</div>
 			<div class="feature_sec">
-	        	<P>It is not just limited to generating invoices for the services undertaken, you can also add in discounts, special offer codes etc and it gets automatically updated in the invoice. If you are salon who also sells products, you can add in the products from your inventory to the invoice and give an overall bill to your customer.</P>
+	        	<P>It is not just limited to generating invoices for the services undertaken, you can also add in discounts(coming soon), special offer codes(coming soon) etc and it gets automatically updated in the invoice.</P>
 			</div>
 			<div class="feature_sec">
 	        	<p>With Picktime, work gets easier and easier. Spend quality time with your customers and less time on doing administrative work. Sign-up now and forget unhappy and unsatisfactory business management.</p>
@@ -57,3 +58,4 @@
 	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>
+</compress:html>

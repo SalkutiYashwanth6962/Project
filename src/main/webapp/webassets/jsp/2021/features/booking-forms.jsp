@@ -1,3 +1,4 @@
+<%@ taglib uri="http://htmlcompressor.googlecode.com/taglib/compressor" prefix="compress" %> <compress:html enabled="true" removeComments="true" removeIntertagSpaces="true" compressCss="true">
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -62,3 +63,4 @@
 	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>
+</compress:html>

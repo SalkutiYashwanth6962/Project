@@ -1,4 +1,5 @@
 	<%@page import="com.picktime.website.Constants"%>
+	<%@ taglib uri="http://htmlcompressor.googlecode.com/taglib/compressor" prefix="compress" %>
 	<%
 		String cache = Constants.App_version;
 		Boolean isPricingPage = request.getAttribute("isPricingPage") != null ? (Boolean)request.getAttribute("isPricingPage") : false;
@@ -169,6 +170,7 @@
 	<!--aos animation -->
 	<script src="/webassets/2021/js/aos.js?_=<%=cache%>"></script>
 	<script>
+	<compress:js enabled="true" yuiJsPreserveAllSemiColons="true">
 		AOS.init({
 			offset: 100,
 			duration: 600,
@@ -192,21 +194,17 @@
 			    next.children(':first-child').clone().appendTo($(this));
 			 }
 		 });
-	 </script>
-	 <!-- Fixed Header on Scroll -->
-	<script type="text/javascript">
+	 	<!-- Fixed Header on Scroll -->
+	 
 		 $(window).scroll(function(){
 			$('nav').toggleClass('scrolled', $(this).scrollTop() > 500);
 		});
-	</script>
-    <!--Loved by Everyone. autoplay carousel stop-->
-	<script type="text/javascript">
+    	<!--Loved by Everyone. autoplay carousel stop-->
 		$('#quote-carousel').carousel({
 		 interval : false
 		});
-	</script>
-
-	<script>
+		
+		
 		function setCookie(cname, cvalue, exdays) {
 		  var d = new Date();
 		  d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
@@ -245,8 +243,8 @@
 			}
 		}
 	// 	removeCookie("ptconsent");
-	</script>
-	<script>
+	
+		//analytics
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -254,20 +252,19 @@
 	
 	  ga('create', 'UA-92294358-1', 'auto');
 	  ga('send', 'pageview');
-	</script>
-	<script type="text/javascript">
-		(function(a,l,b,c,r,s){_nQc=c,r=a.createElement(l),s=a.getElementsByTagName(l)[0];r.async=1;
+
+	  //alba
+	  (function(a,l,b,c,r,s){_nQc=c,r=a.createElement(l),s=a.getElementsByTagName(l)[0];r.async=1;
 		r.src=l.src=("https:"==a.location.protocol?"https://":"http://")+b;s.parentNode.insertBefore(r,s);
 		})(document,"script","serve.albacross.com/track.js","89976480");
-	</script>
-	<script type="text/javascript">
-		window.$crisp = [];
+
+	  //crisp chat
+	  window.$crisp = [];
 		window.CRISP_WEBSITE_ID = "cffc37e4-7649-45d6-b044-074c60b9dbdc";
 		(function(){d=document;s=d.createElement('script');s.src='//client.crisp.chat/l.js';s.async=1;d.getElementsByTagName('head')[0].appendChild(s);})();
-	</script>
-	<!-- Facebook Pixel Code -->
-	<script>
-	  !function(f,b,e,v,n,t,s)
+
+		//fb pixel
+		!function(f,b,e,v,n,t,s)
 	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
 	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
@@ -277,6 +274,7 @@
 	  'https://connect.facebook.net/en_US/fbevents.js');
 	  fbq('init', '3146370852096019');
 	  fbq('track', 'PageView');
+	</compress:js>
 	</script>
 	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=3146370852096019&ev=PageView&noscript=1"/></noscript>
 	<!-- End Facebook Pixel Code -->

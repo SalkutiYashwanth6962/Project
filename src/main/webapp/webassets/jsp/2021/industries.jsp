@@ -1,3 +1,4 @@
+<%@ taglib uri="http://htmlcompressor.googlecode.com/taglib/compressor" prefix="compress" %> <compress:html enabled="true" removeComments="true" removeIntertagSpaces="true" compressCss="true">
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -1059,6 +1060,7 @@
 					</div>
 				</a>
 			</div>
+			
 			<!-- <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
 				<a href="/business/government">
 					<div class="unit-4 d-block">
@@ -1073,8 +1075,10 @@
 				</a>
 			</div> -->
 			<!--  new cards end -->
+			
 		</div>
 	</div>
 	<jsp:include page="scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>
+</compress:html>

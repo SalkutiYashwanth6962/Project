@@ -1,3 +1,4 @@
+<%@ taglib uri="http://htmlcompressor.googlecode.com/taglib/compressor" prefix="compress" %> <compress:html enabled="true" removeComments="true" removeIntertagSpaces="true" compressCss="true">
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -47,10 +48,11 @@
 	        	<P>Do you get tired having to shuffle between your branches located at different locations? Our team at Picktime understands the effort you put into shuffling between your business and trying to divide your time between each location.</P>		
 	     	</div>
 			<div class="feature_sec">
-	        	<P>Picktime automatically detects your client's location and lets them book appointment in any of your branch location.</P>
+	        	<P>Picktime automatically detects your client's time zone and lets them view appointment slots in their time zone.</P>
 			</div>
 	   	</div>
    	</div>
 	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>
+</compress:html>

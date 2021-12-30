@@ -1,3 +1,4 @@
+<%@ taglib uri="http://htmlcompressor.googlecode.com/taglib/compressor" prefix="compress" %> <compress:html enabled="true" removeComments="true" removeIntertagSpaces="true" compressCss="true">
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -524,7 +525,7 @@
 	<jsp:include page="scheduling-software/website-new-footer.jsp"/> 
 </body>
 <script type="text/javascript">
-
+<compress:js enabled="true" yuiJsPreserveAllSemiColons="true">
 function changeCycle(cycle)
 {
 	if(cycle == 'starteryear')
@@ -600,5 +601,7 @@ function changeCycle(cycle)
 		starterPriceElement.classList.add("non-strike-price");
 	}
 }
+</compress:js>
 </script>
 </html>
+</compress:html>

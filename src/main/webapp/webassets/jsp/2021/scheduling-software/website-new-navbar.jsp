@@ -17,8 +17,7 @@ if(userKey != null && accountKey != null)
 						<span class="icon-bar" style="background-color: #8B22E2;"></span>
 						<span class="icon-bar" style="background-color: #8B22E2;"></span>                        
 					</button>
-					<!-- <a class="navbar-brand" href="/"><img src="/webassets/2021/img/picktime-logo-main.svg" alt="Picktime Logo"></a> --> 
-					<a class="navbar-brand" href="/"><img src="/webassets/2021/img/pt-santa/pt-hat-1.svg" alt="Picktime Logo"></a>
+					<a class="navbar-brand" href="/"><img src="/webassets/2021/img/picktime-logo-main.svg" alt="Picktime Logo"></a>
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav navbar-right">

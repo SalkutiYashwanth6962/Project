@@ -1,3 +1,4 @@
+<%@ taglib uri="http://htmlcompressor.googlecode.com/taglib/compressor" prefix="compress" %> <compress:html enabled="true" removeComments="true" removeIntertagSpaces="true" compressCss="true">
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -50,7 +51,7 @@
 	        	 <p>We also agree that It can be highly inconvenient to keep reminding your customers of their appointments through phone calls and manual messaging. And moreover what is an appointment scheduling software without infused modern technology?</p>
 			</div>
 			<div class="feature_sec">
-		         <p>Picktime lets you send automated messages to your clients when an appointment is booked. It is not only limited to that, you as a business owner can customise the way your message looks and when it reaches your customers inbox in you business settings. It is not just limited to sending SMS to your customers, you can send them to your staff as well.</p>
+		         <p>Picktime lets you send automated messages to your clients when an appointment is booked. It is not only limited to that, you as a business owner can customise the booking emails and when it reaches your customers inbox in you business settings. It is not just limited to sending SMS to your customers, you can send them to your staff as well.</p>
 				 <p>Forget about No-shows and customers arriving at the wrong time with our SMS reminder feature.</p>
 			</div>
 	    </div>
@@ -58,3 +59,4 @@
 	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>
+</compress:html>

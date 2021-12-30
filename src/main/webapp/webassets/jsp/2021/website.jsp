@@ -57,43 +57,6 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 				</div>
 			</div>
 		</div>
-		
-		<div class="snowflake">
-		  ❅
-		  </div>
-		  <div class="snowflake">
-		  ❆
-		  </div>
-		  <div class="snowflake">
-		  ❅
-		  </div>
-		  <div class="snowflake">
-		  ❆
-		  </div>
-		  <div class="snowflake">
-		  ❅
-		  </div>
-		  <div class="snowflake">
-		  ❆
-		  </div>
-		  <div class="snowflake">
-		    ❅
-		  </div>
-		  <div class="snowflake">
-		    ❆
-		  </div>
-		  <div class="snowflake">
-		    ❅
-		  </div>
-		  <div class="snowflake">
-		    ❆
-		  </div>
-		  <div class="snowflake">
-		    ❅
-		  </div>
-		  <div class="snowflake">
-		    ❆
-		  </div>
 	</section>
     <!-- -----what is picktime------------>
 	<section class="what-is-picktime">
@@ -794,7 +757,6 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 			</div>
  		</div>
 	</section>
-	<!--  -->
 	<jsp:include page="scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>

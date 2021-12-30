@@ -1,3 +1,4 @@
+<%@ taglib uri="http://htmlcompressor.googlecode.com/taglib/compressor" prefix="compress" %> <compress:html enabled="true" removeComments="true" removeIntertagSpaces="true" compressCss="true">
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -37,7 +38,7 @@
  		<div class="container">
 			<div class="col-md-6 ">
 				<h1>Scheduling Solution for <span>Lawn Maintenance Services</span></h1>
-				<p>Online scheduling tool for lawn maintenance services. Empower customers with self-scheduling, online payments, invoicing &amp; handle team schedules from on e dashboard.</p>
+				<p>Online scheduling tool for lawn maintenance services. Empower customers with self-scheduling, online payments, invoicing &amp; handle team schedules from one dashboard.</p>
 				<a href="/register"><button class="btn-lg text-center">GET STARTED</button></a>
 			</div>
 			<div class="col-md-6">
@@ -116,3 +117,4 @@
 	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>
+</compress:html>

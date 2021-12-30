@@ -1,3 +1,4 @@
+<%@ taglib uri="http://htmlcompressor.googlecode.com/taglib/compressor" prefix="compress" %> <compress:html enabled="true" removeComments="true" removeIntertagSpaces="true" compressCss="true">
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -44,7 +45,7 @@
 	<div id="features-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<div class="feature_sec">
-				<p>Store all the data of your customers with Picktime. Get closer to your customers with your brand new marketing campaigns and discounts. Know if the customer is a regular customer or a one-time customer with just a glance at stats. Not just that, you can also import and export customer from anywhere.</p>
+				<p>Store all the data of your customers with Picktime. Get closer to your customers with your brand new marketing campaigns and discounts(coming soon). Know if the customer is a regular customer or a one-time customer with just a glance at stats. Not just that, you can also import and export(coming soon) customer from anywhere.</p>
 	     	</div>
 			<div class="feature_sec">
 				<P>Add notes to each customer and never leave any of your staff uninformed. Not just that, your customers can also create a picktime account for themselves and check on their upcoming appointments too.</P>
@@ -54,3 +55,4 @@
 	<jsp:include page="../scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>
+</compress:html>

@@ -76,7 +76,7 @@
 	<div class="container-fluid  featuresPage-body section">
 		<div class="row">
 			<div class="col-md-12 col-sm-12">
-				<p>Store all the data of your customers with Picktime. Get closer to your customers  with your brand new marketing campaigns and discounts. Know if the customer is a regular customer or a one-time customer with just a glance at stats. Not just that, you can also import and export customer from anywhere.</p>
+				<p>Store all the data of your customers with Picktime. Get closer to your customers  with your brand new marketing campaigns and discounts. Know if the customer is a regular customer or a one-time customer with just a glance at stats. Not just that, you can also import and export(coming soon) customer from anywhere.</p>
 			</div>
 			<div class="container-fluid">
 				<div class="row">
