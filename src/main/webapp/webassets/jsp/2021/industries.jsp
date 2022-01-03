@@ -1,3 +1,7 @@
+<%@page import="java.util.Base64"%>
+<%@page import="com.google.common.base.Charsets"%>
+<%@page import="java.io.File"%>
+<%@page import="com.google.common.io.Files"%>
 <%@ taglib uri="http://htmlcompressor.googlecode.com/taglib/compressor" prefix="compress" %> <compress:html enabled="true" removeComments="true" removeIntertagSpaces="true" compressCss="true">
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
@@ -48,7 +52,7 @@
 				<a href="/business/beauty-salon">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-					  		<span class="icon-wrap"><span class="text-primary icon-autorenew"> <img alt="Beauty-Salon" src="/webassets/2021/img/icons/industries/Beauty-Salon.svg" style="height: 55px;"></span></span>
+					  		<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Beauty-Salon.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Beauty Salon</h1>
@@ -61,7 +65,7 @@
 				<a href="/business/hair-salon">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Hair Salon" src="/webassets/2021/img/icons/Beauty-and-Wellness_icon.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"><img alt="Hair Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Beauty-and-Wellness_icon.svg")))%>" style="height: 60px;"></span></span>
 						</div>
 						<div>
 						 	<h1>Hair Salon</h1>
@@ -74,7 +78,7 @@
 				<a href="/business/nail-salon">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"><img alt="Nail Salon" src="/webassets/2021/img/icons/industries/Nail-Spa.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"><img alt="Nail Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Nail-Spa.svg")))%>" style="height: 60px;"></span></span>
 						</div>
 						<div>
 							<h1>Nail Salon</h1>
@@ -87,7 +91,7 @@
 				<a href="/business/doctors">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"> <img alt="Medical" src="/webassets/2021/img/icons/doctor-medical _icon.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"><img alt="medical" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/doctor-medical _icon.svg")))%>" style="height: 60px;"></span></span>
 						</div>
 						<div>
 							<h1>Medical</h1>
@@ -100,8 +104,8 @@
 				<a href="/business/spa">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Spa" src="/webassets/2021/img/icons/industries/spa-icon.svg" style="height: 50px;"></span></span>
-						</div>
+							<span class="icon-wrap"><span class="text-primary"><img alt="Spa" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/spa-icon.svg")))%>" style="height: 50px;"></span></span>
+ 						</div>
 						<div>
 							<h1>Spa</h1>
 							<p style="margin-bottom: 30px;">Picktime is a web-based spa appointment scheduling software system for your business management needs. Grow your loyal customer base by making scheduling appointments easy.</p>
@@ -113,7 +117,7 @@
 				<a href="/business/personal-trainers">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Personal Trainers" src="/webassets/2021/img/icons/industries/Personal-Trainer.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"><img alt="Personal Trainers" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Personal-Trainer.svg")))%>" style="height: 60px;"></span></span>
 						</div>
 						<div>
 						 	<h1>Personal Trainers</h1>
@@ -128,7 +132,7 @@
 				<a href="/business/fitness">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-					    	<span class="icon-wrap"><span class="text-primary icon-autorenew"><img alt="Fitness Classes" src="/webassets/2021/img/icons/Health-and-Fitness_icon.svg" style="height: 60px;"></span></span>
+					    	<span class="icon-wrap"><span class="text-primary"><img alt="Fitness classes" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Health-and-Fitness_icon.svg")))%>" style="height: 60px;"></span></span>
 						</div>
 						<div>
 							<h1>Fitness Classes</h1>
@@ -141,7 +145,7 @@
 				<a href="/business/yoga-trainers">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Yoga Classes" src="/webassets/2021/img/icons/industries/Yoga-Class.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"><img alt="Yoga classes" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Yoga-Class.svg")))%>" style="height: 60px;"></span></span>
 						</div>
 						<div>
 							<h1>Yoga Classes</h1>
@@ -154,7 +158,7 @@
 				<a href="/business/dentists">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"><img alt="Dentists" src="/webassets/2021/img/icons/industries/Dentist.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"><img alt="Dentists" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Dentist.svg")))%>" style="height: 60px;"></span></span>
 						</div>
 						<div>
 						<h1>Dentists</h1>
@@ -167,7 +171,7 @@
 				<a href="/business/chiropractics">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-					    	<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Chiropractics" src="/webassets/2021/img/icons/industries/Chiropractic.svg" style="height: 60px;"></span></span>
+					    	<span class="icon-wrap"><span class="text-primary"><img alt="Chiropractics" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Chiropractic.svg")))%>" style="height: 60px;"></span></span>
 						</div>
 						<div>
 							<h1>Chiropractics</h1>
@@ -180,7 +184,7 @@
 				<a href="/business/acupuncture">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Acupuncture" src="/webassets/2021/img/icons/industries/Acupuncture.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Acupuncture" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Acupuncture.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Acupuncture</h1>
@@ -193,7 +197,7 @@
 				<a href="/business/physiologists">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Physiologists" src="/webassets/2021/img/icons/industries/Physiologist.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Physiologists" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Physiologist.svg")))%>" style="height: 50px;"></span></span>
 						</div>
 						<div>
 						 	<h1>Physiologists</h1>
@@ -208,7 +212,7 @@
 				<a href="/business/psychologists">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-autorenew"><img alt="Psychologists" src="/webassets/2021/img/icons/industries/Psychologist.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Psychologists" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Psychologist.svg")))%>" style="height: 60px;"></span></span>
 						</div>
 						<div>
 							<h1>Psychologists</h1>
@@ -221,7 +225,7 @@
 				<a href="/business/gyms">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Gyms" src="/webassets/2021/img/icons/industries/Gym-and-Fitness.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Gyms" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Gym-and-Fitness.svg")))%>" style="height: 50px;"></span></span>
 						</div>
 						<div>
 						 	<h1>Gyms</h1>
@@ -234,7 +238,7 @@
 				<a href="/business/golf-classes">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"><img alt="Golf Classes" src="/webassets/2021/img/icons/industries/Golf-Classes.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Golf Classes" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Golf-Classes.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 						 	<h1>Golf Classes</h1>
@@ -247,7 +251,7 @@
 				<a href="/business/sportitems-renting">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-					    	<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Sport Items Renting" src="/webassets/2021/img/icons/industries/Sport-items-Renting.svg" style="height: 60px;"></span></span>
+					    	<span class="icon-wrap"><span class="text-primary"> <img alt="Sport Items Renting" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Sport-items-Renting.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Sport Items Renting</h1>
@@ -260,7 +264,7 @@
 				<a href="/business/counseling">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Counseling" src="/webassets/2021/img/icons/industries/Counseling.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Counseling" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Counseling.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 						 	<h1>Counseling</h1>
@@ -273,7 +277,7 @@
 				<a href="/business/coaching">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Coaching" src="/webassets/2021/img/icons/industries/Coaching.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Coaching" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Coaching.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Coaching</h1>
@@ -288,7 +292,7 @@
 				<a href="/business/meeting-rooms">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-					    	<span class="icon-wrap"><span class="text-primary icon-autorenew"><img alt="Meeting Rooms" src="/webassets/2021/img/icons/industries/Meetings.svg" style="height: 60px;"></span></span>
+					    	<span class="icon-wrap"><span class="text-primary"> <img alt="Meeting Rooms" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Meetings.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Meeting Rooms</h1>
@@ -301,7 +305,7 @@
 				<a href="/business/spiritual-services">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Spiritual Services" src="/webassets/2021/img/icons/industries/Spiritual-services.svg" style="height: 55px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Spiritual Services" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Spiritual-services.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Spiritual Services</h1>
@@ -314,7 +318,7 @@
 				<a href="/business/design-consultations">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"><img alt="Design Consultations" src="/webassets/2021/img/icons/industries/design-consultation.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Design Consultations" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/design-consultation.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Design Consultations</h1>
@@ -327,7 +331,7 @@
 				<a href="/business/cleaning">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-					   		<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Cleaning" src="/webassets/2021/img/icons/industries/Cleaning.svg" style="height: 55px;"></span></span>
+					   		<span class="icon-wrap"><span class="text-primary"> <img alt="Cleaning" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Cleaning.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Cleaning</h1>
@@ -340,7 +344,7 @@
 				<a href="/business/household">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Household" src="/webassets/2021/img/icons/industries/Household.svg" style="height: 55px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Household" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Household.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Household</h1>
@@ -353,7 +357,7 @@
 				<a href="/business/pet-services">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Pet Services" src="/webassets/2021/img/icons/industries/Pet-Services.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Pet services" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Pet-Services.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Pet Services</h1>
@@ -368,7 +372,7 @@
 				<a href="/business/business-event">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-					    	<span class="icon-wrap"><span class="text-primary icon-autorenew"><img alt="Business Events" src="/webassets/2021/img/icons/industries/Business-Events.svg" style="height: 60px;"></span></span>
+					    	<span class="icon-wrap"><span class="text-primary"> <img alt="Business Events" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Business-Events.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 						 	<h1>Business Events</h1>
@@ -381,7 +385,7 @@
 				<a href="/business/events">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Events" src="/webassets/2021/img/icons/Event-management_icon.svg" style="height: 55px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Events" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Event-management_icon.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 						 	<h1>Events</h1>
@@ -394,7 +398,7 @@
 				<a href="/business/photographers">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"> <img alt="Photographers" src="/webassets/2021/img/icons/Photographer_icon.svg" style="height: 55px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Photographers" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Photographer_icon.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Photographers</h1>
@@ -407,7 +411,7 @@
 				<a href="/business/driving-schools">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Driving Schools" src="/webassets/2021/img/icons/industries/Driving-Classes.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Driving School" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Driving-Classes.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 						 	<h1>Driving Schools</h1>
@@ -420,7 +424,7 @@
 				<a href="/business/art-classes">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Art Classes" src="/webassets/2021/img/icons/industries/Art-classes.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Art Classes" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Art-classes.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Art Classes</h1>
@@ -433,7 +437,7 @@
 				<a href="/business/equipement-rental">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Equipment rental" src="/webassets/2021/img/icons/industries/Equipment-Rentals.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="equiments rental" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Equipment-Rentals.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Equipment rental</h1>
@@ -448,7 +452,7 @@
 				<a href="/business/escape-rooms">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-autorenew"><img alt="Escape rooms" src="/webassets/2021/img/icons/industries/Escape-room.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Escape rooms" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Escape-room.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 					<div>
 						<h1>Escape rooms</h1>
@@ -461,7 +465,7 @@
 				<a href="/business/restaurants">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Restaurants" src="/webassets/2021/img/icons/industries/Restaurants.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Restaurants" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Restaurants.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Restaurants</h1>
@@ -474,7 +478,7 @@
 				<a href="/business/call-centers">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"><img alt="Call Centers" src="/webassets/2021/img/icons/industries/Call-centers.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Call centers" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Call-centers.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Call Centers</h1>
@@ -487,7 +491,7 @@
 				<a href="/business/interview">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Interview Scheduling" src="/webassets/2021/img/icons/Interview_icon.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Interview Scheduling" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Interview_icon.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Interview Scheduling</h1>
@@ -500,7 +504,7 @@
 				<a href="/business/financial-services">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Financial Services" src="/webassets/2021/img/icons/Financial-services_icon.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Financial Services" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Financial-services_icon.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Financial Services</h1>
@@ -513,7 +517,7 @@
 				<a href="/business/business-advisory">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Business Advisory" src="/webassets/2021/img/icons/industries/Business-Advisory.svg" style="height: 55px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Business Advisory" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Business-Advisory.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 						 	<h1>Business Advisory</h1>
@@ -528,7 +532,7 @@
 				<a href="/business/legal">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-autorenew"><img alt="Legal" src="/webassets/2021/img/icons/legal-services_icon.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Legal" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/legal-services_icon.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Legal</h1>
@@ -541,7 +545,7 @@
 				<a href="/business/attorney">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Attorney" src="/webassets/2021/img/icons/industries/Attorney.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Attorney" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Attorney.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Attorney</h1>
@@ -554,7 +558,7 @@
 				<a href="/business/embassies-consulates">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"><img alt="Embassies and consulates" src="/webassets/2021/img/icons/industries/Embassies-and-Consulates.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Embassies and Consulates" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Embassies-and-Consulates.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 						 	<h1>Embassies and consulates</h1>
@@ -567,7 +571,7 @@
 				<a href="/business/city-councils">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-					   		<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="City councils" src="/webassets/2021/img/icons/industries/City-Councils.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="City Councils" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/City-Councils.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>City councils</h1>
@@ -580,7 +584,7 @@
 				<a href="/business/universities">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Universities" src="/webassets/2021/img/icons/industries/Universities.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Universities" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Universities.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Universities</h1>
@@ -593,7 +597,7 @@
 				<a href="/business/colleges">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Colleges" src="/webassets/2021/img/icons/industries/Collage.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Colleges" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Collage.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 						 	<h1>Colleges</h1>
@@ -608,7 +612,7 @@
 				<a href="/business/schools">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-autorenew"><img alt="Schools" src="/webassets/2021/img/icons/industries/School.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Schools" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/School.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 					  	<div>
 							<h1>Schools</h1>
@@ -621,7 +625,7 @@
 				<a href="/business/libraries">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"><img alt="Libraries" src="/webassets/2021/img/icons/industries/Libraries.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Libraries" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Libraries.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 						 	<h1>Libraries</h1>
@@ -634,7 +638,7 @@
 				<a href="/business/teaching">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-shopping_basket"><img alt="Teaching" src="/webassets/2021/img/icons/industries/Teaching.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Teaching" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Teaching.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Teaching</h1>
@@ -647,7 +651,7 @@
 				<a href="/business/tutoring-lessons">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Tutoring Lessons" src="/webassets/2021/img/icons/industries/Tutoring-Lessons.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Tutoring Lessons" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Tutoring-Lessons.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 				 			<h1>Tutoring Lessons</h1>
@@ -660,7 +664,7 @@
 				<a href="/business/parent-meetings">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Parent meetings" src="/webassets/2021/img/icons/industries/Parent-Meetings.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Parent meeting" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Parent-Meetings.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Parent meetings</h1>
@@ -673,7 +677,7 @@
 				<a href="/business/child-care">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Child Care" src="/webassets/2021/img/icons/industries/Childcare.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Child Care" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Childcare.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Child Care</h1>
@@ -687,7 +691,7 @@
 				<a href="/business/information-technology">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Information Technology" src="/webassets/2021/img/icons/industries/information_technology.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Information Technology" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/information_technology.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 				 			<h1>Information Technology</h1>
@@ -700,7 +704,7 @@
 				<a href="/business/real-estate">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Real Estate" src="/webassets/2021/img/icons/industries/real_Estate.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Real Estate" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/real_Estate.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Real Estate</h1>
@@ -713,7 +717,7 @@
 				<a href="/business/government">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Government" src="/webassets/2021/img/icons/industries/government.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Government" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/government.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Government</h1>
@@ -726,7 +730,7 @@
 				<a href="/business/club-events">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Club Event" src="/webassets/2021/img/icons/industries/club-events.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Club Event" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/club-events.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 				 			<h1>Club Event</h1>
@@ -739,7 +743,7 @@
 				<a href="/business/auto-services">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Auto Services" src="/webassets/2021/img/icons/industries/auto-service.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Auto Service" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/auto-service.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Auto Service</h1>
@@ -752,7 +756,7 @@
 				<a href="/business/florist">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Florist" src="/webassets/2021/img/icons/industries/florist.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Florist" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/florist.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Florist</h1>
@@ -765,7 +769,7 @@
 				<a href="/business/charity">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Charity" src="/webassets/2021/img/icons/industries/charity.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Charity" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/charity.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 				 			<h1>Charity</h1>
@@ -778,7 +782,7 @@
 				<a href="/business/community-services">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Community Services" src="/webassets/2021/img/icons/industries/community-services.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Community Services" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/community-services.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Community Services</h1>
@@ -791,7 +795,7 @@
 				<a href="/business/dance-classes">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Dance Classes" src="/webassets/2021/img/icons/industries/dance-class.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Dance Classes" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/dance-class.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Dance Classes</h1>
@@ -804,7 +808,7 @@
 				<a href="/business/landscaping-services">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Landscaping Services" src="/webassets/2021/img/icons/industries/landscaping-services.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/landscaping-services.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 				 			<h1>Landscaping services</h1>
@@ -817,7 +821,7 @@
 				<a href="/business/dermatologists">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Dermatogists" src="/webassets/2021/img/icons/industries/dematologist.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/dematologist.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Dermatologist</h1>
@@ -830,7 +834,7 @@
 				<a href="/business/electricians">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Electricians" src="/webassets/2021/img/icons/industries/electricians.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/electricians.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Electricians</h1>
@@ -843,7 +847,7 @@
 				<a href="/business/eyelash-parlour">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Eyeslash parlour" src="/webassets/2021/img/icons/industries/eyelash-parlour.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/eyelash-parlour.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 				 			<h1>Eyelash Parlour</h1>
@@ -856,7 +860,7 @@
 				<a href="/business/fashion-designer">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Fashion Designer" src="/webassets/2021/img/icons/industries/fashion-designer.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/fashion-designer.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Fashion Designer</h1>
@@ -869,7 +873,7 @@
 				<a href="/business/gymnastic-classes">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="Gymnastics Classes" src="/webassets/2021/img/icons/industries/gymnastics.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/gymnastics.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Gymnastics Classes</h1>
@@ -882,7 +886,7 @@
 				<a href="/business/healing-center">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Healing Center" src="/webassets/2021/img/icons/industries/healing-center.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/healing-center.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 				 			<h1>Healing Center</h1>
@@ -895,7 +899,7 @@
 				<a href="/business/home-repair">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Home Repair services" src="/webassets/2021/img/icons/industries/home-repair.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/home-repair.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Home Repair</h1>
@@ -908,7 +912,7 @@
 				<a href="/business/hr-consultancy">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="HR Consultancy" src="/webassets/2021/img/icons/industries/hr-consultancy.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/hr-consultancy.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>HR Consultancy</h1>
@@ -921,7 +925,7 @@
 				<a href="/business/insurance">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Insurance" src="/webassets/2021/img/icons/industries/insurance.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/insurance.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 				 			<h1>Insurance</h1>
@@ -934,7 +938,7 @@
 				<a href="/business/lawn-maintenance-services">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="lawn-maintenance-services" src="/webassets/2021/img/icons/industries/lawn-maintenance-services.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/lawn-maintenance-services.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Lawn Maintenance Services</h1>
@@ -947,7 +951,7 @@
 				<a href="/business/live-events">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="live-events" src="/webassets/2021/img/icons/industries/live-events.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/live-events.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Live Events</h1>
@@ -960,7 +964,7 @@
 				<a href="/business/magicians">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="magicians" src="/webassets/2021/img/icons/industries/magicians.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/magicians.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 				 			<h1>Magicians</h1>
@@ -973,7 +977,7 @@
 				<a href="/business/meditation">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="meditation" src="/webassets/2021/img/icons/industries/meditation.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/meditation.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Meditation</h1>
@@ -986,7 +990,7 @@
 				<a href="/business/modelling-agencies">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="modelling-agencies" src="/webassets/2021/img/icons/industries/modeling-agencies.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/modeling-agencies.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Modelling Agencies</h1>
@@ -999,7 +1003,7 @@
 				<a href="/business/moving-truck-rental">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="moving-truck-rental" src="/webassets/2021/img/icons/industries/moving-truck-rental.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/moving-truck-rental.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 				 			<h1>Moving Truck rental</h1>
@@ -1012,7 +1016,7 @@
 				<a href="/business/music-classes">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Music Classes" src="/webassets/2021/img/icons/industries/music-classes.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/music-classes.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Music Classes</h1>
@@ -1025,7 +1029,7 @@
 				<a href="/business/ngo">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="NGO" src="/webassets/2021/img/icons/industries/ngo.svg" style="height: 60px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/ngo.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>NGO</h1>
@@ -1038,7 +1042,7 @@
 				<a href="/business/nursing">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"><img alt="Nursing" src="/webassets/2021/img/icons/industries/nursing.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/nursing.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 				 			<h1>Nursing</h1>
@@ -1051,7 +1055,7 @@
 				<a href="/business/nutrition">
 					<div class="unit-4 d-block">
 						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"><img alt="Nutrition" src="/webassets/2021/img/icons/industries/nutritionist.svg" style="height: 50px;"></span></span>
+							<span class="icon-wrap"><span class="text-primary"> <img alt="Nutrition" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/nutritionist.svg")))%>" style="height: 55px;"></span></span>
 						</div>
 						<div>
 							<h1>Nutrition</h1>

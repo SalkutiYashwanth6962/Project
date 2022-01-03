@@ -6,6 +6,10 @@
 _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| 
 "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
  -->
+<%@page import="java.util.Base64"%>
+<%@page import="com.google.common.base.Charsets"%>
+<%@page import="java.io.File"%>
+<%@page import="com.google.common.io.Files"%>
 <%@ taglib uri="http://htmlcompressor.googlecode.com/taglib/compressor" prefix="compress" %> <compress:html enabled="true" removeComments="true" removeIntertagSpaces="true" compressCss="true">
 <%@page import="com.picktime.website.Constants"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
@@ -71,19 +75,19 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 			   <div class="col-sm-12 hidden-xs hidden-sm" style="margin-top: 120px;"></div>
 			   <div class="col-sm-4 text-center">
 				   	<div>
-				   		<img class="what-is-picktime-img" alt="Picktime-appointments" src="/webassets/2021/img/What-is-picktime-appointment.svg">
+				   		<img alt="Picktime-appointments" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/What-is-picktime-appointment.svg")))%>" class="what-is-picktime-img">
 				   	</div>
 				   	<p><b>Appointments</b></p>
 			   	</div>
 			   	<div class="col-sm-4 text-center">
 			   		<div>
-				   		<img class="what-is-picktime-img" alt="Picktime-features-Group-booking" src="/webassets/2021/img/What-is-picktime-group-booking.svg">
+				   		<img alt="Picktime-features-Group-booking" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/What-is-picktime-group-booking.svg")))%>" class="what-is-picktime-img">
 				   	</div>
 			   		<p><b>Class Bookings</b></p>
 		   		</div>
 			   	<div class="col-sm-4 text-center">
 			   		<div>
-				   		<img class="what-is-picktime-img" alt="Picktime-features-room-equipment" src="/webassets/2021/img/What-is-picktime-rooms-euipment.svg">
+				   		<img alt="Picktime-features-room-equipment" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/What-is-picktime-rooms-euipment.svg")))%>" class="what-is-picktime-img">
 				   	</div>
 			   		<p><b>Rooms &amp; Equipment</b></p>
 		   		</div>
@@ -234,22 +238,22 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 			</div>
 			<div class="col-lg-6" class="box-section">
 				<div class="box1 aos-init aos-animate" data-aos="flip-left" data-aos-delay="100">
-					<img src="/webassets/2021/img/personal-calender.svg" alt="Manage-Personal-Calendar" class="box1-img">
+					<img alt="Manage-Personal-Calendar" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/personal-calender.svg")))%>" class="box1-img">
 					<div class="boxtitle"><h3>PERSONAL CALENDAR</h3></div>
 					<P class="box-content">Manage personal calendar along with your business schedule easily</P>
 				</div>
 				<div class="box2 aos-init aos-animate" data-aos="flip-right" data-aos-delay="100">
-					<img src="/webassets/2021/img/team-management.svg" alt="Manage-Your-Team" class="box1-img">
+					<img alt="Manage-Your-Team" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/team-management.svg")))%>" class="box1-img">
 					<div class="boxtitle"><h3>TEAM MANAGEMENT</h3></div>
 					<P class="box-content">Notify your clients and don’t worry about no-shows</P>
 				</div>
 				<div class="box3 aos-init aos-animate" data-aos="flip-down" data-aos-delay="100">
-					<img src="/webassets/2021/img/reports.svg" alt="Generate-Monthly-Daily-Reports" class="box1-img">
+					<img alt="Generate-Monthly-Daily-Reports" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/reports.svg")))%>" class="box1-img">
 					<div class="boxtitle"><h3>REPORTS</h3></div>
 					<P class="box-content">Easily raise your invoices and keep track of your sales and revenue</P>
 				</div>
 				<div class="box4 aos-init aos-animate" data-aos="flip-up" data-aos-delay="100">
-					<img src="/webassets/2021/img/timezone-conversion.svg" alt="Customer-Timezone-Conversion" class="box1-img">
+					<img alt="Customer-Timezone-Conversion" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/timezone-conversion.svg")))%>" class="box1-img">
 					<div class="boxtitle"><h3>TIMEZONE CONVERSTION</h3></div>
 					<P class="box-content">No matter where you have your offices, manage them easily.</P>
 				</div>
@@ -336,7 +340,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="items">
 							        	<div class="silder-box">
 							     			<div class="s-b-img">
-									    		<div class="text-center"><img src="/webassets/2021/img/icons/Photographer_icon.svg" alt="Photographers-Scheduling-Software"></div>
+									    		<div class="text-center"><img alt="Photographers-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Photographer_icon.svg")))%>"></div>
 										     </div>
 										     <div class="s-b-title"><h3><a href="/business/photographers">Photographers</a></h3></div>
 										     <div class="s-b-par">We believe that you should have a well-managed business whether you are a freelancer or own a big studio. Schedule meetings, appointments and manage your team with Picktime.</div>
@@ -349,7 +353,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="items">
 							        	<div class="silder-box">
 										    <div class="s-b-img">
-										   		<div class="text-center"><img src="/webassets/2021/img/icons/Health-and-Fitness_icon.svg" alt="Health-and-Fitness-Scheduling-Software"></div>
+										   		<div class="text-center"><img alt="Health-and-Fitness-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Health-and-Fitness_icon.svg")))%>"></div>
 									    	</div>
 									    	<div class="s-b-title"><h3><a href="/business/gyms">Health and Fitness</a></h3></div>
 								     		<div class="s-b-par">Be a gym trainer or a yoga trainer and manage your class bookings like a pro. Preset the number of places available in your class to avoid overbooking.</div>
@@ -362,7 +366,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="items">
 								        <div class="silder-box">
 										     <div class="s-b-img">
-										    	<div class="text-center"><img src="/webassets/2021/img/icons/Event-management_icon.svg" alt="Event-Management-Scheduling-Software"></div>
+										    	<div class="text-center"><img alt="Event-Management-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Event-management_icon.svg")))%>"></div>
 										     </div>
 										     <div class="s-b-title"><h3><a href="/business/events">Event Management</a></h3></div>
 										     <div class="s-b-par">Picktime event management software gives you the right tools to manage your staff, resources and clients for free.</div>
@@ -375,7 +379,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="items">
 								        <div class="silder-box">
 										     <div class="s-b-img">
-											     <div class="text-center"><img src="/webassets/2021/img/icons/Financial-services_icon.svg" alt="Financial-Services-Scheduling-Software"></div>
+											     <div class="text-center"><img alt="Financial-Services-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Financial-services_icon.svg")))%>"></div>
 										     </div>
 										     <div class="s-b-title"><h3><a href="/business/financial-services">Financial Services</a></h3></div>
 										     <div class="s-b-par">With the huge responsibilites like managing hard earned finances, it is important to worry less about the clerical work of your business. Enjoy free services with Picktime.</div>
@@ -388,7 +392,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="items">
 								        <div class="silder-box">
 										     <div class="s-b-img">
-											    <div class="text-center"><img src="/webassets/2021/img/icons/legal-services_icon.svg" alt="Legal-Services-Scheduling-Software"></div>
+											    <div class="text-center"><img alt="Legal-Services-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/legal-services_icon.svg")))%>"></div>
 										     </div>
 										     <div class="s-b-title"><h3><a href="/business/legal">Legal Services</a></h3></div>
 										     <div class="s-b-par">Maintaining a steady client base is just as important as maintaining Law. Let your clients know when you are free through our appointment booking service.</div>
@@ -401,7 +405,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="items">
 								        <div class="silder-box">
 										     <div class="s-b-img">
-											    <div class="text-center"><img src="/webassets/2021/img/icons/doctor-medical _icon.svg" alt="Doctors-and-Medical-Clinics-Scheduling-Software"></div>
+											    <div class="text-center"><img alt="Doctor-and-Medical-Clinics-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/doctor-medical _icon.svg")))%>"></div>
 										     </div>
 										     <div class="s-b-title"><h3><a href="/business/doctors">Doctors and Medical Clinics</a></h3></div>
 										     <div class="s-b-par">User-friendly features and tools that let you have a hassle-free and stress-free day. Start your free account today for scheduling your patient appointments.</div>
@@ -414,7 +418,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="items">
 								        <div class="silder-box">
 										     <div class="s-b-img">
-											    <div class="text-center"><img src="/webassets/2021/img/icons/Education_icon.svg" alt="Education-Scheduling-Software"></div>
+											    <div class="text-center"><img alt="Education-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Education_icon.svg")))%>"></div>
 										     </div>
 										     <div class="s-b-title"><h3><a href="/business/universities">Education</a></h3></div>
 										     <div class="s-b-par">Do you want to know how many of your students will be attending your class today? Use Picktime for all your class bookings and appoinments. No credit cards required - Sign up for free.</div>
@@ -427,7 +431,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="items">
 								        <div class="silder-box">
 									    	<div class="s-b-img">
-										   		<div class="text-center"><img src="/webassets/2021/img/icons/Interview_icon.svg" alt="Interview-Scheduling-Software"></div>
+										   		<div class="text-center"><img alt="Interview-Scheduling-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Interview_icon.svg")))%>"></div>
 										    </div>
 								     		<div class="s-b-title"><h3><a href="/business/interview">Interview Scheduling</a></h3></div>
 								     		<div class="s-b-par">Everybody wants to put their free time to better use and we understand that. Use our free and smart scheduling software that makes your managing your business faster and smoother.</div>
@@ -454,7 +458,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="itemL">
 										<div class="silder-boxs">
 											<div class="s-b-img">
-												<div class="text-center"><img src="/webassets/2021/img/icons/Beauty-and-Wellness_icon.svg" alt="Beauty-and-Wellness-Scheduling-Software"></div>
+												<div class="text-center"><img alt="Beauty-and-Wellness-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Beauty-and-Wellness_icon.svg")))%>"></div>
 											</div>
 											<div class="s-b-title"><h3><a href="/business/beauty-salon">Beauty and Wellness</a></h3></div>
 											<div class="s-b-par">Spend more time doing what you love the most. Picktime appointment scheduling software has the best features to help you run your business smoothly.</div>
@@ -465,7 +469,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="itemL">
 										<div class="silder-boxs">
 											<div class="s-b-img">
-												<div class="text-center"><img src="/webassets/2021/img/icons/Photographer_icon.svg" alt="Photographers-Scheduling-Software"></div>
+												<div class="text-center"><img alt="Photographers-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Photographer_icon.svg")))%>"></div>
 											</div>
 											<div class="s-b-title"><h3><a href="/business/photographers">Photographers</a></h3></div>
 											<div class="s-b-par">We believe that you should have a well-managed business whether you are a freelancer or own a big studio. Schedule meetings, appointments and manage your team with Picktime.</div>
@@ -476,7 +480,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="itemL">
 										<div class="silder-boxs">
 											<div class="s-b-img">
-												<div class="text-center"><img src="/webassets/2021/img/icons/Health-and-Fitness_icon.svg" alt="Health-and-Fitness-Scheduling-Software"></div>
+												<div class="text-center"><img alt="Health-and-Fitness-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Health-and-Fitness_icon.svg")))%>"></div>
 											</div>
 											<div class="s-b-title"><h3><a href="/business/gyms">Health and Fitness</a></h3></div>
 											<div class="s-b-par">Be a gym trainer or a yoga trainer and manage your class bookings like a pro. Preset the number of places available in your class to avoid overbooking.</div>
@@ -491,7 +495,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="itemL">
 										<div class="silder-boxs">
 											<div class="s-b-img">
-												<div class="text-center"><img src="/webassets/2021/img/icons/Event-management_icon.svg" alt="Event-Management-Scheduling-Software"></div>
+												<div class="text-center"><img alt="Event-Management-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Event-management_icon.svg")))%>"></div>
 											</div>
 											<div class="s-b-title"><h3><a href="/business/events">Event Management</a></h3></div>
 											<div class="s-b-par">Picktime event management software gives you the right tools to manage your staff, resources and clients for free.</div>
@@ -502,7 +506,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="itemL">
 										<div class="silder-boxs">
 											<div class="s-b-img">
-												<div class="text-center"><img src="/webassets/2021/img/icons/Financial-services_icon.svg" alt="Financial-Services-Scheduling-Software"></div>
+												<div class="text-center"><img alt="Financial-Services-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Financial-services_icon.svg")))%>"></div>
 											</div>
 											<div class="s-b-title"><h3><a href="/business/financial-services">Financial Services</a></h3></div>
 											<div class="s-b-par">With the huge responsibilites like managing hard earned finances, it is important to worry less about the clerical work of your business. Enjoy free services with Picktime.</div>
@@ -513,7 +517,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="itemL">
 										<div class="silder-boxs">
 											<div class="s-b-img">
-												<div class="text-center"><img src="/webassets/2021/img/icons/legal-services_icon.svg" alt="Legal-Services-Scheduling-Software"></div>
+												<div class="text-center"><img alt="Legal-Services-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/legal-services_icon.svg")))%>"></div>
 											</div>
 											<div class="s-b-title"><h3><a href="/business/legal">Legal Services</a></h3></div>
 											<div class="s-b-par">Maintaining a steady client base is just as important as maintaining Law. Let your clients know when you are free through our appointment booking service.</div>
@@ -528,7 +532,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="itemL">
 										<div class="silder-boxs">
 											<div class="s-b-img">
-												<div class="text-center"><img src="/webassets/2021/img/icons/doctor-medical _icon.svg" alt="Doctor-and-Medical-Clinics-Scheduling-Software"></div>
+												<div class="text-center"><img alt="Doctor-and-Medical-Clinics-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/doctor-medical _icon.svg")))%>"></div>
 											</div>
 											<div class="s-b-title"><h3><a href="/business/doctors">Doctors and Medical Clinics</a></h3></div>
 											<div class="s-b-par">User-friendly features and tools that let you have a hassle-free and stress-free day. Start your free account today for scheduling your patient appointments.</div>
@@ -539,7 +543,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="itemL">
 										<div class="silder-boxs">
 											<div class="s-b-img">
-												<div class="text-center"><img src="/webassets/2021/img/icons/Education_icon.svg" alt="Education-Scheduling-Software"></div>
+												<div class="text-center"><img alt="Education-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Education_icon.svg")))%>"></div>
 											</div>
 											<div class="s-b-title"><h3><a href="/business/universities">Education</a></h3></div>
 											<div class="s-b-par">Do you want to know how many of your students will be attending your class today? Use Picktime for all your class bookings and appoinments. No credit cards required - Sign up for free.</div>
@@ -550,7 +554,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 									<div class="itemL">
 										<div class="silder-boxs">
 											<div class="s-b-img">
-												<div class="text-center"><img src="/webassets/2021/img/icons/Interview_icon.svg" alt="Interview-Scheduling-Scheduling-Software"></div>
+												<div class="text-center"><img alt="Interview-Scheduling-Scheduling-Software" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/Interview_icon.svg")))%>"></div>
 											</div>
 											<div class="s-b-title"><h3><a href="/business/interview">Interview Scheduling</a></h3></div>
 											<div class="s-b-par">Everybody wants to put their free time to better use and we understand that. Use our free and smart scheduling software that makes your managing your business faster and smoother.</div>
