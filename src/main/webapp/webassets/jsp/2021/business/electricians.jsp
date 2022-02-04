@@ -23,11 +23,11 @@
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/electricians-cover.png" />
 	<meta property="og:image:alt" content="Electricians Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Free online appointment scheduler for electricians. Allow self-scheduling for patients, accept online payments, raise invoices and manage your team with one tool." />
+	<meta property="og:description" content="Free online appointment scheduler for electricians. Allow self-scheduling for customers, accept online payments, raise invoices and manage your team with one tool." />
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Electricians Appointment Scheduling Software | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Free online appointment scheduler for electricians. Allow self-scheduling for patients, accept online payments, raise invoices and manage your team with one tool." />
+	<meta name="twitter:description" content="Free online appointment scheduler for electricians. Allow self-scheduling for customers, accept online payments, raise invoices and manage your team with one tool." />
 	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/img/business/cover-img/electricians-cover.png" />
     <jsp:include page="../scheduling-software/website-new-headtag.jsp" />
 </head>
@@ -37,7 +37,7 @@
  		<div class="container">
 			<div class="col-md-6">
 				<h1>Comprehensive Online Appointment Scheduler for <span>Electricians </span></h1>
-				<p>Free online appointment scheduler for electricians. Allow self-scheduling for patients, accept online payments, raise invoices and manage your team with one tool.</p>
+				<p>Free online appointment scheduler for electricians. Allow self-scheduling for customers, accept online payments, raise invoices and manage your team with one tool.</p>
 				<a href="/register"><button class="btn-lg text-center">GET STARTED</button></a>
 			</div>
 			<div class="col-md-6">
