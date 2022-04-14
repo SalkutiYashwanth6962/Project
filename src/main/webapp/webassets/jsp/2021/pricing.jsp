@@ -137,7 +137,7 @@
 							<li>Unlimited Appointments</li>
 							<li>Merge Contacts</li>
 							<li>Email Notifications &amp; Reminders</li>
-							<li>Payments with PayPal &amp; Stripe*</li>
+							<li>Payments with PayPal &amp; Stripe</li>
 							<li>Recurring Bookings</li>
 							<li>Two way sync</li>
 							<li>Automatic Timezone Conversion</li>
@@ -361,8 +361,8 @@
 			<tr>
 				<td>Payments</td>
 				<td>PayPal</td>
-				<td>PayPal &amp; Stripe*</td>
-				<td>PayPal &amp; Stripe*</td>
+				<td>PayPal &amp; Stripe</td>
+				<td>PayPal &amp; Stripe</td>
 			</tr>
 			<tr>
 				<td>Google Calendar Sync</td>

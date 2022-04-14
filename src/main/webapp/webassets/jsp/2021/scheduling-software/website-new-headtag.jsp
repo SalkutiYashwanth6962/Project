@@ -10,7 +10,7 @@
 	<meta http-equiv="pragma" content="no-cache">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
-	<meta name="contact" content="hello@picktime.com" />
+	<meta name="contact" content="support@picktime.com" />
 	<link rel="apple-touch-icon" sizes="57x57" href="/webassets/2021/PTicons/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="/webassets/2021/PTicons/apple-icon-60x60.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="/webassets/2021/PTicons/apple-icon-72x72.png">

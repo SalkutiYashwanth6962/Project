@@ -47,7 +47,7 @@
 		</div>
 		<div class="col-md-4 error-footer">
 			<div class="footer-column">
-				<a class="error-footer-container-link" href="mailto:hello@picktime.com?subject=404-We could not find what we are looking for">
+				<a class="error-footer-container-link" href="mailto:support@picktime.com?subject=404-We could not find what we are looking for">
 			  		<div class="desc-img pull-left">
 			      		<img src="https://www.picktime.com/img/need-help.svg" alt="help">
 			  		</div>

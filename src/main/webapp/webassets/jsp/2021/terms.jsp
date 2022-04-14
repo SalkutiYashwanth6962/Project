@@ -28,7 +28,7 @@
     <meta name="description" content="Picktime is a free online scheduling software and a booking management system that manages your appointments, classes, group bookings, reservations and staff.">
     <meta name="keywords" content="Picktime Terms and Conditions, Picktime Usage Policy, free scheduling software, best appointment scheduling software, free scheduling app, free employee scheduling software, medical appointment scheduling software,
 	free online booking system, appointment scheduling software free, free project scheduling software, free online booking calendar, free online booking system for website, spa booking software, salon software, scheduling software, salon management system, interview scheduling software, class scheduling software, event management software, best event management software.">
-   	<meta name="contact" content="hello@picktime.com" />
+   	<meta name="contact" content="support@picktime.com" />
    
     <link rel="apple-touch-icon" sizes="57x57" href="/webassets/2021/PTicons/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="/webassets/2021/PTicons/apple-icon-60x60.png">
@@ -274,7 +274,7 @@
 					<p>These Terms shall continue to form a valid and binding contract between the Parties and shall continue to be in full force and effect until the User continues to access and use the Services and Platforms.
 					</p>
 					<ul>
-						<li>A User may terminate their use of the Services and the Platform at any time by the tools provided in the platform or by sending and email request to hello@picktime.com</li>
+						<li>A User may terminate their use of the Services and the Platform at any time by the tools provided in the platform or by sending and email request to support@picktime.com</li>
 						<li>The Company may terminate these Terms and close a User’s account at any time without notice and/or suspend or terminate a User’s access to the Platform at any time and for any reason, if any discrepancy or legal issue arises.</li>
 						<li>Such suspension or termination shall not limit the Platform’s right to take any other action against User that the Company considers appropriate. </li>
 						<li>It is also hereby declared that the Company may discontinue the Services and Platforms without any prior notice.</li>

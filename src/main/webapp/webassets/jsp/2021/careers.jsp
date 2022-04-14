@@ -36,7 +36,7 @@
 	<div id="careers" style="margin: 200px 0px 200px 0px;">
 		<div class="container">
 	      	<div class="title">Want to be part of our amazing team?</div>
-			<div class="mail">Send an email to hello@picktime.com</div>
+			<div class="mail">Send an email to support@picktime.com</div>
 	  	</div>
 	</div>
 	<jsp:include page="scheduling-software/website-new-footer.jsp"/>

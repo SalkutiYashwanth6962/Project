@@ -53,7 +53,7 @@
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Stripe-integration" src="/webassets/2021/img/apps/9Stripe.png"></div>
 					<div class="headings"><h3>Stripe</h3></div>
-					<p>Easily manage card payments (Coming soon).</p>
+					<p>Easily manage card payments</p>
 				</div>
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Square-integration" src="/webassets/2021/img/apps/2-2Square.png"></div>
