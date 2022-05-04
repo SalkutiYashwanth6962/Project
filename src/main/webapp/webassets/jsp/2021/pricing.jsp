@@ -305,6 +305,24 @@
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
+				<td>Export Customers</td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+			</tr>
+			<tr>
+				<td>Multiple Customer Delete</td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+			</tr>
+			<tr>
+				<td>Block Customers</td>
+				<td>-</td>
+				<td>-</td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+			</tr>
+			<tr>
 				<td>Zero Booking Commission</td>
 				<td>-</td>
 				<td>-</td>
@@ -320,6 +338,12 @@
 				<td>Online Booking Page in 20+ Languages</td>
 				<td>-</td>
 				<td>-</td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+			</tr>
+			<tr>
+				<td>Login Required for Bookings </td>
+				<td>-</td>
+				<td><i class="icon-check-mark right-mark"></i></td>
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
@@ -510,6 +534,12 @@
 			</tr>
 			<tr>
 				<td>Google Analytics</td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+				<td><i class="icon-check-mark right-mark"></i></td>
+			</tr>
+			<tr>
+				<td>Facebook Pixel</td>
 				<td><i class="icon-check-mark right-mark"></i></td>
 				<td><i class="icon-check-mark right-mark"></i></td>
 				<td><i class="icon-check-mark right-mark"></i></td>
