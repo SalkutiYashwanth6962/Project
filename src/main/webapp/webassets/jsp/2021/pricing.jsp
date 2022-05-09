@@ -85,7 +85,7 @@
 <jsp:include page="scheduling-software/website-new-navbar.jsp" />
 	<section class="pricing-header ">
 		<div class="container">
-    		<h2 class="pricing-h1">Pricing Plans Everyone</h2>
+    		<h2 class="pricing-h1">Pricing Plans For Everyone</h2>
 			<p class="pricing-text">Upgrade your plan for enhanced features and a richer experience.</p>
 		</div>
 	</section>
