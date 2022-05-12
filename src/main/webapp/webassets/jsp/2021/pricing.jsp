@@ -103,6 +103,7 @@
 							<li>2 Classes</li>
 							<li>Unlimited Appointments</li>
 							<li>Import Contacts</li>
+							<li>Export Contacts</li>
 							<li>Email Notifications</li>
 							<li>Online Booking Page</li>
 							<li>Payments with PayPal</li>
@@ -305,7 +306,7 @@
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
-				<td>Export Customers</td>
+				<td>Export Contacts</td>
 				<td><i class="icon-check-mark right-mark"></i></td>
 				<td><i class="icon-check-mark right-mark"></i></td>
 				<td><i class="icon-check-mark right-mark"></i></td>
@@ -317,7 +318,7 @@
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
-				<td>Block Customers</td>
+				<td>Block Contacts</td>
 				<td>-</td>
 				<td>-</td>
 				<td><i class="icon-check-mark right-mark"></i></td>
