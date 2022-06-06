@@ -82,6 +82,7 @@
     </style>
 </head>
 <body>
+<input type="hidden" id="selectedCycle"/>
 <jsp:include page="scheduling-software/website-new-navbar.jsp" />
 	<section class="pricing-header ">
 		<div class="container">
@@ -159,7 +160,7 @@
 							<b>
 								<label class='plan-price rupess' style="font-size: 25px;font-weight: bold;">
 									<span class='pro-price'></span>
-									<span class='pro-discount-price'>&#36; 19.99</span>
+									<span class='pro-discount-price'  id="counting"> &#36;19.99</span>
 								</label>/
 								<span class="billing-cycle" >
 									<span class="billing-cycle-month pro mo selected-cycle" onclick="changeCycle('promonth')" >month</span>
@@ -169,17 +170,23 @@
 						</div>
 						<div class="card-bold-text">Everything you get with Starter</div>
 						<ul>
-							<li>20 Team Members</li>
-							<li>20 Resources</li>
+							<li><span id="teamcount">20</span> Team Members
+            					<span class="btn" onclick="decrement()" style="display: inline;">-</span>
+            					<span class="btn" onclick="increment()" style="display: inline;">+</span>
+							</li>
+							<li><span id="Resourcescount">20</span> Resources
+            					<span class="btn" onclick="decrement()" style="display: inline;">-</span>
+            					<span class="btn" onclick="increment()" style="display: inline;">+</span>
+							</li>
 							<li>Unlimited Locations</li>
 							<li>Unlimited Classes</li>
 							<li>Customizable Emails</li>
 							<li>Booking Page 20+ Languages</li>
 							<li>Captcha Verification Online Booking</li>
 							<li>SSO***</li>
+							<li>Waitlist</li>
 							<li>Courses*</li>
 							<li>Packages*</li>
-							<li>Vouchers*</li>
 							<li>Discounts*</li>
 							<li>Over 100+ integrations with Zapier*</li>
 						</ul>
@@ -188,11 +195,9 @@
 				</div>
 			</div>
 		</div>
-		
 		<div  class="for-more">
 			<div class="for-more-title">For More Team Members & Resources <a href="https://support.picktime.com/form" target="_blank" class="for-support">Contact Our Support</a></div>
 		</div>
-	
 		<div class="note-sec">
 			<div>Note:</div> 
 			<div class="note">*Coming soon. Our team is working on bringing these features live as soon as possible.</div>
@@ -244,6 +249,12 @@
 				<td>3</td>
 				<td>3</td>
 				<td>20</td>
+			</tr>
+			<tr>
+				<td>Waitlist</td>
+				<td>-</td>
+				<td>-</td>
+				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
 				<td>Recurring Bookings</td>
@@ -597,6 +608,12 @@ function changeCycle(cycle)
 	}
 	else if(cycle == 'proyear')
 	{
+		document.getElementById("selectedCycle").value = cycle;
+		var fullPrice = price;
+		
+	 	price = price * 10;
+	 	fullPrice = fullPrice * 12;
+		
 		var yearElement = document.getElementsByClassName("billing-cycle-year pro mo non-selected-cycle")[0];
 		yearElement.classList.remove("non-selected-cycle");
 		yearElement.classList.add("selected-cycle");
@@ -608,13 +625,19 @@ function changeCycle(cycle)
 		var starterDiscountPriceElement = document.getElementsByClassName("pro-discount-price")[0];
 		var starterPriceElement = document.getElementsByClassName("pro-price")[0];
 		
-		starterDiscountPriceElement.innerHTML = '&#36; 199.90';
-		starterPriceElement.innerHTML = '&#36; 239.88';
+		starterDiscountPriceElement.innerHTML = (cycle.indexOf('year') > -1 ? ' ' : '')+'$ '+(price/100).toFixed(2);
+		starterPriceElement.innerHTML = '&#36; '+(fullPrice/100).toFixed(2);
 		starterPriceElement.classList.remove("non-strike-price");
 		starterPriceElement.classList.add("strike-price");
 	}
 	else if(cycle == 'promonth')
 	{
+		document.getElementById("selectedCycle").value = cycle;
+		var fullPrice = price;
+		
+	 	price = price / 10;
+	 	fullPrice = fullPrice / 12;
+	 	
 		var monthElement = document.getElementsByClassName("billing-cycle-month pro mo non-selected-cycle")[0];
 		monthElement.classList.remove("non-selected-cycle");
 		monthElement.classList.add("selected-cycle");
@@ -626,13 +649,105 @@ function changeCycle(cycle)
 		var starterDiscountPriceElement = document.getElementsByClassName("pro-discount-price")[0];
 		var starterPriceElement = document.getElementsByClassName("pro-price")[0];
 		
-		starterDiscountPriceElement.innerHTML = '&#36; 19.99';
+		starterDiscountPriceElement.innerHTML = '$'+(price/100).toFixed(2);
 		starterPriceElement.innerHTML = '';
 		starterPriceElement.classList.remove("strike-price");
 		starterPriceElement.classList.add("non-strike-price");
 	}
+	
+	
 }
 </compress:js>
 </script>
+
+<script>
+       //initialising a variable names
+       var price = 1999;
+       var actualPrice = 1999;
+       var teamcount = 20;
+       var Resourcescount = 20;
+       
+       //printing default value
+       document.getElementById("counting").innerText = '$ '+(price/100);
+	
+
+       //creation of increment function
+       function increment() {
+    	   
+    	   if(teamcount == 100)
+   		   {
+   		   		return;
+   		   }
+    	      	   
+    	   var cycle = document.getElementById("selectedCycle").value;
+    	   var incrementor = 1000;
+    	   if(cycle && cycle.indexOf('proyear') > -1)
+   		   {
+    		   incrementor = 10000
+   		   }
+    	   else
+   		   {
+    		   incrementor = 1000;
+   		   }
+    	   
+    	   price = price + incrementor;
+           teamcount = teamcount + 10;
+           Resourcescount = Resourcescount + 10;
+           
+           document.getElementById("counting").innerText = (cycle.indexOf('proyear') > -1 ? ' ' : '')+ '$ '+(price/100).toFixed(2);
+           document.getElementById("teamcount").innerHTML = teamcount;
+           document.getElementById("Resourcescount").innerHTML = Resourcescount;
+           
+           if(cycle && cycle.indexOf('proyear') > -1)
+   		   {
+    		   var starterPriceElement = document.getElementsByClassName("pro-price")[0];
+               starterPriceElement.innerText = '$ '+(((actualPrice + (((teamcount-20)/10) * 1000)) * 12 )/100).toFixed(2);
+   		   }
+    	   else
+   		   {
+    		   var starterPriceElement = document.getElementsByClassName("pro-price")[0];
+               starterPriceElement.innerText = '';
+   		   }
+       }
+       
+       //creation of decrement function
+       function decrement() {
+    	   
+    	   if(teamcount == 20)
+   		   {
+   		   		return;
+   		   }
+   			
+    	   var cycle = document.getElementById("selectedCycle").value;
+    	   var incrementor = 1000;
+    	   if(cycle && cycle.indexOf('proyear') > -1)
+   		   {
+    		   incrementor = 10000
+   		   }
+    	   else
+   		   {
+    		   incrementor = 1000;
+   		   }
+    	   
+    	   price = price - incrementor;
+           teamcount = teamcount - 10;
+           Resourcescount = Resourcescount - 10;
+           
+           document.getElementById("counting").innerText = (cycle.indexOf('proyear') > -1 ? ' ' : '')+ '$ '+(price/100).toFixed(2);
+           document.getElementById("teamcount").innerHTML = teamcount;
+           document.getElementById("Resourcescount").innerHTML = Resourcescount;
+           
+           if(cycle && cycle.indexOf('proyear') > -1)
+   		   {
+    		   var starterPriceElement = document.getElementsByClassName("pro-price")[0];
+               starterPriceElement.innerText = '$ '+(((actualPrice + (((teamcount-20)/10) * 1000)) * 12 )/100).toFixed(2);
+   		   }
+    	   else
+   		   {
+    		   var starterPriceElement = document.getElementsByClassName("pro-price")[0];
+               starterPriceElement.innerText = '';
+   		   }
+       }
+   </script>
 </html>
 </compress:html>

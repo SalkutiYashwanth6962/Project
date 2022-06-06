@@ -125,6 +125,11 @@
 						<div class="headings"><h3>Microsoft Exchange</h3></div>
 						<p>Connect to your Business Calendar with ease</p>
 					</div>
+					<div class="col-md-4 integration-sections">
+						<div class="pic"><img alt="microsoft-exchange-integration" src="/webassets/2021/img/apps/1-1Zapier.png"></div>
+						<div class="headings"><h3>Zapier</h3></div>
+						<p>Connect to Zapier & send bookings to any platform</p>
+					</div>
 				</div>
 			<h2>Booking Widget</h2>
 			<div class="row">
@@ -159,6 +164,23 @@
 					<div class="pic"><img alt="Drupal-integration" src="/webassets/2021/img/apps/4Drupal.png"></div>
 					<div class="headings"><h3>Drupal</h3></div>
 					<p>Convenient round the clock scheduling for everyone.</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4 integration-sections">
+					<div class="pic"><img alt="Joomla-integration" src="/webassets/2021/img/apps/facebook.png"></div>
+					<div class="headings"><h3>Facebook</h3></div>
+					<p>Add the Book Now button to your Facebook page and turn your followers into customers</p>
+				</div>
+				<div class="col-md-4 integration-sections">
+					<div class="pic"><img alt="Squarespace-integration" src="/webassets/2021/img/apps/insta.png"></div>
+					<div class="headings"><h3>Instagram</h3></div>
+					<p>Add the Book Now button to your Instagram Profile and turn your followers into customers</p>
+				</div>
+				<div class="col-md-4 integration-sections">
+					<div class="pic"><img alt="Drupal-integration" src="/webassets/2021/img/apps/google_map.png"></div>
+					<div class="headings"><h3>Google Maps</h3></div>
+					<p>Add Book Online button to your Google Business Profile and convert visitors into customers</p>
 				</div>
 			</div>
 			<h2>Email Marketing</h2>
@@ -211,6 +233,11 @@
 					<div class="headings"><h3>iCloud Contacts</h3></div>
 					<p>Export customers details to your iCloud</p>
 				</div>
+				<div class="col-md-4 integration-sections">
+					<div class="pic"><img alt="iCloud Contacts-integration" src="/webassets/2021/img/apps/1-1Zapier.png"></div>
+					<div class="headings"><h3>Zapier</h3></div>
+					<p>Export customers details to any platform using Zapier</p>
+				</div>
 			</div>
 			<h2>ANALYTICS</h2>
 			<div class="row">
@@ -219,6 +246,11 @@
 					<div class="headings"><h3>Google Analytics</h3></div>
 					<p>Get Powerful insights of your booking page</p>
 				</div>
+				<div class="col-md-4 integration-sections">
+					<div class="pic"><img alt="iCloud Contacts-integration" src="/webassets/2021/img/apps/facebook_pixels.png"></div>
+					<div class="headings"><h3>Facebook Pixels</h3></div>
+					<p>Get powerful insights of your booking page with Facebook Pixels.</p>
+				</div> 
 			</div>
 		</div>
 	</section>

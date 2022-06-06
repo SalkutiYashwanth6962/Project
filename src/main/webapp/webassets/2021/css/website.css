@@ -2616,13 +2616,13 @@ img.what-is-picktime-img{
 	}
 	.feature .col-lg-6 .box1,
 	.feature .col-lg-6 .box3 {
-		margin: 33px 0px 40px 120px;
+		margin: 33px 0px 40px 180px;
 		height: 200px;
 		width: 150px;
 	}
 	.feature .col-lg-6 .box2,
 	.feature .col-lg-6 .box4 {
-		margin: -240px 0px 40px 315px;
+		margin: -240px 0px 40px 400px;
 		height: 200px;
 		width: 150px;
 	}
@@ -2870,11 +2870,11 @@ img.what-is-picktime-img{
 	}
 	.feature .col-lg-6 .box1,
 	.feature .col-lg-6 .box3 {
-	  	margin: 0px 0px 0px 0px;
+	  	margin: 0px 0px 0px 15px;
 	}
 	.feature .col-lg-6 .box2,
 	.feature .col-lg-6 .box4 {
-	  	margin: -200px 165px 57px;
+	  	margin: -200px 200px 57px;
 	}
 	#love-by-evryine #quote-carousel img {
 	  	display: none;
@@ -2900,7 +2900,16 @@ img.what-is-picktime-img{
   		margin-top: 0px;
 	}
 }
-
+@media only screen and (max-width: 376px) {
+	.feature .col-lg-6 .box1,
+	.feature .col-lg-6 .box3 {
+	  	margin: 0px 0px 0px 0px;
+	}
+	.feature .col-lg-6 .box2,
+	.feature .col-lg-6 .box4 {
+	  	margin: -200px 170px 57px;
+	}
+}
 @media only screen and (max-width: 348px) {
 	/*====Button==universal-selectors====*/
 	.onlinebooking .col-md-6 .btn-lg,

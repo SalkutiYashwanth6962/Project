@@ -675,413 +675,527 @@
 			</div>
 			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
 				<a href="/business/child-care">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Child Care" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Childcare.svg")))%>" style="height: 55px;"></span></span>
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Child Care" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Childcare.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Child Care</h1>
+								<p style="margin-bottom: 50px;">We help you run a successful child care business. It gives you modern cloud software business tools that you need to run your day-to-day operation, scheduling, billing, and staff management.</p>
+							</div>
 						</div>
-						<div>
-							<h1>Child Care</h1>
-							<p style="margin-bottom: 50px;">We help you run a successful child care business. It gives you modern cloud software business tools that you need to run your day-to-day operation, scheduling, billing, and staff management.</p>
-						</div>
-					</div>
-				</a>
+					</a>
+				</div>
 			</div>
-			<!--  new cards start  -->
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/business/information-technology">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Information Technology" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/information_technology.svg")))%>" style="height: 55px;"></span></span>
+			<div class="row align-items-stretch">
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/information-technology">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Information Technology" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/information_technology.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Information Technology</h1>
+								<p style="margin-bottom: 30px;">Picktime is a free helpdesk and service booking software for IT and end-user clients. It has a simple, easy-to-use interface and helps you provide reliable services. Powerful web-based software for managing IT services, booking appointments with clients.</p>
+							</div>
 						</div>
-						<div>
-				 			<h1>Information Technology</h1>
-							<p style="margin-bottom: 30px;">Picktime is a free helpdesk and service booking software for IT and end-user clients. It has a simple, easy-to-use interface and helps you provide reliable services. Powerful web-based software for managing IT services, booking appointments with clients.</p>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/real-estate">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Real Estate" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/real_Estate.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Real Estate</h1>
+								<p>Simple, innovative solution for real estate agents to get your appointments booked faster. Picktime has been explicitly created as a best-in-class appointment booking and meeting scheduling software for real estate, property management, and other industries where appointments drive sales.</p>
+							</div>
 						</div>
-					</div>
-				</a>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/government">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Government" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/government.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Government</h1>
+								<p style="margin-bottom: 30px;">Picktime is a cloud-based application that optimizes the paperless process of making government appointments. We make it possible for government officials to schedule and manage appointments online with the public.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/club-events">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Club Event" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/club-events.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Club Event</h1>
+								<p>Picktime is a club event booking software that helps you easily organize and manage your event bookings, venues, and staff. With Picktime, you can keep track of your bookings intuitively and clearly.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/auto-services">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Auto Service" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/auto-service.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Auto Service</h1>
+								<p style="margin-bottom: 30px;">Customers can schedule an appointment with your automotive shop or even book a simple oil change online. An easy way to manage a car service business.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/florist">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Florist" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/florist.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Florist</h1>
+								<p style="margin-bottom: 30px;">Florist booking software is a much-needed upgrade for flower shops to help them control their shop and boost revenue through decor service bookings.</p>
+							</div>
+						</div>
+					</a>
+				</div>
 			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/business/real-estate">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Real Estate" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/real_Estate.svg")))%>" style="height: 55px;"></span></span>
+			<div class="row align-items-stretch">
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/charity">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Charity" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/charity.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Charity</h1>
+								<p>Get started with managing your charity's appointments, events, and campaigns with an online meeting scheduling program. Our software will help you manage all aspects of your charity management needs.</p>
+							</div>
 						</div>
-						<div>
-							<h1>Real Estate</h1>
-							<p>Simple, innovative solution for real estate agents to get your appointments booked faster. Picktime has been explicitly created as a best-in-class appointment booking and meeting scheduling software for real estate, property management, and other industries where appointments drive sales.</p>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/community-services">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Community Services" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/community-services.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Community Services</h1>
+								<p>Community management software gives you control and visibility over everything that happens in your community.  Train your volunteers to be more effective by managing their time.</p>
+							</div>
 						</div>
-					</div>
-				</a>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/dance-classes">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Dance Classes" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/dance-class.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Dance Classes</h1>
+								<p>Managing a dance studio from the ground up doesn't have to be complicated. It can be easy with the right class management tool, and Picktime makes running a dance studio business easy peasy.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/landscaping-services">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/landscaping-services.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Landscaping services</h1>
+								<p style="margin-bottom: 30px;">Landscapers can improve their work efficiency and run a more profitable business with better management of landscaping projects. Picktime helps you scale your business.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/dermatologists">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/dematologist.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Dermatologist</h1>
+								<p>Dermatology practice management has never been easier!  Implementing Picktime will improve your revenue cycle management as well as enhance your patient appointment booking process.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/electricians">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/electricians.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Electricians</h1>
+								<p>New generation customers expect a hands-on experience. Keep up by managing your appointments, creating invoices, and accepting payments on your phone using appointment booking software.</p>
+							</div>
+						</div>
+					</a>
+				</div>
 			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/business/government">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Government" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/government.svg")))%>" style="height: 55px;"></span></span>
+			<div class="row align-items-stretch">
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/eyelash-parlour">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/eyelash-parlour.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Eyelash Parlour</h1>
+								<p>The Eyelash Parlour Appointment Software has been specially designed for those offering eyelash services, beauty services, and cosmetic procedures, as well as seasonal salons. Take your eyelash business to the next level.</p>
+							</div>
 						</div>
-						<div>
-							<h1>Government</h1>
-							<p style="margin-bottom: 30px;">Picktime is a cloud-based application that optimizes the paperless process of making government appointments. We make it possible for government officials to schedule and manage appointments online with the public.</p>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/fashion-designer">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/fashion-designer.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Fashion Designer</h1>
+								<p style="margin-bottom: 30px;">Confidently secure online bookings for your fashion business with our appointment booking software. Make it convenient for clients to view your entire business portfolio and schedule meeting in one place.</p>
+							</div>
 						</div>
-					</div>
-				</a>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/gymnastic-classes">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/gymnastics.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Gymnastics Classes</h1>
+								<p style="margin-bottom: 30px;">Picktime is the one-stop solution to manage your gymnastics business. It saves you time by managing gymnastic classes and helps you focus on providing the best service possible to your customers.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/healing-center">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/healing-center.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Healing Center</h1>
+								<p>With the right front office management software, a healing center can run efficiently and provide a better experience for clients. Invest your saved offering the best of your services.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/home-repair">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/home-repair.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Home Repair</h1>
+								<p>Today's home improvement and remodeling businesses need clarity and intelligence when it comes to managing their business. Make it easy for your clients to find your services and book them.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/hr-consultancy">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/hr-consultancy.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>HR Consultancy</h1>
+								<p>An interview scheduler will help you save time, thus helping you focus on other projects better. Using interview scheduling software means you'll end up with fewer bad hires in your company.</p>
+							</div>
+						</div>
+					</a>
+				</div>
 			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/business/club-events">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Club Event" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/club-events.svg")))%>" style="height: 55px;"></span></span>
+			<div class="row align-items-stretch">
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/insurance">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/insurance.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Insurance</h1>
+								<p style="margin-bottom: 30px;">Our insurance management system saves time and reduces the stress of managing your insurance agents by automating, streamlining, and integrating many of your day-to-day business functions.</p>
+							</div>
 						</div>
-						<div>
-				 			<h1>Club Event</h1>
-							<p>Picktime is a club event booking software that helps you easily organize and manage your event bookings, venues, and staff. With Picktime, you can keep track of your bookings intuitively and clearly.</p>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/lawn-maintenance-services">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/lawn-maintenance-services.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Lawn Maintenance Services</h1>
+								<p style="margin-bottom: 30px;">Optimize your customer's lawn care booking experience and increase revenue with Picktime. People are willing to spend money on lawn care services if they're easy to find and book.</p>
+							</div>
 						</div>
-					</div>
-				</a>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/live-events">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/live-events.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Live Events</h1>
+								<p>Make a more intelligent choice in event booking software with your new calendar plans in place. Make it easy to schedule, register and attend your events. Event scheduling software can automate your workload, get paid faster, and more.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/magicians">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/magicians.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Magicians</h1>
+								<p>With the magician booking app, you can manage your recurring show date and customer information, allow payments, and schedule tasks for your assistants with just one app. Send automated reminder emails, invoices and accept all types of card payments.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/meditation">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/meditation.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Meditation</h1>
+								<p style="margin-bottom: 50px;">Successful meditation studios and businesses use scheduling software to streamline their business operations and increase revenue. Booking systems make running a meditation coaching class business smooth and easy.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/modelling-agencies">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/modeling-agencies.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Modelling Agencies</h1>
+								<p style="margin-bottom: 30px;">Picktime allows you to see everything happening in your agency with just a few clicks. All the tools you need to manage all aspects of your modeling agency are in one place and set yourself apart from competitors and scale your business.</p>
+							</div>
+						</div>
+					</a>
+				</div>
 			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/business/auto-services">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Auto Service" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/auto-service.svg")))%>" style="height: 55px;"></span></span>
+			<div class="row align-items-stretch">
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/moving-truck-rental">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/moving-truck-rental.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Moving Truck rental</h1>
+								<p style="margin-bottom: 50px;">Picktime is a tool that makes booking much easier for your customers and less work for you. Why worry about managing reservations when you can have Picktime handle all the truck and staff management.</p>
+							</div>
 						</div>
-						<div>
-							<h1>Auto Service</h1>
-							<p style="margin-bottom: 30px;">Customers can schedule an appointment with your automotive shop or even book a simple oil change online. An easy way to manage a car service business.</p>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/music-classes">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/music-classes.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Music Classes</h1>
+								<p style="margin-bottom: 50px;">Get the music lesson scheduling software for your music school to easily manage students' lesson schedules and payments. Schedule Music Class Registrations with our powerful booking software!</p>
+							</div>
 						</div>
-					</div>
-				</a>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/ngo">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/ngo.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>NGO</h1>
+								<p>Meetings are essential to nail down decisions and work together as a team. Our NGO meeting scheduling software lets you get the most out of your meetings with an easy prep workflow. Save time with the ability to collaborate effectively with any meeting or event.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/nursing">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/nursing.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Nursing</h1>
+								<p>Schedule nursing appointments more efficiently, reduce no-shows, improve customer service, decrease costs. Our software securely stores all information so medical staff can access it quickly.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/nutrition">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Nutrition" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/nutritionist.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Nutrition</h1>
+								<p>Nutrition industry is ever-growing business, and it's often hard to schedule appointments on time. If you're a dietician, try out this web-based scheduler for scheduling appointments and managing staff.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/pediatricians">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/pediatricians.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Pediatricians</h1>
+								<p>Picktime for pediatricians is a great way to keep track of appointments and ensure that patients are seen on time. Picktime can also help paediatricians manage their practice more efficiently.</p>
+							</div>
+						</div>
+					</a>
+				</div>
 			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/business/florist">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Florist" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/florist.svg")))%>" style="height: 55px;"></span></span>
+			<div class="row align-items-stretch">
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/pharmacy">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/Pharmacy.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Pharmacy</h1>
+								<p style="margin-bottom: 30px;">Looking for a pharmacy booking software? Check out Picktime, which helps pharmacies manage their appointments and book prescriptions.</p>
+							</div>
 						</div>
-						<div>
-							<h1>Florist</h1>
-							<p style="margin-bottom: 30px;">Florist booking software is a much-needed upgrade for flower shops to help them control their shop and boost revenue through decor service bookings.</p>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/public-relations">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/public-relations.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Public Relations</h1>
+								<p>Many organizations rely on manual methods, which can be time-consuming and prone to error. Picktime can help reduce the workload and improve communication between PR staff and their clients.</p>
+							</div>
 						</div>
-					</div>
-				</a>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/skating-class">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/skating-class.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Skating Class</h1>
+								<p>Picktime can help skate training centers manage their classes more efficiently and effectively. Picktime allows trainers to keep track of student attendance, maintain student record and manage trainers schedules.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/skin-care">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/skin-care.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Skin Care</h1>
+								<p style="margin-bottom: 30px;">Skin care clinics can save time and money with appointment scheduling software. Picktime can help clinicians plan appointments, ensure that patients are seen on time, and prevent overcrowding.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/soccer-class">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Nutrition" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/soccer.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Soccer Class</h1>
+								<p>An online class management software for soccer training centers can help coaches keep track of student attendance, and manage trainers schedules. Picktime can also help administrators generate detailed reports to get business insights.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/swimming-class">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/swimming-class.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Swimming Classes</h1>
+								<p style="margin-bottom: 30px;">A better way to make swimming training more enjoyable and efficient is to use class management software. Picktime can help swimming coaches keep track of classes, manage attendance, and generate reports.</p>
+							</div>
+						</div>
+					</a>
+				</div>
 			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/business/charity">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Charity" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/charity.svg")))%>" style="height: 55px;"></span></span>
+			<div class="row align-items-stretch">
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/tanning-salon">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/tanning-salon.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Tanning Salon</h1>
+								<p style="margin-bottom: 30px;">Picktime can help tanning salon businesses save time and money by automating the process of booking appointments and tracking customer data.</p>
+							</div>
 						</div>
-						<div>
-				 			<h1>Charity</h1>
-							<p>Get started with managing your charity's appointments, events, and campaigns with an online meeting scheduling program. Our software will help you manage all aspects of your charity management needs.</p>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/tattoo">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/tattoo.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Tattoo</h1>
+								<p>Picktime allows the tattoo artist to easily keep track of appointments, manage staff schedules, and generate invoices. In addition, Picktime can also help to manage resources and accept payments.</p>
+							</div>
 						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/business/community-services">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Community Services" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/community-services.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-							<h1>Community Services</h1>
-							<p>Community management software gives you control and visibility over everything that happens in your community.  Train your volunteers to be more effective by managing their time.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/business/dance-classes">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Dance Classes" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/dance-class.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-							<h1>Dance Classes</h1>
-							<p>Managing a dance studio from the ground up doesn't have to be complicated. It can be easy with the right class management tool, and Picktime makes running a dance studio business easy peasy.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/business/landscaping-services">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/landscaping-services.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-				 			<h1>Landscaping services</h1>
-							<p style="margin-bottom: 30px;">Landscapers can improve their work efficiency and run a more profitable business with better management of landscaping projects. Picktime helps you scale your business.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/business/dermatologists">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/dematologist.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-							<h1>Dermatologist</h1>
-							<p>Dermatology practice management has never been easier!  Implementing Picktime will improve your revenue cycle management as well as enhance your patient appointment booking process.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/business/electricians">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/electricians.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-							<h1>Electricians</h1>
-							<p>New generation customers expect a hands-on experience. Keep up by managing your appointments, creating invoices, and accepting payments on your phone using appointment booking software.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/business/eyelash-parlour">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/eyelash-parlour.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-				 			<h1>Eyelash Parlour</h1>
-							<p>The Eyelash Parlour Appointment Software has been specially designed for those offering eyelash services, beauty services, and cosmetic procedures, as well as seasonal salons. Take your eyelash business to the next level.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/business/fashion-designer">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/fashion-designer.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-							<h1>Fashion Designer</h1>
-							<p style="margin-bottom: 30px;">Confidently secure online bookings for your fashion business with our appointment booking software. Make it convenient for clients to view your entire business portfolio and schedule meeting in one place.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/business/gymnastic-classes">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/gymnastics.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-							<h1>Gymnastics Classes</h1>
-							<p style="margin-bottom: 30px;">Picktime is the one-stop solution to manage your gymnastics business. It saves you time by managing gymnastic classes and helps you focus on providing the best service possible to your customers.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/business/healing-center">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/healing-center.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-				 			<h1>Healing Center</h1>
-							<p>With the right front office management software, a healing center can run efficiently and provide a better experience for clients. Invest your saved offering the best of your services.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/business/home-repair">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/home-repair.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-							<h1>Home Repair</h1>
-							<p>Today's home improvement and remodeling businesses need clarity and intelligence when it comes to managing their business. Make it easy for your clients to find your services and book them.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/business/hr-consultancy">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/hr-consultancy.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-							<h1>HR Consultancy</h1>
-							<p>An interview scheduler will help you save time, thus helping you focus on other projects better. Using interview scheduling software means you'll end up with fewer bad hires in your company.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/business/insurance">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/insurance.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-				 			<h1>Insurance</h1>
-							<p style="margin-bottom: 30px;">Our insurance management system saves time and reduces the stress of managing your insurance agents by automating, streamlining, and integrating many of your day-to-day business functions.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/business/lawn-maintenance-services">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/lawn-maintenance-services.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-							<h1>Lawn Maintenance Services</h1>
-							<p style="margin-bottom: 30px;">Optimize your customer's lawn care booking experience and increase revenue with Picktime. People are willing to spend money on lawn care services if they're easy to find and book.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/business/live-events">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/live-events.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-							<h1>Live Events</h1>
-							<p>Make a more intelligent choice in event booking software with your new calendar plans in place. Make it easy to schedule, register and attend your events. Event scheduling software can automate your workload, get paid faster, and more.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/business/magicians">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/magicians.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-				 			<h1>Magicians</h1>
-							<p>With the magician booking app, you can manage your recurring show date and customer information, allow payments, and schedule tasks for your assistants with just one app. Send automated reminder emails, invoices and accept all types of card payments.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/business/meditation">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/meditation.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-							<h1>Meditation</h1>
-							<p style="margin-bottom: 50px;">Successful meditation studios and businesses use scheduling software to streamline their business operations and increase revenue. Booking systems make running a meditation coaching class business smooth and easy.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/business/modelling-agencies">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/modeling-agencies.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-							<h1>Modelling Agencies</h1>
-							<p style="margin-bottom: 30px;">Picktime allows you to see everything happening in your agency with just a few clicks. All the tools you need to manage all aspects of your modeling agency are in one place and set yourself apart from competitors and scale your business.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/business/moving-truck-rental">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/moving-truck-rental.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-				 			<h1>Moving Truck rental</h1>
-							<p style="margin-bottom: 50px;">Picktime is a tool that makes booking much easier for your customers and less work for you. Why worry about managing reservations when you can have Picktime handle all the truck and staff management.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/business/music-classes">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/music-classes.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-							<h1>Music Classes</h1>
-							<p style="margin-bottom: 50px;">Get the music lesson scheduling software for your music school to easily manage students' lesson schedules and payments. Schedule Music Class Registrations with our powerful booking software!</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/business/ngo">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/ngo.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-							<h1>NGO</h1>
-							<p>Meetings are essential to nail down decisions and work together as a team. Our NGO meeting scheduling software lets you get the most out of your meetings with an easy prep workflow. Save time with the ability to collaborate effectively with any meeting or event.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
-				<a href="/business/nursing">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/nursing.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-				 			<h1>Nursing</h1>
-							<p>Schedule nursing appointments more efficiently, reduce no-shows, improve customer service, decrease costs. Our software securely stores all information so medical staff can access it quickly.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-				<a href="/business/nutrition">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary"> <img alt="Nutrition" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/nutritionist.svg")))%>" style="height: 55px;"></span></span>
-						</div>
-						<div>
-							<h1>Nutrition</h1>
-							<p>Nutrition industry is ever-growing business, and it's often hard to schedule appointments on time. If you're a dietician, try out this web-based scheduler for scheduling appointments and managing staff.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			
-			<!-- <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-				<a href="/business/government">
-					<div class="unit-4 d-block">
-						<div class="unit-4-icon mb-3">
-							<span class="icon-wrap"><span class="text-primary icon-power"><img alt="EXTRA" src="/webassets/2021/img/icons/industries/florist.svg" style="height: 60px;"></span></span>
-						</div>
-						<div>
-							<h1>EXTRA</h1>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-						</div>
-					</div>
-				</a>
-			</div> -->
-			<!--  new cards end -->
-			
+					</a>
+				</div>
+			</div> 
 		</div>
-	</div>
 	<jsp:include page="scheduling-software/website-new-footer.jsp"/>
 </body>
 </html>

@@ -436,6 +436,20 @@
 								<i class="icon-web-document" aria-hidden="true" style="font-size: 25px;"></i>
 							</div>
 							<div class="media-body">
+								<h4>Termination</h4>
+								<p>A User may terminate their use of the Services and the Platform at any time by the tools provided in the platform or by sending an email request to support@picktime.com.</p>
+								<p>Please note that in the course of providing the Services, we collect and maintain aggregated, anonymized or de-personalized information which we may retain indefinitely.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="media">
+							<div class="media-left">
+								<i class="icon-web-document" aria-hidden="true" style="font-size: 25px;"></i>
+							</div>
+							<div class="media-body">
 								<h4>Transfer of personal information outside of Brazil based on your consent</h4>
 								<p>We can transfer your personal information outside of the Brazilian territory if you consent to such transfer.</p>
 								<p>When we ask for your consent, we’ll make sure to provide all the information that you need to make an educated decision and to understand the implications and consequences of providing or denying your consent.</p>

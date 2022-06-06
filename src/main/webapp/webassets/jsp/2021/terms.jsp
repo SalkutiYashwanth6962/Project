@@ -274,7 +274,7 @@
 					<p>These Terms shall continue to form a valid and binding contract between the Parties and shall continue to be in full force and effect until the User continues to access and use the Services and Platforms.
 					</p>
 					<ul>
-						<li>A User may terminate their use of the Services and the Platform at any time by the tools provided in the platform or by sending and email request to support@picktime.com</li>
+						<li>A User may terminate their use of the Services and the Platform at any time by the tools provided in the platform or by sending an email request to support@picktime.com</li>
 						<li>The Company may terminate these Terms and close a User’s account at any time without notice and/or suspend or terminate a User’s access to the Platform at any time and for any reason, if any discrepancy or legal issue arises.</li>
 						<li>Such suspension or termination shall not limit the Platform’s right to take any other action against User that the Company considers appropriate. </li>
 						<li>It is also hereby declared that the Company may discontinue the Services and Platforms without any prior notice.</li>
