@@ -1,6 +1,8 @@
 package com.picktime.website;
 
 import java.io.IOException;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import javax.servlet.Filter;
 import javax.servlet.FilterChain;
@@ -49,7 +51,23 @@ public class BypassFilter implements Filter {
 				System.out.println("isTaskQueue: "+httpRequest.getHeader("X-AppEngine-QueueName"));
 			}
 			
-	        if (!isCronJob && !isTaskQueue && (domain.equals("picktime.com") || (scheme != null && scheme.equals("http") && !(domain.contains("localhost") || domain.contains("127.0.0.1"))))) 
+			boolean isWarmUpRequest = httpRequest.getServletPath().contains("/_ah/warmup");
+			if(isWarmUpRequest)
+			{
+				System.out.println("isWarmUpRequest: "+isWarmUpRequest);
+			}
+			
+	        String zeroTo255 = "(\\d{1,2}|(0|1)\\"  + "d{2}|2[0-4]\\d|25[0-5])";
+	        String regex = zeroTo255 + "\\." + zeroTo255 + "\\." + zeroTo255 + "\\." + zeroTo255;
+	        Pattern p = Pattern.compile(regex);
+	        Matcher m = p.matcher(domain);
+	        boolean isIpAddressHost = m.matches();
+	        if(isIpAddressHost)
+			{
+				System.out.println("isIpAddressHost: "+isIpAddressHost);
+			}
+			
+			if (!isCronJob && !isTaskQueue && !isWarmUpRequest && !isIpAddressHost && (domain.equals("picktime.com") || (scheme != null && scheme.equals("http") && !(domain.contains("localhost") || domain.contains("127.0.0.1") || domain.contains(".loca.lt") || domain.contains(".ngrok.io"))))) 
 	        {
 	        	if(domain.equals("picktime.com"))
 	        	{
