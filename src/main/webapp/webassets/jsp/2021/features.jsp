@@ -188,7 +188,7 @@
 					</div>
 					<div class="row">
 						<div class="col-xs-6"><img alt="Attendance" class="class-booking-features"  src="/webassets/2021/img/icons/features/Attendance_icon.svg"><h3><a href="#">Attendance</a></h3></div>
-						<div class="col-xs-6"><img alt="Waitlist" class="class-booking-features"  src="/webassets/2021/img/icons/features/Waitlist_icon.svg"><h3><a href="#">Waitlist </a><span style="font-weight: 100;font-size: 12px;">(Coming Soon)</span></h3></div>
+						<div class="col-xs-6"><img alt="Waitlist" class="class-booking-features"  src="/webassets/2021/img/icons/features/Waitlist_icon.svg"><h3><a href="#">Waitlist </a></h3></div>
 					</div>
 					<div class="row">
 						<div class="col-xs-6"><img alt="Print-Agenda" class="class-booking-features"  src="/webassets/2021/img/icons/features/Print-Agenda_icon.svg"><h3><a href="#">Print Agenda</a></h3></div>
