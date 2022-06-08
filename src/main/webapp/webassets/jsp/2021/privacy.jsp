@@ -436,9 +436,11 @@
 								<i class="icon-web-document" aria-hidden="true" style="font-size: 25px;"></i>
 							</div>
 							<div class="media-body">
-								<h4>Termination</h4>
-								<p>A User may terminate their use of the Services and the Platform at any time by the tools provided in the platform or by sending an email request to support@picktime.com.</p>
-								<p>Please note that in the course of providing the Services, we collect and maintain aggregated, anonymized or de-personalized information which we may retain indefinitely.</p>
+								<h4>User Data Deletion</h4>
+								<p>A User may delete their account at any time by the tools provided in the platform or by sending an email request to support@picktime.com.</p>
+								<p>When a user deletes their account, all their personal information stored on our platform will also be deleted. We do not retain any user data once an account has been deleted.</p>
+								<p>You may contact Picktime to request the deletion of all personal information that is stored on our platform. Picktime will notify you of the removal within 30 days following receipt of the request. The owner of the account must submit an official request to legal@picktime.com for the deletion process to begin.</p>
+								<p>As a Picktime user, you may also manually remove individual user profiles or clients in your account if a customer instructs you to do so. You may also pass this request to our privacy team for processing by continuing to send the account administrator an email at legal@picktime.com.</p>
 							</div>
 						</div>
 					</div>
