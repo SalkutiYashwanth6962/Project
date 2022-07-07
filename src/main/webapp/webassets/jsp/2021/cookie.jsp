@@ -102,6 +102,10 @@
 			color: #777;
 			padding-left: 15px
 		}
+		.cookies a:focus, a:hover{
+			color: #337ab7;
+			text-decoration: none;
+		}
 	</style>
 </head>
 <body>

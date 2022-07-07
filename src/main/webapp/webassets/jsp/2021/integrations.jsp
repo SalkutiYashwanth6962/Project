@@ -128,7 +128,7 @@
 					<div class="col-md-4 integration-sections">
 						<div class="pic"><img alt="microsoft-exchange-integration" src="/webassets/2021/img/apps/1-1Zapier.png"></div>
 						<div class="headings"><h3>Zapier</h3></div>
-						<p>Connect to Zapier & send bookings to any platform</p>
+						<p>Connect to Zapier & send bookings to any platform (Coming soon)</p>
 					</div>
 				</div>
 			<h2>Booking Widget</h2>
@@ -236,7 +236,7 @@
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="iCloud Contacts-integration" src="/webassets/2021/img/apps/1-1Zapier.png"></div>
 					<div class="headings"><h3>Zapier</h3></div>
-					<p>Export customers details to any platform using Zapier</p>
+					<p>Export customers details to any platform using Zapier (Coming soon)</p>
 				</div>
 			</div>
 			<h2>ANALYTICS</h2>

@@ -110,6 +110,10 @@
 	  .terms-and-conditions ol li{
 	  margin: 10px 0px 0px 40px;
 	  }
+	  .terms-and-conditions a:focus, a:hover{
+			color: #337ab7;
+			text-decoration: none;
+		}
 	</style>
 </head>
 <body>

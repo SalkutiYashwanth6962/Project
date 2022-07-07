@@ -65,6 +65,10 @@
 	    .gdpr .icon-rating{
 	    	color: #fff;
 	    }
+	    .gdpr a:focus, a:hover{
+			color: #337ab7;
+			text-decoration: none;
+		}
     </style>
 </head>
 <body>
