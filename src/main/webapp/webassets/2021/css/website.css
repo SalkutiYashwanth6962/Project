@@ -156,6 +156,31 @@ a:hover {
 	width: 100%;
 }
 
+.capterra{
+	margin: 10px 0px;
+	padding: 0px;
+}
+.capterra img{
+ 	width: 80px;
+	margin-top: 10px
+}
+.capterra .capterra-title{
+   	margin: 15px 0 5px 0px;
+    background: #ff9d28;
+    border-radius: 25px;
+    width: 130px;
+    text-align: center;
+    color: #ffff;
+    font-weight: 500;
+    font-size: 12px;
+    padding: 3px 0px;
+}
+.capterra .capterra-subtitle{
+	margin-top: 10px;
+    color: #000000;
+    font-weight: 500;
+    font-size: 12px;
+}
 /* wave */
 
 #wave {

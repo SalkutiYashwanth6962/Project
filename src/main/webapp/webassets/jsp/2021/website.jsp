@@ -55,6 +55,15 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 					</div>
 					<p class="b-p-y">Free online Appointment scheduling software with Payments, Invoicing, Sales, Reporting, Customer &amp; Team management.</p>
 					<a  href="/register"><button class="btn-lg text-center signup-btn-banner">GET STARTED FOR FREE</button></a>
+					<div class="col-md-12 clearfix capterra hidden-sm hidden-xs">
+						<div class="col-md-2">
+							<img alt="Picktime-Capterrra-shortlist" src="/webassets/2021/img/Rating-img/picktime-capterra-2022.png">
+						</div>
+						<div class="col-md-10">
+							<div class="capterra-title">Emerging Favorite</div>
+							<div class="capterra-subtitle">Appointment Scheduling Software</div>
+						</div>
+					</div>
 				</div>
 				<div class="col-md-6">
 					<img src="\webassets\2021\img\picktime-hero-new.svg" class="img-banner"  alt="Picktime-free-online-appointment-scheduling-app">
