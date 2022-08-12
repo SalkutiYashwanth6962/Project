@@ -71,7 +71,7 @@
 				<h2>Benefits of Picktime for Child Care</h2>
 				<div class="services_sec">
 					<h3>Manage staff schedules</h3>
-			        <p>With our online booking systems manage your staff along with your clients. Know who is a occupied and who is free. Disturb the workload equally to your staff and extract the best performance from them.</p>
+			        <p>With our online booking systems manage your staff along with your clients. Know who is a occupied and who is free. Distribute the workload equally to your staff and extract the best performance from them.</p>
 				</div>
 				<div class="services_sec">
 					<h3>Reduce no shows</h3>

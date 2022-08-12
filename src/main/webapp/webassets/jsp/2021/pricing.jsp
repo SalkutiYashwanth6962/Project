@@ -184,6 +184,7 @@
 							<li>Booking Page 20+ Languages</li>
 							<li>Captcha Verification Online Booking</li>
 							<li>SSO***</li>
+							<li>Round Robin</li>
 							<li>Waitlist</li>
 							<li>Courses*</li>
 							<li>Packages*</li>
@@ -249,6 +250,12 @@
 				<td>3</td>
 				<td>3</td>
 				<td>20</td>
+			</tr>
+			<tr>
+				<td>Round Robin</td>
+				<td>-</td>
+				<td>-</td>
+				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
 				<td>Waitlist</td>
