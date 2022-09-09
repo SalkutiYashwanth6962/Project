@@ -2245,6 +2245,12 @@ img.what-is-picktime-img{
 	background: rgb(255 255 255 / 90%);
 	color: #333;
 }
+
+@media only screen and (max-width: 320px){
+	.cookie-consent-section > div{
+		width: 310px;
+	}
+}
 /*==========Footer***end==========*/
 
 /* Home page-Responsive web site */
