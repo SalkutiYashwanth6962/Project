@@ -1176,7 +1176,7 @@
 							</div>
 							<div>
 					 			<h1>Tanning Salon</h1>
-								<p style="margin-bottom: 30px;">Picktime can help tanning salon businesses save time and money by automating the process of booking appointments and tracking customer data.</p>
+								<p style="margin-bottom: 40px;">Picktime can help tanning salon businesses save time and money by automating the process of booking appointments and tracking customer data.</p>
 							</div>
 						</div>
 					</a>
@@ -1189,7 +1189,219 @@
 							</div>
 							<div>
 								<h1>Tattoo</h1>
-								<p>Picktime allows the tattoo artist to easily keep track of appointments, manage staff schedules, and generate invoices. In addition, Picktime can also help to manage resources and accept payments.</p>
+								<p style="margin-bottom: 30px;">Picktime allows the tattoo artist to easily keep track of appointments, manage staff schedules, and generate invoices. In addition, Picktime can also help to manage resources and accept payments.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+		 	<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/tennis-class">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/tennis-class.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Tennis Class</h1>
+								<p>Picktime offers easy-to-use tennis booking software for your business. With Picktime, accept tennis class bookings 24×7. Have full control of all your tennis coaching centers in a single dashboard, and streamline your training process at ease.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/tour-guide">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/tour-guide.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Tour Guide</h1>
+								<p style="margin-bottom: 20px;">Empower customers to book your tour guide services 24/7, receive reminders and manage multiple tour guides under one roof. Accept advance payments online, and make your website an effective sales channel.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/trash-pickup">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Nutrition" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/trash-pickup.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Trash Pickup</h1>
+								<p>We’re no environmentalists, but having a clean city is nice. Picktime is a tool that makes bookings much easier, even for trash pickup firms. Use Picktime and get SMS & Email reminders for your next booking. Easily access your dashboard 24×7.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/catering-services">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/catering-services.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Catering Services</h1>
+								<p style="margin-bottom: 30px;">Handling catering services alone? No more getting tensed with too many orders and less staff. Picktime has a one-stop solution for you. Use Picktime to manage payments, bookings, invoices, or daily business activities.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+			</div>
+			<div class="row align-items-stretch">
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/accounting-services">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/accounting-services.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Accounting Services</h1>
+								<p>Let your brain play with numbers rather than organizing your calendar. Make bookings easier for your business with automation. Picktime can streamline all your client meetings and booking process end to end. Get daily/weekly meeting schedules in real-time and instant booking notifications to avoid no-shows.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/architects">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/architects.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Architects</h1>
+								<p style="margin-bottom: 20px;">Architects are time-sensitive. Picktime will help architects to keep track of meeting schedules, projects, and client databases in one place. With Online Calendar, Architects can view their daily schedules in real-time. To confirm the meeting on time, collect consultation fees online.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/architecture-planning">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/architecture-planning.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Architecture and Planning</h1>
+								<p style="margin-bottom: 50px;">Picktime will allow architects and planners to manage their schedules, track client information, and generate reports. It also allows firms to schedule appointments with clients, employees, and other stakeholders.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/marketing">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/marketing.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Marketing</h1>
+								<p>As a marketing consultant, your time is valuable, and you need to be able to schedule appointments with clients quickly and efficiently. With the help of Picktime, you can keep track of your appointments, set reminders, and even send an automated email or text reminders to your clients.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/construction">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Nutrition" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/construction.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Construction</h1>
+								<p style="margin-bottom: 20px;">Picktime allows construction organizations to schedule meetings with clients and keep track of their staff schedules in one place. Our Construction appointment scheduling software would be a great asset to your business!</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/aged-care">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/aged-care.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Aged Care </h1>
+								<p style="margin-bottom: 20px;">Developed with caution and care for your smooth experience. Use Picktime and embed the book now widget on your website. Use customized booking forms and welcome your next client to your aged care by making their favorite dish.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+			</div> 
+		 	<div class="row align-items-stretch">
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/basketball-class">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/basket-ball-class.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Basket Ball Class</h1>
+								<p style="margin-bottom: 20px;">Are you the basketball coach or the student? No worries, Picktime will handle you both. Picktime helps coaches to keep track of the students, and students can book classes according to their convenience at any location. Use Picktime, focus all your time on training, and give us a new Kobe Bryant.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/wellness-center">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/wellness-center.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Wellness Center</h1>
+								<p>Picktime allows Wellness businesses to streamline their appointment booking process. Picktime allows them to manage their appointment bookings, client information, and payments in one place. Picktime is easy to use and offers a variety of features that make it a great choice for businesses.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/ballet-class">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/ballet-classes.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Ballet Classes</h1>
+								<p style="margin-bottom: 60px;">Use the right tool with the right features. Use Picktime to run your ballet classes successfully. Whether full cram classes, recurring bookings, team management, or payments, Picktime will handle it all.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up">
+					<a href="/business/driving-license">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/driving-license.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+					 			<h1>Driving License</h1>
+								<p style="margin-bottom: 50px;">What if a client comes and asks for an 8-wheeler license? Are you ready for that? Use Picktime and handle a variety of clients and bookings. Sync your calendar, get detailed reports, and easily handle your payments.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+					<a href="/business/car-rental">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Nutrition" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/car-rental.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Car Rental </h1>
+								<p>Picktime provides an easy and convenient way to book a car, track rental history, and take payments. Picktime has made it easier for customers to find and book the perfect car for their needs. Picktime makes it easy for customers to book a rental car without having to visit the rental office.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<a href="/business/car-wash">
+						<div class="unit-4 d-block">
+							<div class="unit-4-icon mb-3">
+								<span class="icon-wrap"><span class="text-primary"> <img alt="Beauty-Salon" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/icons/industries/car-wash.svg")))%>" style="height: 55px;"></span></span>
+							</div>
+							<div>
+								<h1>Car Wash </h1>
+								<p style="margin-bottom: 20px;">Picktime is a great tool that can help you keep track of your appointments, customers, and employees. Picktime allows users to select a convenient date and time to book the car wash appointment and then sends a reminder to their email or phone.</p>
 							</div>
 						</div>
 					</a>
