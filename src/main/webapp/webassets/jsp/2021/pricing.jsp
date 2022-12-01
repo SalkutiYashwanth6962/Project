@@ -186,8 +186,8 @@
 							<li>SSO***</li>
 							<li>Round Robin</li>
 							<li>Waitlist</li>
+							<li>Approve Bookings</li>
 							<li>Courses*</li>
-							<li>Packages*</li>
 							<li>Discounts*</li>
 							<li>Over 100+ integrations with Zapier*</li>
 						</ul>
@@ -372,7 +372,7 @@
 				<td><i class="icon-check-mark right-mark"></i></td>
 			</tr>
 			<tr>
-				<td>Packages*</td>
+				<td>Approve Bookings</td>
 				<td>-</td>
 				<td>-</td>
 				<td><i class="icon-check-mark right-mark"></i></td>
