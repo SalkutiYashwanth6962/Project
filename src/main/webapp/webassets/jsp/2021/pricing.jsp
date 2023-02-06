@@ -615,6 +615,10 @@ function changeCycle(cycle)
 	}
 	else if(cycle == 'proyear')
 	{
+		if(document.getElementById("selectedCycle").value == cycle)
+		{
+			return;
+		}
 		document.getElementById("selectedCycle").value = cycle;
 		var fullPrice = price;
 		
@@ -639,6 +643,11 @@ function changeCycle(cycle)
 	}
 	else if(cycle == 'promonth')
 	{
+		if(document.getElementById("selectedCycle").value == cycle)
+		{
+			return;
+		}
+		
 		document.getElementById("selectedCycle").value = cycle;
 		var fullPrice = price;
 		
