@@ -37,10 +37,13 @@
 	<!--every page  wave-->
 	<section id="industries_services">
 		<div class="container">
+			<div class="ocean">
+	           	<div class="wavenew"></div>
+	           	<div class="wavenew"></div>
+	       	</div>
 			<div class="main_title" style="color:#8B22E2;"><h1>Vouchers &amp; Discounts</h1></div>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
 	<div id="features-body-section" style="margin-bottom: 200px;">
 		<div class="container">

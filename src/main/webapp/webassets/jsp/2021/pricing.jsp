@@ -131,7 +131,7 @@
 								</span>
 							</b>
 						</div>
-						<ul>
+						<ul class="starter">
 							<li>3 Team Members</li>
 							<li>3 Resources</li>
 							<li>2 Locations</li>
@@ -147,6 +147,9 @@
 							<li>SMS Notifications &amp; Reminders**</li>
 							<li>Over 15+ powerful Integrations</li>
 						</ul>
+						<div class="text-center">
+							<a class="btn gotobilling-btn" href="/app#plansbilling/plan">Go To Billing</a>
+						</div> 
 						<!--  <a class="btn btn-block text-uppercase">UPGRADE</a> -->
 					</div> 
 				</div>
@@ -191,8 +194,11 @@
 							<li>Discounts*</li>
 							<li>Over 100+ integrations with Zapier*</li>
 						</ul>
+						<div class="text-center">
+							<a class="btn gotobilling-btn" href="/app#plansbilling/plan">Go To Billing</a>
+						</div> 
 						<!--    <a class="btn btn-block text-uppercase">UPGRADE</a> -->
-					</div> 
+					</div>
 				</div>
 			</div>
 		</div>
@@ -580,8 +586,11 @@ function changeCycle(cycle)
 	if(cycle == 'starteryear')
 	{
 		var yearElement = document.getElementsByClassName("billing-cycle-year starter mo non-selected-cycle")[0];
-		yearElement.classList.remove("non-selected-cycle");
-		yearElement.classList.add("selected-cycle");
+		if(yearElement)
+		{
+			yearElement.classList.remove("non-selected-cycle");
+			yearElement.classList.add("selected-cycle");
+		}
 		
 		var monthElement = document.getElementsByClassName("billing-cycle-month starter mo selected-cycle")[0];
 		monthElement.classList.remove("selected-cycle");
@@ -598,12 +607,18 @@ function changeCycle(cycle)
 	else if(cycle == 'startermonth')
 	{
 		var monthElement = document.getElementsByClassName("billing-cycle-month starter mo non-selected-cycle")[0];
-		monthElement.classList.remove("non-selected-cycle");
-		monthElement.classList.add("selected-cycle");
+		if(monthElement)
+		{
+			monthElement.classList.remove("non-selected-cycle");
+			monthElement.classList.add("selected-cycle");
+		}
 		
 		var yearElement = document.getElementsByClassName("billing-cycle-year starter mo selected-cycle")[0];
-		yearElement.classList.remove("selected-cycle");
-		yearElement.classList.add("non-selected-cycle");
+		if(yearElement)
+		{
+			yearElement.classList.remove("selected-cycle");
+			yearElement.classList.add("non-selected-cycle");
+		}
 		
 		var starterDiscountPriceElement = document.getElementsByClassName("starter-discount-price")[0];
 		var starterPriceElement = document.getElementsByClassName("starter-price")[0];
@@ -615,7 +630,7 @@ function changeCycle(cycle)
 	}
 	else if(cycle == 'proyear')
 	{
-		if(document.getElementById("selectedCycle").value == cycle)
+		if(document.getElementById("selectedCycle").value == cycle || event.currentTarget.className == 'billing-cycle-year pro mo selected-cycle')
 		{
 			return;
 		}
@@ -626,12 +641,18 @@ function changeCycle(cycle)
 	 	fullPrice = fullPrice * 12;
 		
 		var yearElement = document.getElementsByClassName("billing-cycle-year pro mo non-selected-cycle")[0];
-		yearElement.classList.remove("non-selected-cycle");
-		yearElement.classList.add("selected-cycle");
+		if(yearElement)
+		{
+			yearElement.classList.remove("non-selected-cycle");
+			yearElement.classList.add("selected-cycle");
+		}
 		
 		var monthElement = document.getElementsByClassName("billing-cycle-month pro mo selected-cycle")[0];
-		monthElement.classList.remove("selected-cycle");
-		monthElement.classList.add("non-selected-cycle");
+		if(monthElement)
+		{
+			monthElement.classList.remove("selected-cycle");
+			monthElement.classList.add("non-selected-cycle");
+		}
 		
 		var starterDiscountPriceElement = document.getElementsByClassName("pro-discount-price")[0];
 		var starterPriceElement = document.getElementsByClassName("pro-price")[0];
@@ -643,7 +664,7 @@ function changeCycle(cycle)
 	}
 	else if(cycle == 'promonth')
 	{
-		if(document.getElementById("selectedCycle").value == cycle)
+		if(document.getElementById("selectedCycle").value == cycle || event.currentTarget.className == 'billing-cycle-month pro mo selected-cycle')
 		{
 			return;
 		}
@@ -655,12 +676,18 @@ function changeCycle(cycle)
 	 	fullPrice = fullPrice / 12;
 	 	
 		var monthElement = document.getElementsByClassName("billing-cycle-month pro mo non-selected-cycle")[0];
-		monthElement.classList.remove("non-selected-cycle");
-		monthElement.classList.add("selected-cycle");
+		if(monthElement)
+		{
+			monthElement.classList.remove("non-selected-cycle");
+			monthElement.classList.add("selected-cycle");
+		}
 		
 		var yearElement = document.getElementsByClassName("billing-cycle-year pro mo selected-cycle")[0];
-		yearElement.classList.remove("selected-cycle");
-		yearElement.classList.add("non-selected-cycle");
+		if(yearElement)
+		{
+			yearElement.classList.remove("selected-cycle");
+			yearElement.classList.add("non-selected-cycle");
+		}
 		
 		var starterDiscountPriceElement = document.getElementsByClassName("pro-discount-price")[0];
 		var starterPriceElement = document.getElementsByClassName("pro-price")[0];

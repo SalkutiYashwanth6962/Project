@@ -32,11 +32,14 @@
     <jsp:include page="scheduling-software/website-new-navbar.jsp"/>
 	<section id="integration">
 		<div class="container">
+			<div class="ocean">
+            	<div class="wavenew"></div>
+            	<div class="wavenew"></div>
+        	</div>
 			<div class="i-b-m"><h1>What we offer?</h1></div>
 			<p class="i-s-m">Picktime is packed with powerful features that will help you schedule your appointments, classes, rooms, equipment, etc. with ease.</p>
 		</div>
 	</section>
-    <img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="wave1">
 	<section class="features">
 		<div class="container">
 			<div class="col-lg-12 col-md-12 col-sm-12 text-center">

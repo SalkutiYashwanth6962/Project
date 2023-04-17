@@ -39,6 +39,11 @@
 			       	</ul>
      			</div>
      			<div class="col-lg-6 col-md-6 col-sm-6">
+	     			<div class="playstore-heading hidden-xs hidden-sm">Download Mobile App's : </div>
+     				<div class="playstores  hidden-xs hidden-sm">
+						<a href="https://play.google.com/store/apps/details?id=com.picktime.app" target="_blank"><img alt="" src="/webassets/2021/img/playstore/Google-play-store-badge.png" class="G-playstore" style="width:auto; height: 40px;"></a>
+						<a href="https://apps.apple.com/us/app/picktime/id1643509835" target="_blank"><img alt="" src="/webassets/2021/img/playstore/app-play-store-badge.png" class="A-playstore" style="width:auto; height:40px; margin-left: 35px;"></a>
+					</div>
        				<div class="row internal-links-holder" id="f-6">
 	         			<div class="col-lg-4 col-md-4 col-sm-4">
 			             	<ul>
@@ -67,7 +72,12 @@
 		         		</div>
 			       	</div>
 	     		</div>
-			</div>
+	     	</div>
+	   		<div class="text-center playstore-heading hidden-md hidden-lg">Download Mobile App's : </div>
+	     	<div class="playstore  hidden-md hidden-lg">
+				<a href="https://play.google.com/store/apps/details?id=com.picktime.app" target="_blank"><img alt="" src="/webassets/2021/img/playstore/Google-play-store-badge.png" class="G-playstore mtx-10"></a>
+				<a href="https://apps.apple.com/us/app/picktime/id1643509835" target="_blank"><img alt="" src="/webassets/2021/img/playstore/app-play-store-badge.png" class="A-playstore mtx-10"></a>
+			</div>	
 		</div>
 	</section> 
 	<section id="footer">

@@ -484,7 +484,7 @@
 					</p>
 					<p><b>d. Contact Us:</b> If you have any questions about this Agreement, the practices of the Platform, or your experience with the Service, you can contact us at legal@picktime.com .
 					</p>
-					<h3>REFUNDS AND CANCELLATION</h3>
+					<h3 id="refunds">REFUNDS AND CANCELLATION</h3>
 					<p>We thank you and appreciate your purchase with us. Please read the policy, conditions and process carefully as they will give you important information and guidelines about your rights and obligations as our customer, concerning any purchase you make through us unless specifically stated otherwise on our service sale pages or readers offer advertisements.  The policy with regard to processing of refund, shall be in accordance with the clauses as set forth:
 					</p>
 					<h3 style="font-size: 15px;">1. PROCESSING OF REFUND</h3>

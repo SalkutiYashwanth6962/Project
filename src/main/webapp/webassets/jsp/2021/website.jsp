@@ -301,11 +301,22 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 				<div class="col-md-6">
 					<div class="b-b-y"><h2>Book from anywhere. At anytime.</h2></div>
 					<p class="b-p-y">All you need is an internet Connection and a Mobile, Laptop or a Tablet.</p>
-					<a href="/apps"><button class="btn-lg text-center signup-btn-banner">LEARN MORE</button></a>
+					<a href="/apps" class="hidden-sm hidden-xs"><button class="btn-lg text-center signup-btn-banner">LEARN MORE</button></a>
+					<div class="playstore hidden-sm hidden-xs">
+						<a href="https://play.google.com/store/apps/details?id=com.picktime.app" target="_blank"><img alt="" src="/webassets/2021/img/playstore/Google-play-store-badge.png" class="G-playstore"></a>
+						<a href="https://apps.apple.com/us/app/picktime/id1643509835" target="_blank"><img alt="" src="/webassets/2021/img/playstore/app-play-store-badge.png" class="A-playstore"></a>
+					</div>
 				</div>
 				<div class="col-md-6">
 					<div class="bg1">
 						<img src="/webassets/2021/img/picktime-book-anytime-anywhere.svg" alt="Picktime-Web-Based-Appointment-Scheduler-Book-from-Anywhere" class="img-b">
+					</div>
+				</div>
+				<div class="col-md-12" style="margin: 20px 0px">
+					<a class="hidden-md hidden-lg" href="/apps"><button class="btn-lg text-center signup-btn-banner">LEARN MORE</button></a>
+					<div class="playstore hidden-md hidden-lg">
+						<a href="https://play.google.com/store/apps/details?id=com.picktime.app" target="_blank"><img alt="" src="/webassets/2021/img/playstore/Google-play-store-badge.png" class="G-playstore"></a>
+						<a href="https://apps.apple.com/us/app/picktime/id1643509835" target="_blank"><img alt="" src="/webassets/2021/img/playstore/app-play-store-badge.png" class="A-playstore"></a>
 					</div>
 				</div>
 			</div>

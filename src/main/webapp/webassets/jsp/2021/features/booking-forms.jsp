@@ -36,18 +36,21 @@
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
 	<!--every page  wave-->
 	<section id="industries_services">
-			<div class="container">
-				<div class="main_title" style="color:#8B22E2;"><h1>Booking Forms</h1></div>
-			</div>
+		<div class="ocean">
+           	<div class="wavenew"></div>
+           	<div class="wavenew"></div>
+       	</div>
+		<div class="container">
+			<div class="main_title" style="color:#8B22E2;"><h1>Booking Forms</h1></div>
+		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
 	<div id="features-body-section" style="margin-bottom: 200px;">
 		<div class="container">
 			<div class="feature_sec">
 		         <p>Are you facing trouble in finding clients that are the right fit for your business? Let Picktime online appointment scheduling software help you construct an online booking form. Picktime's online booking form feature will work as a client intake form for your business and permit you to gather necessary details about your client upon booking an appointment with you. </p>
 				 <p>Create a customized online booking form to collect all information about your client during the booking process. You won't need to recruit anybody to take notes of your client's history or present condition. All you have to do is create an online booking form for your business and send or share your online booking form link with your customers via SMS or email. </p>
-				 <p>Customize your online booking form according to the demands and requirements of your business. You may request texts, digits, special characters, checkbox, dropdown, and date response. For example, if you are a doctor, you may take details of your patients like age, gender, height, weight, blood pressure level, blood sugar level and medical history while letting them schedule an appointment with you. 
+				 <p>Customize your online booking form according to the demands and requirements of your business. You may request texts, digits, special characters. For example, if you are a doctor, you may take details of your patients like age, gender, height, weight, blood pressure level, blood sugar level and medical history while letting them schedule an appointment with you. 
 				 </p>
 			</div>
 			<div class="feature_sec">

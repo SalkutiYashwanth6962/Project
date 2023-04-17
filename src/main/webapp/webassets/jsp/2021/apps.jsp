@@ -43,8 +43,12 @@
 				<p class="b-p-y">We got your back. Picktime can be used from Android, ios and Windows as well. Our team has taken extra care to design the app in such a way that the user can use it any time and from anywhere.</p>
 				<!-- <a  href="/register"><div class="btn-lg text-center">GET STARTED FOR FREE</div></a> -->
 				<a  href="/register"><button class="btn-lg text-center signup-btn-banner">GET STARTED FOR FREE</button></a>
+				<div class="playstore">
+					<a href="https://play.google.com/store/apps/details?id=com.picktime.app" target="_blank"><img alt="" src="/webassets/2021/img/playstore/Google-play-store-badge.png" class="G-playstore"></a>
+					<a href="https://apps.apple.com/us/app/picktime/id1643509835" target="_blank"><img alt="" src="/webassets/2021/img/playstore/app-play-store-badge.png" class="A-playstore"></a>
+				</div>
 			</div>
-			<div class="col-md-6 hidden-sm hidden-xs">
+			<div class="col-md-6 hidden-sm hidden-xs mt-20">
 			    <img src="/webassets/2021/img/mobile-screens/mobile-screen.svg" class="img-responsive" width="auto" alt="Picktime-Mobile-App" id="mobile-main">
 			</div>
 		</div>

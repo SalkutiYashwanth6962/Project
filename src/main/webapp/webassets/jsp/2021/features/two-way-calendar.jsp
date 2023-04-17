@@ -36,11 +36,14 @@
 	<jsp:include page="../scheduling-software/website-new-navbar.jsp" />
 	<!--every page  wave-->
 	<section id="industries_services">
-			<div class="container">
-				<div class="main_title" style="color:#8B22E2;"><h1>Two-Way Calendar Sync</h1></div>
-			</div>
+		<div class="container">
+			<div class="ocean">
+           		<div class="wavenew"></div>
+           		<div class="wavenew"></div>
+       		</div>
+			<div class="main_title" style="color:#8B22E2;"><h1>Two-Way Calendar Sync</h1></div>
+		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="industries_wave_banner">
 	<!--every page  wave-->
 	<div id="features-body-section" style="margin-bottom: 200px;">
 		<div class="container">

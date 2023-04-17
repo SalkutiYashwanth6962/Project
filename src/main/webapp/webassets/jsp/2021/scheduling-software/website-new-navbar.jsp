@@ -9,8 +9,11 @@ if(userKey != null && accountKey != null)
 %>
 
 	<section id="navigation">
+		<div id="note">
+    		<b>Announcement :</b> We launched our mobile app! <a href="/apps">Download</a> for free.
+		</div>
 		<nav class="navbar navbar-default navbar-fixed-top nav-white">
-			<div class="container">
+			<div class="container mt-20">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 						<span class="icon-bar" style="background-color: #8B22E2;"></span>

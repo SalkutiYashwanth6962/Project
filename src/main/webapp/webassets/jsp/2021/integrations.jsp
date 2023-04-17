@@ -36,11 +36,14 @@
 	<jsp:include page="scheduling-software/website-new-navbar.jsp" />
 	<section id="integration">
 		<div class="container">
+			<div class="ocean">
+            	<div class="wavenew"></div>
+            	<div class="wavenew"></div>
+        	</div>
 			<div class="i-b-m"><h1>Integrations</h1></div>
 			<p class="i-s-m">Connect with all your favorite Apps.</p>
 		</div>
 	</section>
-	<img alt="wave" src="\webassets\2021\img\wavesNegative.svg" id="wave1">
 	<section id="integration-body">
 		<div class="container">
 			<h2>Payments</h2>
