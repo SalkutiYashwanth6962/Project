@@ -110,7 +110,7 @@
 		img.save-up-to-img{
 			position: absolute;
 		   width: 150px;
-		   z-index: 90099;
+		   z-index: 999;
 		   right: -125px;
 		   bottom: -15px;
 		}
