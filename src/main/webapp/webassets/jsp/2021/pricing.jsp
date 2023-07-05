@@ -36,50 +36,88 @@
      
     <jsp:include page="scheduling-software/website-new-headtag.jsp" />
     <style type="text/css">
-	   .billing-cycle{
-			display: inline-block;
-		    border: solid 1px #ccc;
-		    line-height: 14px;
-		    border-radius: 3px;
-		    cursor: pointer !important;
-		    position: absolute;
-		    margin-top: 7px;
-		    margin-left: 5px;
+		.switch-to-plan {
+		  	position: relative;
+		    display: inline-flex;
+		    border: 1px solid #eee;
+		    margin-bottom: 40px;
+		    border-radius: 30px;
+		    -webkit-box-shadow: 0px 0px 2px 0px #ffffff;
+		    box-shadow: 0px 0px 2px 0px #ffffff;
 		}
-		.billing-cycle-month.pro, .billing-cycle-month.starter{
-		    line-height: 22px;
-		    display: inline-block;
-		    /* width: 25px; */
-		    text-align: center;
-		    padding: 0px 5px 0px 5px;
+		.switch-to-plan [type="radio"] {
+			position: absolute;
+			left: -9999px;
 		}
-		.billing-cycle-year.pro, .billing-cycle-year.starter{
-			line-height: 22px;
-		    display: inline-block;
-		    /* width: 25px; */
-		    text-align: center;
-		    padding: 0px 5px 0px 5px;
+		.switch-to-plan [type="radio"]:checked#plan-term-monthly ~ label[for="plan-term-monthly"],
+		.switch-to-plan [type="radio"]:checked#plan-term-yearly ~ label[for="plan-term-yearly"] {
+	  		color: #ffffff;
 		}
-		.selected-cycle{
-			background: #6d5687;
-		    color: #fff;
-		    cursor: pointer;
+		.switch-to-plan [type="radio"]:checked#plan-term-monthly ~ label[for="plan-term-monthly"]:hover,
+		.switch-to-plan [type="radio"]:checked#plan-term-yearly ~ label[for="plan-term-yearly"]:hover {
+	  		background: transparent;
 		}
-		.non-selected-cycle{
-			background: none;
-		    color: #929292;
-		    cursor: pointer;
+		.switch-to-plan
+		  [type="radio"]:checked#plan-term-monthly
+		  + label[for="plan-term-yearly"]
+		  ~ .highlighter {
+		  	transform: none;
 		}
-		.strike-price{
-		 	font-size: 20px;
-			text-decoration-color:red;
-			text-decoration-line:line-through;
+		.switch-to-plan
+		  [type="radio"]:checked#plan-term-yearly
+		  + label[for="plan-term-monthly"]
+		  ~ .highlighter {
+		  	transform: translateX(100%);
 		}
-		.non-strike-price{
-			text-decoration-color:none;
-			text-decoration-line:none;
+		.switch-to-plan label {
+			font-size: 16px;
+			 z-index: 1;
+			 min-width: 100px;
+			 line-height: 32px;
+			 cursor: pointer;
+			 margin-bottom: 0;
+			 border-radius: 30px;
+			 padding: 5px 40px;
+			 font-weight: 500;
+			 transition: color .25s ease-in-out;
+		}
+		.switch-to-plan .highlighter {
+			position: absolute;
+			top: 4px;
+			left: 4px;
+			width: calc(50% - 4px);
+			height: calc(100% - 8px);
+			border-radius: 30px;
+			background: #8b22e2;
+			transition: transform 0.25s ease-in-out;
+		}
+		.custombox-inc-dec {
+		    width: 65px;
+		    height: 50px;
+		    position: relative;
+		    margin-right: 10px;
+		}
+		.iteaminside {
+		    border: 1px solid #e6e6e6;
+		    background: white;
+		    width: 100%;
+		    padding: 5px 5px;
+		    border-radius: 5px;
+		    color: #673ab7;
+		    font-size: 18px;
+		    font-weight: 600;
+		}
+		img.save-up-to-img{
+			position: absolute;
+		   width: 150px;
+		   z-index: 90099;
+		   right: -125px;
+		   bottom: -15px;
 		}
     </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;800&display=swap" rel="stylesheet">
 </head>
 <body>
 <input type="hidden" id="selectedCycle"/>
@@ -91,14 +129,30 @@
 		</div>
 	</section>
 	<div class="container pricing-sec">
+		<div class="text-center pricing-box-type">
+			<div class="switch-to-plan">
+			   	<input id="plan-term-monthly" type="radio"  name="switch-plan-term" value="month"  onclick="changeCycle('changemonth')">
+			   	<input id="plan-term-yearly" type="radio"  name="switch-plan-term" value="year" checked onclick="changeCycle('changeyear')">
+			   	<label for="plan-term-monthly">Monthly</label>
+			   	<label for="plan-term-yearly">Yearly</label>
+				<span class="highlighter"></span>
+				<img class="save-up-to-img hidden-xs" alt="Save up to 25 per" src="/webassets/2021/img/saveupto25.png">
+			</div>
+		</div>
+		<div class="col-sm-12" style="display: flex;justify-content: flex-end;margin-bottom: 10px;font-size: 16px;font-weight: 500;">Price in &nbsp;<b> USD</b></div>
 		<div class="row pricing-box">
 			<div class="col-md-4">
 				<div class="card mb-5 mb-lg-0">
+				<div class="card-header text-center" style="background-color: white; color:white;">Free</div>
 					<div class="card-body">
 						<h3 class="card-title text-uppercase">Free</h3>
-						<h4 class="card-price">$0.00<span class="period"></span></h4>
-						<ul>
-							<li>3 Team Members</li>
+						<div class="pricing-subtext">Enjoy basic feature at no cost</div><br>
+						<div class="card-bold-text" style="margin-top: 10px;">3 Users <span class="other-plan-users pro-users"><span class="user-tooltip">A <b>User</b> is a Team Member.</span></span></div>
+						<div class="text-center zero">
+							<h4 class="pricing-text2" style="margin-top: 60px;">$ 0.00</h4>
+						</div>
+						<div class="card-bold-text"></div>
+						<ul class="free">
 							<li>3 Resources</li>
 							<li>2 Locations</li>
 							<li>2 Classes</li>
@@ -110,29 +164,32 @@
 							<li>Payments with PayPal</li>
 							<li>Over 8+ powerful integrations</li>
 						</ul>
-						<!-- <a class="btn btn-block text-uppercase btn-white">CURRENT PLAN</a> -->
 					</div> 
 				</div>
 			</div>
 			<div class="col-md-4">
 				<div class="card mb-5 mb-lg-0">
+				<div class="card-header text-center" style="background-color: white; color:white;">Starter</div>
 					<div class="card-body">
 						<h3 class="card-title text-uppercase">Starter</h3>
-						<!-- <h4 class="card-price">$9.99<span class="period">/mo</span></h4> -->
-						<div class="rupess">
-							<b>
-								<label class='plan-price rupess' style="font-size: 25px;font-weight: bold;">
-									<span class='starter-price' ></span>
-									<span class='starter-discount-price' >&#36; 9.99</span>
-								</label>/
-								<span class="billing-cycle" >
-									<span class="billing-cycle-month starter mo selected-cycle" onclick="changeCycle('startermonth')" >month</span>
-									<span class="billing-cycle-year starter mo non-selected-cycle" onclick="changeCycle('starteryear')" >year</span>
-								</span>
-							</b>
+						<div class="pricing-subtext">Perfect for small businesses to kick-start their business.</div>
+						<div class="card-bold-text">3 Users <span class="other-plan-users pro-users"><span class="user-tooltip">A <b>User</b> is a Team Member.</span></span></div>
+						<div class="new-pricing">
+							<div class="card-pricing" style="margin-top: 45px">
+								<div class="pricing-text2">
+									<label class='plan-price rupess'>
+										<span class='starter-discount-price' >&#36; 3.00</span>
+									</label>
+								</div>
+								<div class="plan-price-user-cont">
+									<div>per user</div>
+									<div>Per month</div>
+								</div>
+							</div>
+							<div class="billed-annually">Billed annually</div>
 						</div>
+						<div class="card-bold-text">Everything you get with Starter</div>
 						<ul class="starter">
-							<li>3 Team Members</li>
 							<li>3 Resources</li>
 							<li>2 Locations</li>
 							<li>5 Classes</li>
@@ -147,40 +204,52 @@
 							<li>SMS Notifications &amp; Reminders**</li>
 							<li>Over 15+ powerful Integrations</li>
 						</ul>
+						<a href="/features" class="see-all-featureLink">See all features</a>
 						<div class="text-center">
-							<a class="btn gotobilling-btn" href="/app#plansbilling/plan">Go To Billing</a>
+							<a class="btn gotobilling-btn" onclick="openPremiumPopup(this, 'starterv2')" >Get Started</a>
 						</div> 
-						<!--  <a class="btn btn-block text-uppercase">UPGRADE</a> -->
 					</div> 
 				</div>
 			</div>
 			<div class="col-md-4">
 				<div class="card mb-5 mb-lg-0">
-					<div class="card-body">
-						<h3 class="card-title text-uppercase">Pro</h3>
-						<!-- <h4 class="card-price">$19.99<span class="period">/mo</span></h4> -->
-						<div class="rupess">
-							<b>
-								<label class='plan-price rupess' style="font-size: 25px;font-weight: bold;">
-									<span class='pro-price'></span>
-									<span class='pro-discount-price'  id="counting"> &#36;19.99</span>
-								</label>/
-								<span class="billing-cycle" >
-									<span class="billing-cycle-month pro mo selected-cycle" onclick="changeCycle('promonth')" >month</span>
-									<span class="billing-cycle-year pro mo non-selected-cycle" onclick="changeCycle('proyear')" >year</span>
-								</span>
-							</b>
+					<div class="card-header text-center">MOST POPULAR</div>
+					<div class="card-body pro-card-body">
+						<h3 class="card-title text-uppercase" style="color: #8b22e2;">Pro</h3>
+						<div class="pricing-subtext">Unlock advance features and resources for your business.</div>
+						<div style="display: flex;justify-content: flex-start; ">
+							 <div class="custombox-inc-dec">
+	    						<div class="iteaminside"><span id="teamcount" style="margin-left: 2px">10</span>
+									<div style="display: table-caption; margin-left: 35px; color:#8f8894; font-size: 15px;">
+						  				<span>
+										  	<i class="icon-arrow-up" aria-hidden="true" style="position: absolute; top: 3px; cursor: pointer; font-size: 12px; color:#000; " onclick="increaseCounter()"></i>
+									  	</span>
+									  	<span>
+										  	<i class="icon-arrow-down" aria-hidden="true" style="position: absolute; bottom: 14px; cursor: pointer; font-size: 12px" onclick="decreaseCounter()"></i>
+									  	</span>
+							  		</div>
+								</div>
+	  						</div>
+	  						<span class="card-bold-text" style="margin-top: 8px;">Users</span>
+	  						<span class="pro-users"><span class="user-tooltip">A <b>User</b> is a Team Member. For more Team Members or Resources <u style="font-weight: 500;">Contact Our Support</u></span></span>
+  						</div>
+						<div class="new-pricing">
+							<div class="card-pricing">
+								<div class="pricing-text2">
+									<label class='plan-price rupess'>
+										<span class='pro-discount-price'  id="counting"> &#36; 2.25</span>
+									</label>
+								</div>
+								<div class="plan-price-user-cont">
+									<div>per user</div>
+									<div>Per month</div>
+								</div>
+							</div>
+							<div class="billed-annually billed-annually-pro">Billed annually</div>
 						</div>
 						<div class="card-bold-text">Everything you get with Starter</div>
-						<ul>
-							<li><span id="teamcount">20</span> Team Members
-            					<span class="btn" onclick="decrement()" style="display: inline;">-</span>
-            					<span class="btn" onclick="increment()" style="display: inline;">+</span>
-							</li>
-							<li><span id="Resourcescount">20</span> Resources
-            					<span class="btn" onclick="decrement()" style="display: inline;">-</span>
-            					<span class="btn" onclick="increment()" style="display: inline;">+</span>
-							</li>
+						<ul class="pro">
+							<li><span class="countbyplan" style=" color: #631ab8; font-weight: 600;">10</span> Resources <span class="pro-users pro-resources"><span class="user-tooltip">For more Team Members & Resources <u style="font-weight: 500;">Contact Our Support</u></span></span></li>
 							<li>Unlimited Locations</li>
 							<li>Unlimited Classes</li>
 							<li>Customizable Emails</li>
@@ -194,10 +263,10 @@
 							<li>Discounts*</li>
 							<li>Over 100+ integrations with Zapier*</li>
 						</ul>
+						<a href="/features" class="see-all-featureLink">See all features</a>
 						<div class="text-center">
-							<a class="btn gotobilling-btn" href="/app#plansbilling/plan">Go To Billing</a>
+							<a class="btn gotobilling-btn" onclick="openPremiumPopup(this, 'prov2')" >Get Started</a>
 						</div> 
-						<!--    <a class="btn btn-block text-uppercase">UPGRADE</a> -->
 					</div>
 				</div>
 			</div>
@@ -235,7 +304,7 @@
 				<td>Team Members</td>
 				<td>3</td>
 				<td>3</td>
-				<td>20</td>
+				<td class="countbyplan">10</td>
 			</tr>
 			<tr>
 				<td>Locations</td>
@@ -255,7 +324,7 @@
 				<td>Resources</td>
 				<td>3</td>
 				<td>3</td>
-				<td>20</td>
+				<td class="countbyplan">10</td>
 			</tr>
 			<tr>
 				<td>Round Robin</td>
@@ -579,218 +648,115 @@
 	</div>
 	<jsp:include page="scheduling-software/website-new-footer.jsp"/> 
 </body>
+
+
 <script type="text/javascript">
 <compress:js enabled="true" yuiJsPreserveAllSemiColons="true">
 function changeCycle(cycle)
 {
-	if(cycle == 'starteryear')
+	if(cycle == 'changeyear')
 	{
-		var yearElement = document.getElementsByClassName("billing-cycle-year starter mo non-selected-cycle")[0];
-		if(yearElement)
-		{
-			yearElement.classList.remove("non-selected-cycle");
-			yearElement.classList.add("selected-cycle");
-		}
-		
-		var monthElement = document.getElementsByClassName("billing-cycle-month starter mo selected-cycle")[0];
-		monthElement.classList.remove("selected-cycle");
-		monthElement.classList.add("non-selected-cycle");
-		
 		var starterDiscountPriceElement = document.getElementsByClassName("starter-discount-price")[0];
-		var starterPriceElement = document.getElementsByClassName("starter-price")[0];
+		var proDiscountPriceElement = document.getElementsByClassName("pro-discount-price")[0];
 		
-		starterDiscountPriceElement.innerHTML = '&#36; 99.90';
-		starterPriceElement.innerHTML = '&#36; 119.88';
-		starterPriceElement.classList.remove("non-strike-price");
-		starterPriceElement.classList.add("strike-price");
+		var billedAnnually = document.getElementsByClassName("billed-annually")[0];
+		var billedAnnuallyPro = document.getElementsByClassName("billed-annually-pro")[0];
+		var saveUpTo = document.getElementsByClassName("save-up-to-img")[0];
+		
+		
+		starterDiscountPriceElement.innerHTML = '&#36; 3.00';
+		proDiscountPriceElement.innerHTML = '&#36; 2.25';
+		billedAnnually.innerHTML = 'Billed annually';
+		billedAnnuallyPro.innerHTML = 'Billed annually';
+		saveUpTo.style.display = "block"
 	}
-	else if(cycle == 'startermonth')
+	else if(cycle == 'changemonth')
 	{
-		var monthElement = document.getElementsByClassName("billing-cycle-month starter mo non-selected-cycle")[0];
-		if(monthElement)
-		{
-			monthElement.classList.remove("non-selected-cycle");
-			monthElement.classList.add("selected-cycle");
-		}
-		
-		var yearElement = document.getElementsByClassName("billing-cycle-year starter mo selected-cycle")[0];
-		if(yearElement)
-		{
-			yearElement.classList.remove("selected-cycle");
-			yearElement.classList.add("non-selected-cycle");
-		}
-		
 		var starterDiscountPriceElement = document.getElementsByClassName("starter-discount-price")[0];
-		var starterPriceElement = document.getElementsByClassName("starter-price")[0];
+		var proDiscountPriceElement = document.getElementsByClassName("pro-discount-price")[0];
 		
-		starterDiscountPriceElement.innerHTML = '&#36; 9.99';
-		starterPriceElement.innerHTML = '';
-		starterPriceElement.classList.remove("strike-price");
-		starterPriceElement.classList.add("non-strike-price");
+		var billedAnnually = document.getElementsByClassName("billed-annually")[0];
+		var billedAnnuallyPro = document.getElementsByClassName("billed-annually-pro")[0];
+		var saveUpTo = document.getElementsByClassName("save-up-to-img")[0];
+		
+		starterDiscountPriceElement.innerHTML = '&#36; 4.00';
+		proDiscountPriceElement.innerHTML = '&#36; 3.00';
+		billedAnnually.innerHTML = '&nbsp;&nbsp;';
+		billedAnnuallyPro.innerHTML = '&nbsp;&nbsp;';
+		saveUpTo.style.display = "none";
 	}
-	else if(cycle == 'proyear')
+}
+
+
+let teamcount = 10;
+function updateCounterDisplay() {
+	document.getElementById("teamcount").innerHTML = teamcount;
+  	$(".countbyplan").text(teamcount);
+
+  	if (teamcount === 10) {
+      $(".icon-arrow-down").css("color", "#bbb3b3");
+    } else if (teamcount === 100) {
+      $(".icon-arrow-up").css("color", "#bbb3b3");
+      $(".icon-arrow-down").css("color", "#000000");
+    } else {
+      $(" .icon-arrow-up, .icon-arrow-down").css("color", "#000000");
+    } 
+}
+function increaseCounter() {
+  	if (teamcount < 100) {
+    	teamcount += 10;
+    	updateCounterDisplay();
+  	} else {
+    	console.log("Team counter cannot exceed 100.");
+  	}
+}
+function decreaseCounter() {
+  	if (teamcount > 10) {
+    	teamcount -= 10;
+    	updateCounterDisplay();
+  	} else {
+    	console.log("Team counter cannot exceed 10.");
+  	}
+}
+updateCounterDisplay();
+
+function openPremiumPopup(anchorElement, planType)
+{
+//	var anchorElement = document.getElementsByClassName("gotobilling-btn")[0];
+	var radioElement = document.querySelector('input[name=switch-plan-term]:checked').value;
+	var teamCount = document.getElementById("teamcount").innerHTML;
+	
+	if(['prov2','starterv2'].indexOf(planType) == -1)
 	{
-		if(document.getElementById("selectedCycle").value == cycle || event.currentTarget.className == 'billing-cycle-year pro mo selected-cycle')
+		return;
+	}
+	if(['month','year'].indexOf(radioElement) == -1)
+	{
+		return;
+	}
+	
+	if(planType == 'prov2')
+	{
+		if(teamCount && teamCount > 0)
+		{
+			teamCount = +(teamCount);
+			teamCount = teamCount && teamCount > 10 ? (teamCount - teamCount % 10) : teamCount;
+			teamCount = teamCount && teamCount < 10 ? 10 : teamCount;
+			teamCount = teamCount && teamCount > 100 ? 100 : teamCount;
+		}
+		else
 		{
 			return;
 		}
-		document.getElementById("selectedCycle").value = cycle;
-		var fullPrice = price;
-		
-	 	price = price * 10;
-	 	fullPrice = fullPrice * 12;
-		
-		var yearElement = document.getElementsByClassName("billing-cycle-year pro mo non-selected-cycle")[0];
-		if(yearElement)
-		{
-			yearElement.classList.remove("non-selected-cycle");
-			yearElement.classList.add("selected-cycle");
-		}
-		
-		var monthElement = document.getElementsByClassName("billing-cycle-month pro mo selected-cycle")[0];
-		if(monthElement)
-		{
-			monthElement.classList.remove("selected-cycle");
-			monthElement.classList.add("non-selected-cycle");
-		}
-		
-		var starterDiscountPriceElement = document.getElementsByClassName("pro-discount-price")[0];
-		var starterPriceElement = document.getElementsByClassName("pro-price")[0];
-		
-		starterDiscountPriceElement.innerHTML = (cycle.indexOf('year') > -1 ? ' ' : '')+'$ '+(price/100).toFixed(2);
-		starterPriceElement.innerHTML = '&#36; '+(fullPrice/100).toFixed(2);
-		starterPriceElement.classList.remove("non-strike-price");
-		starterPriceElement.classList.add("strike-price");
 	}
-	else if(cycle == 'promonth')
+	else if(planType == 'starterv2')
 	{
-		if(document.getElementById("selectedCycle").value == cycle || event.currentTarget.className == 'billing-cycle-month pro mo selected-cycle')
-		{
-			return;
-		}
-		
-		document.getElementById("selectedCycle").value = cycle;
-		var fullPrice = price;
-		
-	 	price = price / 10;
-	 	fullPrice = fullPrice / 12;
-	 	
-		var monthElement = document.getElementsByClassName("billing-cycle-month pro mo non-selected-cycle")[0];
-		if(monthElement)
-		{
-			monthElement.classList.remove("non-selected-cycle");
-			monthElement.classList.add("selected-cycle");
-		}
-		
-		var yearElement = document.getElementsByClassName("billing-cycle-year pro mo selected-cycle")[0];
-		if(yearElement)
-		{
-			yearElement.classList.remove("selected-cycle");
-			yearElement.classList.add("non-selected-cycle");
-		}
-		
-		var starterDiscountPriceElement = document.getElementsByClassName("pro-discount-price")[0];
-		var starterPriceElement = document.getElementsByClassName("pro-price")[0];
-		
-		starterDiscountPriceElement.innerHTML = '$'+(price/100).toFixed(2);
-		starterPriceElement.innerHTML = '';
-		starterPriceElement.classList.remove("strike-price");
-		starterPriceElement.classList.add("non-strike-price");
+		teamCount = 3;
 	}
-	
-	
+	anchorElement.href="/app?install=pricing-"+planType+"-"+teamCount+"-"+radioElement;
+	anchorElement.click();
 }
 </compress:js>
 </script>
-
-<script>
-       //initialising a variable names
-       var price = 1999;
-       var actualPrice = 1999;
-       var teamcount = 20;
-       var Resourcescount = 20;
-       
-       //printing default value
-       document.getElementById("counting").innerText = '$ '+(price/100);
-	
-
-       //creation of increment function
-       function increment() {
-    	   
-    	   if(teamcount == 100)
-   		   {
-   		   		return;
-   		   }
-    	      	   
-    	   var cycle = document.getElementById("selectedCycle").value;
-    	   var incrementor = 1000;
-    	   if(cycle && cycle.indexOf('proyear') > -1)
-   		   {
-    		   incrementor = 10000
-   		   }
-    	   else
-   		   {
-    		   incrementor = 1000;
-   		   }
-    	   
-    	   price = price + incrementor;
-           teamcount = teamcount + 10;
-           Resourcescount = Resourcescount + 10;
-           
-           document.getElementById("counting").innerText = (cycle.indexOf('proyear') > -1 ? ' ' : '')+ '$ '+(price/100).toFixed(2);
-           document.getElementById("teamcount").innerHTML = teamcount;
-           document.getElementById("Resourcescount").innerHTML = Resourcescount;
-           
-           if(cycle && cycle.indexOf('proyear') > -1)
-   		   {
-    		   var starterPriceElement = document.getElementsByClassName("pro-price")[0];
-               starterPriceElement.innerText = '$ '+(((actualPrice + (((teamcount-20)/10) * 1000)) * 12 )/100).toFixed(2);
-   		   }
-    	   else
-   		   {
-    		   var starterPriceElement = document.getElementsByClassName("pro-price")[0];
-               starterPriceElement.innerText = '';
-   		   }
-       }
-       
-       //creation of decrement function
-       function decrement() {
-    	   
-    	   if(teamcount == 20)
-   		   {
-   		   		return;
-   		   }
-   			
-    	   var cycle = document.getElementById("selectedCycle").value;
-    	   var incrementor = 1000;
-    	   if(cycle && cycle.indexOf('proyear') > -1)
-   		   {
-    		   incrementor = 10000
-   		   }
-    	   else
-   		   {
-    		   incrementor = 1000;
-   		   }
-    	   
-    	   price = price - incrementor;
-           teamcount = teamcount - 10;
-           Resourcescount = Resourcescount - 10;
-           
-           document.getElementById("counting").innerText = (cycle.indexOf('proyear') > -1 ? ' ' : '')+ '$ '+(price/100).toFixed(2);
-           document.getElementById("teamcount").innerHTML = teamcount;
-           document.getElementById("Resourcescount").innerHTML = Resourcescount;
-           
-           if(cycle && cycle.indexOf('proyear') > -1)
-   		   {
-    		   var starterPriceElement = document.getElementsByClassName("pro-price")[0];
-               starterPriceElement.innerText = '$ '+(((actualPrice + (((teamcount-20)/10) * 1000)) * 12 )/100).toFixed(2);
-   		   }
-    	   else
-   		   {
-    		   var starterPriceElement = document.getElementsByClassName("pro-price")[0];
-               starterPriceElement.innerText = '';
-   		   }
-       }
-   </script>
 </html>
 </compress:html>

@@ -276,19 +276,19 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 				<div class="f-b-m"><h2>Rated the best</h2></div>
 				<div class="alignRow">
 					<div class="imageColumn">
-						<img src="/webassets/2021/img/Rating-img/picktime-crozdesk-Leader2022.png" alt="picktime-crozdesk-Leader" title="picktime-crozdesk-Leader" style="width:90%">
+						<img src="/webassets/2021/img/Rating-img/picktime-crozdesk-Leader2023.png" alt="picktime-crozdesk-Leader" title="picktime-crozdesk-Leader" style="width:90%">
 					</div>
 					<div class="imageColumn">
 						<img src="/webassets/2021/img/Rating-img/picktime-capterra.png" alt="picktime-capterra-top-rated" title="picktime-capterra" style="width:110%" class="g2-c">
 					</div>
 					<div class="imageColumn">
-						<img src="/webassets/2021/img/Rating-img/picktime-crozdesk-trusted-vendor2022.png" alt="picktime-crozdesk-trusted-vendor" title="picktime-crozdesk-trusted-vendor"style="width:90%">
+						<img src="/webassets/2021/img/Rating-img/picktime-crozdesk-trusted-vendor2023.png" alt="picktime-crozdesk-trusted-vendor" title="picktime-crozdesk-trusted-vendor"style="width:90%">
 					</div>
 					<div class="imageColumn">
 						<img src="/webassets/2021/img/Rating-img/picktime-G2.png" alt="picktime-G2" title=" picktime-G2-top-rated" style="width:110%" class="g2-c">
 					</div>
 					<div class="imageColumn">
-						<img src="/webassets/2021/img/Rating-img/picktime-crozdesk-happiest-users2022.png" alt="picktime-crozdesk-happiest-users" title="picktime-crozdesk-happiest-users" style="width:90%">
+						<img src="/webassets/2021/img/Rating-img/picktime-crozdesk-happiest-users2023.png" alt="picktime-crozdesk-happiest-users" title="picktime-crozdesk-happiest-users" style="width:90%">
 					</div>
 				</div>
 			</div>
