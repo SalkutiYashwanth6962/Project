@@ -179,6 +179,7 @@
 	<script src="/webassets/2021/js/bootstrap.min.js?_=<%=cache%>"></script>
 	<!--aos animation -->
 	<script src="/webassets/2021/js/aos.js?_=<%=cache%>"></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8C7X4Y7Y1"></script>
 	<script>
 	<compress:js enabled="true" yuiJsPreserveAllSemiColons="true">
 		AOS.init({
@@ -262,6 +263,12 @@
 	
 	  ga('create', 'UA-92294358-1', 'auto');
 	  ga('send', 'pageview');
+	  
+	  <!-- Google tag (gtag.js) -->
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-P8C7X4Y7Y1');
 
 	  //alba
 	  (function(a,l,b,c,r,s){_nQc=c,r=a.createElement(l),s=a.getElementsByTagName(l)[0];r.async=1;
