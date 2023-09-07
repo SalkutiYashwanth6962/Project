@@ -36,7 +36,7 @@ public class WebsiteController {
 	public String root(HttpServletRequest request,HttpServletResponse response) throws IOException
 	{
 		log.log(Level.INFO, "Entered into homepage");
-		return "2021/website";
+		return "2021/website2023";
 	}
 	@RequestMapping(value="/features")
 	public String features(HttpServletRequest request,HttpServletResponse response) throws IOException

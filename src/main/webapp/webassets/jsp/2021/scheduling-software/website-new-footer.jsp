@@ -27,10 +27,10 @@
    				<div class="col-lg-6 col-md-6 col-sm-6">
 		        	<a href="/"><img src="/webassets/2021/img/pick-time-logo-footer.svg" alt="picktime-white-logo" style=""></a> 
 			        <ul class="icons clearfix">
-		        		<li><a style="color: #fbfbfb;" href="https://www.facebook.com/picktimeIn" target="_blank" role="button" rel="noreferrer"><i class="icon-web-facebook social-media-icons"></i></a></li>
-			        	<li><a style="color: #fbfbfb;" href="https://instagram.com/picktimein" target="_blank" role="button" rel="noreferrer"><i class="icon-instagram social-media-icons"></i></a></li>
-			        	<li><a style="color: #fbfbfb;" href="https://twitter.com/picktimeIn" target="_blank" role="button" rel="noreferrer"><i class="icon-twitter social-media-icons"></i></a></li>
-			        	<li><a style="color: #fbfbfb;" href="https://www.youtube.com/c/picktimeIn" target="_blank" role="button" rel="noreferrer"><i class="icon-web-youtube social-media-icons" style="position: absolute;margin-top: 4px;"></i></a></li>
+		        		<li><a style="color: #fbfbfb;" href="https://www.facebook.com/picktimeIn" target="_blank" role="button" rel="noopener noreferrer nofollow"><i class="icon-web-facebook social-media-icons"></i></a></li>
+			        	<li><a style="color: #fbfbfb;" href="https://instagram.com/picktimein" target="_blank" role="button" rel="noopener noreferrer nofollow"><i class="icon-instagram social-media-icons"></i></a></li>
+			        	<li><a style="color: #fbfbfb;" href="https://twitter.com/picktimeIn" target="_blank" role="button" rel="noopener noreferrer nofollow"><i class="icon-twitter social-media-icons"></i></a></li>
+			        	<li><a style="color: #fbfbfb;" href="https://www.youtube.com/c/picktimeIn" target="_blank" role="button" rel="noopener noreferrer nofollow"><i class="icon-web-youtube social-media-icons" style="position: absolute;margin-top: 4px;"></i></a></li>
 			        </ul>
 			       	<ul class="terms-holder">
 			         	<li><a target="_blank" href="/legal/privacy">Privacy Policy</a></li>
@@ -57,7 +57,7 @@
 			            	<ul>
 			               		<li><a href="/pricing">Pricing</a></li>
 				               	<li><a href="https://support.picktime.com/">Support</a></li>
-				               	<li><a target="_blank" rel="noreferrer" href="https://go.crisp.chat/chat/embed/?website_id=cffc37e4-7649-45d6-b044-074c60b9dbdc">Chat</a></li>
+				               	<li><a target="_blank" rel="noopener noreferrer nofollow" href="https://go.crisp.chat/chat/embed/?website_id=cffc37e4-7649-45d6-b044-074c60b9dbdc">Chat</a></li>
 				               	<!-- <li><a href="javascript:void(0);">Roadmap</a></li> -->
 	             			</ul>
 			         	</div>

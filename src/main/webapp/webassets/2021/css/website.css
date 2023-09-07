@@ -87,10 +87,9 @@ a:hover {
 }
 
 .navbar-brand img {
-	margin: 10px 0px 0px 0px; 
-	width: 220px;
+	margin: 10px 0px 0px 0px;
+	width: 179px;
 	padding: 0px;
-	
 }
 
 .navbar-brand img1 {
@@ -118,7 +117,7 @@ a:hover {
 	padding-bottom: 50px; 
 }
 
-.banners .col-md-6 .b-t-y h1 {
+.banners .col-md-12 .b-t-y h1 {
 	font: normal normal bold 50px/60px Samsung Sharp Sans;
 	letter-spacing: 0px;
 	color: #312b2b;
@@ -126,17 +125,17 @@ a:hover {
 	margin-top: 70px;
 }
 
-.banners .col-md-6 .b-t-y span {
+.banners .col-md-12 .b-t-y span {
 	color: #8b22e2;
 }
 
-.banners .col-md-6 .b-p-y {
+.banners .col-md-12 .b-p-y {
 	font-size: 20px;
 	font-weight: 400;
 	padding: 15px 0px;
 	line-height: 35px;
 }
-.banners .col-md-6 .btn-lg {
+.banners .col-md-12 .btn-lg {
 	width: 250px;
 	padding: 16px 0px;
 	color: #fff;
@@ -152,7 +151,7 @@ a:hover {
 	transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
-.banners .col-md-6 .img-banner {
+.banners .col-md-12 .img-banner {
 	position: relative;
 	width: 100%;
 }
@@ -160,10 +159,12 @@ a:hover {
 .capterra{
 	margin: 10px 0px;
 	padding: 0px;
+	padding-right: 73px;
 }
 .capterra img{
- 	width: 80px;
-	margin-top: 10px
+ 	width: 70px;
+	margin-top: 10px;
+	float: right;
 }
 .capterra .capterra-title{
    	margin: 15px 0 5px 0px;
@@ -179,8 +180,8 @@ a:hover {
 .capterra .capterra-subtitle{
 	margin-top: 10px;
     color: #000000;
-    font-weight: 500;
-    font-size: 12px;
+    font-weight: 600;
+    font-size: 11px;
 }
 /* wave */
 
@@ -208,9 +209,92 @@ a:hover {
 }
 
 .custom-shape-divider-bottom-1614347454 .shape-fill {
-  fill: #ffffff;
+  	fill: #ffffff;
 }
 
+
+.banners{
+	padding-bottom:120px;
+}
+.hero2023{
+	margin-top: -100px; 
+}
+.hero2023 img{
+	width: 100%;
+}
+.banners .col-md-12 .b-p-y{
+	margin: 0px 170px;
+}
+.what-is-picktime .col-md-12 .w-p-y {
+	margin: 0px 225px;
+}
+.what-is-picktime .col-md-12 .boxs {
+	background: #FBF7FF;
+   	box-shadow: 0 2px 2px #8585851f;
+   	-moz-box-shadow: 0 2px 2px #8585851f;
+   	-webkit-box-shadow: 0 2px 2px #8585851f;
+   	border-radius: 10px;
+   	padding: 10px;
+   	margin-bottom: 20px;
+}
+.what-is-picktime .col-md-12 .boxs  .what-is-picktime-img{
+   	margin-top: 20px;
+   	width: 100px;
+}
+.what-is-picktime .col-md-12 .boxs  .arrow-right{
+  	margin: 10px 0px;
+}
+.what-is-picktime .col-md-12 .subtitle{
+  	font-size: 14px;
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+.what-is-picktime .col-md-12 p{
+  	padding-top: 10px;
+  	font-size: 15px;
+  	font-weight: 500;
+  	margin: 0px 20px;
+  	padding-bottom:20px;
+}
+.btn-pt{
+  	padding: 15px 70px;
+	color: #fff;
+	font-weight: bold;
+	letter-spacing: 0.12px;
+	background: #8b22e2 0% 0% no-repeat padding-box;
+	border-radius: 25px;
+	outline: none;
+	border: none;
+	text-align: center;
+	box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
+	transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+	margin: 15px 0px;
+}
+.btn-pt:hover{
+	color: #fff;
+}
+.btn-pt:focus:hover:active{
+  	outline: none;
+}
+/* .capterra {
+	display: -webkit-box; OLD - iOS 6-, Safari 3.1-6
+	display: -moz-box; OLD - Firefox 19- (buggy but mostly works)
+	display: -ms-flexbox; TWEENER - IE 10
+	display: -webkit-flex; NEW - Chrome
+ 	display: flex;
+ 	justify-content: center;
+} */
+.container-fluid{
+	padding-left: 0px;
+}
+@media only screen and (max-width:1024px) {
+	.banners .col-md-12 .b-p-y{
+		margin: 0px 20px;
+	}
+	 .what-is-picktime .col-md-12 .w-p-y {
+		margin: 0px 25px;
+	}
+}
 /*==========banner***end==========*/
 
 /*==========what is picktime***start==========*/
@@ -220,18 +304,18 @@ a:hover {
 	background: #ffffff;
 }
 
-.what-is-picktime .col-md-6 .w-s-y h2 {
+.what-is-picktime .col-md-12 .w-s-y h2 {
 	font: normal normal bold 20px/24px Samsung Sharp Sans;
 	letter-spacing: 0px;
 	color: #8a2be2;
 	margin-top: 120px;
 }
 
-.what-is-picktime .col-md-6 .w-b-y h3 {
+.what-is-picktime .col-md-12 .w-b-y h3 {
 	font: normal normal bold 35px/44px Samsung Sharp Sans;
 }
 
-.what-is-picktime .col-md-6 .w-p-y {
+.what-is-picktime .col-md-12 .w-p-y {
 	line-height: 35px;
 	font-size: 20px;
 	font-weight: 400;
@@ -253,9 +337,7 @@ a:hover {
 	transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
-.what-is-picktime .col-md-6 p {
-	/* margin-left: 5px; */
-	/* margin-top: 15px; */
+.what-is-picktime .col-md-12 p {
 	padding-top: 10px;
 }
 
@@ -271,39 +353,31 @@ img.what-is-picktime-img{
 	background-repeat: repeat-x;
 	background-position: center;
 	padding-top: 200px;
+	padding-bottom: 60px;
 }
 
 .calenders .col-md-6 .c-s-x h2 {
 	font: normal normal bold 20px/24px Samsung Sharp Sans;
 	color: #8a2be2;
-	margin-left: 70px;
 	padding-top: 100px;
 }
 
 .calenders .col-md-6 .c-b-x h3 {
 	font: normal normal bold 35px/44px Samsung Sharp Sans;
-	margin-left: 70px;
+	/* margin-left: 70px; */
 	margin-bottom: 10px;
 }
 
 .calenders .col-md-6 .c-p-x {
-	margin-left: 70px;
 	letter-spacing: 0.22px;
-	margin-bottom: 130px;
+	margin-bottom: 35px;
 	line-height: 30px;
 	font-size: 20px;
 	font-weight: 400;
 }
 
-.calenders .col-md-6 .bg-cal {
-	position: relative;
-	margin-left: -196px;
-	margin-top: 11px;
-}
-
 .calenders .col-md-6 .img-cal {
-	position: absolute;
-	margin-left: -400px;
+	position: relative;
 	top: 67px;
 	width: 100%;
 }
@@ -313,7 +387,8 @@ img.what-is-picktime-img{
 /*==========online booking***start==========*/
 
 .onlinebooking {
-	margin: 100px 0px;
+	margin-top: 10px;
+	margin-bottom: 20px;
 }
 
 .onlinebooking .col-md-6 .o-s-y h2 {
@@ -336,11 +411,12 @@ img.what-is-picktime-img{
 	font-weight: 400;
 	margin-bottom: 20px;
 }
-
+.calenders .col-md-6 .btn-lg,
 .onlinebooking .col-md-6 .btn-lg {
 	width: 40%;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size:15px;
 	color: #fff;
 	font-weight: bold;
 	letter-spacing: 0.12px;
@@ -358,16 +434,11 @@ img.what-is-picktime-img{
 	outline: none;
 }
 
-.onlinebooking .col-md-6 .bg-o {
-	position: relative;
-	margin-left: 200px;
-}
 
 .onlinebooking .col-md-6 .img-o {
 	position: relative;
-	margin-top: -550px;
-	margin-left: 50px;
-	padding: 45px;
+	margin-top: 100px;
+	width: 100%;
 }
 
 /*==========online booking***end==========*/
@@ -375,7 +446,7 @@ img.what-is-picktime-img{
 /*==========paymenet and invoicing***start==========*/
 
 .payment {
-	margin: 10px 0px;
+	margin: 80px 0px;
 }
 
 .payment .col-md-6 .p-s-x h2 {
@@ -406,10 +477,7 @@ img.what-is-picktime-img{
 }
 
 .payment .col-md-6 .img-p {
-	position: absolute;
-	margin-top: 0px;
-	margin-left: -420px;
-	padding: 35px;
+	margin-left: -45px;
 	width: 100%;
 }
 
@@ -461,7 +529,7 @@ img.what-is-picktime-img{
 }
 
 .video .col-md-6 .img-v {
-	margin-top: 170px;
+	margin-top: 80px;
 	width: 100%;
 }
 
@@ -470,10 +538,10 @@ img.what-is-picktime-img{
 /*==========MULTIPLE LOCATION MANAGMENT***start==========*/
 
 .multiple {
-	height: 800px;
+	height: 600px;
 	background: #f0f2f8 0% 0% no-repeat;
-	padding-top: 150px;
-	margin-top: -10px;
+	padding-top: 110px;
+	/* margin-top: -10px; */
 }
 
 .multiple .col-md-6 .m-s-x h2 {
@@ -516,27 +584,18 @@ img.what-is-picktime-img{
 	outline: none;
 }
 
-.multiple .col-md-6 .bg-m {
-	position: relative;
-	margin-left: -264px;
-	margin-top: 20px;
-}
 
 .multiple .col-md-6 .img-m {
-	position: absolute;
-	left: 50px;
-	/*margin-left: -254px;
+	width: 100%;
 	margin-top: 0px;
-	left: 304px;
-	top: -17px; */
-}
+	}
 
 /*==========MULTIPLE LOCATION MANAGMENT***end==========*/
 
 /*==========REMINDERS***start==========*/
 
 .reminders {
-	margin: 100px 0px;
+	margin: 10px 0px;
 }
 
 .reminders .col-md-6 .r-s-y h2 {
@@ -580,16 +639,10 @@ img.what-is-picktime-img{
 	outline: none;
 }
 
-.reminders .col-md-6 .bg-r {
-	position: relative;
-	margin-left: 200px;
-}
 
 .reminders .col-md-6 .img-r {
-	position: relative;
-	margin-top: -443px;
-	margin-left: 121px;
-	left: -16px;
+	width: 100%;
+	margin-top: 140px;
 }
 
 /*==========REMINDERS***end==========*/
@@ -598,6 +651,7 @@ img.what-is-picktime-img{
 
 .class-booking {
  	margin: 10px 0px;
+ 	padding-bottom: 70px;
 }
 
 .class-booking .col-md-6 .c-s-x h2 {
@@ -616,7 +670,6 @@ img.what-is-picktime-img{
 
 .class-booking .col-md-6 .c-p-x {
 	margin-left: 50px;
-	/* padding: 10px 70px 0px 0px; */
 	letter-spacing: 0.22px;
 	line-height: 30px;
 	font-size: 20px;
@@ -640,17 +693,9 @@ img.what-is-picktime-img{
 	box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
 }
 
-.class-booking .col-md-6 .bg-c {
-	position: relative;
-	margin-left: -200px;
-}
-
 .class-booking .col-md-6 .img-c {
-	position: absolute;
-	margin-top: 100px;
-	margin-left: -470px;
-	padding: 35px; 
 	width: 100%;
+    margin-top: 55px;
 }
 
 /*=========CLASS BOOKINGS***end==========*/
@@ -661,7 +706,7 @@ img.what-is-picktime-img{
 	height: 518px;
 	background: #f7f8fc 0% 0% no-repeat padding-box;
 	margin-bottom: 45px;
-	margin-top: 100px;
+	margin-top: 180px;
 }
 
 .feature .col-lg-6 .f-b-y h2 {
@@ -715,10 +760,8 @@ img.what-is-picktime-img{
 	position: relative;
 	margin: -108px 0px 0px 0px;
 	box-shadow: 0px 2px 20px #8585851f;
-	
 	-moz-box-shadow: 0px 2px 20px #8585851f;
 	-webkit-box-shadow: 0px 2px 20px #8585851f;
-	
 	border-radius: 9px;
 }
 
@@ -915,7 +958,10 @@ img.what-is-picktime-img{
 .book-from-any-where .col-md-6 .img-b {
 	/* padding: 70px; */
 	width: 100%;
-	margin-top: 110px;
+	margin-top: 150px;
+}
+.book-from-any-where .col-md-6 .img-manage-res{
+	margin-top: 10px !important;
 }
 
 .book-from-any-where:before {
@@ -1133,7 +1179,6 @@ img.what-is-picktime-img{
 	margin-right: auto;
 	padding-left: 16px;
 	padding-right: 16px;
-	/* max-width: 1272px; */
 	max-width: 1920px;
 	width: 100%;
 }
@@ -1814,9 +1859,8 @@ img.what-is-picktime-img{
 		height: 333px;
 	}
 	.navbar-brand img {
-		margin: 0px 0px 0px 0px;
+		margin: -20px 0px 0px 0px;
 		width: 180px;
-		margin-top: -20px;
 	}
 }
 
@@ -1930,18 +1974,12 @@ img.what-is-picktime-img{
 	width: 33.33333333%;
 }
 
-
-/*.pick-time-is-for-everyone #leftarrow {
-	margin-left: -55px;
-}
- .pick-time-is-for-everyone #rightarrow {
-	margin-left: 26px;
-}*/
-
 @media only screen and (max-width:1024px) {
 	.itemL {
 		margin: 0px;
 	}
+}
+@media only screen and (max-width:1265px) {
 	.carousel-control.right{
 	display: none;
 	}
@@ -1997,8 +2035,6 @@ img.what-is-picktime-img{
 
 #love-by-evryine {
 	font-weight: bold;
-	/* padding-top: 100px;
-	padding-bottom: 100px; */
 	margin: 100px 0px 200px 0px;
 }
 
@@ -2314,8 +2350,8 @@ img.what-is-picktime-img{
 
 @media only screen and (max-width: 1024px) {
 	.book-from-any-where .col-md-6 .img-b {
-  		margin-top: 160px;
-	}
+  		margin-top: 118px;
+ }
 	
 	.multiple .col-md-6 .img-m {
   		margin-top: 60px;
@@ -2327,7 +2363,7 @@ img.what-is-picktime-img{
   		padding: 25px 0px;
 	}
 	/*===== big titles========= */
-	.what-is-picktime .col-md-6 .w-b-y h3,
+	.what-is-picktime .col-md-12 .w-b-y h3,
 	.calenders .col-md-6 .c-b-x h3,
 	.onlinebooking .col-md-6 .o-b-y h3,
 	.payment .col-md-6 .p-b-x h3,
@@ -2346,7 +2382,7 @@ img.what-is-picktime-img{
 	  	text-align: center;
 	}
 	/*========= small titles========= */
-	.what-is-picktime .col-md-6 .w-s-y h2,
+	.what-is-picktime .col-md-12 .w-s-y h2,
 	.calenders .col-md-6 .c-s-x h2,
 	.onlinebooking .col-md-6 .o-s-y h2,
 	.payment .col-md-6 .p-s-x h2,
@@ -2360,7 +2396,7 @@ img.what-is-picktime-img{
 	  	text-align: center;
 	}
 	/*========Button============ */
-	.what-is-picktime .col-md-6 .btn-lg,
+	.what-is-picktime .col-md-12 .btn-lg,
 	.onlinebooking .col-md-6 .btn-lg,
 	.payment .col-md-6 .btn-lg-p-x,
 	.video .col-md-6 .btn-lg,
@@ -2368,6 +2404,7 @@ img.what-is-picktime-img{
 	.reminders .col-md-6 .btn-lg,
 	.reminders .col-md-6 .btn-lg,
 	.class-booking .col-md-6 .btn-lg-c-x,
+	.calenders .col-md-6 .btn-lg,
 	.book-from-any-where .btn-lg {
 		font-size: 15px;
 		margin-left: auto;
@@ -2380,11 +2417,9 @@ img.what-is-picktime-img{
 	}
 	/*navbar  */
 	.navbar-brand img {
-		margin: 0px 0px 0px 0px;
-		margin-top: -20px;
+		margin: -15px 0px 0px 0px;
 	}
 	.navbar .btn {
-		/* margin-top: 15px;  */
 		padding: 10px 0px;
 		width: 100px;
 		height: 40px;
@@ -2395,31 +2430,28 @@ img.what-is-picktime-img{
 		width: 120px;
 	}
 	.navbar-nav li a {
-		margin: 30px 30px 0px 0px;
+		margin: 30px 15px 0px 0px;
 	}
 	/* banners */
 	
-	/* #banners{
-	margin-top: 60px;
-	} */
 	
 	.banners {
 		margin-top: 50px;
 	}
 	
-	.banners .col-md-6 .img-banner {
+	.banners .col-md-12 .img-banner {
 		width: 100%;
 	  	padding-top: 15px;
 	}
-	.banners .col-md-6 .b-t-y h1 {
+	.banners .col-md-12 .b-t-y h1 {
 	  	font: normal normal bold 30px/40px Samsung Sharp Sans;
 	  	text-align: center;
 	}
-	.banners .col-md-6 .btn-lg {
+	.banners .col-md-12 .btn-lg {
 	  	width: 100%;
 	  	/* padding: 18px 0px; */
 	}
-	.banners .col-md-6 .b-p-y {
+	.banners .col-md-12 .b-p-y {
 	  	line-height: 25px;
 	  	letter-spacing: 0.22px;
 	  	text-align: center;
@@ -2427,10 +2459,7 @@ img.what-is-picktime-img{
 	#wave {
 	  	margin-top: 30px;
 	}
-	/* what is pick time */
-	.what-is-picktime .col-md-6 .w-p-y {
-	  	/* margin-left: 0px;
-		padding: 10px 0px 0px 0px; */
+	.what-is-picktime .col-md-12 .w-p-y {
 	  	line-height: 25px;
 	  	letter-spacing: 0.22px;
 	  	text-align: center;
@@ -2446,12 +2475,8 @@ img.what-is-picktime-img{
 	  	padding-top: 0px;
 	  	margin: 30px 0px;
 	}
-	.calenders .col-md-6 .bg-cal {
-	  	display: none;
-	}
 	.calenders .col-md-6 .img-cal {
 	  	position: relative;
-	  	margin-left: 0px;
 	  	left: 0px;
 	  	top: 0px;
 	  	width: 100%;
@@ -2473,7 +2498,6 @@ img.what-is-picktime-img{
 	  	margin-bottom: 10px;
 	  	font-size: 18px;
 	}
-	/*onlinebooking  */
 	.onlinebooking {
 	  	margin: 30px 0px;
 	}
@@ -2488,15 +2512,9 @@ img.what-is-picktime-img{
 	  	text-align: center;
 	  	font-size: 18px;
 	}
-	.onlinebooking .col-md-6 .bg-o {
-	  	display: none;
-	}
 	.onlinebooking .col-md-6 .img-o {
-	  	position: relative;
-	  	width: 100%;
 	  	margin-top: 15px;
 		margin-left: 10px;
-		padding: 100px;
 	}
 	/* payment */
 	.payment {
@@ -2518,8 +2536,8 @@ img.what-is-picktime-img{
 		text-align: center;
 		font-size: 18px;
 	}
-	.payment .col-md-6 .img-p,
-	.payment .col-md-6 .bg-p {
+	.payment .col-md-6 .img-p
+	{
 	  	display: none;
 	}
 	/* video */
@@ -2533,9 +2551,6 @@ img.what-is-picktime-img{
 	.video .col-md-6 .v-s-y h2 {
 	  	padding-top: 100px;
 	}
-	/* .video .col-md-6 .v-b-y h3{
-		padding: 10px 0px 10px 0px;
-	} */
 	.video .col-md-6 .v-p-y {
 		padding: 10px 0px 10px 0px;
 		line-height: 25px;
@@ -2555,18 +2570,13 @@ img.what-is-picktime-img{
 		margin-top: -10px;
 		height: 400px;
 	}
-	.multiple .col-md-6 .bg-m {
-	  	display: none;
-	}
+	.video .col-md-6 .img-v,
 	.multiple .col-md-6 .img-m {
 	  	display: none;
 	}
 	.multiple .col-md-6 .m-s-x h2 {
 	  	padding: 10px 0px 10px 0px;
 	}
-	/* .multiple .col-md-6 .m-b-x h3 {
-		padding: 10px 0px 10px 0px;
-	} */
 	.multiple .col-md-6 .m-p-x {
 		padding: 10px 0px 10px 0px;
 		line-height: 25px;
@@ -2578,18 +2588,12 @@ img.what-is-picktime-img{
 	.reminders {
 	  	margin: 30px 0px;
 	}
-	.reminders .col-md-6 .bg-r {
-	  	display: none;
-	}
 	.reminders .col-md-6 .img-r {
 	  	display: none;
 	}
 	.reminders .col-md-6 .r-s-y h2 {
 	  	padding: 10px 0px 10px 0px;
 	}
-	/* .reminders .col-md-6 .r-b-y h3{
-		padding: 10px 0px 10px 0px;
-	} */
 	.reminders .col-md-6 .r-p-y {
 		padding: 10px 0px 10px 0px;
 		line-height: 25px;
@@ -2600,13 +2604,13 @@ img.what-is-picktime-img{
 	/* payment */
 	.class-booking {
 		margin: 30px 0px;
+		padding-bottom: 10px;
 	}
 	.class-booking .col-md-6 .c-s-x h2 {
 		margin-left: 0px;
 		padding-top: 0px;
 	}
 	.class-booking .col-md-6 .c-b-x h3 {
-		/* padding: 10px 0px 10px 0px; */
 		margin-left: 0px;
 	}
 	.class-booking .col-md-6 .c-p-x {
@@ -2617,8 +2621,8 @@ img.what-is-picktime-img{
 		text-align: center;
 		font-size: 18px;
 	}
-	.class-booking .col-md-6 .img-c,
-	.class-booking .col-md-6 .bg-c {
+	.class-booking .col-md-6 .img-c
+	{
 	  	display: none;
 	}
 	
@@ -2654,7 +2658,7 @@ img.what-is-picktime-img{
 	}
 	.feature .col-lg-6 .box2,
 	.feature .col-lg-6 .box4 {
-		margin: -240px 0px 40px 400px;
+		margin:-240px 0px 40px 340px;
 		height: 200px;
 		width: 150px;
 	}
@@ -2681,15 +2685,12 @@ img.what-is-picktime-img{
 		margin-top: 15px;
 	}
 	
-	/* book-from-any-where */
 	.book-from-any-where {
   		margin: 30px 0px;
 	}
 	
 	.book-from-any-where .col-md-6 .img-b {
-		display: block;
-		padding: 20px;
-		margin-top: -110px;
+		margin-top: 10px;
 	}
 	
 	.book-from-any-where .col-md-6 .b-b-y h2 {
@@ -2727,14 +2728,6 @@ img.what-is-picktime-img{
 		padding-top: 25px;
 		padding-bottom: 25px;
 	}
-	/* connect-app 
-	.connect-app .c-b-m{
-		margin: 10px 0px;
-	}
-	
-	.connect-app {
-		display: none;
-	}*/
 	/* love-by-evryine */
 	#love-by-evryine {
 		margin: 50px 0px;
@@ -2805,9 +2798,8 @@ img.what-is-picktime-img{
 
 @media only screen and (max-width: 767px) {
 	.navbar-brand img {
-	  	margin: 0px 0px 0px 0px;
+	  	margin: -20px 0px 0px 0px;
 		/* width: 130px; */
-		margin-top: -20px;
 	}
 	 .navbar-nav li a{
 		margin: 20px 0px 0px 0px;
@@ -2816,10 +2808,6 @@ img.what-is-picktime-img{
 	 	margin-top: 20px;
 	  	margin-left: 10px;
 	}
-  	/* #banners{
-		margin-top: 40px;
-	} */
-	
 	#picktime #f-6 {
   		margin-top: 10px;
 	}
@@ -2838,15 +2826,28 @@ img.what-is-picktime-img{
 
 /*=============Mobile Responsive=================*/
 
+
+@media only screen and (max-width: 540px){
+
+	.feature .col-lg-6 .box1,
+	.feature .col-lg-6 .box3 {
+	  	margin: 40px 0px 40px 40px;
+	}
+	.feature .col-lg-6 .box4,
+	.feature .col-lg-6 .box2 {
+	  	margin: -260px 0px 40px 280px;
+	}
+}	
 @media only screen and (max-width: 540px) {
 	/*====Button====universal-selectors========*/
-	.what-is-picktime .col-md-6 .btn-lg,
+	.what-is-picktime .col-md-12 .btn-lg,
 	.onlinebooking .col-md-6 .btn-lg,
 	.payment .col-md-6 .btn-lg-p-x,
 	.video .col-md-6 .btn-lg,
 	.multiple .col-md-6 .btn-lg,
 	.reminders .col-md-6 .btn-lg,
 	.class-booking .col-md-6 .btn-lg-c-x,
+	.calenders .col-md-6 .btn-lg,
 	.book-from-any-where .btn-lg {
 		margin-left: 90px;
 		width: 60%;
@@ -2873,13 +2874,14 @@ img.what-is-picktime-img{
 
 @media only screen and (max-width: 480px) {
 	/*====Button==universal-selectors====*/
-	.what-is-picktime .col-md-6 .btn-lg,
+	.what-is-picktime .col-md-12 .btn-lg,
 	.onlinebooking .col-md-6 .btn-lg,
 	.payment .col-md-6 .btn-lg-p-x,
 	.video .col-md-6 .btn-lg,
 	.multiple .col-md-6 .btn-lg,
 	.reminders .col-md-6 .btn-lg,
 	.class-booking .col-md-6 .btn-lg-c-x,
+	.calenders .col-md-6 .btn-lg,
 	.book-from-any-where .btn-lg {
 		margin-left: 70px;
 		width: 60%;
@@ -2890,10 +2892,7 @@ img.what-is-picktime-img{
 		width: 100px;
 		height: 40px;
 	}
-	.onlinebooking .col-md-6 .img-o {
-		padding: 20px;
-	}
-	.video .col-md-6 .v-s-y h2 {
+    .video .col-md-6 .v-s-y h2 {
 	  	padding-top: 35px;
 	}
 	
@@ -2919,7 +2918,6 @@ img.what-is-picktime-img{
 		margin: 100px 0px 0px 0px;
 	}
 	.book-from-any-where .col-md-6 .img-b {
-		padding: 15px;
 		width: 100%;
 		margin-top: 20px;
 	}
@@ -2950,6 +2948,7 @@ img.what-is-picktime-img{
 	.multiple .col-md-6 .btn-lg,
 	.reminders .col-md-6 .btn-lg,
 	.class-booking .col-md-6 .btn-lg-c-x,
+	.calenders .col-md-6 .btn-lg,
 	.book-from-any-where .btn-lg {
   		margin-left: 40px;
 	  	width: 70%;
@@ -3194,11 +3193,6 @@ img.what-is-picktime-img{
 	text-align: center;
 	margin: 20px 0px 10px 0px;
 }
-
-/* .for-team .f-t-b-i img {
-  	width: 100%;
-  	padding: 10px 300px;
-} */
 
 .for-team .manage-team img {
 	width: 70px;
@@ -3631,9 +3625,6 @@ img.what-is-picktime-img{
 	  	font-weight: bold;
 	  	width: 100%;
 	}
-	/* #integration-body h2 {
-		margin: 30px 0px 20px 50px;
-	} */
 	.pricing-box .box {
 	  	width: 380px;
 	}
@@ -3730,8 +3721,6 @@ img.what-is-picktime-img{
 }
 
 .colums{
-	/* box-shadow: 0 3px 20px 0px rgb(0 0 0 / 12%); */
-	/* border-radius: 25px; */
 	padding: 15px 0px;
 	margin: 15px 0px;
 }
@@ -4060,6 +4049,22 @@ img.what-is-picktime-img{
 /* Industries-page-End */
 
 /*mobile app-page-start */
+.apps-banner{
+	padding-bottom: 30px !important;
+}
+.apps-banner .col-md-6 .b-t-y h1 {
+    font: normal normal bold 50px/60px Samsung Sharp Sans;
+    letter-spacing: 0px;
+    color: #312b2b;
+    padding-top: 15px;
+    margin-top: 70px;
+}
+.apps-banner .col-md-6 .b-p-y {
+    font-size: 20px;
+    font-weight: 400;
+    padding: 15px 0px;
+    line-height: 35px;
+}
 #mobile-main{
 	margin-left: auto;
 	margin-right: auto;
@@ -4091,17 +4096,27 @@ img.what-is-picktime-img{
 .appsPage-body > div{
 	margin-top: 100px;
 }
+
 @media only screen and (max-width: 991px) {
+	.apps-banner .col-md-6 .b-t-y h1 {
+	    font: normal normal bold 30px/40px Samsung Sharp Sans;
+	    text-align: center;
+	}
+	.apps-banner .col-md-6 .b-p-y {
+	    line-height: 25px;
+	    letter-spacing: 0.22px;
+	    text-align: center;
+	}
   	#apps-body h2 {
-    padding-top: 20px;
-    text-align: center;
+	    padding-top: 20px;
+	    text-align: center;
   	}
   	#apps-body p {
-    padding: 10px 0px 0px 0px;
-    text-align: center;
+	    padding: 10px 0px 0px 0px;
+	    text-align: center;
   	}
   	#apps-body .col-md-6.mobile-app-image img {
-    padding: 25px;
+    	padding: 25px;
 	}
 }
 /* mobile app-page-end */
@@ -4337,6 +4352,9 @@ div#industries > div > div a:focus{
 	-webkit-box-shadow: 0px 0px 11px 0px rgb(203 203 203 / 40%);
 	-moz-box-shadow: 0px 0px 11px 0px rgba(203,203,203,.40);
 }
+.pricing-sec .card-body-mt{
+	margin-top: 40px;
+}
 .pricing-subtext{
 	color: #5a5757;
 	margin-top: 20px;
@@ -4401,6 +4419,7 @@ div#industries > div > div a:focus{
 	font-weight: 300;
 	margin-top: 5px;
 	display: inline-block;
+	text-align: start;
 }
 @media (max-width: 1199px) and (min-width: 992px){
 	.pricing-sec .card-body{

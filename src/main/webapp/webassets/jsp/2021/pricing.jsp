@@ -143,8 +143,7 @@
 		<div class="row pricing-box">
 			<div class="col-md-4">
 				<div class="card mb-5 mb-lg-0">
-				<div class="card-header text-center" style="background-color: white; color:white;">Free</div>
-					<div class="card-body">
+					<div class="card-body card-body-mt">
 						<h3 class="card-title text-uppercase">Free</h3>
 						<div class="pricing-subtext">Enjoy basic feature at no cost</div><br>
 						<div class="card-bold-text" style="margin-top: 10px;">3 Users <span class="other-plan-users pro-users"><span class="user-tooltip">A <b>User</b> is a Team Member.</span></span></div>
@@ -169,8 +168,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="card mb-5 mb-lg-0">
-				<div class="card-header text-center" style="background-color: white; color:white;">Starter</div>
-					<div class="card-body">
+					<div class="card-body card-body-mt">
 						<h3 class="card-title text-uppercase">Starter</h3>
 						<div class="pricing-subtext">Perfect for small businesses to kick-start their business.</div>
 						<div class="card-bold-text">3 Users <span class="other-plan-users pro-users"><span class="user-tooltip">A <b>User</b> is a Team Member.</span></span></div>

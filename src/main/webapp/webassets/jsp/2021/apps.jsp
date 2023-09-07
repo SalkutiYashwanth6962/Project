@@ -34,7 +34,7 @@
 </head>
 <body>
 	<jsp:include page="scheduling-software/website-new-navbar.jsp" />
-	<section class="banners">
+	<section class="banners apps-banner">
 		<div class="container">
 			<div class="col-md-6">
 				<div class="b-t-y">
@@ -42,7 +42,8 @@
 				</div>
 				<p class="b-p-y">We got your back. Picktime can be used from Android, ios and Windows as well. Our team has taken extra care to design the app in such a way that the user can use it any time and from anywhere.</p>
 				<!-- <a  href="/register"><div class="btn-lg text-center">GET STARTED FOR FREE</div></a> -->
-				<a  href="/register"><button class="btn-lg text-center signup-btn-banner">GET STARTED FOR FREE</button></a>
+				<a class="btn btn-pt" href="/register">GET STARTED FOR FREE</a>
+				<!-- <a  href="/register"><button class="btn-lg text-center signup-btn-banner">GET STARTED FOR FREE</button></a> -->
 				<div class="playstore">
 					<a href="https://play.google.com/store/apps/details?id=com.picktime.app" target="_blank"><img alt="" src="/webassets/2021/img/playstore/Google-play-store-badge.png" class="G-playstore"></a>
 					<a href="https://apps.apple.com/us/app/picktime/id1643509835" target="_blank"><img alt="" src="/webassets/2021/img/playstore/app-play-store-badge.png" class="A-playstore"></a>
