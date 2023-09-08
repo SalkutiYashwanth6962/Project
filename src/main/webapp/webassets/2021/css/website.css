@@ -132,7 +132,7 @@ a:hover {
 .banners .col-md-12 .b-p-y {
 	font-size: 20px;
 	font-weight: 400;
-	padding: 15px 0px;
+	padding: 3px 0px;
 	line-height: 35px;
 }
 .banners .col-md-12 .btn-lg {
@@ -162,20 +162,20 @@ a:hover {
 	padding-right: 73px;
 }
 .capterra img{
- 	width: 70px;
-	margin-top: 10px;
-	float: right;
+ 	width: 55px;
+ 	margin-top: 0px;
+ 	float: right;
 }
 .capterra .capterra-title{
-   	margin: 15px 0 5px 0px;
-    background: #ff9d28;
-    border-radius: 25px;
-    width: 130px;
-    text-align: center;
-    color: #ffffff;
-    font-weight: 500;
-    font-size: 12px;
-    padding: 3px 0px;
+   	margin: 0px 0px 0px 0px;
+   	background: #ff9d28;
+   	border-radius: 25px;
+   	width: 130px;
+   	text-align: center;
+   	color: #ffffff;
+   	font-weight: 500;
+   	font-size: 12px;
+   	padding: 3px 0px;
 }
 .capterra .capterra-subtitle{
 	margin-top: 10px;
@@ -273,8 +273,14 @@ a:hover {
 .btn-pt:hover{
 	color: #fff;
 }
-.btn-pt:focus:hover:active{
-  	outline: none;
+.btn-pt.active.focus,
+.btn-pt.active:focus,
+.btn-pt.focus,
+.btn-pt:active.focus,
+.btn-pt:active:focus,
+.btn-pt:focus {
+    outline:none;
+    outline-offset: 0px
 }
 /* .capterra {
 	display: -webkit-box; OLD - iOS 6-, Safari 3.1-6
@@ -2446,6 +2452,7 @@ img.what-is-picktime-img{
 	.banners .col-md-12 .b-t-y h1 {
 	  	font: normal normal bold 30px/40px Samsung Sharp Sans;
 	  	text-align: center;
+	  	margin-top: 85px;
 	}
 	.banners .col-md-12 .btn-lg {
 	  	width: 100%;
@@ -3450,7 +3457,9 @@ img.what-is-picktime-img{
 	.for-team .f-t-s-m h2 {
   		font: normal normal bold 16px/16px Samsung Sharp Sans;
 	}
-	
+	.btn-pt {
+    	padding: 12px 50px;
+	}
 	/*=====button======  */
 	
 	#what-we-offer img {

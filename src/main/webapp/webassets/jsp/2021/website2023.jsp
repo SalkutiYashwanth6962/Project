@@ -95,7 +95,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 			   				<img alt="Picktime-appointments" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/What-is-picktime-appointment.svg")))%>" class="what-is-picktime-img">
 			   			</div>
 			   			<div class="subtitle">Appointments</div>
-			   			<p>Schedule your Appointment, Classes, and interviews with picktime. Easily manage you</p>
+			   			<p>Experience seamless appointment management and hassle-free scheduling. Say goodbye to no-shows and double bookings.</p>
 			   			<div>
 			   				<img alt="Picktime-features-room-equipment" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/arrow-right.svg")))%>" class="arrow-right">
 				   		</div>
@@ -107,7 +107,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 		   					<img alt="Picktime-features-Group-booking" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/What-is-picktime-group-booking.svg")))%>" class="what-is-picktime-img">
 				   		</div>
 			   			<div class="subtitle">Class Bookings</div>
-			   			<p>Schedule your Appointment, Classes, and interviews with picktime. Easily manage you</p>
+			   			<p>Let your clients choose the date and time that works for them. Manage class attendees with our waitlist and other powerful features.</p>
 			   			<div>
 			   				<img alt="Picktime-features-room-equipment" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/arrow-right.svg")))%>" class="arrow-right">
 				   		</div>
@@ -119,7 +119,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 			   				<img alt="Picktime-features-room-equipment" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/What-is-picktime-rooms-euipment.svg")))%>" class="what-is-picktime-img">
 				   		</div>
 			   			<div class="subtitle">Rooms &amp; Equipment</div>
-			   			<p>Schedule your Appointment, Classes, and interviews with picktime. Easily manage you</p>
+			   			<p style="margin-bottom: 20px;">Manage your rooms, venues, pools & courts to their full potential. Check room availability in an instant.</p>
 			   			<div>
 			   				<img alt="Picktime-features-room-equipment" src="data:image/svg+xml;base64,<%=Base64.getEncoder().encodeToString(Files.toByteArray(new File("webassets/2021/img/arrow-right.svg")))%>" class="arrow-right">
 				   		</div>
@@ -247,9 +247,9 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 		<div class="container-fluid" style="overflow: hidden;">
 			<div class="container">
 				<div class="col-md-6">
-					<div class="o-s-y"><h2>Resource Management</h2></div>
+					<div class="o-s-y"><h2>RESOURCE MANAGEMENT</h2></div>
 					<div class="o-b-y"><h3>From Meeting Rooms to Equipment, we got you Covered</h3></div>
-					<p class="o-p-y">With our streamlined scheduling and resource management tools, you can optimize your operations and enhance productivity. Say goodbye to logistical challenges and hello to efficient, business-focused resource management with Picktime by your side.</p>
+					<p class="o-p-y">Boost efficiency and simplify scheduling with our resource management tools. Say bye-bye to scheduling conflicts and welcome to streamlined room and equipment management system with Picktime.</p>
 					<!-- <a href="/register"><button class="btn-lg text-center signup-btn-banner">LEARN MORE</button></a> -->
 				</div>
 				<div class="col-md-6">
