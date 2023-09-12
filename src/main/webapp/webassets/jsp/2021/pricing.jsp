@@ -15,7 +15,7 @@
 <html lang="en">
 <head>
     <title>Pricing | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime</title>
-    <meta name="description" content="Picktime online appointment scheduling software with three pricing plans- Free, Starter (starts at $9.99 /mo) and Pro (starts at $19.99 /mo)- for enhancing booking experience.">
+    <meta name="description" content="Picktime online appointment scheduling software with three pricing plans- Free, Starter (starts at $4/user /mo), and Pro (starts at $3 / user /mo)- for enhancing booking experience.">
     <meta name="keywords" content="Picktime Pricing, Picktime Pricing Comparison, Picktime Features Comparison, Picktime Charges, free online appointment scheduling software, free appointment scheduler, free online appointment scheduling, 
     free appointment scheduling software, free online scheduling software, best free appointment scheduling software, online appointment scheduling software free, free online appointment scheduling tool, free online scheduling system, 
     online appointment scheduling free, best online appointment scheduling, online scheduling software, online appointment scheduling tool, free online scheduling calendar, online appointment scheduling software, free appointment booking app, 
