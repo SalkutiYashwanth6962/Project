@@ -26,12 +26,12 @@
 	<meta property="og:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
 	<meta property="og:image:alt" content="Pricing - Online Free Appointment Scheduling Software" />
 	<meta property="og:url" content="https://www.picktime.com" />
-	<meta property="og:description" content="Picktime online appointment scheduling software with three pricing plans- Free, Starter (starts at $9.99 /mo) and Pro (starts at $19.99 /mo)- for enhancing booking experience." />
+	<meta property="og:description" content="Picktime online appointment scheduling software with three pricing plans- Free, Starter (starts at $4/user /mo), and Pro (starts at $3 / user /mo)- for enhancing booking experience." />
 	
     <!-- for Twitter -->          
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Pricing | Online Free Appointment Scheduling Software | Booking Software  | Calendar Management System | Picktime" />
-	<meta name="twitter:description" content="Picktime online appointment scheduling software with three pricing plans- Free, Starter (starts at $9.99 /mo) and Pro (starts at $19.99 /mo)- for enhancing booking experience."/>
+	<meta name="twitter:description" content="Picktime online appointment scheduling software with three pricing plans- Free, Starter (starts at $4/user /mo), and Pro (starts at $3 / user /mo)- for enhancing booking experience."/>
 	<meta name="twitter:image" content="https://www.picktime.com/webassets/2021/PTicons/picktime-default-cover.png" />
      
     <jsp:include page="scheduling-software/website-new-headtag.jsp" />
