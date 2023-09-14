@@ -93,7 +93,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Enable easier advanced online payments</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Cut short time wasted in long billing queues. Accept advanced online payments from customers via credit cards, PayPal, and Stripe.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Cut short time wasted in long billing queues. Accept advanced online payments from customers via credit cards, PayPal, Stripe and Square.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Make Online Advance Payments" src="/webassets/2021/img/business/spa-payments.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

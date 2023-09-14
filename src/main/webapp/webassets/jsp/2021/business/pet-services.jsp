@@ -105,7 +105,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">INVOICING AND PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Online payment & billing in a few clicks</h4>
-				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Allow customers to make advanced online payments with credit/debit cards or payment processors like PayPal, or Stripe. Generate digital invoices in a click and email them to your customers.</p>
+				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Allow customers to make advanced online payments with credit/debit cards or payment processors like PayPal, Stripe or Square. Generate digital invoices in a click and email them to your customers.</p>
 			</div>
 			<div class="col-md-6">
   				<img alt="Generate invoice and take payments online" src="/webassets/2021/img/business/spa-payments.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

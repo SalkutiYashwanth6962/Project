@@ -96,7 +96,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS AND INVOICING</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Accept advanced ticket price collection</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Collect ticket prices from event attendees in advance via online payment processors like PayPal, and Stripe. Instantly send invoices to complete the payment process.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Collect ticket prices from event attendees in advance via online payment processors like PayPal, Square and Stripe. Instantly send invoices to complete the payment process.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Take Live Event Booking Payments" src="/webassets/2021/img/business/spa-payments.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

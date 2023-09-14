@@ -106,7 +106,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">EVENT MANAGEMENT</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Manage your event resources and booking flow in real-time</h4>
-				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Irrespective of the size of the event, Picktime scales it efficiently. Integrate with PayPal or Stripe and start accepting payments for event bookings.</p>
+				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Irrespective of the size of the event, Picktime scales it efficiently. Integrate with PayPal, Stripe or Square and start accepting payments for event bookings.</p>
 			</div>
 			<div class="col-md-6">
   				<img alt="manage all your events and bookings" src="/webassets/2021/img/business/event-management.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

@@ -105,7 +105,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS AND INVOICING</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Receive payments on time with ease and Automatic Invoicing.</h4>
-				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Generate convenient and expeditious billing, receive prompt payment for your services by integrating online payment gateways such as Paypal or Stripe and get automated invoices.</p>
+				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Generate convenient and expeditious billing, receive prompt payment for your services by integrating online payment gateways such as PayPal, Stripe or Square and get automated invoices.</p>
 			</div>
 			<div class="col-md-6">
   				<img alt="Accept tennis class payments in advance" src="/webassets/2021/img/business/medical-advance-payment.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

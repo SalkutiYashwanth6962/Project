@@ -92,7 +92,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">INVOICE AND PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Reliable online payment process with automated invoicing</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Enable clients to make online payments using credit cards, PayPal, or Stripe while scheduling an appointment. Generate digital invoices from the dashboard and email them to your clients.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Enable clients to make online payments using credit cards, PayPal, Stripe or Square while scheduling an appointment. Generate digital invoices from the dashboard and email them to your clients.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Generate invoices for your consultations" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

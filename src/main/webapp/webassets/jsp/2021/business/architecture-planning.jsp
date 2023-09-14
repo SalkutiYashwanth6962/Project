@@ -109,10 +109,10 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS AND INVOICING</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Advanced online payments and computerized invoicing</h4>
-				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Allow clients to pay in advance through payment gateways like PayPal or Stripe. Send clients automatic invoices that are generated instantly after the booking.</p>
+				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Allow clients to pay in advance through payment gateways like PayPal, Stripe or Square. Send clients automatic invoices that are generated instantly after the booking.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="PayPal or Stripe" src="/webassets/2021/img/business/spa-payments.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="PayPal, Stripe or Square" src="/webassets/2021/img/business/spa-payments.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

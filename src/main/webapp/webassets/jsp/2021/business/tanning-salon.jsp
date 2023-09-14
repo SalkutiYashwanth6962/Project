@@ -94,7 +94,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS AND INVOICING</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Secure online payment in advance</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Integrate your PayPal or Stripe business account with ease to accept payments online through debit or credit cards. Generate invoices for the offline payments.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Integrate your PayPal, Stripe or Square business account with ease to accept payments online through debit or credit cards. Generate invoices for the offline payments.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="accept tanning service bookings payments online" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

@@ -93,7 +93,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ADVANCE PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Accept advanced payments through online gateways</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Enable your patients to make advanced payments through online payment sites like PayPal, and Stripe to reduce confusing cash payments at billing counters!</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Enable your patients to make advanced payments through online payment sites like PayPal, Stripe and Square to reduce confusing cash payments at billing counters!</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Take Advance Payments Via Online" src="/webassets/2021/img/business/photographer-Payments-Invoices.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

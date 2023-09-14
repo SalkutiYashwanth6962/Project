@@ -105,7 +105,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS AND INVOICING</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Streamline invoice generation and capitalize on swift payments.</h4>
-				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Collect advance payment from your customers by integrating online payment systems like Paypal or Stripe will avoid delayed payments. Select the mode of payment and generate an invoice hassle-free.</p>
+				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Collect advance payment from your customers by integrating online payment systems like PayPal, Stripe or Square will avoid delayed payments. Select the mode of payment and generate an invoice hassle-free.</p>
 			</div>
 			<div class="col-md-6">
   				<img alt="Collect advance payment from your customers" src="/webassets/2021/img/business/medical-advance-payment.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

@@ -94,7 +94,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Link with payment apps for advanced online payments</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Integrate your Picktime account with payment gateways like PayPal, and Stripe to accept advanced online payments from clients or take payments through credit cards.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Integrate your Picktime account with payment gateways like PayPal, Stripe or Square to accept advanced online payments from clients or take payments through credit cards.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Collect payments online for community services" src="/webassets/2021/img/business/spa-payments.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

@@ -93,7 +93,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS AND INVOICING</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Allow secure advanced payment & invoicing</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Let clients securely make advanced online payments through PayPal, and Stripe. Immediately raise and email the invoice to the client and collect the pending payments.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Let clients securely make advanced online payments through PayPal, Stripe and Square. Immediately raise and email the invoice to the client and collect the pending payments.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Make Advance Payment For Truck Rentals" src="/webassets/2021/img/business/photographer-Payments-Invoices.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

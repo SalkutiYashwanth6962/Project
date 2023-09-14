@@ -113,7 +113,7 @@
 				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Avoid delayed payment by letting clients use credit/debit card payment processors like PayPal, Stripe, or Square to make advanced online payments.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="Integrate PayPal and Stripe" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="Integrate PayPal, Square and Stripe" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

@@ -93,7 +93,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ADVANCE PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">A Secure Online Payment Procedure</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Allow clients to make secure online payments in advance during appointment booking with credit/debit cards or payment processors such as PayPal, or Stripe.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Allow clients to make secure online payments in advance during appointment booking with credit/debit cards or payment processors such as PayPal, Stripe, or Square.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Take copay or advance payments" src="/webassets/2021/img/business/photographer-Payments-Invoices.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

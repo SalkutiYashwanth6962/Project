@@ -59,7 +59,7 @@
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 		       		<div class="i-img"> <img alt="Advance Payment for resource bookings" src="/webassets/2021/img/icons/features/Take-payments_icon.svg"> </div>
 			       	<h3>Advance Payments</h3>
-			       	<p>Customers can pay in advance using payment processes such as Paypal or Stripe while booking appointments.</p>
+			       	<p>Customers can pay in advance using payment processes such as Paypal, Stripe or Square while booking appointments.</p>
 			     </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">

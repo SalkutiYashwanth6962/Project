@@ -96,7 +96,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ADVANCE PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Simplified Online Payment Process</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">While booking an appointment, clients can make safe advanced online payments through credit/debit cards or payment processors like PayPal, or Stripe to prevent delayed cash payments.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">While booking an appointment, clients can make safe advanced online payments through credit/debit cards or payment processors like PayPal, Stripe or Square to prevent delayed cash payments.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="take advance payments for events bookings" src="/webassets/2021/img/business/spa-payments.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

@@ -93,7 +93,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS AND INVOICING</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Allow online payments & instant invoicing</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Let your clients make advance payments via credit cards or online payment processors like PayPal, and Stripe. Send them the invoices instantly after receiving payments to close the deal.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Let your clients make advance payments via credit cards or online payment processors like PayPal, Stripe and Square. Send them the invoices instantly after receiving payments to close the deal.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Take Payments For Magic Events" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

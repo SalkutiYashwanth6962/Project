@@ -105,7 +105,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ADVANCE PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Cover operations cost with advance payments.</h4>
-				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Set up an online booking page and integrate your favorite payment gateways(PayPal/Stripe). Allow customers to book your catering service and pay for it in advance. Ensure that you get paid for your catering services and that customers are happy with the booking process.</p>
+				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Set up an online booking page and integrate your favorite payment gateways(PayPal/Stripe/Square). Allow customers to book your catering service and pay for it in advance. Ensure that you get paid for your catering services and that customers are happy with the booking process.</p>
 			</div>
 			<div class="col-md-6">
   				<img alt="get paid for your catering services online" src="/webassets/2021/img/business/medical-advance-payment.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

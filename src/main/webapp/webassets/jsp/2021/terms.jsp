@@ -261,7 +261,7 @@
 					<h3>PAYMENT</h3>
 					<p style="text-decoration: underline; font-style: italic; font-size: 18px;">Charges</p>
 					<ul>
-						<li>Registration on the Platform is free of cost with limited features However, in case of purchase of service, the Customer shall pay an amount for the subscription to the services availed through the Platform directly to the Company in any of the prescribed modes of Payment Methods powered by different Payment gateways(Stripe and PayPal)
+						<li>Registration on the Platform is free of cost with limited features However, in case of purchase of service, the Customer shall pay an amount for the subscription to the services availed through the Platform directly to the Company in any of the prescribed modes of Payment Methods powered by different Payment gateways(Stripe, Square and PayPal)
 						</li>
 					</ul>
 					<ol type="i">
@@ -269,7 +269,7 @@
 						<li>Credit Cards</li>
 					</ol>
 					<ul>
-						<li>The payment is processed through a third-party gateway and the User shall be bound by the third party’s terms and conditions. Currently the payment gateway through which payments are processed on the Platform are Stripe or Paypal, but the same may be changed at any point of time at the sole discretion of the Platform. Any change in information with regard to the third-party payment gateway will be updated on the Platform by the Company.  
+						<li>The payment is processed through a third-party gateway and the User shall be bound by the third party’s terms and conditions. Currently the payment gateway through which payments are processed on the Platform are Stripe, Square or PayPal, but the same may be changed at any point of time at the sole discretion of the Platform. Any change in information with regard to the third-party payment gateway will be updated on the Platform by the Company.  
 						</li>
 						<li> The Users can seek a refund only in accordance with the terms of Refund and Cancellation Policy.  
 						</li>

@@ -93,7 +93,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">BILLING AND PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Receive online payments & send automated invoices</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Empower your customers with online payment options through PayPal, and Stripe. Automatically generate invoices and email them to customers.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Empower your customers with online payment options through PayPal, Stripe and Square. Automatically generate invoices and email them to customers.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Take Advance Payments Via Online" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

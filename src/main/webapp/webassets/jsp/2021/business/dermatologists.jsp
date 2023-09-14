@@ -93,7 +93,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">BILLING AND PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Accept online payments via PayPal/Stripe/Square</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Link your Picktime account with any of these payment gateway you use, namely, PayPal, and Stripe to accept advanced online payments from your patients. Then quickly send them auto-generated invoices.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Link your Picktime account with any of these payment gateway you use, namely, PayPal, Stripe and Square to accept advanced online payments from your patients. Then quickly send them auto-generated invoices.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Collect payments online" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

@@ -78,7 +78,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ADVANCE PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Accept online payments to avoid delayed payments</h4>
-				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Give your customers the opportunity to make advanced online payments using credit cards, and PayPal. It will ensure your business does not suffer due to late payments.</p>
+				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Give your customers the opportunity to make advanced online payments using credit cards, and PayPal Stripe or Square. It will ensure your business does not suffer due to late payments.</p>
 			</div>
 			<div class="col-md-6">
        			<img alt="Take Online Payments From Customers" src="/webassets/2021/img/business/medical-advance-payment.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

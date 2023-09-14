@@ -235,7 +235,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 				<div class="col-md-6">
 					<div class="p-s-x"><h2>PAYMENTS AND INVOICING</h2></div>
 					<div class="p-b-x"><h3>Accept Payments &amp; Deposits</h3></div>
-					<p class="p-p-x">Easily process your payments online in a secure manner. Choose to either take deposits or full payments in advance. Select from Payment Processors like PayPal, Stripe and Square (coming soon). Generate Invoices easily. See a decline in no-shows. Watch your revenue grow.</p>
+					<p class="p-p-x">Easily process your payments online in a secure manner. Choose to either take deposits or full payments in advance. Select from Payment Processors like PayPal, Stripe and Square. Generate Invoices easily. See a decline in no-shows. Watch your revenue grow.</p>
 				</div>
 			</div>
 		</div>

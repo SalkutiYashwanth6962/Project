@@ -93,7 +93,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ADVANCE PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Hassle-free Online Payments</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Link your Online Booking Page with credit/debit card gateways or payment processors like PayPal, or Stripe to initiate safe online payments from clients as they book an appointment.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Link your Online Booking Page with credit/debit card gateways or payment processors like PayPal, Stripe or Square to initiate safe online payments from clients as they book an appointment.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="take copay or advance payments" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

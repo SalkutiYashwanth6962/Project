@@ -63,7 +63,7 @@
 			    <div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 	      			<div class="i-img"> <img alt="Accept part and full payments" src="/webassets/2021/img/icons/features/Take-payments_icon.svg"> </div>
 		       		<h3>Payments</h3>
-		       		<p>Integrate your PayPal or Stripe business account to instantly accept payments for your class bookings. Accept part or full payments and print the invoice.</p>
+		       		<p>Integrate your PayPal, Stripe or Square business account to instantly accept payments for your class bookings. Accept part or full payments and print the invoice.</p>
 		       	</div>
 			</div>
 			<div class="col-md-12" style="margin-top:50px;">

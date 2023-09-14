@@ -61,7 +61,7 @@
 				<div class="col-md-4 integration-sections">
 					<div class="pic"><img alt="Square-integration" src="/webassets/2021/img/apps/2-2Square.png"></div>
 					<div class="headings"><h3>Square</h3></div>
-					<p>Raise Invoices and get paid from anywhere (Coming soon).</p>
+					<p>Raise Invoices and get paid from anywhere.</p>
 				</div>
 			</div>
 			<h2>Video Meetings</h2>

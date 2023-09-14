@@ -94,7 +94,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Enable clients to pay online in advance</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Accept online payments from clients through credit cards, PayPal, and Stripe while they are booking appointments to avoid delayed cash payments.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Accept online payments from clients through credit cards, PayPal, Square and Stripe while they are booking appointments to avoid delayed cash payments.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Collect payments online" src="/webassets/2021/img/business/spa-payments.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

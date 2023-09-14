@@ -93,7 +93,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ADVANCE PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Receive online fees payments in advance</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Avoid delayed fee payment. Let your students pay fees in advance through online payment processors such as PayPal, and Stripe.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Avoid delayed fee payment. Let your students pay fees in advance through online payment processors such as PayPal, Stripe and Square.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Take Payments For Gymnastic Class Bookings" src="/webassets/2021/img/business/photographer-Payments-Invoices.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

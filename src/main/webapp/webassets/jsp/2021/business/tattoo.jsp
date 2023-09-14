@@ -106,7 +106,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Accept part or full payments online</h4>
-				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Take advantage of technology and streamline your payment process. Integrate with PayPal or Stripe business account with ease. Get paid instantly and skyrocket your revenue.</p>
+				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Take advantage of technology and streamline your payment process. Integrate with PayPal, Stripe or Square business account with ease. Get paid instantly and skyrocket your revenue.</p>
 			</div>
 			<div class="col-md-6">
   				<img alt="accept payments online for tattoo service bookings" src="/webassets/2021/img/business/medical-advance-payment.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

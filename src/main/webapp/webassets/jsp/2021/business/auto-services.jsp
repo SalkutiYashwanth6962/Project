@@ -95,7 +95,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ADVANCE PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Accept secure online payments in advance</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Allow your customers to make advanced online payments for all auto services with credit cards, PayPal, and Stripe to escape problems of long billing queues and delayed on-site payments.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Allow your customers to make advanced online payments for all auto services with credit cards, PayPal, Square and Stripe to escape problems of long billing queues and delayed on-site payments.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Collect Online Payments For Auto Maintenance" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

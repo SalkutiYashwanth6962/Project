@@ -93,7 +93,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS AND INVOICING</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Accept online payments with instant invoicing</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Let clients pay you online through PayPal, and Stripe in advance and also generate invoices to complete the checkout process.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Let clients pay you online through PayPal, Stripe and Square in advance and also generate invoices to complete the checkout process.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Accept Online Payments From Clients" src="/webassets/2021/img/business/spa-payments.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

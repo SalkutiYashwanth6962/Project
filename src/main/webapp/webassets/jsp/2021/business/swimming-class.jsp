@@ -56,7 +56,7 @@
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 		       		<div class="i-img"> <img alt="accept advance payments for swimming classes" src="/webassets/2021/img/icons/features/Take-payments_icon.svg"> </div>
 			       	<h3>Advance Payments</h3>
-			       	<p>Integrate PayPal or Stripe business accounts for receiving payments in advance for swimming class bookings. You will not have to worry about last-minute cancellations.</p>
+			       	<p>Integrate PayPal, Stripe or Square business accounts for receiving payments in advance for swimming class bookings. You will not have to worry about last-minute cancellations.</p>
 			     </div> 	
 			</div>
 			<div class="col-md-4 col-lg-4">

@@ -105,7 +105,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ONLINE PAYMENT</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Avoid no-shows and Receive advance payments with ease</h4>
-				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Integrate payment systems like Paypal or Stripe to prevent late payments by allowing consumers to make online payments in advance and issue computer-generated invoices.</p>
+				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Integrate payment systems like PayPal, Stripe or Square to prevent late payments by allowing consumers to make online payments in advance and issue computer-generated invoices.</p>
 			</div>
 			<div class="col-md-6">
   				<img alt="Integrate payment systems" src="/webassets/2021/img/business/medical-advance-payment.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

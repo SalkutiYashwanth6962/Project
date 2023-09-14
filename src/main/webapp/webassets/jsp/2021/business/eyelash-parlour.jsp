@@ -93,7 +93,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ADVANCE PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Accept hassle-free online payments</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Avoid counting cash at the counter! Receive the entire payment in advance from your customers through online payment gateways like PayPal, Stripe, or credit cards.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Avoid counting cash at the counter! Receive the entire payment in advance from your customers through online payment gateways like PayPal, Stripe, Square or credit cards.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Eyelash Extension Booking Payments" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

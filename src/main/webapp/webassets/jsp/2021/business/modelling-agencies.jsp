@@ -93,7 +93,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS AND INVOICING</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Allow advanced payments with quick invoicing</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Integrate your Picktime account with PayPal, and Stripe to accept bookings from clients with advanced online payments. Instantly generate invoices and email it to clients.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Integrate your Picktime account with PayPal, Stripe and Square to accept bookings from clients with advanced online payments. Instantly generate invoices and email it to clients.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Accept Payments From Clients" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

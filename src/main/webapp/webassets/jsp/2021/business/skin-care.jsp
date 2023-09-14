@@ -105,10 +105,10 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">INVOICING AND PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Accept partial or complete payment upon booking</h4>
-				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Integrate PayPal or Stripe to accept payments for the bookings. Picktime allows businesses to take part or full payments while booking. That saves clinicians time and money and makes booking appointments easier for patients.</p>
+				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Integrate PayPal, Stripe or Square to accept payments for the bookings. Picktime allows businesses to take part or full payments while booking. That saves clinicians time and money and makes booking appointments easier for patients.</p>
 			</div>
 			<div class="col-md-6">
-  				<img alt="accept payments in PayPal or Stripe" src="/webassets/2021/img/business/medical-advance-payment.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+  				<img alt="accept payments in PayPal or Stripe or Square" src="/webassets/2021/img/business/medical-advance-payment.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
     		</div>
 		</div>
 	</div>

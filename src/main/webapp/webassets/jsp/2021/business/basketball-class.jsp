@@ -65,7 +65,7 @@
 				<div class="colums aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 		       		<div class="i-img"> <img alt="Collect fees online" src="/webassets/2021/img/icons/features/Take-payments_icon.svg"> </div>
 			       	<h3>Advance payments</h3>
-			       	<p>Avoid delayed payments by Integrating your business accounts with PayPal or Stripe to accept payments in advance for basketball class bookings.</p>
+			       	<p>Avoid delayed payments by Integrating your business accounts with PayPal, Stripe or Square to accept payments in advance for basketball class bookings.</p>
 			     </div> 	
 			</div>
 			<div class="col-md-12" style="margin-top:50px;">

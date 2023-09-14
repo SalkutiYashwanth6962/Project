@@ -93,7 +93,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS AND INVOICING</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Accept partial or complete payment in advance </h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Easily integrate your PayPal or Stripe business account to accept payments from the customers. Print and issue invoices after receiving payments from customers.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Easily integrate your PayPal, Stripe or Square business account to accept payments from the customers. Print and issue invoices after receiving payments from customers.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Accept full and part payments" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

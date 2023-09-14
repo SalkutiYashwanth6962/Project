@@ -95,7 +95,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Allow hassle-free advanced online payments</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Accept advanced online payments from students through credit card, or integrate with payment gateway like PayPal, and Stripe to ensure instant fees payment.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Accept advanced online payments from students through credit card, or integrate with payment gateway like PayPal, Stripe and Square to ensure instant fees payment.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Take Payments Online For dance classes" src="/webassets/2021/img/business/spa-payments.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
