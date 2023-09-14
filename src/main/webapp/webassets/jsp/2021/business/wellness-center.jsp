@@ -93,7 +93,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ONLINE PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Integrate online gateways for swift payments</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Get prompt payment by integrating online gateways such as Paypal/Stripe to reduce delayed payment and get detailed automated invoices.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Get prompt payment by integrating online gateways such as PayPal/Stripe/Square to reduce delayed payment and get detailed automated invoices.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Integrate online payment gateway" src="/webassets/2021/img/business/medical-advance-payment.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

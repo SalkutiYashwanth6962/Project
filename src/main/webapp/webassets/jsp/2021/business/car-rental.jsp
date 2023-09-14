@@ -105,7 +105,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ADVANCE PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Escape from long billing lines and slow on-site payments</h4>
-				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Allow customers to pay in advance by integrating Paypal or Stripe. Embed the book now button on the website, Facebook, and Instagram business accounts for instant bookings to reduce delayed direct bookings.</p>
+				<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Allow customers to pay in advance by integrating PayPal, Stripe or Square. Embed the book now button on the website, Facebook, and Instagram business accounts for instant bookings to reduce delayed direct bookings.</p>
 			</div>
 			<div class="col-md-6">
   				<img alt="Advance car rental payment" src="/webassets/2021/img/business/spa-payments.svg" class="mr-t aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

@@ -93,7 +93,7 @@
 			<div class="col-md-6 text-container">
 				<h3 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">ADVANCE PAYMENTS</h3>
 				<h4 class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">Receive online payments from patients</h4>
-            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Let your patients pay you in advance using online payment gateways such as PayPal, Stripe, or through credit cards. Instantly raise and send invoices to patients after the booking.</p>
+            	<p class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">Let your patients pay you in advance using online payment gateways such as PayPal, Stripe, Square or through credit cards. Instantly raise and send invoices to patients after the booking.</p>
 			</div>
 			<div class="col-md-6 hidden-md hidden-lg" style="margin-top: 50px;">
 	   			<img alt="Take Online payments from patients" src="/webassets/2021/img/business/spa-payments.svg" class="aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">

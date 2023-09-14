@@ -4475,11 +4475,11 @@ div#industries > div > div a:focus{
 }
 .pricing-sec ul{
     padding-left: 25px;
-    margin-bottom: 40px;
+    margin-bottom: 75px;
     height: 500px;
 }
 ul.free {
-  	margin-bottom: 170px;
+  	margin-bottom: 200px;
   	margin-top: 68px;
 }
 .pricing-sec ul li{
@@ -4494,9 +4494,9 @@ ul.free {
 		margin-bottom: -10px;
 	}
 	ul.free {
-	  	margin-bottom: 190px;
+	  	margin-bottom: 220px;
 	  	margin-top: 72px;
- 	}
+	 }
 } 
 .pricing-sec ul li:before{
 	content: ' ';
