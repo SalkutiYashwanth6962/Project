@@ -63,7 +63,7 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 					</div>
 					<div class="capterra hidden-sm hidden-xs">
 							<div class="col-sm-6">
-								<img alt="Picktime-Capterrra-shortlist" src="/webassets/2021/img/Rating-img/picktime-capterra-2023.png">
+								<img src="/webassets/2021/img/Rating-img/picktime-capterra-2023.png" alt="Picktime-Capterrra-shortlist" >
 							</div>
 							<div class="col-sm-6">
 								<div class="capterra-title">Emerging Favorite</div>
@@ -73,10 +73,48 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 				</div>
 			</div>
 		</div>
+		 <div class="snowflakes">
+            <div class="snowflake">
+            ❅
+            </div>
+            <div class="snowflake">
+            ❆
+            </div>
+            <div class="snowflake">
+            ❅
+            </div>
+            <div class="snowflake">
+            ❆
+            </div>
+            <div class="snowflake">
+            ❅
+            </div>
+            <div class="snowflake">
+            ❆
+            </div>
+            <div class="snowflake">
+              ❅
+            </div>
+            <div class="snowflake">
+              ❆
+            </div>
+            <div class="snowflake">
+              ❅
+            </div>
+            <div class="snowflake">
+              ❆
+            </div>
+            <div class="snowflake">
+              ❅
+            </div>
+            <div class="snowflake">
+              ❆
+            </div>
+        </div>
 	</section>
 	<div class="container">
 		<div class="hero2023">
-			<img src="\webassets\2021\img\new-hero-2023.svg" class="img-banner"  alt="Picktime-free-online-appointment-scheduling-app">
+			<img src="/webassets/2021/img/new-hero-2023.svg" alt="Picktime-free-online-appointment-scheduling-app" class="img-banner">
 		</div>
 	</div>
     <!-- -----what is picktime------------>
@@ -319,19 +357,19 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 				<div class="f-b-m"><h2>Rated the best</h2></div>
 				<div class="alignRow">
 					<div class="imageColumn">
-						<img src="/webassets/2021/img/Rating-img/picktime-crozdesk-Leader2023.png" alt="picktime-crozdesk-Leader" title="picktime-crozdesk-Leader" style="width:90%">
+						<img src="/webassets/2021/img/Rating-img/picktime-crozdesk-Leader2023.png" alt="picktime-crozdesk-Leader" title="picktime-crozdesk-Leader" style="width:100%">
 					</div>
 					<div class="imageColumn">
-						<img src="/webassets/2021/img/Rating-img/picktime-capterra.png" alt="picktime-capterra-top-rated" title="picktime-capterra" style="width:110%" class="g2-c">
+						<img src="/webassets/2021/img/Rating-img/picktime-capterra.png" alt="picktime-capterra-top-rated" title="picktime-capterra" style="width:100%" class="g2-c">
 					</div>
 					<div class="imageColumn">
-						<img src="/webassets/2021/img/Rating-img/picktime-crozdesk-trusted-vendor2023.png" alt="picktime-crozdesk-trusted-vendor" title="picktime-crozdesk-trusted-vendor"style="width:90%">
+						<img src="/webassets/2021/img/Rating-img/picktime-crozdesk-trusted-vendor2023.png" alt="picktime-crozdesk-trusted-vendor" title="picktime-crozdesk-trusted-vendor" style="width:100%">
 					</div>
 					<div class="imageColumn">
-						<img src="/webassets/2021/img/Rating-img/picktime-G2.png" alt="picktime-G2" title=" picktime-G2-top-rated" style="width:110%" class="g2-c">
+						<img src="/webassets/2021/img/Rating-img/picktime-G2.png" alt="picktime-G2" title=" picktime-G2-top-rated" style="width:100%" class="g2-c">
 					</div>
 					<div class="imageColumn">
-						<img src="/webassets/2021/img/Rating-img/picktime-crozdesk-happiest-users2023.png" alt="picktime-crozdesk-happiest-users" title="picktime-crozdesk-happiest-users" style="width:90%">
+						<img src="/webassets/2021/img/Rating-img/picktime-crozdesk-happiest-users2023.png" alt="picktime-crozdesk-happiest-users" title="picktime-crozdesk-happiest-users" style="width:100%">
 					</div>
 				</div>
 			</div>
