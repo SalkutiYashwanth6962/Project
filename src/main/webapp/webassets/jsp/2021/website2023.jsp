@@ -73,44 +73,6 @@ _| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 				</div>
 			</div>
 		</div>
-		 <div class="snowflakes">
-            <div class="snowflake">
-            ❅
-            </div>
-            <div class="snowflake">
-            ❆
-            </div>
-            <div class="snowflake">
-            ❅
-            </div>
-            <div class="snowflake">
-            ❆
-            </div>
-            <div class="snowflake">
-            ❅
-            </div>
-            <div class="snowflake">
-            ❆
-            </div>
-            <div class="snowflake">
-              ❅
-            </div>
-            <div class="snowflake">
-              ❆
-            </div>
-            <div class="snowflake">
-              ❅
-            </div>
-            <div class="snowflake">
-              ❆
-            </div>
-            <div class="snowflake">
-              ❅
-            </div>
-            <div class="snowflake">
-              ❆
-            </div>
-        </div>
 	</section>
 	<div class="container">
 		<div class="hero2023">
