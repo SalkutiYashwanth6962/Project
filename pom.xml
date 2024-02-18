@@ -9,20 +9,20 @@
   <artifactId>picktime-website</artifactId>
 
   <properties>
-		<appengine.maven.plugin.version>2.4.0</appengine.maven.plugin.version>
-		<appengine.api.sdk.version>1.9.91</appengine.api.sdk.version>
+	    <appengine.maven.plugin.version>2.4.4</appengine.maven.plugin.version>
+	    <appengine.api.sdk.version>2.0.4</appengine.api.sdk.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<maven.compiler.source>1.8</maven.compiler.source>
-		<maven.compiler.target>1.8</maven.compiler.target>
+		<maven.compiler.source>11</maven.compiler.source>
+		<maven.compiler.target>11</maven.compiler.target>
 		<maven.compiler.showDeprecation>true</maven.compiler.showDeprecation>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
 				<groupId>com.google.cloud</groupId>
-				<artifactId>google-cloud-bom</artifactId>
-				<version>0.60.0-alpha</version>
+				<artifactId>libraries-bom</artifactId>
+				<version>26.9.0</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
@@ -127,10 +127,20 @@
 				<groupId>com.google.cloud.tools</groupId>
 				<artifactId>appengine-maven-plugin</artifactId>
 				<version>${appengine.maven.plugin.version}</version>
-			</plugin>
-			<plugin> 
-			      <artifactId>maven-war-plugin</artifactId>
-			      <version>3.2.2</version>
+				<configuration>
+					<projectId>picktime-staging</projectId>
+					<version>java11</version>
+					<promote>false</promote>
+					<gcloudMode>beta</gcloudMode>
+					<devserver.port>8888</devserver.port>
+					<jvmFlags>
+						<jvmFlag>-Xdebug</jvmFlag>
+						<jvmFlag>
+							-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=5005</jvmFlag>
+						<jvmFlag>-Ddatastore.backing_store=${project.basedir}/database.bin</jvmFlag>
+					</jvmFlags>
+					<cloudSdkVersion>449.0.0</cloudSdkVersion>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
