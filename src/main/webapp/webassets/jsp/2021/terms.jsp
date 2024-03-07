@@ -135,7 +135,7 @@
 					<p>Although the entire contractual relationship relating to these Products is entered into solely by the Owner and Users, Users acknowledge and agree that, where www.picktime.com has been provided to them via the Any Web Browser/Apple App Store/ Google Play Store/ Microsoft Store, Respective Store provider may enforce these Terms as a third-party beneficiary.</p>
 					<p>Nothing in these Terms creates any relationship of employment, agency, or partnership between the involved parties.</p>
 					<h3>GENERAL</h3>
-					<p><b>PICKTIME INC, </b>A Texas incorporated Company having its office at 8121 Bee Caves Road, #200, Austin, Texas-78746,United States of America, hereinafter referred to as the <b>“Company”</b> (where such expression shall unless repugnant to the context thereof, be deemed to include its representatives, administrators, permitted successors and assigns.) The creator of this Terms of Service ensures steady commitment to your privacy with regard to the protection of your invaluable information. </p>
+					<p><b>PICKTIME INC, </b>A Texas incorporated Company having its office at 115 Wild Basin Rd South, Austin, Texas, 78746,United States of America, hereinafter referred to as the <b>“Company”</b> (where such expression shall unless repugnant to the context thereof, be deemed to include its representatives, administrators, permitted successors and assigns.) The creator of this Terms of Service ensures steady commitment to your privacy with regard to the protection of your invaluable information. </p>
 					<p>This document contains information about the Website www.picktime.com  refers to:
 					</p>
 					<ul>

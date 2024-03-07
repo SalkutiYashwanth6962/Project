@@ -151,6 +151,7 @@
 							<h4 class="pricing-text2" style="margin-top: 60px;">$ 0.00</h4>
 						</div>
 						<div class="card-bold-text"></div>
+						<div class="card-bold-text free-mt">Included in Free:</div>
 						<ul class="free">
 							<li>3 Resources</li>
 							<li>2 Locations</li>
@@ -162,6 +163,7 @@
 							<li>Online Booking Page</li>
 							<li>Payments with PayPal</li>
 							<li>Over 8+ powerful integrations</li>
+							<li>iOS and Android mobile apps</li>
 						</ul>
 					</div> 
 				</div>
@@ -186,7 +188,7 @@
 							</div>
 							<div class="billed-annually">Billed annually</div>
 						</div>
-						<div class="card-bold-text">Everything you get with Starter</div>
+						<div class="card-bold-text">Everything you get with Free, PLUS:</div>
 						<ul class="starter">
 							<li>3 Resources</li>
 							<li>2 Locations</li>
@@ -245,7 +247,7 @@
 							</div>
 							<div class="billed-annually billed-annually-pro">Billed annually</div>
 						</div>
-						<div class="card-bold-text">Everything you get with Starter</div>
+						<div class="card-bold-text">Everything you get with Starter, PLUS:</div>
 						<ul class="pro">
 							<li><span class="countbyplan" style=" color: #631ab8; font-weight: 600;">10</span> Resources <span class="pro-users pro-resources"><span class="user-tooltip">For more Team Members & Resources <u style="font-weight: 500;">Contact Our Support</u></span></span></li>
 							<li>Unlimited Locations</li>

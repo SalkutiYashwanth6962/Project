@@ -4478,9 +4478,11 @@ div#industries > div > div a:focus{
     margin-bottom: 75px;
     height: 500px;
 }
+.free-mt{
+	margin-top: 67px !important;
+}
 ul.free {
-  	margin-bottom: 200px;
-  	margin-top: 68px;
+  	margin-bottom: 165px;
 }
 .pricing-sec ul li{
 	margin-bottom: 18px;
@@ -4494,8 +4496,8 @@ ul.free {
 		margin-bottom: -10px;
 	}
 	ul.free {
-	  	margin-bottom: 220px;
-	  	margin-top: 72px;
+	  	margin-bottom: 175px;
+	  	margin-top: 30px;
 	 }
 } 
 .pricing-sec ul li:before{

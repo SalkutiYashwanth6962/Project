@@ -592,7 +592,7 @@
 							</div>
 							<div class="media-body">
 								<h4>Owner and Data Controller</h4>
-								<p>Picktime, Inc. - 8121 Bee Cave Rd, Austin, TX 78746, USA<br>
+								<p>Picktime, Inc. - 115 Wild Basin Rd South, Austin, Texas, 78746, USA<br>
 								<strong>Owner contact email: legal@picktime.com</strong></p>
 							</div>
 						</div>
