@@ -66,8 +66,6 @@
 	<link rel="stylesheet" type="text/css" href="/webassets/css/website-new.css?_=<%=cache%>">
 </head>
 <body>
-	<jsp:include page="scheduling-software/website-new-navbar.jsp" />
-	
 	<div class="main-container gradient-container" style="padding-top: 70px;">
 		<div class="container-fluid main-container-img">
 			<div class="col-md-6">
@@ -387,7 +385,7 @@
 		</div>
 	</div>
 	
-	<jsp:include page="scheduling-software/website-new-footer.jsp" />
+
 		
 	<script type="text/javascript" src="/webassets/js/jquery.min.js?_=<%=cache%>"></script>
 	<script type="text/javascript" src="/webassets/js/bootstrap.min.js?_=<%=cache%>"></script>
