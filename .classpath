@@ -37,5 +37,6 @@
 			<attribute name="optional" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/seven/Downloads/JPEGOptimizer.jar"/>
 	<classpathentry kind="output" path="target/picktime-website-1.0-SNAPSHOT/WEB-INF/classes"/>
 </classpath>

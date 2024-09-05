@@ -87,8 +87,8 @@ public class BypassFilter implements Filter {
 		} 
 		catch (Exception ex) 
 		{
-//			request.setAttribute("errorMessage", ex);
-//			request.getRequestDispatcher("/jsp/500.jsp").forward(request, response);
+			request.setAttribute("errorMessage", ex);
+     		request.getRequestDispatcher("/jsp/500.jsp").forward(request, response);
 		}
 
 	}

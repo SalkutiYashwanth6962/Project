@@ -19,6 +19,7 @@
 		<maven.compiler.target>11</maven.compiler.target>
 		<maven.compiler.showDeprecation>true</maven.compiler.showDeprecation>
 		<springsecurity.version>5.6.6</springsecurity.version>
+		 <jpegoptimizer.path>C:/Users/seven/Downloads/JPEGOptimizer.jar</jpegoptimizer.path>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
@@ -26,7 +27,7 @@
 			<dependency>
 				<groupId>com.google.cloud</groupId>
 				<artifactId>libraries-bom</artifactId>
-				<version>26.9.0</version>
+				<version>26.43.0</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
@@ -107,6 +108,97 @@
 			<version>4.12</version>
 			<scope>test</scope>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.lowagie/itext to generate the pdf -->
+<dependency>
+    <groupId>com.lowagie</groupId>
+    <artifactId>itext</artifactId>
+    <version>2.1.7</version>
+</dependency>
+<!--
+    Apache POI for working with Word documents 
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml</artifactId>
+        <version>5.0.0</version>
+    </dependency>
+     https://mvnrepository.com/artifact/org.docx4j/docx4j-core 
+<dependency>
+    <groupId>org.docx4j</groupId>
+    <artifactId>docx4j-core</artifactId>
+    <version>8.1.2</version>
+</dependency>
+<dependency>
+    <groupId>org.jodconverter</groupId>
+    <artifactId>jodconverter-core</artifactId>
+    <version>4.2.2</version>
+</dependency>
+<dependency>
+    <groupId>org.jodconverter</groupId>
+    <artifactId>jodconverter-local</artifactId>
+    <version>4.2.2</version>
+</dependency>-->
+
+
+    <dependency>
+			<groupId>com.google.appengine.tools</groupId>
+			<artifactId>appengine-gcs-client</artifactId>
+			<version>0.6</version>
+			<exclusions>
+				<exclusion>
+					<groupId>com.google.http-client</groupId>
+					<artifactId>*</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+    
+    <!-- JSTL for JSP -->
+    <dependency>
+        <groupId>javax.servlet</groupId>
+        <artifactId>jstl</artifactId>
+        <version>1.2</version>
+    </dependency>
+    
+    <!-- Apache Tomcat JSP -->
+  <!--  <dependency>
+        <groupId>org.apache.tomcat.embed</groupId>
+        <artifactId>tomcat-embed-jasper</artifactId>
+        <version>9.0.46</version>
+    </dependency>-->
+    
+    
+    
+<!--
+		https://mvnrepository.com/artifact/commons-fileupload/commons-fileupload -->
+		<dependency>
+			<groupId>commons-fileupload</groupId>
+			<artifactId>commons-fileupload</artifactId>
+			<version>1.3.1</version>
+		</dependency>
+       <dependency>
+			<groupId>commons-collections</groupId>
+			<artifactId>commons-collections</artifactId>
+			<version>3.2.2</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.11.0</version>
+		</dependency>
+	<dependency>
+    <groupId>ch.qos.logback</groupId>
+    <artifactId>logback-classic</artifactId>
+    <version>1.2.3</version>
+    </dependency>
+    <dependency>
+    <groupId>org.apache.xmlbeans</groupId>
+    <artifactId>xmlbeans</artifactId>
+    <version>5.1.1</version>
+</dependency>
+
+
+
 		<!-- Test Dependencies -->
 		<!--spring security related-->
 		<!--
@@ -141,6 +233,55 @@
 				<version>6.1.7</version>
 			</dependency>
        -->
+           <!-- Apache POI for working with Word documents -->
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml</artifactId>
+        <version>5.2.3</version>
+    </dependency>
+    
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml-schemas</artifactId>
+        <version>4.1.2</version>
+    </dependency>
+    <dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+			<version>2.15.0</version> <!-- Use the latest stable version -->
+		</dependency>
+
+
+      <!-- Apache POI for working with Word documents -->
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml</artifactId>
+        <version>5.2.3</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml-schemas</artifactId>
+        <version>4.1.2</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi</artifactId>
+        <version>5.2.3</version>
+    </dependency>
+    
+    <!-- Apache PDFBox for rendering PDFs as images -->
+    <dependency>
+        <groupId>org.apache.pdfbox</groupId>
+        <artifactId>pdfbox</artifactId>
+        <version>2.0.29</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.pdfbox</groupId>
+        <artifactId>pdfbox-tools</artifactId>
+        <version>2.0.29</version>
+    </dependency>
+
+   
 
 			<!--
 			https://mvnrepository.com/artifact/org.springframework.security/spring-security-web -->
@@ -167,8 +308,218 @@
 			<artifactId>jquery</artifactId>
 			<version>3.7.1</version>
 		</dependency>
+		 <!-- Apache POI for Excel handling -->
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi</artifactId>
+        <version>5.2.2</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml</artifactId>
+        <version>5.2.3</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml-schemas</artifactId>
+        <version>4.1.2</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.xmlbeans</groupId>
+        <artifactId>xmlbeans</artifactId>
+        <version>5.1.1</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-collections4</artifactId>
+        <version>4.4</version>
+    </dependency>
+    <!-- for base 64 encoding-->
+    <dependency>
+    <groupId>commons-codec</groupId>
+    <artifactId>commons-codec</artifactId>
+    <version>1.15</version> <!-- Check for the latest version -->
+</dependency>
 
+    
+    <!-- Apache POI for Excel handling -->
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi</artifactId>
+        <version>5.2.2</version>
+    </dependency>
+
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml</artifactId>
+        <version>5.2.2</version>
+    </dependency>
+
+    <!-- iText for PDF generation -->
+   <!-- https://mvnrepository.com/artifact/com.itextpdf/itext7-core -->
+<dependency>
+    <groupId>com.itextpdf</groupId>
+    <artifactId>itext7-core</artifactId>
+    <version>7.2.2</version>
+    <type>pom</type>
+</dependency>
+<!--<dependency>
+    <groupId>org.apache.pdfbox</groupId>
+    <artifactId>pdfbox</artifactId>
+    <version>2.0.27</version>
+</dependency>
+-->
+    <dependency>
+    <groupId>org.apache.logging.log4j</groupId>
+    <artifactId>log4j-api</artifactId>
+    <version>2.17.0</version>
+</dependency>
+<dependency>
+    <groupId>org.apache.logging.log4j</groupId>
+    <artifactId>log4j-core</artifactId>
+    <version>2.17.0</version>
+</dependency>
+
+
+
+    <!-- SLF4J for logging -->
+    <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-api</artifactId>
+        <version>1.7.32</version>
+    </dependency>
+   <!-- <dependency>
+        <groupId>ch.qos.logback</groupId>
+        <artifactId>logback-classic</artifactId>
+        <version>1.2.6</version>
+    </dependency>-->
+     <!-- Apache POI for working with Word documents -->
+  <!--  <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml</artifactId>
+        <version>5.2.3</version>
+    </dependency>-->
+    <!-- Apache PDFBox for rendering PDFs as images -->
+    <dependency>
+        <groupId>org.apache.pdfbox</groupId>
+        <artifactId>pdfbox</artifactId>
+        <version>2.0.29</version>
+    </dependency>
+    <!-- Apache PDFBox tools for additional PDF manipulation -->
+    <!--docx4j-->
+  <dependency>
+			<groupId>org.docx4j</groupId>
+			<artifactId>docx4j-core</artifactId>
+			<version>11.4.10</version>
+			
+		</dependency>
+    <dependency>
+        <groupId>org.docx4j</groupId>
+        <artifactId>docx4j-export-fo</artifactId>
+        <version>11.4.10</version>
+    </dependency>
+    <dependency>
+			<groupId>org.docx4j</groupId>
+			<artifactId>docx4j-JAXB-ReferenceImpl</artifactId>
+			<version>11.4.10</version>
+		</dependency>
+	
+		 <!--To convert Word documents (DOCX) to PDF using
+    Apache FOP (Formatting Objects Processor) with docx4j-->
+
+
+         <dependency>
+        <groupId>org.apache.xmlgraphics</groupId>
+        <artifactId>fop</artifactId>
+        <version>2.7</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.xmlgraphics</groupId>
+        <artifactId>xmlgraphics-commons</artifactId>
+        <version>2.7</version>
+    </dependency>
+     <!-- https://mvnrepository.com/artifact/javax.xml.parsers/jaxp-api -->
+     <dependency>
+    <groupId>xml-apis</groupId>
+    <artifactId>xml-apis</artifactId>
+    <version>1.4.01</version>
+    </dependency>
+    <!--It is for word to pdf direct conversion-->
+    	<dependency>
+			<groupId>fr.opensagres.xdocreport</groupId>
+			<artifactId>fr.opensagres.poi.xwpf.converter.pdf</artifactId>
+			<version>2.0.4</version>
+		</dependency>
+    <dependency>
+        <groupId>org.apache.pdfbox</groupId>
+        <artifactId>pdfbox-tools</artifactId>
+        <version>2.0.29</version>
+    </dependency>
+<!--pngtastic for png compression-->
+     <dependency>
+    <groupId>com.github.depsypher</groupId>
+    <artifactId>pngtastic</artifactId>
+    <version>1.8</version>
+</dependency>
+<!--jodconvertor for word to pdf-->
+<dependency>
+    <groupId>org.jodconverter</groupId>
+    <artifactId>jodconverter-core</artifactId>
+    <version>4.3.0</version>
+</dependency>
+<dependency>
+    <groupId>org.jodconverter</groupId>
+    <artifactId>jodconverter-local</artifactId>
+    <version>4.3.0</version>
+</dependency>
+
+<!--jpegoptimizer for jpg compression-->
+   <!-- <dependency>
+            <groupId>com.thebuzzmedia</groupId>
+            <artifactId>jpegoptimizer</artifactId>
+            <version>1.0.0</version>
+            <scope>system</scope>
+            <systemPath>${jpegoptimizer.path}</systemPath>
+        </dependency>
+-->
+<!--google cloud storage-->
+<dependency>
+  <groupId>com.google.cloud</groupId>
+  <artifactId>google-cloud-storage</artifactId>
+  <version>2.41.0</version>
+</dependency>
+<dependency>
+  <groupId>com.google.cloud</groupId>
+  <artifactId>google-cloud-storage-control</artifactId>
+  <version>2.41.0</version><!-- {x-version-update:google-cloud-storage:current} -->
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/com.google.apis/google-api-services-storage -->
+<dependency>
+    <groupId>com.google.apis</groupId>
+    <artifactId>google-api-services-storage</artifactId>
+    <version>v1-rev171-1.25.0</version>
+</dependency>
+
+
+<!--<dependency>
+    <groupId>com.google.apis</groupId>
+    <artifactId>google-api-services-storage</artifactId>
+    <version>v1-rev20230810-1.33.0</version>
+</dependency>
+-->
+  
 	</dependencies>
+	
+	
+    
+
+   
+
+  
+
+
+	
 	<build>
 		<!-- for hot reload of the web application -->
 		<outputDirectory>
@@ -197,7 +548,7 @@
 					<version>java11testingwebsite</version>
 					<promote>false</promote>
 					<gcloudMode>beta</gcloudMode>
-					<devserver.port>8080</devserver.port>
+					<devserver.port>8090</devserver.port>
 					<jvmFlags>
 						<jvmFlag>-Xdebug</jvmFlag>
 						<jvmFlag>
