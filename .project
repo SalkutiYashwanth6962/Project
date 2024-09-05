@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>picktime-website4</name>
+=======
+	<name>picktime-website3</name>
+>>>>>>> 360b668 (first commit)
 	<comment></comment>
 	<projects>
 	</projects>
@@ -21,7 +25,8 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
-			<name>com.google.cloud.tools.eclipse.appengine.standard.java8.appengineWeb</name>
+			<name>
+				com.google.cloud.tools.eclipse.appengine.standard.java8.appengineWeb</name>
 			<arguments>
 			</arguments>
 		</buildCommand>

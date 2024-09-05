@@ -1,77 +1,90 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?crc0bn');
-  src:  url('fonts/icomoon.eot?crc0bn#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?crc0bn') format('truetype'),
-    url('fonts/icomoon.woff?crc0bn') format('woff'),
-    url('fonts/icomoon.svg?crc0bn#icomoon') format('svg');
-  font-weight: normal;
-  font-style: normal;
+	font-family: 'icomoon';
+	src: url('fonts/icomoon.eot?crc0bn');
+	src: url('fonts/icomoon.eot?crc0bn#iefix') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?crc0bn') format('truetype'),
+		url('fonts/icomoon.woff?crc0bn') format('woff'),
+		url('fonts/icomoon.svg?crc0bn#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
 }
 
-[class^="icon-"], [class*=" icon-"] {
-  /* use !important to prevent issues with browser extensions that change fonts */
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
+[class^="icon-"],
+[class*=" icon-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
 
-  /* Better Font Rendering =========== */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 .icon-arrived:before {
-  content: "\e900";
-  font-family: 'icomoon' !important;
+	content: "\e900";
+	font-family: 'icomoon' !important;
 }
+
 .icon-delay:before {
-  content: "\e901";
-  font-family: 'icomoon' !important;
+	content: "\e901";
+	font-family: 'icomoon' !important;
 }
+
 .icon-paid:before {
-  content: "\e902";
-  font-family: 'icomoon' !important;
+	content: "\e902";
+	font-family: 'icomoon' !important;
 }
+
 .icon-pending:before {
-  content: "\e903";
-  font-family: 'icomoon' !important;
+	content: "\e903";
+	font-family: 'icomoon' !important;
 }
+
 .icon-check-slim:before {
-  content: "\e904";
-  font-family: 'icomoon' !important;
+	content: "\e904";
+	font-family: 'icomoon' !important;
 }
+
 .icon-radio-circle:before {
-  content: "\e905";
-  font-family: 'icomoon' !important;
+	content: "\e905";
+	font-family: 'icomoon' !important;
 }
+
 .icon-class:before {
-  content: "\e906";
-  font-family: 'icomoon' !important;
+	content: "\e906";
+	font-family: 'icomoon' !important;
 }
+
 .icon-completed:before {
-  content: "\e907";
-  font-family: 'icomoon' !important;
+	content: "\e907";
+	font-family: 'icomoon' !important;
 }
+
 .icon-confirmed:before {
-  content: "\e908";
-  font-family: 'icomoon' !important;
+	content: "\e908";
+	font-family: 'icomoon' !important;
 }
+
 .icon-new:before {
-  content: "\e909";
-  font-family: 'icomoon' !important;
+	content: "\e909";
+	font-family: 'icomoon' !important;
 }
+
 .icon-noshow:before {
-  content: "\e90a";
-  font-family: 'icomoon' !important;
+	content: "\e90a";
+	font-family: 'icomoon' !important;
 }
+
 .icon-search:before {
-  content: "\e90b";
-  font-family: 'icomoon' !important;
+	content: "\e90b";
+	font-family: 'icomoon' !important;
 }
+
 .icon-start:before {
-  content: "\e90c";
-  font-family: 'icomoon' !important;
+	content: "\e90c";
+	font-family: 'icomoon' !important;
 }

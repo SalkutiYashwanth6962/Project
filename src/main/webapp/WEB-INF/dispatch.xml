@@ -2,84 +2,84 @@
 <dispatch-entries>
 
 	<!-- Live Test Environment  -->
-<!-- 	<dispatch> -->
-<!-- 	    <url>*beta3.picktime.com/*</url> -->
-<!-- 	    <module>beta3</module> -->
-<!-- 	</dispatch> -->
+	<!-- 	<dispatch> -->
+	<!-- 	    <url>*beta3.picktime.com/*</url> -->
+	<!-- 	    <module>beta3</module> -->
+	<!-- 	</dispatch> -->
 	<!-- Live Test Environment  -->
-	
+
 	<!-- Realtime connections -->
-<!-- 	<dispatch> -->
-<!-- 	    <url>*io.picktime.com/*</url> -->
-<!-- 	    <module>realtime</module> -->
-<!-- 	</dispatch> -->
+	<!-- 	<dispatch> -->
+	<!-- 	    <url>*io.picktime.com/*</url> -->
+	<!-- 	    <module>realtime</module> -->
+	<!-- 	</dispatch> -->
 	<!-- Realtime connections -->
-	
+
 	<!-- Website -->
 	<dispatch>
-	    <url>*/</url>
-	    <module>website</module>
+		<url>*/</url>
+		<module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/features</url>
-	    <module>website</module>
+		<url>*/features</url>
+		<module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/features/*</url>
-	    <module>website</module>
+		<url>*/features/*</url>
+		<module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/apps</url>
-	    <module>website</module>
+		<url>*/apps</url>
+		<module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/pricing</url>
-	    <module>website</module>
+		<url>*/pricing</url>
+		<module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/integrations</url>
-	    <module>website</module>
+		<url>*/integrations</url>
+		<module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/integrations/*</url>
-	    <module>website</module>
+		<url>*/integrations/*</url>
+		<module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/industries</url>
-	    <module>website</module>
+		<url>*/industries</url>
+		<module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/careers</url>
-	    <module>website</module>
+		<url>*/careers</url>
+		<module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/scheduling-software/*</url>
-	    <module>website</module>
+		<url>*/scheduling-software/*</url>
+		<module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/business/*</url>
-	    <module>website</module>
+		<url>*/business/*</url>
+		<module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/legal/*</url>
-	    <module>website</module>
+		<url>*/legal/*</url>
+		<module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/webassets/*</url>
-	    <module>website</module>
+		<url>*/webassets/*</url>
+		<module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/robots.txt</url>
-	    <module>website</module>
+		<url>*/robots.txt</url>
+		<module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/sitemap.xml</url>
-	    <module>website</module>
+		<url>*/sitemap.xml</url>
+		<module>website</module>
 	</dispatch>
 	<dispatch>
-	    <url>*/favicon.ico</url>
-	    <module>website</module>
+		<url>*/favicon.ico</url>
+		<module>website</module>
 	</dispatch>
 	<!-- Website -->
-	
+
 </dispatch-entries>

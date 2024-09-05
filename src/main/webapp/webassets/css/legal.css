@@ -1,38 +1,45 @@
 body {
-    font-family: 'Lato', sans-serif, 'Arial', sans-serif;
-    background-color: #fff !important;
-    font-size: 18px;
-    color: #777777;
-    line-height: 1.42857143;
+	font-family: 'Lato', sans-serif, 'Arial', sans-serif;
+	background-color: #fff !important;
+	font-size: 18px;
+	color: #777777;
+	line-height: 1.42857143;
 }
+
 .pricyBlock-text {
-    margin: 70px 60px;
+	margin: 70px 60px;
 }
+
 h1.title {
-    font-size: 35px;
-    font-weight: 600;
-    text-align: center;
-    color: #111;
-    margin: 35px 0px;
+	font-size: 35px;
+	font-weight: 600;
+	text-align: center;
+	color: #111;
+	margin: 35px 0px;
 }
+
 h1.sub-title {
-    font-size: 18px;
-    font-weight: 600;
-    color: #5c5c5c;
+	font-size: 18px;
+	font-weight: 600;
+	color: #5c5c5c;
 }
-ul.terms-list{
+
+ul.terms-list {
 	list-style-type: square;
 	padding: 0px 20px;
 }
-ol.terms-ordered-list{
+
+ol.terms-ordered-list {
 	padding: 0px 20px;
 }
+
 li.legal-list {
-    color: #5c5c5c;
-    font-size: 16px;
-    font-weight: 600;
+	color: #5c5c5c;
+	font-size: 16px;
+	font-weight: 600;
 }
+
 li.legal-terms-list {
-    color: #788a95 ;
-    font-size: 16px;
+	color: #788a95;
+	font-size: 16px;
 }

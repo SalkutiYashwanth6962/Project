@@ -3,16 +3,15 @@
 	font-style: normal;
 	font-weight: normal;
 	src: local("Samsung Sharp Sans Regular"),
-	  url("/webassets/2021/fonts/samsung-sharp-sans/samsungsharpsans.woff")
-	    format("woff");
+		url("/webassets/2021/fonts/samsung-sharp-sans/samsungsharpsans.woff") format("woff");
 }
+
 @font-face {
 	font-family: "Samsung Sharp Sans";
 	font-style: normal;
 	font-weight: bold;
 	src: local("Samsung Sharp Sans Bold"),
-	  url("/webassets/2021/fonts/samsung-sharp-sans/samsungsharpsans-bold.woff")
-	    format("woff");
+		url("/webassets/2021/fonts/samsung-sharp-sans/samsungsharpsans-bold.woff") format("woff");
 }
 
 * {
@@ -20,6 +19,7 @@
 	padding: 0px;
 	font-family: "Raleway", sans-serif;
 }
+
 /*root element*/
 a:hover {
 	text-decoration: none;
@@ -33,34 +33,39 @@ a:hover {
 	/* height:90px; */
 	border-bottom: 1px solid #ebebeb;
 }
+
 .navbar-default .navbar-toggle {
-  	border-color: #8b22e2;
-  	padding: 15px;
-  	margin: 0px 20px 0px 0px;
+	border-color: #8b22e2;
+	padding: 15px;
+	margin: 0px 20px 0px 0px;
 }
+
 .navbar-toggle:hover {
-  	background-color: #fff !important;
+	background-color: #fff !important;
 }
 
 .navbar {
-  	color: #262626;
-  	background: #f0f2f8 0% 0% no-repeat padding-box;
-  	border: none;
+	color: #262626;
+	background: #f0f2f8 0% 0% no-repeat padding-box;
+	border: none;
 }
 
 .navbar-nav li a {
-  	color: #262626 !important;
-  	margin: 30px 30px 0px 0px;
-  	font-weight: bold;
-  	border: 2px solid rgb(240 242 248 / 0%);
+	color: #262626 !important;
+	margin: 30px 30px 0px 0px;
+	font-weight: bold;
+	border: 2px solid rgb(240 242 248 / 0%);
 }
-#goto-dashboard{
-  	color: #8a2be2 !important;
-  	height: 70px;
+
+#goto-dashboard {
+	color: #8a2be2 !important;
+	height: 70px;
 }
-#goto-dashboard:hover{
-  	text-decoration: underline;
+
+#goto-dashboard:hover {
+	text-decoration: underline;
 }
+
 .navbar-nav .signup-btn-banner {
 	color: #fff !important;
 	border: 2px solid #8b22e2;
@@ -80,6 +85,7 @@ a:hover {
 	background: #9c48e2 !important;
 	border-radius: 27px;
 }
+
 .navbar-nav li a:hover {
 	/* background: F0F2F8 !important;  */
 	/* border: 2px solid #8B22E2; */
@@ -114,7 +120,7 @@ a:hover {
 .banners {
 	background-color: #f0f2f8;
 	margin-top: 100px;
-	padding-bottom: 50px; 
+	padding-bottom: 50px;
 }
 
 .banners .col-md-12 .b-t-y h1 {
@@ -135,6 +141,7 @@ a:hover {
 	padding: 3px 0px;
 	line-height: 35px;
 }
+
 .banners .col-md-12 .btn-lg {
 	width: 250px;
 	padding: 16px 0px;
@@ -156,39 +163,43 @@ a:hover {
 	width: 100%;
 }
 
-.capterra{
+.capterra {
 	margin: 10px 0px;
 	padding: 0px;
 	padding-right: 73px;
 }
-.capterra img{
- 	width: 55px;
- 	margin-top: 0px;
- 	float: right;
+
+.capterra img {
+	width: 55px;
+	margin-top: 0px;
+	float: right;
 }
-.capterra .capterra-title{
-   	margin: 0px 0px 0px 0px;
-   	background: #ff9d28;
-   	border-radius: 25px;
-   	width: 130px;
-   	text-align: center;
-   	color: #ffffff;
-   	font-weight: 500;
-   	font-size: 12px;
-   	padding: 3px 0px;
+
+.capterra .capterra-title {
+	margin: 0px 0px 0px 0px;
+	background: #ff9d28;
+	border-radius: 25px;
+	width: 130px;
+	text-align: center;
+	color: #ffffff;
+	font-weight: 500;
+	font-size: 12px;
+	padding: 3px 0px;
 }
-.capterra .capterra-subtitle{
+
+.capterra .capterra-subtitle {
 	margin-top: 10px;
-    color: #000000;
-    font-weight: 600;
-    font-size: 11px;
+	color: #000000;
+	font-weight: 600;
+	font-size: 11px;
 }
+
 /* wave */
 
 #wave {
 	/* margin-top: -48px; */
-	margin-top:20px;
-  
+	margin-top: 20px;
+
 }
 
 .custom-shape-divider-bottom-1614347454 {
@@ -209,55 +220,65 @@ a:hover {
 }
 
 .custom-shape-divider-bottom-1614347454 .shape-fill {
-  	fill: #ffffff;
+	fill: #ffffff;
 }
 
 
-.banners{
-	padding-bottom:120px;
+.banners {
+	padding-bottom: 120px;
 }
-.hero2023{
+
+.hero2023 {
 	margin-top: -100px;
 }
-.hero2023 img{
+
+.hero2023 img {
 	width: 100%;
 }
-.banners .col-md-12 .b-p-y{
+
+.banners .col-md-12 .b-p-y {
 	margin: 0px 170px;
 }
+
 .what-is-picktime .col-md-12 .w-p-y {
 	margin: 0px 225px;
 }
+
 .what-is-picktime .col-md-12 .boxs {
 	background: #FBF7FF;
-   	box-shadow: 0 2px 2px #8585851f;
-   	-moz-box-shadow: 0 2px 2px #8585851f;
-   	-webkit-box-shadow: 0 2px 2px #8585851f;
-   	border-radius: 10px;
-   	padding: 10px;
-   	margin-bottom: 20px;
+	box-shadow: 0 2px 2px #8585851f;
+	-moz-box-shadow: 0 2px 2px #8585851f;
+	-webkit-box-shadow: 0 2px 2px #8585851f;
+	border-radius: 10px;
+	padding: 10px;
+	margin-bottom: 20px;
 }
-.what-is-picktime .col-md-12 .boxs  .what-is-picktime-img{
-   	margin-top: 20px;
-   	width: 100px;
+
+.what-is-picktime .col-md-12 .boxs .what-is-picktime-img {
+	margin-top: 20px;
+	width: 100px;
 }
-.what-is-picktime .col-md-12 .boxs  .arrow-right{
-  	margin: 10px 0px;
+
+.what-is-picktime .col-md-12 .boxs .arrow-right {
+	margin: 10px 0px;
 }
-.what-is-picktime .col-md-12 .subtitle{
-  	font-size: 14px;
+
+.what-is-picktime .col-md-12 .subtitle {
+	font-size: 14px;
 	font-weight: 600;
 	margin-bottom: 20px;
 }
-.what-is-picktime .col-md-12 p{
-  	padding-top: 10px;
-  	font-size: 15px;
-  	font-weight: 500;
-  	margin: 0px 20px;
-  	padding-bottom:20px;
+
+.what-is-picktime .col-md-12 p {
+	padding-top: 10px;
+	font-size: 15px;
+	font-weight: 500;
+	margin: 0px 20px;
+	padding-bottom: 20px;
 }
-.btn-pt{
-  	padding: 15px 70px;
+
+.btn-pt {
+	padding: 15px 70px;
 	color: #fff;
 	font-weight: bold;
 	letter-spacing: 0.12px;
@@ -270,18 +291,21 @@ a:hover {
 	transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 	margin: 15px 0px;
 }
-.btn-pt:hover{
+
+.btn-pt:hover {
 	color: #fff;
 }
+
 .btn-pt.active.focus,
 .btn-pt.active:focus,
 .btn-pt.focus,
 .btn-pt:active.focus,
 .btn-pt:active:focus,
 .btn-pt:focus {
-    outline:none;
-    outline-offset: 0px
+	outline: none;
+	outline-offset: 0px
 }
+
 /* .capterra {
 	display: -webkit-box; OLD - iOS 6-, Safari 3.1-6
 	display: -moz-box; OLD - Firefox 19- (buggy but mostly works)
@@ -290,17 +314,20 @@ a:hover {
  	display: flex;
  	justify-content: center;
 } */
-.container-fluid{
+.container-fluid {
 	padding-left: 0px;
 }
+
 @media only screen and (max-width:1024px) {
-	.banners .col-md-12 .b-p-y{
+	.banners .col-md-12 .b-p-y {
 		margin: 0px 20px;
 	}
-	 .what-is-picktime .col-md-12 .w-p-y {
+
+	.what-is-picktime .col-md-12 .w-p-y {
 		margin: 0px 25px;
 	}
 }
+
 /*==========banner***end==========*/
 
 /*==========what is picktime***start==========*/
@@ -327,7 +354,7 @@ a:hover {
 	font-weight: 400;
 }
 
-.what-is-picktime .signup-btn-banner{
+.what-is-picktime .signup-btn-banner {
 	width: 60%;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -347,9 +374,10 @@ a:hover {
 	padding-top: 10px;
 }
 
-img.what-is-picktime-img{
+img.what-is-picktime-img {
 	height: 140px;
 }
+
 /*==========what is picktime***end==========*/
 
 /*==========Calender***start==========*/
@@ -417,12 +445,13 @@ img.what-is-picktime-img{
 	font-weight: 400;
 	margin-bottom: 20px;
 }
+
 .calenders .col-md-6 .btn-lg,
 .onlinebooking .col-md-6 .btn-lg {
 	width: 40%;
 	padding-top: 15px;
 	padding-bottom: 15px;
-	font-size:15px;
+	font-size: 15px;
 	color: #fff;
 	font-weight: bold;
 	letter-spacing: 0.12px;
@@ -594,7 +623,7 @@ img.what-is-picktime-img{
 .multiple .col-md-6 .img-m {
 	width: 100%;
 	margin-top: 0px;
-	}
+}
 
 /*==========MULTIPLE LOCATION MANAGMENT***end==========*/
 
@@ -656,8 +685,8 @@ img.what-is-picktime-img{
 /*==========CLASS BOOKINGS***start==========*/
 
 .class-booking {
- 	margin: 10px 0px;
- 	padding-bottom: 70px;
+	margin: 10px 0px;
+	padding-bottom: 70px;
 }
 
 .class-booking .col-md-6 .c-s-x h2 {
@@ -701,7 +730,7 @@ img.what-is-picktime-img{
 
 .class-booking .col-md-6 .img-c {
 	width: 100%;
-    margin-top: 55px;
+	margin-top: 55px;
 }
 
 /*=========CLASS BOOKINGS***end==========*/
@@ -771,7 +800,7 @@ img.what-is-picktime-img{
 	border-radius: 9px;
 }
 
-.feature .col-lg-6 .box1-img{
+.feature .col-lg-6 .box1-img {
 	width: 60px;
 	height: 85px;
 	margin: 35px;
@@ -840,59 +869,72 @@ img.what-is-picktime-img{
 	-ms-animation: dots 5s ease-in-out infinite alternate;
 	animation: dots 5s ease-in-out infinite alternate;
 }
+
 @keyframes dots {
-  from {
-    transform: scale(1);
-  }
-  to {
-    transform: scale(1.5);
-  }
+	from {
+		transform: scale(1);
+	}
+
+	to {
+		transform: scale(1.5);
+	}
 }
+
 @-webkit-keyframes dots {
-  from {
-    transform: scale(1);
-  }
-  to {
-    transform: scale(1.5);
-  }
+	from {
+		transform: scale(1);
+	}
+
+	to {
+		transform: scale(1.5);
+	}
 }
+
 @-moz-keyframes dots {
-  from {
-    transform: scale(1);
-  }
-  to {
-    transform: scale(1.5);
-  }
+	from {
+		transform: scale(1);
+	}
+
+	to {
+		transform: scale(1.5);
+	}
 }
+
 @-o-keyframes dots {
-  from {
-    transform: scale(1);
-  }
-  to {
-    transform: scale(1.5);
-  }
+	from {
+		transform: scale(1);
+	}
+
+	to {
+		transform: scale(1.5);
+	}
 }
+
 @-ms-keyframes dots {
-  from {
-    transform: scale(1);
-  }
-  to {
-    transform: scale(1.5);
-  }
+	from {
+		transform: scale(1);
+	}
+
+	to {
+		transform: scale(1.5);
+	}
 }
+
 @keyframes dots {
-  from {
-    transform: scale(1);
-  }
-  to {
-    transform: scale(1.5);
-  }
+	from {
+		transform: scale(1);
+	}
+
+	to {
+		transform: scale(1.5);
+	}
 }
+
 /*==========Features***end==========*/
 
 /*==========Features ON***start==========*/
 
-.Rated{
+.Rated {
 	margin: 150px 0px;
 }
 
@@ -903,8 +945,9 @@ img.what-is-picktime-img{
 }
 
 .Rated .g2-c {
-  	margin-top: 30px;
+	margin-top: 30px;
 }
+
 .Rated .f-b-m h2 {
 	margin: 10px 0px;
 	text-align: center;
@@ -918,10 +961,11 @@ img.what-is-picktime-img{
 .book-from-any-where {
 	margin: 150px 0px;
 	background-color: #f7f8fc;
-	
+
 	position: relative;
 	z-index: 0;
 }
+
 .book-from-any-where .col-md-6 .r-s-y {
 	font: normal normal bold 20px/24px Samsung Sharp Sans;
 	letter-spacing: 0px;
@@ -966,7 +1010,8 @@ img.what-is-picktime-img{
 	width: 100%;
 	margin-top: 150px;
 }
-.book-from-any-where .col-md-6 .img-manage-res{
+
+.book-from-any-where .col-md-6 .img-manage-res {
 	margin-top: 10px !important;
 }
 
@@ -993,20 +1038,24 @@ img.what-is-picktime-img{
 	animation: rotate3d 4s linear infinite;
 	opacity: 0.4;
 }
+
 @keyframes rotate3d {
 	0% {
-	  transform: rotateY(0deg);
+		transform: rotateY(0deg);
 	}
+
 	100% {
-	  transform: rotateY(360deg);
+		transform: rotateY(360deg);
 	}
 }
+
 .book-from-any-where .shape2 {
 	position: absolute;
 	z-index: -1;
 	top: 80%;
 	left: 5%;
 }
+
 .rotateme {
 	-webkit-animation-name: rotateme;
 	animation-name: rotateme;
@@ -1020,10 +1069,11 @@ img.what-is-picktime-img{
 
 @keyframes rotateme {
 	0% {
-	  transform: rotate(0deg);
+		transform: rotate(0deg);
 	}
+
 	100% {
-	  transform: rotate(360deg);
+		transform: rotate(360deg);
 	}
 }
 
@@ -1038,52 +1088,62 @@ img.what-is-picktime-img{
 
 @keyframes animationFramesOne {
 	0% {
-	  transform: translate(0px, 0px) rotate(0deg);
+		transform: translate(0px, 0px) rotate(0deg);
 	}
+
 	20% {
-	  transform: translate(73px, -1px) rotate(36deg);
+		transform: translate(73px, -1px) rotate(36deg);
 	}
+
 	40% {
-	  transform: translate(141px, 72px) rotate(72deg);
+		transform: translate(141px, 72px) rotate(72deg);
 	}
+
 	60% {
-	  transform: translate(83px, 122px) rotate(108deg);
+		transform: translate(83px, 122px) rotate(108deg);
 	}
+
 	80% {
-	  transform: translate(-40px, 72px) rotate(144deg);
+		transform: translate(-40px, 72px) rotate(144deg);
 	}
+
 	100% {
-	  transform: translate(0px, 0px) rotate(0deg);
+		transform: translate(0px, 0px) rotate(0deg);
 	}
 }
 
 .book-from-any-where .shape4 {
-  position: absolute;
-  right: 25%;
-  bottom: 15%;
-  z-index: -1;
-  -webkit-animation: animationFramesOne 20s infinite linear;
-  animation: animationFramesOne 20s infinite linear;
+	position: absolute;
+	right: 25%;
+	bottom: 15%;
+	z-index: -1;
+	-webkit-animation: animationFramesOne 20s infinite linear;
+	animation: animationFramesOne 20s infinite linear;
 }
 
 @keyframes animationFramesOne {
 	0% {
-	  transform: translate(0px, 0px) rotate(0deg);
+		transform: translate(0px, 0px) rotate(0deg);
 	}
+
 	20% {
-	  transform: translate(73px, -1px) rotate(36deg);
+		transform: translate(73px, -1px) rotate(36deg);
 	}
+
 	40% {
-	  transform: translate(141px, 72px) rotate(72deg);
+		transform: translate(141px, 72px) rotate(72deg);
 	}
+
 	60% {
-	  transform: translate(83px, 122px) rotate(108deg);
+		transform: translate(83px, 122px) rotate(108deg);
 	}
+
 	80% {
-	  transform: translate(-40px, 72px) rotate(144deg);
+		transform: translate(-40px, 72px) rotate(144deg);
 	}
+
 	100% {
-	  transform: translate(0px, 0px) rotate(0deg);
+		transform: translate(0px, 0px) rotate(0deg);
 	}
 }
 
@@ -1099,13 +1159,15 @@ img.what-is-picktime-img{
 
 @keyframes movebounce {
 	0% {
-	  transform: translateY(0px);
+		transform: translateY(0px);
 	}
+
 	50% {
-	  transform: translateY(20px);
+		transform: translateY(20px);
 	}
+
 	100% {
-	  transform: translateY(0px);
+		transform: translateY(0px);
 	}
 }
 
@@ -1126,12 +1188,14 @@ img.what-is-picktime-img{
 	top: 40%;
 	right: 10%;
 }
+
 @keyframes rotateme {
 	0% {
-	  transform: rotate(0deg);
+		transform: rotate(0deg);
 	}
+
 	100% {
-	  transform: rotate(360deg);
+		transform: rotate(360deg);
 	}
 }
 
@@ -1195,21 +1259,32 @@ img.what-is-picktime-img{
 }
 
 .connect-app .c-f-l {
-	display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
-	display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
-	display: -ms-flexbox; /* TWEENER - IE 10 */
-	display: -webkit-flex; /* NEW - Chrome */
-	display: flex; /* NEW, Spec - Opera 12.1, Firefox 20+ */
-	
+	display: -webkit-box;
+	/* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;
+	/* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;
+	/* TWEENER - IE 10 */
+	display: -webkit-flex;
+	/* NEW - Chrome */
+	display: flex;
+	/* NEW, Spec - Opera 12.1, Firefox 20+ */
+
 	flex-direction: row;
 }
+
 .connect-app .c-s-l {
-	display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
-	display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
-	display: -ms-flexbox; /* TWEENER - IE 10 */
-	display: -webkit-flex; /* NEW - Chrome */
-	display: flex; /* NEW, Spec - Opera 12.1, Firefox 20+ */
-	
+	display: -webkit-box;
+	/* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;
+	/* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;
+	/* TWEENER - IE 10 */
+	display: -webkit-flex;
+	/* NEW - Chrome */
+	display: flex;
+	/* NEW, Spec - Opera 12.1, Firefox 20+ */
+
 	flex-direction: row;
 	padding-left: 80px;
 }
@@ -1239,87 +1314,111 @@ img.what-is-picktime-img{
 
 @-webkit-keyframes scale {
 	0% {
-	  -webkit-transform: scale(1);
+		-webkit-transform: scale(1);
 	}
+
 	25% {
-	  -webkit-transform: scale(1.1);
+		-webkit-transform: scale(1.1);
 	}
+
 	50% {
-	  -webkit-transform: scale(1);
+		-webkit-transform: scale(1);
 	}
+
 	75% {
-	  -webkit-transform: scale(1.1);
+		-webkit-transform: scale(1.1);
 	}
+
 	100% {
-	  -webkit-transform: scale(1);
+		-webkit-transform: scale(1);
 	}
 }
+
 @-moz-keyframes scale {
 	0% {
-	  -moz-transform: scale(1);
+		-moz-transform: scale(1);
 	}
+
 	25% {
-	  -moz-transform: scale(1.1);
+		-moz-transform: scale(1.1);
 	}
+
 	50% {
-	  -moz-transform: scale(1);
+		-moz-transform: scale(1);
 	}
+
 	75% {
-	  -moz-transform: scale(1.1);
+		-moz-transform: scale(1.1);
 	}
+
 	100% {
-	  -moz-transform: scale(1);
+		-moz-transform: scale(1);
 	}
 }
+
 @-o-keyframes scale {
 	0% {
-	  -o-transform: scale(1);
+		-o-transform: scale(1);
 	}
+
 	25% {
-	  -o-transform: scale(1.1);
+		-o-transform: scale(1.1);
 	}
+
 	50% {
-	  -o-transform: scale(1);
+		-o-transform: scale(1);
 	}
+
 	75% {
-	  -o-transform: scale(1.1);
+		-o-transform: scale(1.1);
 	}
+
 	100% {
-	  -o-transform: scale(1);
+		-o-transform: scale(1);
 	}
 }
+
 @-ms-keyframes scale {
 	0% {
-	  -ms-transform: scale(1);
+		-ms-transform: scale(1);
 	}
+
 	25% {
-	  -ms-transform: scale(1.1);
+		-ms-transform: scale(1.1);
 	}
+
 	50% {
-	  -ms-transform: scale(1);
+		-ms-transform: scale(1);
 	}
+
 	75% {
-	  -ms-transform: scale(1.1);
+		-ms-transform: scale(1.1);
 	}
+
 	100% {
-	  -ms-transform: scale(1);
+		-ms-transform: scale(1);
 	}
 }
+
 @keyframes scale {
 	0% {
-	  transform: scale(1);
+		transform: scale(1);
 	}
+
 	25% {
-	  transform: scale(1.1);
+		transform: scale(1.1);
 	}
+
 	50% {
-	  transform: scale(1);
+		transform: scale(1);
 	}
+
 	75% {
-	  transform: scale(1.1);
+		transform: scale(1.1);
 	}
+
 	100% {
-	  transform: scale(1);
+		transform: scale(1);
 	}
 }
 
@@ -1330,79 +1429,92 @@ img.what-is-picktime-img{
 	-webkit-box-align: center;
 	align-items: center;
 	justify-content: space-around;
-	
+
 	-webkit-transform-style: preserve-3d;
 	-moz-transform-style: preserve-3d;
 	-o-transform-style: preserve-3d;
 	-ms-transform-style: preserve-3d;
 	transform-style: preserve-3d;
-	
+
 	-webkit-animation: 150s linear 0s infinite normal none running firstline;
 	-moz-animation: 150s linear 0s infinite normal none running firstline;
 	-o-animation: 150s linear 0s infinite normal none running firstline;
 	-ms-transition: 150s linear 0s infinite normal none running firstline;
 	animation: 150s linear 0s infinite normal none running firstline;
 }
+
 @-webkit-keyframes firstline {
 	0% {
-	  -webkit-transform: translate3d(-100%, 0px, 0px);
+		-webkit-transform: translate3d(-100%, 0px, 0px);
 	}
+
 	100% {
-	  -webkit-transform: translate3d(0px, 0px, 0px);
+		-webkit-transform: translate3d(0px, 0px, 0px);
 	}
 }
+
 @-moz-keyframes firstline {
 	0% {
-	  -moz-transform: translate3d(-100%, 0px, 0px);
+		-moz-transform: translate3d(-100%, 0px, 0px);
 	}
+
 	100% {
-	  -moz-transform: translate3d(0px, 0px, 0px);
+		-moz-transform: translate3d(0px, 0px, 0px);
 	}
 }
+
 @-o-keyframes firstline {
 	0% {
-	  -o-transform: translate3d(-100%, 0px, 0px);
+		-o-transform: translate3d(-100%, 0px, 0px);
 	}
+
 	100% {
-	  -o-transform: translate3d(0px, 0px, 0px);
+		-o-transform: translate3d(0px, 0px, 0px);
 	}
 }
+
 @-ms-keyframes firstline {
 	0% {
-	  -ms-transform: translate3d(-100%, 0px, 0px);
+		-ms-transform: translate3d(-100%, 0px, 0px);
 	}
+
 	100% {
-	  -ms-transform: translate3d(0px, 0px, 0px);
+		-ms-transform: translate3d(0px, 0px, 0px);
 	}
 }
 
 @keyframes firstline {
 	0% {
-	  transform: translate3d(-100%, 0px, 0px);
+		transform: translate3d(-100%, 0px, 0px);
 	}
+
 	100% {
-	  transform: translate3d(0px, 0px, 0px);
+		transform: translate3d(0px, 0px, 0px);
 	}
 }
 
 .connect-app .c-s-3 {
-	display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
-	display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
-	display: -ms-flexbox; /* TWEENER - IE 10 */
-	display: -webkit-flex; /* NEW - Chrome */
+	display: -webkit-box;
+	/* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;
+	/* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;
+	/* TWEENER - IE 10 */
+	display: -webkit-flex;
+	/* NEW - Chrome */
 	display: flex;
 	min-width: 100%;
 	flex-shrink: 0;
 	-webkit-box-align: center;
 	align-items: center;
 	justify-content: space-around;
-	
+
 	-webkit-transform-style: preserve-3d;
 	-moz-transform-style: preserve-3d;
 	-o-transform-style: preserve-3d;
 	-ms-transform-style: preserve-3d;
 	transform-style: preserve-3d;
-	
+
 	-webkit-animation: 150s linear 0s infinite normal none running secondline;
 	-moz-animation: 150s linear 0s infinite normal none running secondline;
 	-o-animation: 150s linear 0s infinite normal none running secondline;
@@ -1413,42 +1525,51 @@ img.what-is-picktime-img{
 
 @-webkit-keyframes secondline {
 	0% {
-	  -webkit-transform: translate3d(-100%, 0px, 0px);
+		-webkit-transform: translate3d(-100%, 0px, 0px);
 	}
+
 	100% {
-	  -webkit-transform: translate3d(0px, 0px, 0px);
+		-webkit-transform: translate3d(0px, 0px, 0px);
 	}
 }
+
 @-moz-keyframes secondline {
 	0% {
-	  -moz-transform: translate3d(-100%, 0px, 0px);
+		-moz-transform: translate3d(-100%, 0px, 0px);
 	}
+
 	100% {
-	  -moz-transform: translate3d(0px, 0px, 0px);
+		-moz-transform: translate3d(0px, 0px, 0px);
 	}
 }
+
 @-o-keyframes secondline {
 	0% {
-	  -o-transform: translate3d(-100%, 0px, 0px);
+		-o-transform: translate3d(-100%, 0px, 0px);
 	}
+
 	100% {
-	  -o-transform: translate3d(0px, 0px, 0px);
+		-o-transform: translate3d(0px, 0px, 0px);
 	}
 }
+
 @-ms-keyframes secondline {
-	 0% {
-	-ms-transform: translate3d(-100%, 0px, 0px);
-	 }
-	 100% {
-	   -ms-transform: translate3d(0px, 0px, 0px);
-	 }
+	0% {
+		-ms-transform: translate3d(-100%, 0px, 0px);
+	}
+
+	100% {
+		-ms-transform: translate3d(0px, 0px, 0px);
+	}
 }
+
 @keyframes secondline {
 	0% {
-	  transform: translate3d(-100%, 0px, 0px);
+		transform: translate3d(-100%, 0px, 0px);
 	}
+
 	100% {
-	  transform: translate3d(0px, 0px, 0px);
+		transform: translate3d(0px, 0px, 0px);
 	}
 }
 
@@ -1461,6 +1582,7 @@ img.what-is-picktime-img{
 	-ms-transition: topbottam 7s infinite forwards;
 	animation: topbottam 7s infinite forwards;
 }
+
 .connect-app .b-picktime-ani {
 	position: relative;
 	-webkit-animation: topbottam 12s infinite forwards;
@@ -1469,6 +1591,7 @@ img.what-is-picktime-img{
 	-ms-transition: topbottam 12s infinite forwards;
 	animation: topbottam 12s infinite forwards;
 }
+
 .connect-app .c-picktime-ani {
 	position: relative;
 	-webkit-animation: topbottam 6s infinite forwards;
@@ -1486,6 +1609,7 @@ img.what-is-picktime-img{
 	-ms-transition: topbottam 10s infinite forwards;
 	animation: topbottam 10s infinite forwards;
 }
+
 .connect-app .a-picktime-ani {
 	position: relative;
 	-webkit-animation: topbottam 8s infinite forwards;
@@ -1497,89 +1621,111 @@ img.what-is-picktime-img{
 
 @-webkit-keyframes topbottam {
 	0% {
-	  -webkit-transform: translate(0px, 0px);
+		-webkit-transform: translate(0px, 0px);
 	}
+
 	25% {
-	  -webkit-transform: translate(0px, 10px);
+		-webkit-transform: translate(0px, 10px);
 	}
+
 	50% {
-	  -webkit-transform: translate(0px, 0px);
+		-webkit-transform: translate(0px, 0px);
 	}
+
 	75% {
-	  -webkit-transform: translate(0px, 10px);
+		-webkit-transform: translate(0px, 10px);
 	}
+
 	100% {
-	  -webkit-transform: translate(0px, 0px);
+		-webkit-transform: translate(0px, 0px);
 	}
 }
 
 @-moz-keyframes topbottam {
 	0% {
-	  -moz-transform: translate(0px, 0px);
+		-moz-transform: translate(0px, 0px);
 	}
+
 	25% {
-	  -moz-transform: translate(0px, 10px);
+		-moz-transform: translate(0px, 10px);
 	}
+
 	50% {
-	  -moz-transform: translate(0px, 0px);
+		-moz-transform: translate(0px, 0px);
 	}
+
 	75% {
-	  -moz-transform: translate(0px, 10px);
+		-moz-transform: translate(0px, 10px);
 	}
+
 	100% {
-	  -moz-transform: translate(0px, 0px);
+		-moz-transform: translate(0px, 0px);
 	}
 }
+
 @-o-keyframes topbottam {
 	0% {
-	  -o-transform: translate(0px, 0px);
+		-o-transform: translate(0px, 0px);
 	}
+
 	25% {
-	  -o-transform: translate(0px, 10px);
+		-o-transform: translate(0px, 10px);
 	}
+
 	50% {
-	  -o-transform: translate(0px, 0px);
+		-o-transform: translate(0px, 0px);
 	}
+
 	75% {
-	  -o-transform: translate(0px, 10px);
+		-o-transform: translate(0px, 10px);
 	}
+
 	100% {
-	  -o-transform: translate(0px, 0px);
+		-o-transform: translate(0px, 0px);
 	}
 }
+
 @-ms-keyframes topbottam {
 	0% {
-	  -ms-transform: translate(0px, 0px);
+		-ms-transform: translate(0px, 0px);
 	}
+
 	25% {
-	  -ms-transform: translate(0px, 10px);
+		-ms-transform: translate(0px, 10px);
 	}
+
 	50% {
-	  -ms-transform: translate(0px, 0px);
+		-ms-transform: translate(0px, 0px);
 	}
+
 	75% {
-	  -ms-transform: translate(0px, 10px);
+		-ms-transform: translate(0px, 10px);
 	}
+
 	100% {
-	  -ms-transform: translate(0px, 0px);
+		-ms-transform: translate(0px, 0px);
 	}
 }
 
 @keyframes topbottam {
 	0% {
-	  transform: translate(0px, 0px);
+		transform: translate(0px, 0px);
 	}
+
 	25% {
-	  transform: translate(0px, 10px);
+		transform: translate(0px, 10px);
 	}
+
 	50% {
-	  transform: translate(0px, 0px);
+		transform: translate(0px, 0px);
 	}
+
 	75% {
-	  transform: translate(0px, 10px);
+		transform: translate(0px, 10px);
 	}
+
 	100% {
-	  transform: translate(0px, 0px);
+		transform: translate(0px, 0px);
 	}
 }
 
@@ -1587,7 +1733,7 @@ img.what-is-picktime-img{
 
 /*==========PICKTIME IS FOR EVERYONE***start==========*/
 .pick-time-is-for-everyone {
-  	margin: 50px 0px 50px 0px;
+	margin: 50px 0px 50px 0px;
 }
 
 .pick-time-is-for-everyone .p-t-i-f-e-s-m h2 {
@@ -1624,6 +1770,7 @@ img.what-is-picktime-img{
 	#carousel1 {
 		display: block;
 	}
+
 	#carousel2 {
 		display: none;
 	}
@@ -1691,21 +1838,27 @@ img.what-is-picktime-img{
 	.carousel-inner .active.left {
 		left: -50%;
 	}
+
 	.carousel-inner .active.right {
 		left: 50%;
 	}
+
 	.carousel-inner .next {
 		left: 50%;
 	}
+
 	.carousel-inner .prev {
 		left: -50%;
 	}
+
 	.carousel-col {
 		width: 50%;
 	}
+
 	.active>div:first-child+div {
 		display: block;
 	}
+
 	.carousel-control>a>span {
 		display: none;
 	}
@@ -1718,18 +1871,23 @@ img.what-is-picktime-img{
 	.carousel-inner .active.left {
 		left: -50%;
 	}
+
 	.carousel-inner .active.right {
 		left: 50%;
 	}
+
 	.carousel-inner .next {
 		left: 50%;
 	}
+
 	.carousel-inner .prev {
 		left: -50%;
 	}
+
 	.carousel-col {
 		width: 50%;
 	}
+
 	.active>div:first-child+div {
 		display: block;
 	}
@@ -1742,21 +1900,27 @@ img.what-is-picktime-img{
 	.carousel-inner .active.left {
 		left: -33%;
 	}
+
 	.carousel-inner .active.right {
 		left: 33%;
 	}
+
 	.carousel-inner .next {
 		left: 33%;
 	}
+
 	.carousel-inner .prev {
 		left: -33%;
 	}
+
 	.carousel-col {
 		width: 33%;
 	}
+
 	.active>div:first-child+div {
 		display: block;
 	}
+
 	.active>div:first-child+div+div {
 		display: block;
 	}
@@ -1769,21 +1933,27 @@ img.what-is-picktime-img{
 	.carousel-inner .active.left {
 		left: -25%;
 	}
+
 	.carousel-inner .active.right {
 		left: 25%;
 	}
+
 	.carousel-inner .next {
 		left: 25%;
 	}
+
 	.carousel-inner .prev {
 		left: -25%;
 	}
+
 	.carousel-col {
 		width: 33%;
 	}
+
 	.active>div:first-child+div {
 		display: block;
 	}
+
 	.active>div:first-child+div+div {
 		display: block;
 	}
@@ -1864,6 +2034,7 @@ img.what-is-picktime-img{
 	.pick-time-is-for-everyone .items {
 		height: 333px;
 	}
+
 	.navbar-brand img {
 		margin: -20px 0px 0px 0px;
 		width: 180px;
@@ -1894,27 +2065,33 @@ img.what-is-picktime-img{
 .carousel-control:hover {
 	color: #8B22E2;
 }
-.carousel-control:focus{
-  color:#8b22e2;
+
+.carousel-control:focus {
+	color: #8b22e2;
 }
+
 .carousel-control.left,
 .carousel-control.right {
 	background: #fff;
 	font-size: 35px;
 }
+
 .carousel-control.right {
 	left: auto;
 	right: -60px;
 	/* background: blue; */
 }
+
 .carousel-control.left {
 	right: auto;
 	left: -70px;
 	/* background: blue; */
 }
+
 .carousel-indicators {
 	bottom: -30px;
 }
+
 /* .carousel-indicators li {
 	border-radius:0;
 	width:10px;
@@ -1985,32 +2162,39 @@ img.what-is-picktime-img{
 		margin: 0px;
 	}
 }
+
 @media only screen and (max-width:1265px) {
-	.carousel-control.right{
-	display: none;
+	.carousel-control.right {
+		display: none;
 	}
-	.carousel-control.left{
-	display: none;
+
+	.carousel-control.left {
+		display: none;
 	}
-	
+
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
 	.carousel-inner .active.left {
 		left: -50%;
 	}
+
 	.carousel-inner .active.right {
 		left: 50%;
 	}
+
 	.carousel-inner .next {
 		left: 50%;
 	}
+
 	.carousel-inner .prev {
 		left: -50%;
 	}
+
 	.carousel-col {
 		width: 50%;
 	}
+
 	.active>div:first-child+div {
 		display: block;
 	}
@@ -2020,16 +2204,17 @@ img.what-is-picktime-img{
 /*==============================PICKTIME IS FOR EVERYONE==========end=========  */
 
 /* Careers page */
-#careers .title{
+#careers .title {
 	font: normal normal bold 24px/24px Samsung Sharp Sans;
 	letter-spacing: 0px;
 	margin: 10px 0px;
 	text-align: center;
- 
+
 }
-#careers .mail{
+
+#careers .mail {
 	font: 15px/23px;
-	text-align:center;
+	text-align: center;
 	line-height: 22px;
 	letter-spacing: 0.22px;
 
@@ -2121,11 +2306,11 @@ img.what-is-picktime-img{
 }
 
 #love-by-evryine #quote-carousel .carousel-indicators .active {
-  	background: #333333;
+	background: #333333;
 }
 
 #love-by-evryine #quote-carousel img {
-  	height: 100px;
+	height: 100px;
 }
 
 /* End carousel */
@@ -2136,7 +2321,7 @@ img.what-is-picktime-img{
 }
 
 #love-by-evryine .item blockquote img {
-  	margin-bottom: 10px;
+	margin-bottom: 10px;
 }
 
 #love-by-evryine blockquote .small,
@@ -2166,24 +2351,27 @@ img.what-is-picktime-img{
 
 @media (min-width: 768px) {
 	#love-by-evryine #quote-carousel {
-  		margin-bottom: 0;
-	  	padding: 0 40px 30px 40px;
+		margin-bottom: 0;
+		padding: 0 40px 30px 40px;
 	}
 }
 
 /* Small devices (tablets, up to 768px) */
 
 @media (max-width: 768px) {
+
 	/* Make the indicators larger for easier clicking with fingers/thumb on mobile */
 	#love-by-evryine #quote-carousel .carousel-indicators {
 		bottom: -20px !important;
 	}
+
 	#love-by-evryine #quote-carousel .carousel-indicators li {
 		display: inline-block;
 		margin: 0px 5px;
 		/* width: 15px; */
 		/* height: 15px; */
 	}
+
 	#love-by-evryine #quote-carousel .carousel-indicators li.active {
 		margin: 0px 5px;
 		/* width: 20px; */
@@ -2205,17 +2393,17 @@ img.what-is-picktime-img{
 }
 
 #picktime .col-md-6 img {
-  	width: 170px;
-  	margin-bottom: -170px;
+	width: 170px;
+	margin-bottom: -170px;
 }
 
 #picktime .social-media-icons {
-  	padding: 0px;
-  	font-size: 30px;
+	padding: 0px;
+	font-size: 30px;
 }
 
 #picktime .col-md-6 .icons {
-  	margin-top: 120px;
+	margin-top: 120px;
 }
 
 #picktime #f-6 {
@@ -2249,22 +2437,27 @@ img.what-is-picktime-img{
 	opacity: 1;
 	font-weight: 400;
 }
+
 #footer ul li a {
 	color: white;
 }
+
 .icons li {
 	list-style: none;
 	padding: 8px;
 	float: left;
 }
+
 .terms-holder li {
 	list-style: none;
 	padding: 8px;
 }
+
 .internal-links-holder li {
 	list-style: none;
 	padding: 8px;
 }
+
 #picktime ul li a {
 	color: white;
 }
@@ -2276,10 +2469,12 @@ img.what-is-picktime-img{
 .picktime-bottom:hover {
 	color: white;
 }
-.cookie-consent-section{
+
+.cookie-consent-section {
 	position: relative;
 }
-.cookie-consent-section > div{
+
+.cookie-consent-section>div {
 	position: fixed;
 	width: 350px;
 	bottom: -10px;
@@ -2289,63 +2484,73 @@ img.what-is-picktime-img{
 	color: #333;
 }
 
-@media only screen and (max-width: 320px){
-	.cookie-consent-section > div{
+@media only screen and (max-width: 320px) {
+	.cookie-consent-section>div {
 		width: 310px;
 	}
 }
+
 /*==========Footer***end==========*/
 
 /* Home page-Responsive web site */
 
 @media only screen and (max-width: 1199px) {
-	
+
 	.feature {
 		margin-top: 50px;
-	  	height: 425px;
+		height: 425px;
 	}
-	
+
 	.feature .col-lg-6 #dots {
-	  	display: none;
+		display: none;
 	}
+
 	.feature .col-lg-6 .f-b-y h2 {
 		text-align: center;
 		margin: 40px 0px 10px 0px;
 	}
+
 	.feature .col-lg-6 .f-p-y {
-	  	padding: 10px 0px 0px 0px;
-	  	text-align: center;
+		padding: 10px 0px 0px 0px;
+		text-align: center;
 	}
+
 	.feature .col-lg-6 .btn8 {
-	  	display: none;
+		display: none;
 	}
-	
+
 	.feature .box-section {
-	  	margin-left: 100px;
+		margin-left: 100px;
 	}
+
 	.feature .col-lg-6 .box1 {
 		margin: 33px 0px 40px 0px;
 		height: 200px;
 		width: 150px;
 	}
+
 	.feature .col-lg-6 .box3 {
 		margin: -236px 0px 37px 180px;
 		height: 200px;
 		width: 150px;
 	}
+
 	.feature .col-lg-6 .box2 {
 		margin: -240px 0px 42px 570px;
 		height: 200px;
 		width: 150px;
 	}
+
 	.feature .col-lg-6 .box4 {
 		margin: -240px 0px 40px 375px;
 		height: 200px;
 		width: 150px;
 	}
+
 	.feature .col-lg-6 p {
-  		padding: 0px;
+		padding: 0px;
 	}
+
 	.feature .col-lg-6 .box1-img {
 		width: 45px;
 		height: 71px;
@@ -2356,18 +2561,19 @@ img.what-is-picktime-img{
 
 @media only screen and (max-width: 1024px) {
 	.book-from-any-where .col-md-6 .img-b {
-  		margin-top: 118px;
- }
-	
+		margin-top: 118px;
+	}
+
 	.multiple .col-md-6 .img-m {
-  		margin-top: 60px;
-	}  
+		margin-top: 60px;
+	}
 }
 
 @media only screen and (max-width: 991px) {
-	.container>.navbar-header{    
-  		padding: 25px 0px;
+	.container>.navbar-header {
+		padding: 25px 0px;
 	}
+
 	/*===== big titles========= */
 	.what-is-picktime .col-md-12 .w-b-y h3,
 	.calenders .col-md-6 .c-b-x h3,
@@ -2384,9 +2590,10 @@ img.what-is-picktime-img{
 	.pick-time-is-for-everyone .p-t-i-f-e-b-m h3,
 	#love-by-evryine h2,
 	#footer .footer-title {
-	  	font: normal normal bold 24px/30px Samsung Sharp Sans;
-	  	text-align: center;
+		font: normal normal bold 24px/30px Samsung Sharp Sans;
+		text-align: center;
 	}
+
 	/*========= small titles========= */
 	.what-is-picktime .col-md-12 .w-s-y h2,
 	.calenders .col-md-6 .c-s-x h2,
@@ -2398,9 +2605,10 @@ img.what-is-picktime-img{
 	.class-booking .col-md-6 .c-s-x h2,
 	.pick-time-is-for-everyone .p-t-i-f-e-s-m h2,
 	.class-booking .col-md-6 .c-s-x h2 {
-	  	font: normal normal bold 18px/18px Samsung Sharp Sans;
-	  	text-align: center;
+		font: normal normal bold 18px/18px Samsung Sharp Sans;
+		text-align: center;
 	}
+
 	/*========Button============ */
 	.what-is-picktime .col-md-12 .btn-lg,
 	.onlinebooking .col-md-6 .btn-lg,
@@ -2421,10 +2629,12 @@ img.what-is-picktime-img{
 		padding-top: 15px;
 		padding-bottom: 15px;
 	}
+
 	/*navbar  */
 	.navbar-brand img {
 		margin: -18px 0px 0px 0px;
 	}
+
 	.navbar .btn {
 		padding: 10px 0px;
 		width: 100px;
@@ -2432,109 +2642,129 @@ img.what-is-picktime-img{
 		margin-top: 35px;
 		/* margin-left: 0px; */
 	}
-	.navbar .btn.dashbaordbtn{
+
+	.navbar .btn.dashbaordbtn {
 		width: 120px;
 	}
+
 	.navbar-nav li a {
 		margin: 30px 15px 0px 0px;
 	}
+
 	/* banners */
-	
-	
+
+
 	.banners {
 		margin-top: 50px;
 	}
-	
+
 	.banners .col-md-12 .img-banner {
 		width: 100%;
-	  	padding-top: 15px;
+		padding-top: 15px;
 	}
+
 	.banners .col-md-12 .b-t-y h1 {
-	  	font: normal normal bold 30px/40px Samsung Sharp Sans;
-	  	text-align: center;
-	  	margin-top: 85px;
+		font: normal normal bold 30px/40px Samsung Sharp Sans;
+		text-align: center;
+		margin-top: 85px;
 	}
+
 	.banners .col-md-12 .btn-lg {
-	  	width: 100%;
-	  	/* padding: 18px 0px; */
+		width: 100%;
+		/* padding: 18px 0px; */
 	}
+
 	.banners .col-md-12 .b-p-y {
-	  	line-height: 25px;
-	  	letter-spacing: 0.22px;
-	  	text-align: center;
+		line-height: 25px;
+		letter-spacing: 0.22px;
+		text-align: center;
 	}
+
 	#wave {
-	  	margin-top: 30px;
+		margin-top: 30px;
 	}
+
 	.what-is-picktime .col-md-12 .w-p-y {
-	  	line-height: 25px;
-	  	letter-spacing: 0.22px;
-	  	text-align: center;
-	  	font-size: 18px;
+		line-height: 25px;
+		letter-spacing: 0.22px;
+		text-align: center;
+		font-size: 18px;
 	}
+
 	.what-is-picktime {
-	  	margin: -2px 0px;
+		margin: -2px 0px;
 	}
-	
+
 	/*calenders */
 	.calenders {
-	  	background-image: none;
-	  	padding-top: 0px;
-	  	margin: 30px 0px;
+		background-image: none;
+		padding-top: 0px;
+		margin: 30px 0px;
 	}
+
 	.calenders .col-md-6 .img-cal {
-	  	position: relative;
-	  	left: 0px;
-	  	top: 0px;
-	  	width: 100%;
+		position: relative;
+		left: 0px;
+		top: 0px;
+		width: 100%;
 	}
+
 	.calenders .col-md-6 .c-s-x h2 {
-	  	margin-left: 0px;
-	  	padding-top: 10px;
+		margin-left: 0px;
+		padding-top: 10px;
 	}
+
 	.calenders .col-md-6 .c-b-x h3 {
-	  	margin-left: 0px;
-	  	padding: 10px 0px;
+		margin-left: 0px;
+		padding: 10px 0px;
 	}
+
 	.calenders .col-md-6 .c-p-x {
-	  	margin-left: 0px;
-	  	padding: 10px 0px 0px 0px;
-	  	line-height: 25px;
-	  	letter-spacing: 0.22px;
-	  	text-align: center;
-	  	margin-bottom: 10px;
-	  	font-size: 18px;
+		margin-left: 0px;
+		padding: 10px 0px 0px 0px;
+		line-height: 25px;
+		letter-spacing: 0.22px;
+		text-align: center;
+		margin-bottom: 10px;
+		font-size: 18px;
 	}
+
 	.onlinebooking {
-	  	margin: 30px 0px;
+		margin: 30px 0px;
 	}
+
 	.onlinebooking .col-md-6 .o-s-y h2 {
-	  	padding-top: 20px;
+		padding-top: 20px;
 	}
-	
+
 	.onlinebooking .col-md-6 .o-p-y {
-	  	padding: 10px 0px 10px 0px;
-	  	line-height: 25px;
-	  	letter-spacing: 0.22px;
-	  	text-align: center;
-	  	font-size: 18px;
+		padding: 10px 0px 10px 0px;
+		line-height: 25px;
+		letter-spacing: 0.22px;
+		text-align: center;
+		font-size: 18px;
 	}
+
 	.onlinebooking .col-md-6 .img-o {
-	  	margin-top: 15px;
+		margin-top: 15px;
 		margin-left: 10px;
 	}
+
 	/* payment */
 	.payment {
-	  	margin: 30px 0px;
+		margin: 30px 0px;
 	}
+
 	.payment .col-md-6 .p-s-x h2 {
 		margin-left: 0px;
 		padding-top: 0px;
 	}
+
 	.payment .col-md-6 .p-b-x h3 {
 		/* padding: 10px 0px 10px 0px; */
 		margin-left: 0px;
 	}
+
 	.payment .col-md-6 .p-p-x {
 		margin-left: 0px;
 		padding: 10px 0px 10px 0px;
@@ -2543,10 +2773,11 @@ img.what-is-picktime-img{
 		text-align: center;
 		font-size: 18px;
 	}
-	.payment .col-md-6 .img-p
-	{
-	  	display: none;
+
+	.payment .col-md-6 .img-p {
+		display: none;
 	}
+
 	/* video */
 	.video {
 		background-image: url(/webassets/2021/img/mountains.svg);
@@ -2555,9 +2786,11 @@ img.what-is-picktime-img{
 		background-position: top;
 		padding-top: 160px;
 	}
+
 	.video .col-md-6 .v-s-y h2 {
-	  	padding-top: 100px;
+		padding-top: 100px;
 	}
+
 	.video .col-md-6 .v-p-y {
 		padding: 10px 0px 10px 0px;
 		line-height: 25px;
@@ -2565,25 +2798,30 @@ img.what-is-picktime-img{
 		text-align: center;
 		font-size: 18px;
 	}
+
 	.video .col-md-6 .img-v {
 		margin-top: 50px;
 		margin-bottom: 40px;
 		padding: 5px;
 		width: 100%;
 	}
+
 	/* multiple */
 	.multiple {
 		padding-top: 0px;
 		margin-top: -10px;
 		height: 400px;
 	}
+
 	.video .col-md-6 .img-v,
 	.multiple .col-md-6 .img-m {
-	  	display: none;
+		display: none;
 	}
+
 	.multiple .col-md-6 .m-s-x h2 {
-	  	padding: 10px 0px 10px 0px;
+		padding: 10px 0px 10px 0px;
 	}
+
 	.multiple .col-md-6 .m-p-x {
 		padding: 10px 0px 10px 0px;
 		line-height: 25px;
@@ -2591,16 +2829,20 @@ img.what-is-picktime-img{
 		text-align: center;
 		font-size: 18px;
 	}
+
 	/* reminders */
 	.reminders {
-	  	margin: 30px 0px;
+		margin: 30px 0px;
 	}
+
 	.reminders .col-md-6 .img-r {
-	  	display: none;
+		display: none;
 	}
+
 	.reminders .col-md-6 .r-s-y h2 {
-	  	padding: 10px 0px 10px 0px;
+		padding: 10px 0px 10px 0px;
 	}
+
 	.reminders .col-md-6 .r-p-y {
 		padding: 10px 0px 10px 0px;
 		line-height: 25px;
@@ -2608,18 +2850,22 @@ img.what-is-picktime-img{
 		text-align: center;
 		font-size: 18px;
 	}
+
 	/* payment */
 	.class-booking {
 		margin: 30px 0px;
 		padding-bottom: 10px;
 	}
+
 	.class-booking .col-md-6 .c-s-x h2 {
 		margin-left: 0px;
 		padding-top: 0px;
 	}
+
 	.class-booking .col-md-6 .c-b-x h3 {
 		margin-left: 0px;
 	}
+
 	.class-booking .col-md-6 .c-p-x {
 		margin-left: 0px;
 		padding: 10px 0px 10px 0px;
@@ -2628,81 +2874,92 @@ img.what-is-picktime-img{
 		text-align: center;
 		font-size: 18px;
 	}
-	.class-booking .col-md-6 .img-c
-	{
-	  	display: none;
+
+	.class-booking .col-md-6 .img-c {
+		display: none;
 	}
-	
+
 	/* feature */
 	.feature {
 		margin-top: 40px;
 		height: 630px;
 	}
+
 	.feature .col-lg-6 #dots {
-	  	display: none;
+		display: none;
 	}
+
 	.feature .col-lg-6 .f-b-y h2 {
 		text-align: center;
 		margin: 40px 0px 10px 0px;
 	}
+
 	.feature .col-lg-6 .f-p-y {
 		padding: 10px 0px 0px 0px;
 		font-size: 18px;
 		text-align: center;
 	}
+
 	.feature .col-lg-6 .btn8 {
-	  	display: none;
+		display: none;
 	}
-	
+
 	.feature .box-section {
-	  margin-left: 50px;
+		margin-left: 50px;
 	}
+
 	.feature .col-lg-6 .box1,
 	.feature .col-lg-6 .box3 {
 		margin: 33px 0px 40px 180px;
 		height: 200px;
 		width: 150px;
 	}
+
 	.feature .col-lg-6 .box2,
 	.feature .col-lg-6 .box4 {
-		margin:-240px 0px 40px 340px;
+		margin: -240px 0px 40px 340px;
 		height: 200px;
 		width: 150px;
 	}
+
 	.feature .col-lg-6 p {
 		padding: 0px;
 	}
+
 	.feature .col-lg-6 .box1-img {
 		width: 45px;
 		height: 71px;
 		margin: 35px;
 		margin: 0px 0px 0px 50px;
 	}
+
 	/* featured-on */
 	.Rated {
 		margin: 30px 0px;
 	}
-	
+
 	.Rated .imageColumn {
 		float: left;
 		width: 20%;
 		padding: 30px;
 	}
+
 	.Rated .g2-c {
 		margin-top: 15px;
 	}
-	
+
 	.book-from-any-where {
-  		margin: 30px 0px;
+		margin: 30px 0px;
 	}
-	
+
 	.book-from-any-where .col-md-6 .img-b {
 		margin-top: 10px;
 	}
-	
+
 	.book-from-any-where .col-md-6 .b-b-y h2 {
 		padding: 10px 0px 10px 0px;
 	}
+
 	.book-from-any-where .col-md-6 .b-p-y {
 		padding: 10px 0px 10px 0px;
 		line-height: 25px;
@@ -2710,94 +2967,108 @@ img.what-is-picktime-img{
 		text-align: center;
 		font-size: 18px;
 	}
-	
+
 	.shape-ani {
-	  	display: none;
+		display: none;
 	}
-	
+
 	.connect-app img {
-	  	width: 40%;
+		width: 40%;
 	}
+
 	.connect-app .c-f-l-pic-19 {
 		min-width: 128px;
 		margin-bottom: 20px;
 		margin-left: -50px;
 		margin-right: 0px;
 	}
-	
+
 	.connect-app .c-s-l-pic-19 {
 		min-width: 128px;
 		margin-left: -50px;
 		margin-right: 10px;
 	}
-	
+
 	.connect-app {
 		padding-top: 25px;
 		padding-bottom: 25px;
 	}
+
 	/* love-by-evryine */
 	#love-by-evryine {
 		margin: 50px 0px;
 		padding: 0px;
 	}
+
 	/* #love-by-evryine #quote-carousel .carousel-indicators li {
 		display: none;
 	} */
 	#love-by-evryine #quote-carousel img {
-  		display: inline;
+		display: inline;
 	}
+
 	#love-by-evryine blockquote .small,
 	blockquote footer,
 	blockquote small {
-	  	margin-left: 154px;
-	  	margin-bottom: 8px;
-	  	margin-top: 12px;
+		margin-left: 154px;
+		margin-bottom: 8px;
+		margin-top: 12px;
 	}
+
 	#love-by-evryine #quote-carousel .carousel-control.right {
-	  	display: none;
+		display: none;
 	}
+
 	#love-by-evryine #quote-carousel .carousel-control.left {
-	  	display: none;
+		display: none;
 	}
+
 	#love-by-evryine #right-icon {
-	  	display: inline;
+		display: inline;
 	}
+
 	#love-by-evryine #right-icon {
-	  	margin-left: 20px;
+		margin-left: 20px;
 	}
-	
+
 	#love-by-evryine .carousel-inner p {
-	  	margin: 0px 0px 0px 0px;
+		margin: 0px 0px 0px 0px;
 	}
-	
+
 	#love-by-evryine blockquote small {
-	  	margin-left: 150px;
+		margin-left: 150px;
 	}
-	
+
 	/* picktime */
 	#picktime .col-md-6 .icons {
-	  	margin-top: 20px;
+		margin-top: 20px;
 	}
+
 	#picktime {
 		padding-top: 100px;
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center;
 	}
+
 	#picktime .col-md-6 img {
 		width: 150px;
 		margin: 100px 0px 0px 0px;
 	}
+
 	#picktime .social-media-icons {
- 		font-size: 25px;
+		font-size: 25px;
 	}
+
 	#picktime #f-6 {
 		margin-top: 190px;
 	}
+
 	/* footer */
 	#footer {
 		margin-top: -10px;
 	}
+
 	#footer #ex-sp {
 		margin-top: -330px;
 	}
@@ -2805,28 +3076,33 @@ img.what-is-picktime-img{
 
 @media only screen and (max-width: 767px) {
 	.navbar-brand img {
-	  	margin: -11px 0px 0px 0px;
-	  	width: 160px;
+		margin: -11px 0px 0px 0px;
+		width: 160px;
 	}
-	 .navbar-nav li a{
+
+	.navbar-nav li a {
 		margin: 20px 0px 0px 0px;
-	 }
+	}
+
 	.navbar .btn {
-	 	margin-top: 20px;
-	  	margin-left: 10px;
+		margin-top: 20px;
+		margin-left: 10px;
 	}
+
 	#picktime #f-6 {
-  		margin-top: 10px;
+		margin-top: 10px;
 	}
+
 	#footer #ex-sp {
 		margin-top: 0px;
 	}
-	
+
 	.Rated .imageColumn {
 		padding: 10px;
 	}
-	img.what-is-picktime-img{
-    
+
+	img.what-is-picktime-img {
+
 		height: 80px;
 	}
 }
@@ -2834,18 +3110,21 @@ img.what-is-picktime-img{
 /*=============Mobile Responsive=================*/
 
 
-@media only screen and (max-width: 540px){
+@media only screen and (max-width: 540px) {
 
 	.feature .col-lg-6 .box1,
 	.feature .col-lg-6 .box3 {
-	  	margin: 40px 0px 40px 40px;
+		margin: 40px 0px 40px 40px;
 	}
+
 	.feature .col-lg-6 .box4,
 	.feature .col-lg-6 .box2 {
-	  	margin: -260px 0px 40px 280px;
+		margin: -260px 0px 40px 280px;
 	}
-}	
+}
+
 @media only screen and (max-width: 540px) {
+
 	/*====Button====universal-selectors========*/
 	.what-is-picktime .col-md-12 .btn-lg,
 	.onlinebooking .col-md-6 .btn-lg,
@@ -2859,27 +3138,32 @@ img.what-is-picktime-img{
 		margin-left: 90px;
 		width: 60%;
 	}
-	
+
 	.feature .box-section {
-	  	margin-left: 0px;
+		margin-left: 0px;
 	}
+
 	.feature .col-lg-6 .box1,
 	.feature .col-lg-6 .box3 {
-	  	margin: 33px 0px 40px 40px;
+		margin: 33px 0px 40px 40px;
 	}
+
 	.feature .col-lg-6 .box4,
 	.feature .col-lg-6 .box2 {
-	  	margin: -240px 0px 40px 280px;
+		margin: -240px 0px 40px 280px;
 	}
+
 	#love-by-evryine #right-icon {
-	  	display: none;
+		display: none;
 	}
+
 	#footer #ex-sp {
 		margin-top: 0px;
 	}
 }
 
 @media only screen and (max-width: 480px) {
+
 	/*====Button==universal-selectors====*/
 	.what-is-picktime .col-md-12 .btn-lg,
 	.onlinebooking .col-md-6 .btn-lg,
@@ -2893,61 +3177,75 @@ img.what-is-picktime-img{
 		margin-left: 70px;
 		width: 60%;
 	}
+
 	.navbar .btn {
 		margin-top: 20px;
 		margin-left: 0px;
 		width: 100px;
 		height: 40px;
 	}
-    .video .col-md-6 .v-s-y h2 {
-	  	padding-top: 35px;
+
+	.video .col-md-6 .v-s-y h2 {
+		padding-top: 35px;
 	}
-	
+
 	.feature .box-section {
-	  	margin-left: 0px;
+		margin-left: 0px;
 	}
+
 	.feature .col-lg-6 .box1,
 	.feature .col-lg-6 .box3 {
-	  	margin: 0px 0px 0px 15px;
+		margin: 0px 0px 0px 15px;
 	}
+
 	.feature .col-lg-6 .box2,
 	.feature .col-lg-6 .box4 {
-	  	margin: -200px 200px 57px;
+		margin: -200px 200px 57px;
 	}
+
 	#love-by-evryine #quote-carousel img {
-	  	display: none;
+		display: none;
 	}
+
 	#love-by-evryine #right-icon {
-	  	display: none;
+		display: none;
 	}
+
 	#picktime .col-md-6 img {
 		width: 150px;
 		margin: 100px 0px 0px 0px;
 	}
+
 	.book-from-any-where .col-md-6 .img-b {
 		width: 100%;
 		margin-top: 20px;
 	}
+
 	.book-from-any-where .btn-lg {
 		/* display: none; */
 		margin-bottom: 10px;
 	}
-	
+
 	#footer #ex-sp {
-  		margin-top: 0px;
+		margin-top: 0px;
 	}
 }
+
 @media only screen and (max-width: 376px) {
+
 	.feature .col-lg-6 .box1,
 	.feature .col-lg-6 .box3 {
-	  	margin: 0px 0px 0px 0px;
+		margin: 0px 0px 0px 0px;
 	}
+
 	.feature .col-lg-6 .box2,
 	.feature .col-lg-6 .box4 {
-	  	margin: -200px 170px 57px;
+		margin: -200px 170px 57px;
 	}
 }
+
 @media only screen and (max-width: 348px) {
+
 	/*====Button==universal-selectors====*/
 	.onlinebooking .col-md-6 .btn-lg,
 	.payment .col-md-6 .btn-lg-p-x,
@@ -2957,18 +3255,21 @@ img.what-is-picktime-img{
 	.class-booking .col-md-6 .btn-lg-c-x,
 	.calenders .col-md-6 .btn-lg,
 	.book-from-any-where .btn-lg {
-  		margin-left: 40px;
-	  	width: 70%;
+		margin-left: 40px;
+		width: 70%;
 	}
+
 	.feature .box-section {
-	  	margin-left: 0px;
+		margin-left: 0px;
 	}
+
 	.feature .col-lg-6 .box1,
 	.feature .col-lg-6 .box3 {
 		margin: 0px -20px 0px;
 		height: 200px;
 		width: 145px;
 	}
+
 	.feature .col-lg-6 .box2,
 	.feature .col-lg-6 .box4 {
 		margin: -190px 140px 20px;
@@ -3055,6 +3356,7 @@ img.what-is-picktime-img{
 	box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
 	transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
+
 .features a {
 	color: #fff !important;
 	font-weight: 600;
@@ -3065,7 +3367,7 @@ img.what-is-picktime-img{
 /*===For Buinesss owners====start=====*/
 
 .for-buiness-owners {
-  	margin: 20px 0px 20px 0px;
+	margin: 20px 0px 20px 0px;
 }
 
 .for-buiness-owners .f-b-o-s-m h2 {
@@ -3095,6 +3397,7 @@ img.what-is-picktime-img{
 	padding-left: 15px;
 	position: relative;
 }
+
 .for-buiness-owners .f-b-o-h h3:before {
 	content: " ";
 	height: 100%;
@@ -3104,8 +3407,9 @@ img.what-is-picktime-img{
 	left: 0px;
 	border-radius: 10px;
 }
+
 .for-buiness-owners .f-b-o-h h3 a {
-  	color: #000000 !important;
+	color: #000000 !important;
 }
 
 .for-buiness-owners p {
@@ -3170,7 +3474,8 @@ img.what-is-picktime-img{
 	font-weight: 600;
 	line-height: 20px;
 }
-.for-class h3 a{
+
+.for-class h3 a {
 	color: #000000 !important;
 }
 
@@ -3184,7 +3489,7 @@ img.what-is-picktime-img{
 
 /*===For Team====start=====*/
 .for-team {
-  	margin: 10px 0px 100px 0px;
+	margin: 10px 0px 100px 0px;
 }
 
 .for-team .f-t-s-m h2 {
@@ -3206,12 +3511,13 @@ img.what-is-picktime-img{
 	height: 70px;
 	margin-right: 10px;
 }
+
 .manage-team .media-left {
-    vertical-align: middle;
+	vertical-align: middle;
 }
 
 .for-team .manage-team {
-  	margin: 100px 0px;
+	margin: 100px 0px;
 }
 
 .for-team .manage-team img {
@@ -3221,9 +3527,10 @@ img.what-is-picktime-img{
 }
 
 .for-team .manage-team .title h3 {
-  	font: normal normal 600 20px/24px Raleway;
+	font: normal normal 600 20px/24px Raleway;
 }
-.for-team .manage-team .title h3 a{
+
+.for-team .manage-team .title h3 a {
 	color: #000000 !important;
 }
 
@@ -3238,13 +3545,16 @@ img.what-is-picktime-img{
 /*===For Team====End=====*/
 
 /*===Pricing box====start=====*/
-.pricing-box *, .pricing-box-type *{
+.pricing-box *,
+.pricing-box-type * {
 	font-family: 'Poppins', sans-serif !important;
 }
+
 .pricing-box {
 	position: relative;
 	z-index: 10;
 }
+
 .pricing-box .box {
 	background-color: rgb(255 255 255 / 80%);
 	position: relative;
@@ -3255,6 +3565,7 @@ img.what-is-picktime-img{
 	width: 1000px;
 	text-align: center;
 }
+
 .pricing-box .box .btn-lg {
 	width: 40%;
 	color: #fff;
@@ -3272,16 +3583,19 @@ img.what-is-picktime-img{
 	padding-bottom: 15px;
 	display: block;
 }
+
 .pricing-box .box .btn-lg a {
 	color: white;
 	font-weight: bold;
 }
-.pricing-box h2{
+
+.pricing-box h2 {
 	font: normal normal bold 35px/44px Samsung Sharp Sans;
 	letter-spacing: 0px;
 	color: #8b22e2;
 	text-align: center;
 }
+
 .pricing-box .box-text {
 	padding: 15px 80px;
 	/* line-height: 22px; */
@@ -3291,10 +3605,11 @@ img.what-is-picktime-img{
 	font-size: 20px;
 	font-weight: 400;
 }
+
 @media only screen and (max-width: 1024px) {
-	.pricing-box .box{    
+	.pricing-box .box {
 		width: 800px;
-	}  
+	}
 }
 
 
@@ -3303,24 +3618,27 @@ img.what-is-picktime-img{
 
 /* Responsive web site */
 @media only screen and (max-width: 991px) {
+
 	/*=====big title======  */
 	#what-we-offer .w-w-o-b-m,
 	.features .f-b-m h2,
 	.for-buiness-owners .f-b-o-b-m h2,
 	.for-class .col-md-6 .f-c-b-x h2,
 	.for-team .f-t-b-m h2 {
-	  	font: normal normal bold 24px/30px Samsung Sharp Sans;
-	  	text-align: center;
-	  	margin: 20px 0px 20px 0px;
+		font: normal normal bold 24px/30px Samsung Sharp Sans;
+		text-align: center;
+		margin: 20px 0px 20px 0px;
 	}
+
 	/*=====small title======  */
 	.features .f-s-m h2,
 	.for-buiness-owners .f-b-o-s-m h2,
 	.for-class .col-md-6 .f-c-s-x h2,
 	.for-team .f-t-s-m h2 {
-	  	font: normal normal bold 18px/18px Samsung Sharp Sans;
-	  	text-align: center;
+		font: normal normal bold 18px/18px Samsung Sharp Sans;
+		text-align: center;
 	}
+
 	/*=====paragraph======  */
 	#what-we-offer .w-w-o-p-m,
 	.features .f-p-m {
@@ -3330,72 +3648,85 @@ img.what-is-picktime-img{
 		font-size: 18px;
 		text-align: center;
 	}
+
 	/*=====button======  */
-	 .features .btn-lg {
+	.features .btn-lg {
 		font-size: 15px;
 		padding: 14px 0px;
 		width: 60%;
-	 }
-	 #what-we-offer img {
-   		margin-top: -330px;
-	 }
-	 #what-we-offer .w-w-o-b-m {
-   		margin: 50px 0px 20px 0px;
-	 }
-	 #what-we-offer {
-	   	height: 290px;
-	 }
-	 .spacing {
+	}
+
+	#what-we-offer img {
+		margin-top: -330px;
+	}
+
+	#what-we-offer .w-w-o-b-m {
+		margin: 50px 0px 20px 0px;
+	}
+
+	#what-we-offer {
+		height: 290px;
+	}
+
+	.spacing {
 		margin-bottom: 50px;
 		margin-left: 30px;
-	 }
-	
-	 .for-buiness-owners p {
-	   	padding: 10px 0px 20px 0px;
-	 }
-	
-	 .for-buiness-owners .f-b-o-i .all-professional {
+	}
+
+	.for-buiness-owners p {
+		padding: 10px 0px 20px 0px;
+	}
+
+	.for-buiness-owners .f-b-o-i .all-professional {
 		width: 100%;
 		padding: 10px 100px 50px 100px;
-	 }
-	
-	 .for-team {
-	   	margin: 10px 0px 50px 0px;
-	 }
-	
-	 .for-team .manage-team p {
-	   	padding: 0px 50px 0px 0px;
-	 }
-	 .for-class .col-md-6 .f-c-s-x h2 {
-	   	padding: 10px 0px 10px 0px;
-	 }
-	 .for-class .col-md-6 .bg-p {
-	   	display: none;
-	 }
-	 .for-class .col-md-6 .img-p {
+	}
+
+	.for-team {
+		margin: 10px 0px 50px 0px;
+	}
+
+	.for-team .manage-team p {
+		padding: 0px 50px 0px 0px;
+	}
+
+	.for-class .col-md-6 .f-c-s-x h2 {
+		padding: 10px 0px 10px 0px;
+	}
+
+	.for-class .col-md-6 .bg-p {
+		display: none;
+	}
+
+	.for-class .col-md-6 .img-p {
 		/* display: none; */
 		width: 100%;
 		margin-top: 0px;
 		margin-left: 0px;
 	}
+
 	.for-team .f-t-b-i img {
 		width: 100%;
 		padding: 0px 120px;
 	}
+
 	.for-class .manage-team {
 		margin: 50px 0px;
 	}
-	
+
 	.pricing-box .box {
 		margin: -38px 20px -170px;
 		width: 550px;
 	}
-	.pricing-box h2{
+
+	.pricing-box h2 {
 		font: normal normal bold 24px/30px Samsung Sharp Sans;
 	}
+
 	.pricing-box .box .btn-lg {
 		width: 60%;
 	}
+
 	.pricing-box .box-text {
 		padding: 10px 10px 10px 10px;
 	}
@@ -3403,77 +3734,91 @@ img.what-is-picktime-img{
 
 @media only screen and (max-width: 591px) {
 	#what-we-offer img {
-  		margin-top: -195px;
+		margin-top: -195px;
 	}
+
 	#banner-bg-color {
-	  	height: 21px;
-	  	margin-top: -30px;
+		height: 21px;
+		margin-top: -30px;
 	}
-	
+
 	.for-buiness-owners .f-b-o-i .all-professional {
-	  	width: 100%;
-	  	padding: 10px 0px 40px;
+		width: 100%;
+		padding: 10px 0px 40px;
 	}
-	
+
 	.for-team .f-t-b-i img {
-	  	width: 100%;
-	  	padding: 0px 40px;
+		width: 100%;
+		padding: 0px 40px;
 	}
+
 	.pricing-box .box .btn-lg {
-	  	font-size: 10px;
+		font-size: 10px;
 	}
+
 	.pricing-box .box {
-	  	width: 380px;
+		width: 380px;
 	}
-	.for-buiness-owners .f-b-o-h h3{
-    	font: normal normal 600 16px/20px Raleway;
+
+	.for-buiness-owners .f-b-o-h h3 {
+		font: normal normal 600 16px/20px Raleway;
 	}
-	.for-buiness-owners p{
-	  	font-size: 14px;
-  		line-height: 18px;
+
+	.for-buiness-owners p {
+		font-size: 14px;
+		line-height: 18px;
 	}
-	.spacing{    
-	  	margin-left: 0px;
+
+	.spacing {
+		margin-left: 0px;
 	}
-	.for-class h3{
-	  	margin: 0px;
-	  	margin-bottom: 20px;
+
+	.for-class h3 {
+		margin: 0px;
+		margin-bottom: 20px;
 	}
 }
 
 @media only screen and (max-width: 425px) {
+
 	/*=====big title======  */
 	#what-we-offer .w-w-o-b-m,
 	.features .f-b-m h2,
 	.for-buiness-owners .f-b-o-b-m h2,
 	.for-class .col-md-6 .f-c-b-x h2,
 	.for-team .f-t-b-m h2 {
-  		font: normal normal bold 20px/24px Samsung Sharp Sans;
+		font: normal normal bold 20px/24px Samsung Sharp Sans;
 	}
+
 	/*=====small title======  */
 	.features .f-s-m h2,
 	.for-buiness-owners .f-b-o-s-m h2,
 	.for-class .col-md-6 .f-c-s-x h2,
 	.for-team .f-t-s-m h2 {
-  		font: normal normal bold 16px/16px Samsung Sharp Sans;
+		font: normal normal bold 16px/16px Samsung Sharp Sans;
 	}
+
 	.btn-pt {
-    	padding: 12px 50px;
+		padding: 12px 50px;
 	}
+
 	/*=====button======  */
-	
+
 	#what-we-offer img {
-	  	margin-top: -140px;
+		margin-top: -140px;
 	}
+
 	#banner-bg-color {
-	  	height: 80px;
-	  	margin-top: -28px;
+		height: 80px;
+		margin-top: -28px;
 	}
+
 	#what-we-offer .w-w-o-b-m {
-	  	margin: -37px 0px 20px 0px;
+		margin: -37px 0px 20px 0px;
 	}
+
 	.pricing-box .box {
-	  	width: 280px;
+		width: 280px;
 	}
 }
 
@@ -3505,6 +3850,7 @@ img.what-is-picktime-img{
 	font-size: 20px;
 	font-weight: 400;
 }
+
 #wave1 {
 	margin-top: -144px;
 }
@@ -3560,95 +3906,106 @@ img.what-is-picktime-img{
 /*===INTEGRATION body====END=====*/
 @media only screen and (max-width: 2560px) {
 	#wave1 {
-  		margin-top: -210px;
+		margin-top: -210px;
 	}
+
 	#integration {
-  		height: 600px;
+		height: 600px;
 	}
 }
+
 @media only screen and (max-width: 1880px) {
 	#wave1 {
-	  	margin-top: -175px;
+		margin-top: -175px;
 	}
 }
+
 @media only screen and (max-width: 1440px) {
 	#wave1 {
-	  	margin-top: -144px;
+		margin-top: -144px;
 	}
 }
 
 @media only screen and (max-width: 1199px) {
- 
+
 	#wave1 {
-  		margin-top: -114px;
+		margin-top: -114px;
 	}
 }
 
 @media only screen and (max-width: 991px) {
+
 	/*=====big title======  */
 	#integration .i-b-m h1 {
-  		font: normal normal bold 24px/30px Samsung Sharp Sans;
-	  	text-align: center;
-	  	margin: 160px 0px 20px 0px;
+		font: normal normal bold 24px/30px Samsung Sharp Sans;
+		text-align: center;
+		margin: 160px 0px 20px 0px;
 	}
+
 	/*=====small title======  */
 	#integration-body .integration-title {
-	  	font: normal normal bold 18px/18px Samsung Sharp Sans;
-	  	text-align: center;
+		font: normal normal bold 18px/18px Samsung Sharp Sans;
+		text-align: center;
 	}
-	
+
 	#integration .i-s-m {
-	  	margin: 0px 0px 0px 0px;
-	  	font-size: 18px;
-	  	line-height: 30px;
+		margin: 0px 0px 0px 0px;
+		font-size: 18px;
+		line-height: 30px;
 	}
-	
+
 	#integration {
-	  	height: 530px;
+		height: 530px;
 	}
-	
+
 	#wave1 {
-	  	margin-top: -82px;
+		margin-top: -82px;
 	}
-	
+
 	.pricing-box .box {
-	  	margin: -38px auto -170px;
-	  	width: 550px;
+		margin: -38px auto -170px;
+		width: 550px;
 	}
-	.pricing-box h2{
-	  	font: normal normal bold 24px/30px Samsung Sharp Sans;
+
+	.pricing-box h2 {
+		font: normal normal bold 24px/30px Samsung Sharp Sans;
 	}
+
 	.pricing-box .box .btn-lg {
-	  	width: 60%;
+		width: 60%;
 	}
+
 	.pricing-box .box-text {
-	  	padding: 10px 0px;
-	  	font-size: 14px;
-	  	line-height: 20px;
+		padding: 10px 0px;
+		font-size: 14px;
+		line-height: 20px;
 	}
 }
 
 @media only screen and (max-width: 591px) {
 	.pricing-box .box .btn-lg {
-	  	font-size: 14px;
-	  	font-weight: bold;
-	  	width: 100%;
+		font-size: 14px;
+		font-weight: bold;
+		width: 100%;
 	}
+
 	.pricing-box .box {
-	  	width: 380px;
+		width: 380px;
 	}
-	
+
 	#wave1 {
-	  	margin-top: -60px;
+		margin-top: -60px;
 	}
 }
+
 @media only screen and (max-width: 425px) {
 	.pricing-box .box {
-	  	width: 280px;
-	  	padding: 20px;
+		width: 280px;
+		padding: 20px;
 	}
+
 	#wave1 {
-	  	margin-top: -52px;
+		margin-top: -52px;
 	}
 }
 
@@ -3661,6 +4018,7 @@ img.what-is-picktime-img{
 	margin-top: 100px;
 	padding-bottom: 100px;
 }
+
 .sec-first .col-md-6 h1 {
 	font: normal normal bold 40px/50px Samsung Sharp Sans;
 	letter-spacing: 0px;
@@ -3668,59 +4026,68 @@ img.what-is-picktime-img{
 	padding-top: 15px;
 	margin-top: 100px;
 }
-.sec-first .col-md-6 span{
-  	color: #8b22e2;	
+
+.sec-first .col-md-6 span {
+	color: #8b22e2;
 }
+
 .sec-first .col-md-6 p {
 	font-size: 20px;
 	font-weight: 400;
 	padding: 15px 0px;
 	line-height: 35px;
 }
+
 .sec-first .col-md-6 .btn-lg {
-    width: 250px;
-    padding: 16px 0px;
-    color: #fff;
-    font-size: 15px;
-    font-weight: bold;
-    letter-spacing: 0.12px;
-    background: #8b22e2 0% 0% no-repeat padding-box;
-    border-radius: 25px;
-    outline: none;
-    border: none;
-    text-align: center;
-    box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
-    transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+	width: 250px;
+	padding: 16px 0px;
+	color: #fff;
+	font-size: 15px;
+	font-weight: bold;
+	letter-spacing: 0.12px;
+	background: #8b22e2 0% 0% no-repeat padding-box;
+	border-radius: 25px;
+	outline: none;
+	border: none;
+	text-align: center;
+	box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
+	transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
-.sec-first .col-md-6 .btn-lg:hover{
+
+.sec-first .col-md-6 .btn-lg:hover {
 	background: #9c48e2 !important;
 }
+
 .sec-first .col-md-6 img {
 	position: relative;
 	width: 100%;
 	padding-top: 50px;
 }
 
-.sec-first .col-md-6 .P-top{
+.sec-first .col-md-6 .P-top {
 	padding-top: 110px;
 }
-.sec-first .nail-extra-small{
+
+.sec-first .nail-extra-small {
 	padding: 50px;
 }
-.sec-first .magicians-pt{
+
+.sec-first .magicians-pt {
 	padding: 0px 60px;
 	padding-top: 0px !important;
 }
+
 /*  wave  */
 .sec-first .wave {
-  	margin-top: -48px;
+	margin-top: -48px;
 }
 
 /*=========banner==========end========*/
 .sec-two {
-  	margin: 60px 0px;
+	margin: 60px 0px;
 }
-.sec-two img{
+
+.sec-two img {
 	width: 80px;
 }
 
@@ -3729,43 +4096,48 @@ img.what-is-picktime-img{
 	margin: 10px 0px;
 }
 
-.colums{
+.colums {
 	padding: 15px 0px;
 	margin: 15px 0px;
 }
+
 .colums:hover {
-    box-shadow: 0 3px 20px 0px rgb(0 0 0 / 12%);
-    border-radius: 25px;
-    padding: 15px 0px;
-    margin: 15px 0px;
+	box-shadow: 0 3px 20px 0px rgb(0 0 0 / 12%);
+	border-radius: 25px;
+	padding: 15px 0px;
+	margin: 15px 0px;
 }
+
 .sec-two p {
 	line-height: 30px;
 	font-size: 20px;
 	font-weight: 400;
 	margin: 10px 30px;
 }
-.view-all{
-	padding:15px 80px;
-    color: #fff !important;
-    font-weight: 600;
-    letter-spacing: 0.12px;
-    background: #8b22e2 0% 0% no-repeat padding-box;
-    border-radius: 25px;
-    outline: none;
-    border: none;
-    text-align: center;
-    box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
-    transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    margin: 20px 0px;
+
+.view-all {
+	padding: 15px 80px;
+	color: #fff !important;
+	font-weight: 600;
+	letter-spacing: 0.12px;
+	background: #8b22e2 0% 0% no-repeat padding-box;
+	border-radius: 25px;
+	outline: none;
+	border: none;
+	text-align: center;
+	box-shadow: 0 2px 4px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 20%);
+	transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+	margin: 20px 0px;
 }
-.view-all:hover{
+
+.view-all:hover {
 	background: #9c48e2 !important;
 }
+
 /*=====section three==start==*/
 
 .sec-three {
-  	margin: 100px 0px 40px 0px;
+	margin: 100px 0px 40px 0px;
 }
 
 .sec-three h3 {
@@ -3779,15 +4151,18 @@ img.what-is-picktime-img{
 	font: normal normal bold 35px/44px Samsung Sharp Sans;
 	letter-spacing: 0px;
 }
+
 .sec-three p {
 	line-height: 30px;
 	font-size: 20px;
 	font-weight: 400;
 }
+
 .sec-three img {
 	width: 100%;
 	padding: 0px 30px;
 }
+
 .sec-three .mr-t {
 	margin-top: 50px;
 }
@@ -3797,7 +4172,7 @@ img.what-is-picktime-img{
 /*=====section four==start==*/
 
 .sec-four {
-  	margin: 100px 0px 40px 0px;
+	margin: 100px 0px 40px 0px;
 }
 
 .sec-four img {
@@ -3828,128 +4203,153 @@ img.what-is-picktime-img{
 
 /*=====section five==start==*/
 .sec-five {
-  	margin: 100px 0px 40px 0px;
+	margin: 100px 0px 40px 0px;
 }
+
 .sec-five h3 {
-  	font: normal normal bold 20px/24px Samsung Sharp Sans;
-  	letter-spacing: 0px;
-  	color: #8a2be2;
-  	margin: 100px 0px 10px 0px;
+	font: normal normal bold 20px/24px Samsung Sharp Sans;
+	letter-spacing: 0px;
+	color: #8a2be2;
+	margin: 100px 0px 10px 0px;
 }
+
 .sec-five h4 {
-  	font: normal normal bold 35px/44px Samsung Sharp Sans;
-  	letter-spacing: 0px;
+	font: normal normal bold 35px/44px Samsung Sharp Sans;
+	letter-spacing: 0px;
 }
+
 .sec-five p {
-   	line-height: 30px;
-   	font-size: 20px;
-   	font-weight: 400;
+	line-height: 30px;
+	font-size: 20px;
+	font-weight: 400;
 }
+
 .sec-five img {
-  	width: 100%;
-  	padding: 0px 50px;
+	width: 100%;
+	padding: 0px 50px;
 }
+
 .sec-five .mr-t {
-  	margin-top: 60px;
+	margin-top: 60px;
 }
+
 .sec-five .p-top {
-  	padding-top: 110px;
+	padding-top: 110px;
 }
-.sec-five  .extra-small{
-  	width: 100%;
+
+.sec-five .extra-small {
+	width: 100%;
 	padding: 0px 80px;
 }
+
 /*=====section five==End==*/
 
 
 /*=====section four==start==*/
-.sec-sixth{
-    padding: 100px 0px;
+.sec-sixth {
+	padding: 100px 0px;
 	background: #EFF1F7;
 }
+
 @media only screen and (max-width: 991px) {
-  	/*===== big titles===768====== */
-  	.sec-three h4,
-  	.sec-four h4,
-  	.sec-five h4
-    {
-	    font: normal normal bold 24px/30px Samsung Sharp Sans;
-	    text-align: center;
-  	}
-  	/*========= small titles========= */
-  	.sec-three h3,
-  	.sec-four h3,
-  	.sec-five h3 {
-	    font: normal normal bold 18px/18px Samsung Sharp Sans;
-	    text-align: center;
-	    margin: 15px 0px 10px 0px;
-  	}
-  	/*=====paragraph======  */
-  	.sec-three p,
-  	.sec-four p,
-  	.sec-five p
-   	{
+
+	/*===== big titles===768====== */
+	.sec-three h4,
+	.sec-four h4,
+	.sec-five h4 {
+		font: normal normal bold 24px/30px Samsung Sharp Sans;
+		text-align: center;
+	}
+
+	/*========= small titles========= */
+	.sec-three h3,
+	.sec-four h3,
+	.sec-five h3 {
+		font: normal normal bold 18px/18px Samsung Sharp Sans;
+		text-align: center;
+		margin: 15px 0px 10px 0px;
+	}
+
+	/*=====paragraph======  */
+	.sec-three p,
+	.sec-four p,
+	.sec-five p {
 		margin-left: 0px;
 		line-height: 25px;
 		letter-spacing: 0.22px;
 		text-align: center;
-  	}
+	}
+
 	.sec-first .wave {
-   		margin-top: 30px;
-  	}
-  	/* banners */
+		margin-top: 30px;
+	}
+
+	/* banners */
 	.sec-first .col-md-6 img {
-   		width: 100%;
-    	padding-top: 15px;
-  	}
-  	.sec-first .col-md-6 .P-top{
+		width: 100%;
 		padding-top: 15px;
 	}
- 	.sec-first .col-md-6 h1 {
-    	font: normal normal bold 30px/40px Samsung Sharp Sans;
-    	text-align: center;
-    	margin-top: 30px;
-  	}
- 	.sec-first .col-md-6 .btn-lg {
-    	width: 100%;
-  	}
+
+	.sec-first .col-md-6 .P-top {
+		padding-top: 15px;
+	}
+
+	.sec-first .col-md-6 h1 {
+		font: normal normal bold 30px/40px Samsung Sharp Sans;
+		text-align: center;
+		margin-top: 30px;
+	}
+
+	.sec-first .col-md-6 .btn-lg {
+		width: 100%;
+	}
+
 	.sec-first .col-md-6 p {
-    	line-height: 25px;
-    	letter-spacing: 0.22px;
-    	text-align: center;
-  	}
- 	.sec-firstr{
- 	 	margin-top: 30px;
-  	}
-  	.sec-three {
-    	margin: 20px 0px 20px 0px;
+		line-height: 25px;
+		letter-spacing: 0.22px;
+		text-align: center;
 	}
+
+	.sec-firstr {
+		margin-top: 30px;
+	}
+
+	.sec-three {
+		margin: 20px 0px 20px 0px;
+	}
+
 	.sec-four {
-    	margin: 20px 0px 20px 0px;
+		margin: 20px 0px 20px 0px;
 	}
+
 	.sec-five {
-    	margin: 20px 0px 20px 0px;
+		margin: 20px 0px 20px 0px;
 	}
-	
+
 	.sec-three img,
 	.sec-four img,
 	.sec-five img {
-    	padding: 10px 75px;
-    }
-    .sec-five .mr-t {
-  		margin-top: 10px;
+		padding: 10px 75px;
 	}
-    .sec-three .mr-t {
+
+	.sec-five .mr-t {
 		margin-top: 10px;
 	}
-    .sec-sixth {
-    	padding: 20px 0px;
+
+	.sec-three .mr-t {
+		margin-top: 10px;
+	}
+
+	.sec-sixth {
+		padding: 20px 0px;
 		background: #EFF1F7;
 	}
+
 	.sec-five .p-top {
-     	padding-top: 10px;
+		padding-top: 10px;
 	}
 }
+
 /*-Industries-individual---page-End-*/
 
 /* Industries-page-start */
@@ -3976,6 +4376,7 @@ img.what-is-picktime-img{
 	margin-right: -15px;
 	margin-left: -15px;
 }
+
 #industries .unit-4 {
 	padding: 30px;
 	border-radius: 5px;
@@ -3990,12 +4391,14 @@ img.what-is-picktime-img{
 	/* background: #ffffff 0% 0% no-repeat padding-box; */
 	box-shadow: 0px 2px 20px #c6becc;
 }
+
 #industries .unit-4:hover {
 	background: #8b22e2 0% 0% no-repeat padding-box;
 	-webkit-box-shadow: 0 4px 20px -5px rgb(66 133 244 / 40%);
 	box-shadow: 0 4px 20px -5px rgb(66 133 244 / 40%);
 	top: -7px;
 }
+
 #industries .unit-4 .unit-4-icon {
 	position: absolute;
 	-webkit-transform: translateX(-50%);
@@ -4004,6 +4407,7 @@ img.what-is-picktime-img{
 	left: 50%;
 	top: -50px;
 }
+
 #industries .unit-4 .unit-4-icon .icon-wrap {
 	width: 80px;
 	height: 80px;
@@ -4013,9 +4417,11 @@ img.what-is-picktime-img{
 	border: solid 2px #8b22e2;
 	background: #ffffff 0% 0% no-repeat padding-box;
 }
+
 #industries .unit-4:hover .icon-wrap {
-  	background-color: #fff;
+	background-color: #fff;
 }
+
 #industries .unit-4 .unit-4-icon .icon-wrap span {
 	position: absolute;
 	top: 50%;
@@ -4025,9 +4431,11 @@ img.what-is-picktime-img{
 	-ms-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
 }
+
 #industries .unit-4:hover .icon-wrap span {
 	color: #4285f4 !important;
 }
+
 #industries .unit-4 h1 {
 	font-size: 18px;
 	color: #000;
@@ -4035,9 +4443,11 @@ img.what-is-picktime-img{
 	-o-transition: 0.3s all ease;
 	transition: 0.3s all ease;
 }
+
 #industries .unit-4:hover h1 {
 	color: #fff;
 }
+
 #industries .unit-4 p {
 	font-weight: 300;
 	color: black;
@@ -4045,89 +4455,105 @@ img.what-is-picktime-img{
 	-o-transition: 0.3s all ease;
 	transition: 0.3s all ease;
 }
+
 #industries .unit-4:hover p {
-  	color: #fff;
+	color: #fff;
 }
 
 @media only screen and (max-width: 991px) {
 	#industries_services .main-subtitle {
-    	font-size: 12px;
-    	padding: 0px 50px;
+		font-size: 12px;
+		padding: 0px 50px;
 	}
 }
+
 /* Industries-page-End */
 
 /*mobile app-page-start */
-.apps-banner{
+.apps-banner {
 	padding-bottom: 30px !important;
 }
+
 .apps-banner .col-md-6 .b-t-y h1 {
-    font: normal normal bold 50px/60px Samsung Sharp Sans;
-    letter-spacing: 0px;
-    color: #312b2b;
-    padding-top: 15px;
-    margin-top: 70px;
+	font: normal normal bold 50px/60px Samsung Sharp Sans;
+	letter-spacing: 0px;
+	color: #312b2b;
+	padding-top: 15px;
+	margin-top: 70px;
 }
+
 .apps-banner .col-md-6 .b-p-y {
-    font-size: 20px;
-    font-weight: 400;
-    padding: 15px 0px;
-    line-height: 35px;
+	font-size: 20px;
+	font-weight: 400;
+	padding: 15px 0px;
+	line-height: 35px;
 }
-#mobile-main{
+
+#mobile-main {
 	margin-left: auto;
 	margin-right: auto;
 }
+
 #apps-body h2 {
-  	font: normal normal bold 20px/24px Samsung Sharp Sans;
-  	letter-spacing: 0px;
-  	color: #8a2be2;
-  	padding-top: 80px;
+	font: normal normal bold 20px/24px Samsung Sharp Sans;
+	letter-spacing: 0px;
+	color: #8a2be2;
+	padding-top: 80px;
 }
+
 #apps-body p {
-  	font-size: 18px;
-  	font-weight: 400;
-  	padding: 15px 0px;
-  	line-height: 30px;
+	font-size: 18px;
+	font-weight: 400;
+	padding: 15px 0px;
+	line-height: 30px;
 }
+
 #apps-body .col-md-6.mobile-app-image img {
 	margin: 0 auto;
-  	width: auto;
-  	padding: 0px 70px;
+	width: auto;
+	padding: 0px 70px;
 }
-#apps-body{
+
+#apps-body {
 	margin: 0px 0px 250px;
 }
+
 #apps-body #mobile-main {
-  	margin: 0 auto;
-  	/* padding: 20px;   */
+	margin: 0 auto;
+	/* padding: 20px;   */
 }
-.appsPage-body > div{
+
+.appsPage-body>div {
 	margin-top: 100px;
 }
 
 @media only screen and (max-width: 991px) {
 	.apps-banner .col-md-6 .b-t-y h1 {
-	    font: normal normal bold 30px/40px Samsung Sharp Sans;
-	    text-align: center;
+		font: normal normal bold 30px/40px Samsung Sharp Sans;
+		text-align: center;
 	}
+
 	.apps-banner .col-md-6 .b-p-y {
-	    line-height: 25px;
-	    letter-spacing: 0.22px;
-	    text-align: center;
+		line-height: 25px;
+		letter-spacing: 0.22px;
+		text-align: center;
 	}
-  	#apps-body h2 {
-	    padding-top: 20px;
-	    text-align: center;
-  	}
-  	#apps-body p {
-	    padding: 10px 0px 0px 0px;
-	    text-align: center;
-  	}
-  	#apps-body .col-md-6.mobile-app-image img {
-    	padding: 25px;
+
+	#apps-body h2 {
+		padding-top: 20px;
+		text-align: center;
+	}
+
+	#apps-body p {
+		padding: 10px 0px 0px 0px;
+		text-align: center;
+	}
+
+	#apps-body .col-md-6.mobile-app-image img {
+		padding: 25px;
 	}
 }
+
 /* mobile app-page-end */
 
 /* All industrie-page-css-start  */
@@ -4137,39 +4563,48 @@ img.what-is-picktime-img{
 	color: #8A2BE2;
 	margin: 20px 0px;
 }
+
 .industries-body-section p {
 	font-size: 20px;
 	font-weight: 400;
 	padding: 15px 0px;
 	line-height: 35px;
 }
-.industries-body-section p a{
-  	color:#333;
+
+.industries-body-section p a {
+	color: #333;
 }
-.industries-body-section p a:hover{
-  	text-decoration: none;
+
+.industries-body-section p a:hover {
+	text-decoration: none;
 }
-.industries-body-section p a:focus{
-  	text-decoration: none;
+
+.industries-body-section p a:focus {
+	text-decoration: none;
 }
+
 .industries-body-section .services_sec {
 	margin: 10px 0px 20px 0px;
 }
-.industries-body-section .img-responsive{
+
+.industries-body-section .img-responsive {
 	margin: auto;
 	border-radius: 20px !important;
 }
+
 .industries-body-section ul {
 	margin-bottom: 70px;
 	padding-left: 25px;
 }
+
 .industries-body-section ul li {
 	list-style: none;
 	font-size: 20px;
 	font-weight: 400;
 	line-height: 35px;
 }
-.industries-body-section ul li:before{
+
+.industries-body-section ul li:before {
 	content: ' ';
 	margin-left: -25px;
 	margin-top: 8px;
@@ -4178,16 +4613,19 @@ img.what-is-picktime-img{
 	height: 20px;
 	background: url("data:image/svg+xml;utf8,<?xml version='1.0' encoding='utf-8'?><svg width='18' height='18' viewBox='0 0 1792 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1671 566q0 40-28 68l-724 724-136 136q-28 28-68 28t-68-28l-136-136-362-362q-28-28-28-68t28-68l136-136q28-28 68-28t68 28l294 295 656-657q28-28 68-28t68 28l136 136q28 28 28 68z'/></svg>") no-repeat;
 }
+
 .industries-body-section h3 {
 	font: normal normal bold 20px/24px Samsung Sharp Sans;
 	letter-spacing: 0px;
 	margin: 10px 0px 0px 0px;
 }
+
 #industries_services {
 	margin-top: -27px;
 	height: 450px;
 	background: #F0F2F8 0% 0% no-repeat padding-box;
 }
+
 #industries_services .main_title h1 {
 	text-align: center;
 	font: normal normal bold 40px/50px Samsung Sharp Sans;
@@ -4207,9 +4645,11 @@ img.what-is-picktime-img{
 		text-align: center;
 		margin: 150px 0px 20px 0px;
 	}
+
 	#industries_services .i-s-m {
 		margin: 0px 0px 0px 0px;
 	}
+
 	#industries_services {
 		height: 300px;
 	}
@@ -4242,16 +4682,19 @@ img.what-is-picktime-img{
 	margin: 10px 0px 20px 0px;
 }
 
-div#industries > div > div {
-    margin-bottom: 40px;
-    /* padding: 0px 15px; */
+div#industries>div>div {
+	margin-bottom: 40px;
+	/* padding: 0px 15px; */
 }
-div#industries > div > div a:hover{
+
+div#industries>div>div a:hover {
 	text-decoration: none;
 }
-div#industries > div > div a:focus{
+
+div#industries>div>div a:focus {
 	text-decoration: none;
 }
+
 /* wave start */
 #industries_services {
 	margin-top: -27px;
@@ -4261,7 +4704,7 @@ div#industries > div > div a:focus{
 	overflow: hidden;
 }
 
-#industries_services .main_title  h1 {
+#industries_services .main_title h1 {
 	text-align: center;
 	font: normal normal bold 40px/50px Samsung Sharp Sans;
 	margin: 220px 0px 20px 0px;
@@ -4280,12 +4723,15 @@ div#industries > div > div a:focus{
 		text-align: center;
 		margin: 200px 0px 20px 0px;
 	}
+
 	#industries_services .i-s-m {
 		margin: 0px 0px 0px 0px;
 	}
+
 	#industries_services {
 		height: 500px;
 	}
+
 	.main-subtitle {
 		font-size: 15px;
 		padding: 10px 50px;
@@ -4297,35 +4743,41 @@ div#industries > div > div a:focus{
 		margin: 30px 0px 20px 50px;
 	}
 }
+
 /* All feature-page-css-end */
 
 /* Pricing Page-css-start */
-.pricing-header{
- 	height: 450px;
- 	background: #f0f2f8 0% 0% no-repeat padding-box;
- }
-.pricing-h1{
+.pricing-header {
+	height: 450px;
+	background: #f0f2f8 0% 0% no-repeat padding-box;
+}
+
+.pricing-h1 {
 	text-align: center;
 	font: normal normal bold 40px/50px Samsung Sharp Sans;
 	margin: 180px 0px 20px 0px;
-	color:#8B22E2;
+	color: #8B22E2;
 }
-.pricing-text{
+
+.pricing-text {
 	letter-spacing: 0.22px;
 	text-align: center;
 	line-height: 35px;
 	font-size: 20px;
 	font-weight: 400;
 }
-.pricing-sec{
+
+.pricing-sec {
 	margin-bottom: 170px;
 	margin-top: 50px;
 }
-.pricing-sec .card{
+
+.pricing-sec .card {
 	margin-bottom: 40px;
 	padding-bottom: 20px;
 }
-.gotobilling-btn{
+
+.gotobilling-btn {
 	padding: 10px 50px;
 	background: #8b22e2;
 	color: #fff;
@@ -4337,55 +4789,64 @@ div#industries > div > div a:focus{
 	width: 100%;
 	margin-top: 20px;
 }
-.gotobilling-btn:hover{
+
+.gotobilling-btn:hover {
 	background: #9c48e2 !important;
 	color: #fff;
 }
-.current-tn{
+
+.current-tn {
 	background: none;
-    border: 1px solid #c7c7c7;
-    color: #626664;
-    border-radius: 5px;
-    font-weight: 500;
-    border: 1.8px solid #908f90;
+	border: 1px solid #c7c7c7;
+	color: #626664;
+	border-radius: 5px;
+	font-weight: 500;
+	border: 1.8px solid #908f90;
 }
-.current-tn:hover{
+
+.current-tn:hover {
 	background: none !important;
 	color: #626664;
 }
-.pricing-sec .card-body{
+
+.pricing-sec .card-body {
 	padding: 20px;
 	border: 1px solid #ececec;
 	border-radius: 10px;
 	box-shadow: 0px 0px 11px 0px rgb(203 203 203 / 40%);
 	-webkit-box-shadow: 0px 0px 11px 0px rgb(203 203 203 / 40%);
-	-moz-box-shadow: 0px 0px 11px 0px rgba(203,203,203,.40);
+	-moz-box-shadow: 0px 0px 11px 0px rgba(203, 203, 203, .40);
 }
-.pricing-sec .card-body-mt{
+
+.pricing-sec .card-body-mt {
 	margin-top: 40px;
 }
-.pricing-subtext{
+
+.pricing-subtext {
 	color: #5a5757;
 	margin-top: 20px;
 	margin-bottom: 30px;
 	font-weight: 300;
 }
-.pricing-sec .pro-card-body{
+
+.pricing-sec .pro-card-body {
 	border: 2px solid #8b22e2;
-    border-radius: 0px 0px 10px 10px;
+	border-radius: 0px 0px 10px 10px;
 }
 
-.see-all-featureLink{
+.see-all-featureLink {
 	color: #8b22e2;
 	text-decoration: underline;
 	font-weight: 600;
 	padding: 10px 0px;
 }
+
 .see-all-featureLink:hover,
 .see-all-featureLink:active,
 .see-all-featureLink:focus {
 	color: #8b22e2;
 }
+
 .most-popular>h6 {
 	background: #8b22e2;
 	font-size: 20px;
@@ -4394,35 +4855,40 @@ div#industries > div > div a:focus{
 	font-weight: 700;
 	margin: 0;
 }
-.card-header{
-    background-color: #8b22e2;
-    color: #ffffff;
-    font-size: 12px;
-    font-weight: 500;
-    border-radius: 10px 10px 0px 0px;
-    padding: 10px 0px;
+
+.card-header {
+	background-color: #8b22e2;
+	color: #ffffff;
+	font-size: 12px;
+	font-weight: 500;
+	border-radius: 10px 10px 0px 0px;
+	padding: 10px 0px;
 
 }
+
 .card-pricing {
-    /* display: flex; */
-    /* justify-content: center; */
-    padding: 10px 0px;
-    margin-top: 30px;
-    text-align: center;
+	/* display: flex; */
+	/* justify-content: center; */
+	padding: 10px 0px;
+	margin-top: 30px;
+	text-align: center;
 }
+
 .billed-annually {
-    text-align: center;
-    margin-right: 80px;
-    margin-top: -10px;
+	text-align: center;
+	margin-right: 80px;
+	margin-top: -10px;
 }
+
 .pricing-text2 {
-    font-size: 35px;
-    color: #8b22e2;
-    font-weight: 900;
-    margin: 0px 10px;
-    display: inline-block;
+	font-size: 35px;
+	color: #8b22e2;
+	font-weight: 900;
+	margin: 0px 10px;
+	display: inline-block;
 }
-.plan-price-user-cont{
+
+.plan-price-user-cont {
 	color: gray;
 	font-size: 14px;
 	font-weight: 300;
@@ -4430,77 +4896,93 @@ div#industries > div > div a:focus{
 	display: inline-block;
 	text-align: start;
 }
-@media (max-width: 1199px) and (min-width: 992px){
-	.pricing-sec .card-body{
-	    height: 100%;
-    	max-height: 1120px;
+
+@media (max-width: 1199px) and (min-width: 992px) {
+	.pricing-sec .card-body {
+		height: 100%;
+		max-height: 1120px;
 	}
+
 	.starter li:last-of-type {
-    	margin-bottom: 44px;
+		margin-bottom: 44px;
 	}
+
 	.free li:last-of-type {
-    	margin-bottom: 240px;
+		margin-bottom: 240px;
 	}
+
 	.pricing-sec ul {
-    	margin-bottom: 40px;
+		margin-bottom: 40px;
 	}
-} 
-@media (max-width: 346px){
-	.pricing-sec .card-body{
+}
+
+@media (max-width: 346px) {
+	.pricing-sec .card-body {
 		height: 100%;
 	}
-}  
-.pricing-sec .card-title{
+}
+
+.pricing-sec .card-title {
 	margin: 10px 0px;
 	font-size: 30px;
 	font-weight: 500;
 	font-size: 25px;
 }
-.pricing-sec .card-price{
-   	margin: 0px 60px;
-   	font-size: 25px;
-   	font-weight: 500;
-   	background: #f0e8fd;
-   	padding: 10px 20px;
-   	border-radius: 15px;
+
+.pricing-sec .card-price {
+	margin: 0px 60px;
+	font-size: 25px;
+	font-weight: 500;
+	background: #f0e8fd;
+	padding: 10px 20px;
+	border-radius: 15px;
 }
-.pricing-sec .period{
+
+.pricing-sec .period {
 	font-size: 15px;
 }
-.pricing-sec .card-bold-text{
+
+.pricing-sec .card-bold-text {
 	font-weight: 500;
 	margin-bottom: 10px;
 	font-size: 17px;
 	margin-top: 40px;
 }
-.pricing-sec ul{
-    padding-left: 25px;
-    margin-bottom: 75px;
-    height: 500px;
+
+.pricing-sec ul {
+	padding-left: 25px;
+	margin-bottom: 75px;
+	height: 500px;
 }
-.free-mt{
+
+.free-mt {
 	margin-top: 67px !important;
 }
+
 ul.free {
-  	margin-bottom: 165px;
+	margin-bottom: 165px;
 }
-.pricing-sec ul li{
+
+.pricing-sec ul li {
 	margin-bottom: 18px;
 	font-size: 14px;
 	font-weight: 400;
 	list-style: none;
 	margin-left: 10px;
 }
-@media (max-width: 1199px) and (min-width: 992px){
-	.starter li:last-of-type{
+
+@media (max-width: 1199px) and (min-width: 992px) {
+	.starter li:last-of-type {
 		margin-bottom: -10px;
 	}
+
 	ul.free {
-	  	margin-bottom: 175px;
-	  	margin-top: 30px;
-	 }
-} 
-.pricing-sec ul li:before{
+		margin-bottom: 175px;
+		margin-top: 30px;
+	}
+}
+
+.pricing-sec ul li:before {
 	content: ' ';
 	margin-left: -35px;
 	margin-top: 6px;
@@ -4509,33 +4991,38 @@ ul.free {
 	height: 20px;
 	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='18' viewBox='0 0 24 18' fill='none'%3E%3Cpath d='M22 2L8.25 16L2 9.63636' stroke='%2300AD80' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
 }
-.pro-users:after{
+
+.pro-users:after {
 	content: ' ';
 	margin-left: 5px;
-    margin-top: 13px;
+	margin-top: 13px;
 	position: absolute;
 	width: 17px;
 	height: 17px;
 	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='17' height='18' viewBox='0 0 17 18' fill='none'%3E%3Cpath d='M8.5 16.5C12.9183 16.5 16.5 12.9183 16.5 8.5C16.5 4.08172 12.9183 0.5 8.5 0.5C4.08172 0.5 0.5 4.08172 0.5 8.5C0.5 12.9183 4.08172 16.5 8.5 16.5Z' stroke='%233C3C43' stroke-opacity='0.7'/%3E%3Cpath d='M8.46316 6.13603C8.23583 6.13603 8.04516 6.05903 7.89116 5.90503C7.73716 5.75103 7.66016 5.56036 7.66016 5.33303C7.66016 5.1057 7.73716 4.91503 7.89116 4.76103C8.04516 4.60703 8.23583 4.53003 8.46316 4.53003C8.68316 4.53003 8.87016 4.60703 9.02416 4.76103C9.17816 4.91503 9.25516 5.1057 9.25516 5.33303C9.25516 5.56036 9.17816 5.75103 9.02416 5.90503C8.87016 6.05903 8.68316 6.13603 8.46316 6.13603ZM9.07916 6.93903V13H7.82516V6.93903H9.07916Z' fill='%233C3C43' fill-opacity='0.7'/%3E%3C/svg%3E");
 }
-.other-plan-users:after{
-   	margin-top: 4px;
-    margin-left: 5px;
+
+.other-plan-users:after {
+	margin-top: 4px;
+	margin-left: 5px;
 }
-.pro-resources:after{
-	margin-top: 2px!important;
+
+.pro-resources:after {
+	margin-top: 2px !important;
 }
+
 .pro-users {
 	position: relative;
 	cursor: pointer;
 }
+
 .pro-users .user-tooltip {
 	visibility: hidden;
 	width: 200px;
 	background-color: #353635;
 	color: #fff;
-	font-size:12px;
-	font-weight:300;
+	font-size: 12px;
+	font-weight: 300;
 	text-align: center;
 	border-radius: 6px;
 	padding: 5px 0;
@@ -4547,6 +5034,7 @@ ul.free {
 	opacity: 0;
 	transition: opacity 0.3s;
 }
+
 .pro-users .user-tooltip::after {
 	content: "";
 	position: absolute;
@@ -4557,78 +5045,97 @@ ul.free {
 	border-style: solid;
 	border-color: #353635 transparent transparent transparent;
 }
+
 .pro-users:hover .user-tooltip {
 	visibility: visible;
 	opacity: 1;
 }
-.pricing-sec .for-more{
+
+.pricing-sec .for-more {
 	background: #8b22e2;
-   	border-radius: 5px;
-   	padding: 20px;
-   	text-align: center;
-   	border: 1px solid #c9c8cc;
+	border-radius: 5px;
+	padding: 20px;
+	text-align: center;
+	border: 1px solid #c9c8cc;
 }
-.pricing-sec .for-more .for-more-title{
-  	font-weight: bold;
-   	color: #ffffff;
+
+.pricing-sec .for-more .for-more-title {
+	font-weight: bold;
+	color: #ffffff;
 }
-.pricing-sec .for-support{
+
+.pricing-sec .for-support {
 	text-decoration: underline;
-   	color: #ffffff;
+	color: #ffffff;
 }
-.pricing-sec .for-more a:focus, a:hover {
-    color: #ffffff;
-  	text-decoration: underline;
+
+.pricing-sec .for-more a:focus,
+a:hover {
+	color: #ffffff;
+	text-decoration: underline;
 }
-.pricing-sec  .comparison{
-   	font-weight: bold;
+
+.pricing-sec .comparison {
+	font-weight: bold;
 	font-size: 35px;
-   	margin: 50px 0px 30px 0px;
+	margin: 50px 0px 30px 0px;
 }
-.pricing-sec  th, td {
- 	padding: 15px 0px;
+
+.pricing-sec th,
+td {
+	padding: 15px 0px;
 	font-weight: bold;
 	font-size: 17px;
 }
-.pricing-sec  th {
-    color:#8b22e2;
+
+.pricing-sec th {
+	color: #8b22e2;
 }
-.pricing-sec .right-mark{
+
+.pricing-sec .right-mark {
 	font-size: 18px;
 }
+
 .pricing-sec .icon-check-mark::before {
 	margin: 0px;
 	font-size: 18px;
 }
-.pricing-sec .note-sec{
+
+.pricing-sec .note-sec {
 	margin: 10px 0px 10px 0px;
 	font-size: 17px;
 	color: gray;
 }
-.pricing-sec .note{
-	margin: 10px 0px 10px  0px ;
+
+.pricing-sec .note {
+	margin: 10px 0px 10px 0px;
 	font-size: 13px;
 }
-@media only screen and (max-width: 991px){
-	.pricing-header{
+
+@media only screen and (max-width: 991px) {
+	.pricing-header {
 		height: 400px;
 	}
-	.pricing-h1{
+
+	.pricing-h1 {
 		font: normal normal bold 30px/40px Samsung Sharp Sans;
 		margin: 160px 0px 20px 0px;
 	}
-	.text{
+
+	.text {
 		font-size: 20px;
 	}
-	.pricing-sec{
+
+	.pricing-sec {
 		margin-bottom: 170px;
 		margin-top: 100px;
 	}
 }
+
 /* Pricing Page-css-end*/
 
 
-.ocean { 
+.ocean {
 	width: 100%;
 	position: absolute;
 	bottom: 0;
@@ -4641,109 +5148,125 @@ ul.free {
 	top: -190px;
 	width: 6400px;
 	height: 198px;
-	animation: wavenew 7s cubic-bezier( 0.36, 0.45, 0.63, 0.53) infinite;
+	animation: wavenew 7s cubic-bezier(0.36, 0.45, 0.63, 0.53) infinite;
 	transform: translate3d(0, 0, 0);
 }
 
 .wavenew:nth-of-type(2) {
 	top: -170px;
-	animation: wavenew 7s cubic-bezier( 0.36, 0.45, 0.63, 0.53) -.125s infinite, swell 7s ease -1.25s infinite;
+	animation: wavenew 7s cubic-bezier(0.36, 0.45, 0.63, 0.53) -.125s infinite, swell 7s ease -1.25s infinite;
 	opacity: 1;
 }
-  
+
 /* Wave Animation */
 @keyframes wavenew {
 	0% {
 		margin-left: 0;
 	}
+
 	100% {
 		margin-left: -1600px;
 	}
 }
 
 @keyframes swell {
-	0%, 100% {
-		transform: translate3d(0,-25px,0);
+
+	0%,
+	100% {
+		transform: translate3d(0, -25px, 0);
 	}
+
 	50% {
-		transform: translate3d(0,5px,0);
+		transform: translate3d(0, 5px, 0);
 	}
 }
+
 /* end of wave animation */
 
 #note {
-    position: fixed;
-    z-index: +1111;
-    top: 0;
-    left: 0;
-    right: 0;
-    background: #8b22e2;
-    text-align: center;
-    line-height: 1.5;
-    overflow: hidden;
-    -webkit-box-shadow: 0 0 5px black;
-    -moz-box-shadow: 0 0 5px black;
-    box-shadow: 0 0 5px black;
-    padding: 5px 0px;
-    color: #fff;
+	position: fixed;
+	z-index: +1111;
+	top: 0;
+	left: 0;
+	right: 0;
+	background: #8b22e2;
+	text-align: center;
+	line-height: 1.5;
+	overflow: hidden;
+	-webkit-box-shadow: 0 0 5px black;
+	-moz-box-shadow: 0 0 5px black;
+	box-shadow: 0 0 5px black;
+	padding: 5px 0px;
+	color: #fff;
 }
-#note a{
-	 color: #fff;
-	 text-decoration: underline;
+
+#note a {
+	color: #fff;
+	text-decoration: underline;
 }
-.mt-20{
+
+.mt-20 {
 	margin-top: 20px;
 }
 
-@media (max-width: 430px){
+@media (max-width: 430px) {
 	.mt-20 {
-    	margin-top: 40px;
+		margin-top: 40px;
 	}
 }
+
 .playstore {
 	display: flex;
 	justify-content: start;
-    margin-bottom: 130px;
-    margin-top: 20px;
+	margin-bottom: 130px;
+	margin-top: 20px;
 }
-.playstore .G-playstore{
+
+.playstore .G-playstore {
 	width: 100%;
 	max-width: 150px;
 }
-.playstore .A-playstore{
-    margin-left: 40px!important;
-    width: 100%;
+
+.playstore .A-playstore {
+	margin-left: 40px !important;
+	width: 100%;
 	max-width: 150px;
 }
 
 .playstore .mtx-10 {
 	width: 150px;
-	margin: 10px 0px 0px 0px!important;
+	margin: 10px 0px 0px 0px !important;
 }
-.playstore-heading{
+
+.playstore-heading {
 	font-size: 18px;
-    font-weight: 500;
-    padding-top: 90px;
+	font-weight: 500;
+	padding-top: 90px;
 }
+
 .playstores {
-    display: flex;
-    justify-content: start;
-    margin-top: -42px;
+	display: flex;
+	justify-content: start;
+	margin-top: -42px;
 }
+
 @media (max-width: 768px) {
 	.playstore {
 		display: flex;
 		justify-content: center;
-	 	margin-bottom: 20px;
+		margin-bottom: 20px;
 	}
-	.playstore .G-playstore{
+
+	.playstore .G-playstore {
 		max-width: 135px;
 	}
-	.playstore .A-playstore{
-	    margin-left: 20px!important;
+
+	.playstore .A-playstore {
+		margin-left: 20px !important;
 		max-width: 135px;
 	}
-	.playstore-heading{
+
+	.playstore-heading {
 		padding-top: 20px;
 	}
 }

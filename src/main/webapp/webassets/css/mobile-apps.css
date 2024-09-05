@@ -1,64 +1,82 @@
 /* Navigation Bar */
 .navigation-container {
-    padding: 10px 40px;
-    border-radius: 0;
-    color: #fff;
-    border-color: transparent;
-    border-width: 0px;
-    max-width: 1280px;
-    margin: auto;
+	padding: 10px 40px;
+	border-radius: 0;
+	color: #fff;
+	border-color: transparent;
+	border-width: 0px;
+	max-width: 1280px;
+	margin: auto;
 }
 
 .main-container-title {
-    padding: 85px 30px 40px 30px;
-    color: #faffff;
-}
-.main-container-subtitle {
-    font-size: 25px;
-    padding: 20px 157px;
-    color: #eee;
-}
-.gradient-container{
-	background: background: -moz-linear-gradient(270deg, #534eac 0%, #a849ab 100%);background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #534eac), color-stop(100%, #a849ab));background: -webkit-linear-gradient(270deg, #534eac 0%, #a849ab 100%);background: -o-linear-gradient(270deg, #534eac 0%, #a849ab 100%);background: -ms-linear-gradient(270deg, #534eac 0%, #a849ab 100%);background: linear-gradient(180deg, #534eac 0%, #a849ab 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#534eac', endColorstr='#a849ab',GradientType=0 );
+	padding: 85px 30px 40px 30px;
+	color: #faffff;
 }
 
-.apps-icons-container{
+.main-container-subtitle {
+	font-size: 25px;
+	padding: 20px 157px;
+	color: #eee;
+}
+
+.gradient-container {
+	background: background: -moz-linear-gradient(270deg, #534eac 0%, #a849ab 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #534eac), color-stop(100%, #a849ab));
+	background: -webkit-linear-gradient(270deg, #534eac 0%, #a849ab 100%);
+	background: -o-linear-gradient(270deg, #534eac 0%, #a849ab 100%);
+	background: -ms-linear-gradient(270deg, #534eac 0%, #a849ab 100%);
+	background: linear-gradient(180deg, #534eac 0%, #a849ab 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#534eac', endColorstr='#a849ab', GradientType=0);
+}
+
+.apps-icons-container {
 	padding: 25px 275px;
 }
+
 .appsPage-body {
-    padding: 50px 35px;
+	padding: 50px 35px;
 }
+
 .appsPage-body h2 {
-    color: #674CAB;
-    font-size: 32px;
+	color: #674CAB;
+	font-size: 32px;
 }
+
 .appsPage-body p {
-    color: #555;
-    font-size: 27px;
-    line-height: 35px;
-    margin: 20px 0px;
+	color: #555;
+	font-size: 27px;
+	line-height: 35px;
+	margin: 20px 0px;
 }
-.appsPage-body .row{
+
+.appsPage-body .row {
 	margin-bottom: 100px;
 }
+
 .col-md-6.mobile-app-image img {
-    margin: 0 auto;
+	margin: 0 auto;
 }
-@media (max-width: 767px){
+
+@media (max-width: 767px) {
 	.appsPage-body {
-	    padding: 0;
+		padding: 0;
 	}
+
 	.main-container-subtitle {
-	    padding: 20px 0px;
-	    font-size: 18px;
+		padding: 20px 0px;
+		font-size: 18px;
 	}
-	.apps-icons-container{
+
+	.apps-icons-container {
 		padding: 25px 0;
 	}
+
 	.appsPage-body h2 {
-	    font-size: 26px;
+		font-size: 26px;
 	}
+
 	.appsPage-body p {
-    	font-size: 22px;
+		font-size: 22px;
 	}
 }

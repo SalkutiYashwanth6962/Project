@@ -1,86 +1,339 @@
+.icon-add {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe800;&nbsp;');
+}
 
-.icon-add { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
-.icon-arrow-down { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;'); }
-.icon-arrow-left { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;&nbsp;'); }
-.icon-arrow-right { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;&nbsp;'); }
-.icon-arrow-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe804;&nbsp;'); }
-.icon-bp-confirm-m { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe805;&nbsp;'); }
-.icon-bp-info-m { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe806;&nbsp;'); }
-.icon-calendar-a { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe807;&nbsp;'); }
-.icon-calendar-n { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe808;&nbsp;'); }
-.icon-calendar-w { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe809;&nbsp;'); }
-.icon-cancel { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80a;&nbsp;'); }
-.icon-check-mark { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80b;&nbsp;'); }
-.icon-classpacks { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80c;&nbsp;'); }
-.icon-closed-dates { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80d;&nbsp;'); }
-.icon-cloud-download { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80e;&nbsp;'); }
-.icon-course-ss { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80f;&nbsp;'); }
-.icon-customers { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe810;&nbsp;'); }
-.icon-delete { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe811;&nbsp;'); }
-.icon-download { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe812;&nbsp;'); }
-.icon-duration { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe813;&nbsp;'); }
-.icon-edit-button { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe814;&nbsp;'); }
-.icon-edit { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe815;&nbsp;'); }
-.icon-email { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe816;&nbsp;'); }
-.icon-equipment-ss { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe817;&nbsp;'); }
-.icon-events-ss { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe818;&nbsp;'); }
-.icon-exchange { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe819;&nbsp;'); }
-.icon-facebook { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81a;&nbsp;'); }
-.icon-google-plus { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81b;&nbsp;'); }
-.icon-help { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81c;&nbsp;'); }
-.icon-icloud-solid { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81d;&nbsp;'); }
-.icon-icloud { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81e;&nbsp;'); }
-.icon-instagram { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81f;&nbsp;'); }
-.icon-integrations { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe820;&nbsp;'); }
-.icon-link { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe821;&nbsp;'); }
-.icon-linkedin { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe822;&nbsp;'); }
-.icon-location-m { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe823;&nbsp;'); }
-.icon-locations { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe824;&nbsp;'); }
-.icon-membership-ss { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe825;&nbsp;'); }
-.icon-migrate { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe826;&nbsp;'); }
-.icon-navigation { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe827;&nbsp;'); }
-.icon-notification-original { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe828;&nbsp;'); }
-.icon-notification { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe829;&nbsp;'); }
-.icon-online-booking { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82a;&nbsp;'); }
-.icon-online-booking-link { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82b;&nbsp;'); }
-.icon-online-booking-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82c;&nbsp;'); }
-.icon-outlook { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82d;&nbsp;'); }
-.icon-overview { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82e;&nbsp;'); }
-.icon-pinterest { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82f;&nbsp;'); }
-.icon-print { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe830;&nbsp;'); }
-.icon-private { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe831;&nbsp;'); }
-.icon-quote-left { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe832;&nbsp;'); }
-.icon-quote-right { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe833;&nbsp;'); }
-.icon-rating { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe834;&nbsp;'); }
-.icon-recurring { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe835;&nbsp;'); }
-.icon-refresh { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe836;&nbsp;'); }
-.icon-reorder-option { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe837;&nbsp;'); }
-.icon-report { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe838;&nbsp;'); }
-.icon-requested { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe839;&nbsp;'); }
-.icon-resources-ss { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83a;&nbsp;'); }
-.icon-sales { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83b;&nbsp;'); }
-.icon-service-a { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83c;&nbsp;'); }
-.icon-service-setup { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83d;&nbsp;'); }
-.icon-service { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83e;&nbsp;'); }
-.icon-session-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe83f;&nbsp;'); }
-.icon-session { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe840;&nbsp;'); }
-.icon-settings-a { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe841;&nbsp;'); }
-.icon-settings { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe842;&nbsp;'); }
-.icon-staff-name { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe843;&nbsp;'); }
-.icon-staff { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe844;&nbsp;'); }
-.icon-team { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe845;&nbsp;'); }
-.icon-time { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe846;&nbsp;'); }
-.icon-twitter { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe847;&nbsp;'); }
-.icon-view { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe848;&nbsp;'); }
-.icon-web-advertising { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe849;&nbsp;'); }
-.icon-web-analytics { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84a;&nbsp;'); }
-.icon-web-arrow-left { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84b;&nbsp;'); }
-.icon-web-arrow-right { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84c;&nbsp;'); }
-.icon-web-credit-card { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84d;&nbsp;'); }
-.icon-web-document { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84e;&nbsp;'); }
-.icon-web-facebook { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe84f;&nbsp;'); }
-.icon-web-mail { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe850;&nbsp;'); }
-.icon-web-speech-bubble { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe851;&nbsp;'); }
-.icon-web-user { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe852;&nbsp;'); }
-.icon-web-youtube { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe853;&nbsp;'); }
-.icon-website { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe854;&nbsp;'); }
+.icon-arrow-down {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe801;&nbsp;');
+}
+
+.icon-arrow-left {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe802;&nbsp;');
+}
+
+.icon-arrow-right {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe803;&nbsp;');
+}
+
+.icon-arrow-up {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe804;&nbsp;');
+}
+
+.icon-bp-confirm-m {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe805;&nbsp;');
+}
+
+.icon-bp-info-m {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe806;&nbsp;');
+}
+
+.icon-calendar-a {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe807;&nbsp;');
+}
+
+.icon-calendar-n {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe808;&nbsp;');
+}
+
+.icon-calendar-w {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe809;&nbsp;');
+}
+
+.icon-cancel {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe80a;&nbsp;');
+}
+
+.icon-check-mark {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe80b;&nbsp;');
+}
+
+.icon-classpacks {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe80c;&nbsp;');
+}
+
+.icon-closed-dates {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe80d;&nbsp;');
+}
+
+.icon-cloud-download {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe80e;&nbsp;');
+}
+
+.icon-course-ss {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe80f;&nbsp;');
+}
+
+.icon-customers {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe810;&nbsp;');
+}
+
+.icon-delete {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe811;&nbsp;');
+}
+
+.icon-download {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe812;&nbsp;');
+}
+
+.icon-duration {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe813;&nbsp;');
+}
+
+.icon-edit-button {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe814;&nbsp;');
+}
+
+.icon-edit {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe815;&nbsp;');
+}
+
+.icon-email {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe816;&nbsp;');
+}
+
+.icon-equipment-ss {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe817;&nbsp;');
+}
+
+.icon-events-ss {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe818;&nbsp;');
+}
+
+.icon-exchange {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe819;&nbsp;');
+}
+
+.icon-facebook {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe81a;&nbsp;');
+}
+
+.icon-google-plus {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe81b;&nbsp;');
+}
+
+.icon-help {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe81c;&nbsp;');
+}
+
+.icon-icloud-solid {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe81d;&nbsp;');
+}
+
+.icon-icloud {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe81e;&nbsp;');
+}
+
+.icon-instagram {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe81f;&nbsp;');
+}
+
+.icon-integrations {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe820;&nbsp;');
+}
+
+.icon-link {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe821;&nbsp;');
+}
+
+.icon-linkedin {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe822;&nbsp;');
+}
+
+.icon-location-m {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe823;&nbsp;');
+}
+
+.icon-locations {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe824;&nbsp;');
+}
+
+.icon-membership-ss {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe825;&nbsp;');
+}
+
+.icon-migrate {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe826;&nbsp;');
+}
+
+.icon-navigation {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe827;&nbsp;');
+}
+
+.icon-notification-original {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe828;&nbsp;');
+}
+
+.icon-notification {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe829;&nbsp;');
+}
+
+.icon-online-booking {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe82a;&nbsp;');
+}
+
+.icon-online-booking-link {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe82b;&nbsp;');
+}
+
+.icon-online-booking-1 {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe82c;&nbsp;');
+}
+
+.icon-outlook {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe82d;&nbsp;');
+}
+
+.icon-overview {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe82e;&nbsp;');
+}
+
+.icon-pinterest {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe82f;&nbsp;');
+}
+
+.icon-print {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe830;&nbsp;');
+}
+
+.icon-private {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe831;&nbsp;');
+}
+
+.icon-quote-left {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe832;&nbsp;');
+}
+
+.icon-quote-right {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe833;&nbsp;');
+}
+
+.icon-rating {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe834;&nbsp;');
+}
+
+.icon-recurring {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe835;&nbsp;');
+}
+
+.icon-refresh {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe836;&nbsp;');
+}
+
+.icon-reorder-option {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe837;&nbsp;');
+}
+
+.icon-report {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe838;&nbsp;');
+}
+
+.icon-requested {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe839;&nbsp;');
+}
+
+.icon-resources-ss {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe83a;&nbsp;');
+}
+
+.icon-sales {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe83b;&nbsp;');
+}
+
+.icon-service-a {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe83c;&nbsp;');
+}
+
+.icon-service-setup {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe83d;&nbsp;');
+}
+
+.icon-service {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe83e;&nbsp;');
+}
+
+.icon-session-1 {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe83f;&nbsp;');
+}
+
+.icon-session {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe840;&nbsp;');
+}
+
+.icon-settings-a {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe841;&nbsp;');
+}
+
+.icon-settings {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe842;&nbsp;');
+}
+
+.icon-staff-name {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe843;&nbsp;');
+}
+
+.icon-staff {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe844;&nbsp;');
+}
+
+.icon-team {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe845;&nbsp;');
+}
+
+.icon-time {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe846;&nbsp;');
+}
+
+.icon-twitter {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe847;&nbsp;');
+}
+
+.icon-view {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe848;&nbsp;');
+}
+
+.icon-web-advertising {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe849;&nbsp;');
+}
+
+.icon-web-analytics {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe84a;&nbsp;');
+}
+
+.icon-web-arrow-left {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe84b;&nbsp;');
+}
+
+.icon-web-arrow-right {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe84c;&nbsp;');
+}
+
+.icon-web-credit-card {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe84d;&nbsp;');
+}
+
+.icon-web-document {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe84e;&nbsp;');
+}
+
+.icon-web-facebook {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe84f;&nbsp;');
+}
+
+.icon-web-mail {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe850;&nbsp;');
+}
+
+.icon-web-speech-bubble {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe851;&nbsp;');
+}
+
+.icon-web-user {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe852;&nbsp;');
+}
+
+.icon-web-youtube {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe853;&nbsp;');
+}
+
+.icon-website {
+	*zoom: expression(this.runtimeStyle['zoom']='1', this.innerHTML='&#xe854;&nbsp;');
+}
